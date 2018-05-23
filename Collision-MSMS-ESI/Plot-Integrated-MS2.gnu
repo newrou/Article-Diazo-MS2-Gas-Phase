@@ -1,0 +1,1 @@
+/home/alex/MS-2017/export/Diazo-2017/Collision-MSMS-ESI/Script-MS2/Plot-Integrated-MS2.gnu

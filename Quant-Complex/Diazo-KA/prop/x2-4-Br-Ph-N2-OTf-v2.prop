@@ -1,0 +1,8 @@
+Group N11-N10-C1 Distance C-N=1.3790 Distance N-N=1.1170 Angle=174.93
+Ring C1-C0-C5-C4-C3-C2 SumAnges=720.00(100.00%) SumDistance=0.0035
+Group N31-N30-C22 Distance C-N=1.3745 Distance N-N=1.1137 Angle=179.71
+Ring C22-C21-C23-C25-C27-C24 SumAnges=720.00(100.00%) SumDistance=0.0053
+Ring C4-C3-C2-C1-C0-C5 SumAnges=720.00(100.00%) SumDistance=0.0035
+Ring C25-C23-C21-C22-C24-C27 SumAnges=720.00(100.00%) SumDistance=0.0053
+LUMO=-0.23946
+HOMO=-0.35178
