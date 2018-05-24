@@ -1,0 +1,391 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Gnuplot Canvas Graph</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<!--[if IE]><script type="text/javascript" src="excanvas.js"></script><![endif]-->
+<script src="js/canvastext.js"></script>
+<script src="js/gnuplot_common.js"></script>
+<script src="js/gnuplot_dashedlines.js"></script>
+<script src="js/gnuplot_mouse.js"></script>
+<script type="text/javascript"> gnuplot.help_URL = "js//canvas_help.html"; </script>
+<script type="text/javascript">
+var canvas, ctx;
+gnuplot.grid_lines = true;
+gnuplot.zoomed = false;
+gnuplot.active_plot_name = "gnuplot_canvas";
+
+function gnuplot_canvas() {
+canvas = document.getElementById("gnuplot_canvas");
+ctx = canvas.getContext("2d");
+// Gnuplot version 5.0.5
+// short forms of commands provided by gnuplot_common.js
+function DT  (dt)  {gnuplot.dashtype(dt);};
+function DS  (x,y) {gnuplot.dashstart(x,y);};
+function DL  (x,y) {gnuplot.dashstep(x,y);};
+function M   (x,y) {if (gnuplot.pattern.length > 0) DS(x,y); else gnuplot.M(x,y);};
+function L   (x,y) {if (gnuplot.pattern.length > 0) DL(x,y); else gnuplot.L(x,y);};
+function Dot (x,y) {gnuplot.Dot(x/10.,y/10.);};
+function Pt  (N,x,y,w) {gnuplot.Pt(N,x/10.,y/10.,w/10.);};
+function R   (x,y,w,h) {gnuplot.R(x,y,w,h);};
+function T   (x,y,fontsize,justify,string) {gnuplot.T(x,y,fontsize,justify,string);};
+function TR  (x,y,angle,fontsize,justify,string) {gnuplot.TR(x,y,angle,fontsize,justify,string);};
+function bp  (x,y) {gnuplot.bp(x,y);};
+function cfp () {gnuplot.cfp();};
+function cfsp() {gnuplot.cfsp();};
+
+gnuplot.hypertext_list = [];
+gnuplot.on_hypertext = -1;
+function Hypertext(x,y,w,text) {
+    newtext = {x:x, y:y, w:w, text:text};
+    gnuplot.hypertext_list.push(newtext);
+}
+gnuplot.dashlength = 400;
+ctx.lineCap = "round"; ctx.lineJoin = "round";
+CanvasTextFunctions.enable(ctx);
+ctx.strokeStyle = "rgb(215,215,215)";
+ctx.lineWidth = 2;
+
+ctx.lineWidth = 1.6;
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.beginPath();
+M(2772,7680);
+L(2872,7680);
+M(9607,7680);
+L(9507,7680);
+ctx.stroke();
+ctx.closePath();
+ctx.fillStyle = "rgb(000,000,000)";
+T(2692,7730,10.0,"Right","-1.2");
+ctx.beginPath();
+M(2772,6427);
+L(2872,6427);
+M(9607,6427);
+L(9507,6427);
+ctx.stroke();
+ctx.closePath();
+T(2692,6477,10.0,"Right","-1");
+ctx.beginPath();
+M(2772,5174);
+L(2872,5174);
+M(9607,5174);
+L(9507,5174);
+ctx.stroke();
+ctx.closePath();
+T(2692,5224,10.0,"Right","-0.8");
+ctx.beginPath();
+M(2772,3921);
+L(2872,3921);
+M(9607,3921);
+L(9507,3921);
+ctx.stroke();
+ctx.closePath();
+T(2692,3971,10.0,"Right","-0.6");
+ctx.beginPath();
+M(2772,2667);
+L(2872,2667);
+M(9607,2667);
+L(9507,2667);
+ctx.stroke();
+ctx.closePath();
+T(2692,2717,10.0,"Right","-0.4");
+ctx.beginPath();
+M(2772,1414);
+L(2872,1414);
+M(9607,1414);
+L(9507,1414);
+ctx.stroke();
+ctx.closePath();
+T(2692,1464,10.0,"Right","-0.2");
+ctx.beginPath();
+M(2772,161);
+L(2872,161);
+M(9607,161);
+L(9507,161);
+ctx.stroke();
+ctx.closePath();
+T(2692,211,10.0,"Right"," 0");
+ctx.beginPath();
+M(2772,7680);
+L(2772,7580);
+M(2772,161);
+L(2772,261);
+ctx.stroke();
+ctx.closePath();
+T(2772,7830,10.0,"Center","-98");
+ctx.beginPath();
+M(3626,7680);
+L(3626,7580);
+M(3626,161);
+L(3626,261);
+ctx.stroke();
+ctx.closePath();
+T(3626,7830,10.0,"Center","-96");
+ctx.beginPath();
+M(4481,7680);
+L(4481,7580);
+M(4481,161);
+L(4481,261);
+ctx.stroke();
+ctx.closePath();
+T(4481,7830,10.0,"Center","-94");
+ctx.beginPath();
+M(5335,7680);
+L(5335,7580);
+M(5335,161);
+L(5335,261);
+ctx.stroke();
+ctx.closePath();
+T(5335,7830,10.0,"Center","-92");
+ctx.beginPath();
+M(6190,7680);
+L(6190,7580);
+M(6190,161);
+L(6190,261);
+ctx.stroke();
+ctx.closePath();
+T(6190,7830,10.0,"Center","-90");
+ctx.beginPath();
+M(7044,7680);
+L(7044,7580);
+M(7044,161);
+L(7044,261);
+ctx.stroke();
+ctx.closePath();
+T(7044,7830,10.0,"Center","-88");
+ctx.beginPath();
+M(7898,7680);
+L(7898,7580);
+M(7898,161);
+L(7898,261);
+ctx.stroke();
+ctx.closePath();
+T(7898,7830,10.0,"Center","-86");
+ctx.beginPath();
+M(8753,7680);
+L(8753,7580);
+M(8753,161);
+L(8753,261);
+ctx.stroke();
+ctx.closePath();
+T(8753,7830,10.0,"Center","-84");
+ctx.beginPath();
+M(9607,7680);
+L(9607,7580);
+M(9607,161);
+L(9607,261);
+ctx.stroke();
+ctx.closePath();
+T(9607,7830,10.0,"Center","-82");
+ctx.beginPath();
+M(2772,161);
+L(2772,7680);
+L(9607,7680);
+L(9607,161);
+L(2772,161);
+ctx.closePath();
+ctx.stroke();
+TR(2242,3971,270,14.0,"Center","log(Ratio)");
+T(6189,7980,14.0,"Center","dG, kJ/mol");
+if (typeof(gnuplot.hide_gp_plot_1) == "undefined"|| !gnuplot.hide_gp_plot_1) {
+T(8947,374,10.0,"Right","v1");
+ctx.strokeStyle = "rgb(255,000,051)";
+ctx.fillStyle = "rgb(255,000,051)";
+Pt(4,3455,616,60.0);
+Hypertext(3455,616,60.0,"Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(255,000,051)";
+Pt(4,5591,2307,60.0);
+Hypertext(5591,2307,60.0,"2-NO2-Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(255,000,051)";
+Pt(4,6958,2765,60.0);
+Hypertext(6958,2765,60.0,"3-NO2-Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(255,000,051)";
+Pt(4,7514,3467,60.0);
+Hypertext(7514,3467,60.0,"4-NO2-Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(255,000,051)";
+Pt(4,7984,3683,60.0);
+Hypertext(7984,3683,60.0,"4-CH3O-Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(255,000,051)";
+Pt(4,6360,4258,60.0);
+Hypertext(6360,4258,60.0,"4-NO2-Ph-N2-OTs");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(255,000,051)";
+Pt(4,4609,7301,60.0);
+Hypertext(4609,7301,60.0,"4-NO2-Ph-N2-BF4");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(255,000,051)";
+Pt(4,8753,5748,60.0);
+Hypertext(8753,5748,60.0,"4-HOOC-Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+} // End gp_plot_1 
+if (typeof(gnuplot.hide_gp_plot_2) == "undefined"|| !gnuplot.hide_gp_plot_2) {
+ctx.lineWidth = 1.6;
+ctx.strokeStyle = "rgb(000,000,000)";
+DT(gnuplot.solid);
+ctx.fillStyle = "rgb(000,000,000)";
+T(8947,499,10.0,"Right","v2");
+ctx.strokeStyle = "rgb(000,051,255)";
+ctx.fillStyle = "rgb(000,051,255)";
+Pt(4,4267,616,60.0);
+Hypertext(4267,616,60.0,"Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(000,051,255)";
+Pt(4,7599,2307,60.0);
+Hypertext(7599,2307,60.0,"2-NO2-Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(000,051,255)";
+Pt(4,8753,2765,60.0);
+Hypertext(8753,2765,60.0,"3-NO2-Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(000,051,255)";
+Pt(4,8838,3467,60.0);
+Hypertext(8838,3467,60.0,"4-NO2-Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(000,051,255)";
+Pt(4,8155,3683,60.0);
+Hypertext(8155,3683,60.0,"4-CH3O-Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(000,051,255)";
+Pt(4,6531,4258,60.0);
+Hypertext(6531,4258,60.0,"4-NO2-Ph-N2-OTs");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(000,051,255)";
+Pt(4,3114,7301,60.0);
+Hypertext(3114,7301,60.0,"4-NO2-Ph-N2-BF4");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(000,051,255)";
+Pt(4,7685,5748,60.0);
+Hypertext(7685,5748,60.0,"4-HOOC-Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+} // End gp_plot_2 
+if (typeof(gnuplot.hide_gp_plot_3) == "undefined"|| !gnuplot.hide_gp_plot_3) {
+ctx.lineWidth = 1.6;
+ctx.strokeStyle = "rgb(000,000,000)";
+DT(gnuplot.solid);
+ctx.fillStyle = "rgb(000,000,000)";
+T(8947,624,10.0,"Right","(v1+v2)/2");
+ctx.strokeStyle = "rgb(051,153,204)";
+ctx.fillStyle = "rgb(051,153,204)";
+Pt(4,3861,616,60.0);
+Hypertext(3861,616,60.0,"Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(051,153,204)";
+Pt(4,6595,2307,60.0);
+Hypertext(6595,2307,60.0,"2-NO2-Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(051,153,204)";
+Pt(4,7856,2765,60.0);
+Hypertext(7856,2765,60.0,"3-NO2-Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(051,153,204)";
+Pt(4,8176,3467,60.0);
+Hypertext(8176,3467,60.0,"4-NO2-Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(051,153,204)";
+Pt(4,8069,3683,60.0);
+Hypertext(8069,3683,60.0,"4-CH3O-Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(051,153,204)";
+Pt(4,6446,4258,60.0);
+Hypertext(6446,4258,60.0,"4-NO2-Ph-N2-OTs");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(051,153,204)";
+Pt(4,3861,7301,60.0);
+Hypertext(3861,7301,60.0,"4-NO2-Ph-N2-BF4");
+ctx.strokeStyle = "rgb(000,000,000)";
+ctx.strokeStyle = "rgb(051,153,204)";
+Pt(4,8219,5748,60.0);
+Hypertext(8219,5748,60.0,"4-HOOC-Ph-N2-OTf");
+ctx.strokeStyle = "rgb(000,000,000)";
+} // End gp_plot_3 
+ctx.lineWidth = 3.2;
+ctx.strokeStyle = "rgb(000,000,000)";
+DT(gnuplot.solid);
+ctx.lineWidth = 1.6;
+ctx.beginPath();
+M(2772,161);
+L(2772,7680);
+L(9607,7680);
+L(9607,161);
+L(2772,161);
+ctx.closePath();
+ctx.stroke();
+
+// plot boundaries and axis scaling information for mousing 
+gnuplot.plot_term_xmax = 1200;
+gnuplot.plot_term_ymax = 800;
+gnuplot.plot_xmin = 277.2;
+gnuplot.plot_xmax = 960.7;
+gnuplot.plot_ybot = 768.0;
+gnuplot.plot_ytop = 16.1;
+gnuplot.plot_width = 683.5;
+gnuplot.plot_height = 751.9;
+gnuplot.plot_axis_xmin = -98;
+gnuplot.plot_axis_xmax = -82;
+gnuplot.plot_axis_ymin = -1.2;
+gnuplot.plot_axis_ymax = -0;
+gnuplot.plot_axis_x2min = "none"
+gnuplot.plot_axis_y2min = "none"
+gnuplot.plot_logaxis_x = 0;
+gnuplot.plot_logaxis_y = 0;
+gnuplot.plot_axis_width = gnuplot.plot_axis_xmax - gnuplot.plot_axis_xmin;
+gnuplot.plot_axis_height = gnuplot.plot_axis_ymax - gnuplot.plot_axis_ymin;
+gnuplot.plot_timeaxis_x = "";
+gnuplot.plot_timeaxis_y = "";
+}
+</script>
+<link type="text/css" href="js/gnuplot_mouse.css" rel="stylesheet">
+</head>
+<body onload="gnuplot_canvas(); gnuplot.init();" oncontextmenu="return false;">
+
+<div class="gnuplot">
+<canvas id="Tile" width="32" height="32" hidden></canvas>
+<table class="mbleft"><tr><td class="mousebox">
+<table class="mousebox" border=0>
+  <tr><td class="mousebox">
+    <table class="mousebox" id="gnuplot_mousebox" border=0>
+    <tr><td class="mbh"></td></tr>
+    <tr><td class="mbh">
+      <table class="mousebox">
+	<tr>
+	  <td class="icon"></td>
+	  <td class="icon" onclick=gnuplot.toggle_grid><img src="js/grid.png" id="gnuplot_grid_icon" class="icon-image" alt="#" title="toggle grid"></td>
+	  <td class="icon" onclick=gnuplot.unzoom><img src="js/previouszoom.png" id="gnuplot_unzoom_icon" class="icon-image" alt="unzoom" title="unzoom"></td>
+	  <td class="icon" onclick=gnuplot.rezoom><img src="js/nextzoom.png" id="gnuplot_rezoom_icon" class="icon-image" alt="rezoom" title="rezoom"></td>
+	  <td class="icon" onclick=gnuplot.toggle_zoom_text><img src="js/textzoom.png" id="gnuplot_textzoom_icon" class="icon-image" alt="zoom text" title="zoom text with plot"></td>
+	  <td class="icon" onclick=gnuplot.popup_help()><img src="js/help.png" id="gnuplot_help_icon" class="icon-image" alt="?" title="help"></td>
+	</tr>
+	<tr>
+	  <td class="icon" onclick=gnuplot.toggle_plot("gp_plot_1")>1</td>
+	  <td class="icon" onclick=gnuplot.toggle_plot("gp_plot_2")>2</td>
+	  <td class="icon" onclick=gnuplot.toggle_plot("gp_plot_3")>3</td>
+	  <td class="icon" > </td>
+	  <td class="icon" > </td>
+	  <td class="icon" > </td>
+	</tr>
+      </table>
+  </td></tr>
+</table></td></tr><tr><td class="mousebox">
+<table class="mousebox" id="gnuplot_mousebox" border=1>
+<tr> <td class="mb0">x&nbsp;</td> <td class="mb1"><span id="gnuplot_canvas_x">&nbsp;</span></td> </tr>
+<tr> <td class="mb0">y&nbsp;</td> <td class="mb1"><span id="gnuplot_canvas_y">&nbsp;</span></td> </tr>
+</table></td></tr>
+</table>
+</td><td>
+<table class="plot">
+<tr><td>
+    <canvas id="gnuplot_canvas" width="1200" height="800" tabindex="0">
+	Sorry, your browser seems not to support the HTML 5 canvas element
+    </canvas>
+</td></tr>
+</table>
+</td></tr></table>
+</div>
+
+</body>
+</html>
