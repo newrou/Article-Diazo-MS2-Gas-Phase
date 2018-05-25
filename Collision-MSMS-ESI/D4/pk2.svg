@@ -147,7 +147,7 @@
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="3.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='black'  d='M1061.9,60.1 L1160.9,60.1 M168.9,734.0 L170.6,734.0 L188.1,734.0 L362.8,734.0 L556.8,734.0 L944.9,734.0
+	<path stroke='black'  d='M1061.9,60.1 L1160.9,60.1 M168.9,734.0 L170.6,734.0 L188.1,503.4 L362.8,734.0 L556.8,734.0 L944.9,734.0
 		 '/></g>
 	</g>
 	<g id="gnuplot_plot_2" ><title>150</title>

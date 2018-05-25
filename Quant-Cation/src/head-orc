@@ -1,0 +1,4 @@
+! B3LYP/G aug-cc-pVDZ Opt NumFreq
+%geom MaxIter 1000 end
+%scf MaxIter 500 end
+%freq Temp 298.15, 323.15, 373.15, 423.15, 473.15, 523.15, 573.15, 623.15, 673.15 end

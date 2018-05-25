@@ -22,7 +22,8 @@ set ylabel "Ratio" font "Helvetica-Bold,14"
 set output "Quant-MS2-correlation.html"
 plot "Quant-MS2.csv" using 5:4:1 with labels hypertext point linestyle 2 ti "v1", \
  "Quant-MS2.csv" using 6:4:1 with labels hypertext point linestyle 3 ti "v2", \
- "Quant-MS2.csv" using (($5+$6)/2):4:1 with labels hypertext point linestyle 4 ti "(v1+v2)/2"
+ "Quant-MS2.csv" using (($5+$6)/2):4:1 with labels hypertext point linestyle 4 ti "(v1+v2)/2", \
+ "Quant-MS2.csv" using 7:4:1 with labels hypertext point linestyle 5 ti "K-A"
 
 unset label
 set xlabel "dG, kJ/mol" font "Helvetica-Bold,14"
@@ -30,7 +31,8 @@ set ylabel "log(Ratio)" font "Helvetica-Bold,14"
 set output "Quant-MS2-correlation-log.html"
 plot "Quant-MS2.csv" using 5:(log($4)):1 with labels hypertext point linestyle 2 ti "v1", \
  "Quant-MS2.csv" using 6:(log($4)):1 with labels hypertext point linestyle 3 ti "v2", \
- "Quant-MS2.csv" using (($5+$6)/2):(log($4)):1 with labels hypertext point linestyle 4 ti "(v1+v2)/2"
+ "Quant-MS2.csv" using (($5+$6)/2):(log($4)):1 with labels hypertext point linestyle 4 ti "(v1+v2)/2", \
+ "Quant-MS2.csv" using 7:(log($4)):1 with labels hypertext point linestyle 5 ti "K-A"
 
 unset label
 set xlabel "dG/RT" font "Helvetica-Bold,14"
@@ -38,6 +40,7 @@ set ylabel "-log(Ratio)" font "Helvetica-Bold,14"
 set output "Quant-MS2-correlation-log2.html"
 plot "Quant-MS2.csv" using (-$5/4762.88):(log($4)):1 with labels hypertext point linestyle 2 ti "v1", \
  "Quant-MS2.csv" using (-$6/4762.88):(log($4)):1 with labels hypertext point linestyle 3 ti "v2", \
- "Quant-MS2.csv" using (-(($5+$6)/2)/4762.88):(log($4)):1 with labels hypertext point linestyle 4 ti "(v1+v2)/2"
+ "Quant-MS2.csv" using (-(($5+$6)/2)/4762.88):(log($4)):1 with labels hypertext point linestyle 4 ti "(v1+v2)/2", \
+ "Quant-MS2.csv" using (-$7/4762.88):(log($4)):1 with labels hypertext point linestyle 5 ti "K-A"
 
 quit
