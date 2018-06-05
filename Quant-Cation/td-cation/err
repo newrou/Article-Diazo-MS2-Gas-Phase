@@ -1,0 +1,243 @@
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/2-NO2-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-NO2-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/2-NO2-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-NO2-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/2-NO2-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-NO2-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/2-NO2-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-NO2-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/3-NO2-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/3-NO2-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/3-NO2-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/3-NO2-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/3-NO2-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/3-NO2-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/3-NO2-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/3-NO2-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-NO2-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-NO2-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-NO2-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-NO2-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-NO2-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-NO2-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-NO2-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-NO2-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-CH3O-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-CH3O-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-CH3O-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-CH3O-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-CH3O-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-CH3O-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-CH3O-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-CH3O-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/2-HOOC-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-HOOC-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/2-HOOC-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-HOOC-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/2-HOOC-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-HOOC-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/2-HOOC-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-HOOC-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-HOOC-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-HOOC-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-HOOC-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-HOOC-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-HOOC-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-HOOC-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-HOOC-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-HOOC-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-Br-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-Br-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-Br-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-Br-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-Br-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-Br-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-Br-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-Br-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/2-HOOC-4-Br-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-HOOC-4-Br-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/2-HOOC-4-Br-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-HOOC-4-Br-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/2-HOOC-4-Br-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-HOOC-4-Br-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/2-HOOC-4-Br-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-HOOC-4-Br-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/2-NO2-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/2-NO2-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-NO2-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-NO2-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/3-NO2-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/3-NO2-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/3-NO2-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/3-NO2-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-NO2-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/4-NO2-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-NO2-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-NO2-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-CH3O-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/4-CH3O-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-CH3O-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-CH3O-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/2-HOOC-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/2-HOOC-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-HOOC-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-HOOC-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-HOOC-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/4-HOOC-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-HOOC-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-HOOC-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/4-Br-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/4-Br-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-Br-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/4-Br-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]
+PHP Warning:  fopen(td/2-HOOC-4-Br-Ph-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/2-HOOC-4-Br-Ph-N2-UDoublet.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 62
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-HOOC-4-Br-Ph-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+PHP Notice:  Undefined index: 298.15 in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 190
+PHP Warning:  file_get_contents(prop/2-HOOC-4-Br-Ph-N2-UDoublet.prop): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Quant-Cation/td-cation/reaction-td-gaussian.php on line 195
+Warning: empty x range [298.15:298.15], adjusting to [295.168:301.131]

@@ -1,0 +1,13 @@
+%chk=N2-RB3LYP-aug-cc-pVDZ-Singlet.chk
+%mem=400MW
+%nproc=2
+#p Temperature=298.15 opt freq RB3LYP/aug-cc-pVDZ
+
+N2-RB3LYP-aug-cc-pVDZ-Singlet
+
+0 1
+N          -1.21660         0.13350         0.00000
+N          -2.30860         0.13350         0.00000
+
+
+nprocshared=2

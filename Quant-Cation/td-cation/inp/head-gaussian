@@ -1,0 +1,4 @@
+%mem=400MW
+%nproc=7
+#p Temperature=298.15 opt=(maxcycles=1024) SCF=(maxcycles=1024) freq METHOD/BASIS
+
