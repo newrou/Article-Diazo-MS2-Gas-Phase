@@ -1,0 +1,11 @@
+﻿Спектры:
+All-D10 
+All-D11 
+All-D1 
+All-D2 
+All-D3 
+All-D4 
+All-D5 
+All-D6 
+All-D7 
+All-D8 
