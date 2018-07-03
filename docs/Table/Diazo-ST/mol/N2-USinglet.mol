@@ -1,0 +1,8 @@
+N2-UB3LYP-aug-cc-pVDZ-Singlet.log
+ OpenBabel05291812263D
+Gaussian home/alex/g09/g09 #p Temperature=298.15 opt freq UB3LYP/aug-cc-pVDZ
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.5522 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000   -0.5522 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  3  0  0  0  0
+M  END
