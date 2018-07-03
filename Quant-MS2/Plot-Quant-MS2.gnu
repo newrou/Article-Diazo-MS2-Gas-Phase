@@ -41,15 +41,15 @@ plot "Quant-MS2-OTf.csv" using 5:4:1 with labels hypertext point linestyle 2 ti 
 
 f(x) = a*x + b
 FIT_LIMIT = 1e-6
-fit f(x) "Quant-MS2-OTf.csv" using 5:4 via a, b
+fit f(x) "Quant-MS2-OTf.csv" using (-$5):4 via a, b
 
 unset label
-set xrange [-100:-80]
+set xrange [80:100]
 set yrange [0.3:1]
 set xlabel "dG, kJ/mol" font "Helvetica-Bold,14"
 set ylabel "Ratio   Int(0Ev) / Int(1Ev)" font "Helvetica-Bold,14"
 set output "Quant-MS2-correlation-OTf-v1.html"
-plot "Quant-MS2-OTf.csv" using 5:4:1 with labels hypertext point linestyle 2 ti "v1", \
+plot "Quant-MS2-OTf.csv" using (-$5):4:1 with labels hypertext point linestyle 2 ti "v1", \
      f(x) with lines linestyle 3
 
 
