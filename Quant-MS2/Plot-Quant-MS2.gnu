@@ -27,6 +27,35 @@ plot "Quant-MS2.csv" using 5:4:1 with labels hypertext point linestyle 2 ti "v1"
 
 unset label
 set xlabel "dG, kJ/mol" font "Helvetica-Bold,14"
+set ylabel "Ratio" font "Helvetica-Bold,14"
+set output "Quant-MS2-correlation-v1.html"
+plot "Quant-MS2.csv" using 5:4:1 with labels hypertext point linestyle 2 ti "v1"
+
+unset label
+set xlabel "dG, kJ/mol" font "Helvetica-Bold,14"
+set ylabel "Ratio" font "Helvetica-Bold,14"
+set output "Quant-MS2-correlation-OTf.html"
+plot "Quant-MS2-OTf.csv" using 5:4:1 with labels hypertext point linestyle 2 ti "v1", \
+ "Quant-MS2-OTf.csv" using 6:4:1 with labels hypertext point linestyle 3 ti "v2", \
+ "Quant-MS2-OTf.csv" using (($5+$6)/2):4:1 with labels hypertext point linestyle 4 ti "(v1+v2)/2", \
+
+f(x) = a*x + b
+FIT_LIMIT = 1e-6
+fit f(x) "Quant-MS2-OTf.csv" using 5:4 via a, b
+
+unset label
+set xrange [-100:-80]
+set yrange [0.3:1]
+set xlabel "dG, kJ/mol" font "Helvetica-Bold,14"
+set ylabel "Ratio   Int(0Ev) / Int(1Ev)" font "Helvetica-Bold,14"
+set output "Quant-MS2-correlation-OTf-v1.html"
+plot "Quant-MS2-OTf.csv" using 5:4:1 with labels hypertext point linestyle 2 ti "v1", \
+     f(x) with lines linestyle 3
+
+
+
+unset label
+set xlabel "dG, kJ/mol" font "Helvetica-Bold,14"
 set ylabel "log(Ratio)" font "Helvetica-Bold,14"
 set output "Quant-MS2-correlation-log.html"
 plot "Quant-MS2.csv" using 5:(log($4)):1 with labels hypertext point linestyle 2 ti "v1", \
