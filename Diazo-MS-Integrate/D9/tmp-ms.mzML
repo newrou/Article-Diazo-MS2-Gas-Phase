@@ -86,7 +86,7 @@
 			</processingMethod>
 			<processingMethod order="0" softwareRef="so_dp_sp_0_pm_2">
 				<cvParam cvRef="MS" accession="MS:1001486" name="data filtering" />
-				<cvParam cvRef="MS" accession="MS:1000747" name="completion time" value="2018-07-10+15:17" />
+				<cvParam cvRef="MS" accession="MS:1000747" name="completion time" value="2018-07-12+15:31" />
 				<userParam name="parameter: in" type="xsd:string" value="tmp-ms.mzML"/>
 				<userParam name="parameter: in_type" type="xsd:string" value=""/>
 				<userParam name="parameter: out" type="xsd:string" value="tmp-ms.mzML"/>

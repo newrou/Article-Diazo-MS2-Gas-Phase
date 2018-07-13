@@ -14,7 +14,7 @@ do
 #  gnuplot Plot-Integrated-MS.gnu
 #  mv tmp-ms.dat $name.dat
 #  mv tmp-ms.svg $name.svg
-##  rm tmp-ms.mzML
+  rm tmp-ms.mzML
 done
 
 echo "#SEC	MZ	INT" > All-$dname.dta

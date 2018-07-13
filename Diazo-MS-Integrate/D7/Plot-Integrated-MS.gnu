@@ -7,7 +7,7 @@ set ylabel "Ambulanse, abs." font "Helvetica-Bold,22"
 set xlabel "M/Z, a.e.m." font "Helvetica-Bold,22"
 set bars small
 #set xrange [`echo $MZRANGE`]
-set xrange [0:2000]
+set xrange [0:3000]
 set yrange [0:]
 #set y2range [0:100]
 #set y2tics 10
@@ -43,16 +43,33 @@ set nokey
 set output 'tmp-ms.svg'
 
 set arrow from 121,0 to 121,25 as 2
+set label "(B)" at 80,20 center font "Helvetica,20"
 set arrow from 149,0 to 149,25 as 2
+set label "(A)" at 170,7 center font "Helvetica,20"
 set arrow from 447,0 to 447,25 as 2
 set arrow from 745,0 to 745,25 as 2
 set arrow from 1043,0 to 1043,25 as 2
 set arrow from 1341,0 to 1341,25 as 2
 set arrow from 1639,0 to 1639,25 as 2
+set label "(C5)" at 1682,4.5 center font "Helvetica,20"
 set arrow from 1937,0 to 1937,25 as 2
+set label "(C6)" at 1980,4.5 center font "Helvetica,20"
+set arrow from 2235,0 to 2235,25 as 2
+set label "(C7)" at 2275,2.5 center font "Helvetica,20"
+set arrow from 2533,0 to 2533,25 as 2
+set label "(C8)" at 2575,4.5 center font "Helvetica,20"
+set arrow from 2831,0 to 2831,25 as 2
 
-set arrow from 150,10 to 122,10 as 3
-set label "-28 [N2]" at 60,10 center font "Helvetica,20"
+set arrow from 1489,0 to 1489,5 as 2
+set label "(D5)" at 1430,1 center font "Helvetica,20"
+set arrow from 1787,0 to 1787,5 as 2
+set label "(D6)" at 1730,1 center font "Helvetica,20"
+#set arrow from 2085,0 to 2085,5 as 2
+set arrow from 2382,0 to 2382,5 as 2
+set label "(D7)" at 2330,1 center font "Helvetica,20"
+
+set arrow from 150,22 to 122,22 as 3
+set label "-28 [N2]" at 60,22 center font "Helvetica,20"
 
 set arrow from 150,6 to 447,6 as 3
 set label "+298 [M]" at 298,6.5 center font "Helvetica,20"
@@ -71,6 +88,29 @@ set label "+298 [M]" at 1490,6.5 center font "Helvetica,20"
 
 set arrow from 1639,6 to 1937,6 as 3
 set label "+298 [M]" at 1788,6.5 center font "Helvetica,20"
+
+set arrow from 1937,6 to 2235,6 as 3
+set label "+298 [M]" at 2086,6.5 center font "Helvetica,20"
+
+set arrow from 2235,6 to 2533,6 as 3
+set label "+298 [M]" at 2384,6.5 center font "Helvetica,20"
+
+set arrow from 2533,6 to 2831,6 as 3
+set label "+298 [M]" at 2682,6.5 center font "Helvetica,20"
+
+
+set arrow from 1639,3 to 1489,3 as 3
+set label "-[HOTf]" at 1562,3.5 center font "Helvetica,20"
+
+set arrow from 1937,3 to 1786,3 as 3
+set label "-[HOTf]" at 1862,3.5 center font "Helvetica,20"
+
+#set arrow from 2235,3 to 2085,3 as 3
+#set label "-[HOTf]" at 2160,3.5 center font "Helvetica,20"
+
+set arrow from 2532,3 to 2382,3 as 3
+set label "-[HOTf]" at 2457,3.5 center font "Helvetica,20"
+
 
 plot 'tmp-ms.dat' using 2:($3/1000) with impulses lw 5 lc -1
 

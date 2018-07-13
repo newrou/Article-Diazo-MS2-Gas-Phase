@@ -7,7 +7,7 @@ for i in `find ./ -name "*.mzData"`
 do
   name=`basename $i .mzData`
   FileConverter -in $name.mzData -out tmp-ms.mzML
-  FileFilter -in tmp-ms.mzML -out tmp-ms.mzML -int 100: -rt 33:54 -mz 40:2000
+  FileFilter -in tmp-ms.mzML -out tmp-ms.mzML -int 100: -rt 33:54 -mz 40:3000
   FileConverter -in tmp-ms.mzML -out $name.dta2d
 #  php Integrate-MS.php $name.dta2d > tmp-ms.dat
 #  gnuplot Plot-Integrated-MS.gnu

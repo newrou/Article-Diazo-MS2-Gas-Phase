@@ -43,34 +43,75 @@ set nokey
 set output 'tmp-ms.svg'
 
 set arrow from 121,0 to 121,50 as 2
+set label "(B)" at 92,48 center font "Helvetica,20"
 set arrow from 149,0 to 149,50 as 2
+set label "(A)" at 180,16 center font "Helvetica,20"
 set arrow from 447,0 to 447,50 as 2
+set label "(C1)" at 480,7 center font "Helvetica,20"
 set arrow from 745,0 to 745,50 as 2
+#set label "(C2)" at 780, center font "Helvetica,20"
 set arrow from 1043,0 to 1043,50 as 2
-set arrow from 1341,0 to 1341,50 as 2
-set arrow from 1639,0 to 1639,50 as 2
-set arrow from 1937,0 to 1937,50 as 2
+set label "(C3)" at 1073,2 center font "Helvetica,20"
+#set arrow from 1341,0 to 1341,50 as 2
+#set arrow from 1639,0 to 1639,50 as 2
+#set arrow from 1937,0 to 1937,50 as 2
+
+set arrow from 269,0 to 269,40 as 2
+set label "(D1)" at 298,3.5 center font "Helvetica,20"
+set arrow from 390,0 to 390,40 as 2
+set label "(D2)" at 418,4 center font "Helvetica,20"
+set arrow from 510,0 to 510,40 as 2
+set label "(D3)" at 538,24 center font "Helvetica,20"
+set arrow from 630,0 to 630,40 as 2
+set label "(D4)" at 658,31 center font "Helvetica,20"
+set arrow from 750,0 to 750,40 as 2
+set label "(D5)" at 778,22 center font "Helvetica,20"
+set arrow from 870,0 to 870,40 as 2
+set label "(D6)" at 898,13 center font "Helvetica,20"
+set arrow from 990,0 to 990,40 as 2
+set label "(D7)" at 1018,5 center font "Helvetica,20"
+set arrow from 1110,0 to 1110,40 as 2
+set label "(D8)" at 1136,3 center font "Helvetica,20"
+set arrow from 1230,0 to 1230,40 as 2
+set label "(D9)" at 1256,2 center font "Helvetica,20"
+
+set arrow from 269,35 to 390,35 as 3
+set label "+120" at 329,36 center font "Helvetica,20"
+set arrow from 390,35 to 510,35 as 3
+set label "+120" at 450,36 center font "Helvetica,20"
+set arrow from 510,35 to 630,35 as 3
+set label "+120" at 570,36 center font "Helvetica,20"
+set arrow from 630,35 to 750,35 as 3
+set label "+120" at 690,36 center font "Helvetica,20"
+set arrow from 750,35 to 870,35 as 3
+set label "+120" at 810,36 center font "Helvetica,20"
+set arrow from 870,35 to 990,35 as 3
+set label "+120" at 930,36 center font "Helvetica,20"
+set arrow from 990,35 to 1110,35 as 3
+set label "+120" at 1050,36 center font "Helvetica,20"
+set arrow from 1110,35 to 1230,35 as 3
+set label "+120" at 1170,36 center font "Helvetica,20"
 
 set arrow from 150,30 to 122,30 as 3
 set label "-28 [N2]" at 60,30 center font "Helvetica,20"
 
-set arrow from 150,35 to 447,35 as 3
-set label "+298 [M]" at 298,36 center font "Helvetica,20"
+set arrow from 150,42 to 447,42 as 3
+set label "+298 [M]" at 298,43 center font "Helvetica,20"
 
-set arrow from 447,35 to 745,35 as 3
-set label "+298 [M]" at 596,36 center font "Helvetica,20"
+set arrow from 447,42 to 745,42 as 3
+set label "+298 [M]" at 596,43 center font "Helvetica,20"
 
-set arrow from 745,35 to 1043,35 as 3
-set label "+298 [M]" at 894,36 center font "Helvetica,20"
+set arrow from 745,42 to 1043,42 as 3
+set label "+298 [M]" at 894,43 center font "Helvetica,20"
 
-set arrow from 1043,35 to 1341,35 as 3
-set label "+298 [M]" at 1192,36 center font "Helvetica,20"
+#set arrow from 1043,42 to 1341,42 as 3
+#set label "+298 [M]" at 1192,43 center font "Helvetica,20"
 
-set arrow from 1341,35 to 1639,35 as 3
-set label "+298 [M]" at 1490,36 center font "Helvetica,20"
+#set arrow from 1341,42 to 1639,42 as 3
+#set label "+298 [M]" at 1490,43 center font "Helvetica,20"
 
-set arrow from 1639,35 to 1937,35 as 3
-set label "+298 [M]" at 1788,36 center font "Helvetica,20"
+#set arrow from 1639,42 to 1937,42 as 3
+#set label "+298 [M]" at 1788,43 center font "Helvetica,20"
 
 plot 'tmp-ms.dat' using 2:($3/1000) with impulses lw 5 lc -1
 
