@@ -121,7 +121,31 @@
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='black'  d='M168.7,126.1 L168.7,765.6 L1741.4,765.6 L1741.4,126.1 L168.7,126.1 Z  '/>	<g transform="translate(215.9,168.1)" stroke="none" fill="black" font-family="Helvetica" font-size="20.00"  text-anchor="middle">
+	<path stroke='black'  d='M168.7,126.1 L168.7,765.6 L1741.4,765.6 L1741.4,126.1 L168.7,126.1 Z  '/>	<g transform="translate(268.6,736.6)" stroke="none" fill="black" font-family="Helvetica" font-size="20.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >(B)</tspan></text>
+	</g>
+	<g transform="translate(306.3,196.5)" stroke="none" fill="black" font-family="Helvetica" font-size="20.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >(A)</tspan></text>
+	</g>
+	<g transform="translate(546.1,530.5)" stroke="none" fill="black" font-family="Helvetica" font-size="20.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >(C1)</tspan></text>
+	</g>
+	<g transform="translate(782.1,743.7)" stroke="none" fill="black" font-family="Helvetica" font-size="20.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >(C2)</tspan></text>
+	</g>
+	<g transform="translate(1018.0,693.9)" stroke="none" fill="black" font-family="Helvetica" font-size="20.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >(C3)</tspan></text>
+	</g>
+	<g transform="translate(1251.5,683.3)" stroke="none" fill="black" font-family="Helvetica" font-size="20.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >(C4)</tspan></text>
+	</g>
+	<g transform="translate(1489.8,750.8)" stroke="none" fill="black" font-family="Helvetica" font-size="20.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >(C5)</tspan></text>
+	</g>
+	<g transform="translate(1721.7,750.8)" stroke="none" fill="black" font-family="Helvetica" font-size="20.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >(C6)</tspan></text>
+	</g>
+	<g transform="translate(215.9,168.1)" stroke="none" fill="black" font-family="Helvetica" font-size="20.00"  text-anchor="middle">
 		<text><tspan font-family="Helvetica" >-28 [N2]</tspan></text>
 	</g>
 	<g transform="translate(404.6,416.8)" stroke="none" fill="black" font-family="Helvetica" font-size="20.00"  text-anchor="middle">

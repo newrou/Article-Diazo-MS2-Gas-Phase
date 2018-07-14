@@ -43,26 +43,32 @@ set nokey
 set output 'tmp-ms.svg'
 
 set arrow from 122,0 to 122,1800 as 2
+set label "(B)" at 100,1750 center font "Helvetica,20"
 set arrow from 150,0 to 150,1800 as 2
+set label "(A)" at 172,740 center font "Helvetica,20"
 set arrow from 449,0 to 449,1800 as 2
+set label "(C1)" at 477,370 center font "Helvetica,20"
 set arrow from 748,0 to 748,1800 as 2
+set label "(C2)" at 777,155 center font "Helvetica,20"
 set arrow from 1047,0 to 1047,1800 as 2
+set label "(C3)" at 1077,250 center font "Helvetica,20"
 set arrow from 1346,0 to 1346,1800 as 2
+set label "(C4)" at 1375,197 center font "Helvetica,20"
 
 set arrow from 150,850 to 122,850 as 3
 set label "-28 [N2]" at 60,850 center font "Helvetica,20"
 
-set arrow from 150,470 to 449,470 as 3
-set label "+299 [M]" at 300,500 center font "Helvetica,20"
+set arrow from 150,600 to 449,600 as 3
+set label "+299 [M]" at 300,630 center font "Helvetica,20"
 
-set arrow from 449,470 to 748,470 as 3
-set label "+299 [M]" at 599,500 center font "Helvetica,20"
+set arrow from 449,600 to 748,600 as 3
+set label "+299 [M]" at 599,630 center font "Helvetica,20"
 
-set arrow from 748,470 to 1047,470 as 3
-set label "+299 [M]" at 898,500 center font "Helvetica,20"
+set arrow from 748,600 to 1047,600 as 3
+set label "+299 [M]" at 898,630 center font "Helvetica,20"
 
-set arrow from 1047,470 to 1346,470 as 3
-set label "+299 [M]" at 1197,500 center font "Helvetica,20"
+set arrow from 1047,600 to 1346,600 as 3
+set label "+299 [M]" at 1197,630 center font "Helvetica,20"
 
 plot 'tmp-ms.dat' using 2:($3/1000) with impulses lw 5 lc -1
 

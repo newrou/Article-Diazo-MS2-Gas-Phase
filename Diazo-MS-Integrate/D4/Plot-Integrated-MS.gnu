@@ -43,13 +43,21 @@ set nokey
 set output 'tmp-ms.svg'
 
 set arrow from 107,0 to 107,120 as 2
+set label "(B)" at 83,42 center font "Helvetica,20"
 set arrow from 135,0 to 135,120 as 2
+set label "(A)" at 157,82 center font "Helvetica,20"
 set arrow from 419,0 to 419,120 as 2
+set label "(C1)" at 450,117 center font "Helvetica,20"
 set arrow from 703,0 to 703,120 as 2
+set label "(C2)" at 732,25 center font "Helvetica,20"
 set arrow from 987,0 to 987,120 as 2
+set label "(C3)" at 1017,96 center font "Helvetica,20"
 set arrow from 1271,0 to 1271,120 as 2
+set label "(C4)" at 1300,58 center font "Helvetica,20"
 set arrow from 1555,0 to 1555,120 as 2
+set label "(C5)" at 1585,39 center font "Helvetica,20"
 set arrow from 1839,0 to 1839,120 as 2
+set label "(C6)" at 1869,7 center font "Helvetica,20"
 
 set arrow from 135,60 to 107,60 as 3
 set label "-28 [N2]" at 50,60 center font "Helvetica,20"

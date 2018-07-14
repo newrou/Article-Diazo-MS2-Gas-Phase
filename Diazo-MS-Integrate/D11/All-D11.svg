@@ -165,6 +165,9 @@
 	<g transform="translate(1149.1,746.5)" stroke="none" fill="black" font-family="Helvetica" font-size="20.00"  text-anchor="middle">
 		<text><tspan font-family="Helvetica" >(D9)</tspan></text>
 	</g>
+	<g transform="translate(315.6,311.7)" stroke="none" fill="black" font-family="Helvetica" font-size="20.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >+120</tspan></text>
+	</g>
 	<g transform="translate(411.1,311.7)" stroke="none" fill="black" font-family="Helvetica" font-size="20.00"  text-anchor="middle">
 		<text><tspan font-family="Helvetica" >+120</tspan></text>
 	</g>
@@ -234,6 +237,11 @@
 	<path stroke='black' stroke-dasharray='2.0,3.2'  d='M1128.4,765.6 L1128.4,254.0  '/></g>
 <g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'black' points = '358.5,317.9 350.0,313.1 363.4,317.9 350.0,322.7 358.5,317.9 '/>
+	</g>
+	<path stroke='black'  d='M358.5,317.9 L350.0,313.1 L363.4,317.9 L350.0,322.7 L358.5,317.9 M267.8,317.9 L358.5,317.9  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
 	<g stroke='none' shape-rendering='crispEdges'>
 		<polygon fill = 'black' points = '454.8,317.9 446.3,313.1 459.7,317.9 446.3,322.7 454.8,317.9 '/>

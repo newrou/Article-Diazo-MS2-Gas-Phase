@@ -75,6 +75,8 @@ set label "(D8)" at 1136,3 center font "Helvetica,20"
 set arrow from 1230,0 to 1230,40 as 2
 set label "(D9)" at 1256,2 center font "Helvetica,20"
 
+set arrow from 149,35 to 269,35 as 3
+set label "+120" at 209,36 center font "Helvetica,20"
 set arrow from 269,35 to 390,35 as 3
 set label "+120" at 329,36 center font "Helvetica,20"
 set arrow from 390,35 to 510,35 as 3

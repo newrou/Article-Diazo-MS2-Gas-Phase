@@ -43,30 +43,55 @@ set nokey
 set output 'tmp-ms.svg'
 
 set arrow from 155,0 to 155,70 as 2
+set label "(B)" at 130,45 center font "Helvetica,20"
 set arrow from 183,0 to 183,70 as 2
+set label "(A)" at 197,32 center font "Helvetica,20"
 set arrow from 517,0 to 517,70 as 2
+set label "(C1)" at 540,15 center font "Helvetica,20"
 set arrow from 849,0 to 849,70 as 2
-set arrow from 1183,0 to 1183,70 as 2
-set arrow from 1515,0 to 1515,70 as 2
-set arrow from 1848,0 to 1848,70 as 2
+set label "(C2)" at 870,2 center font "Helvetica,20"
+#set arrow from 1183,0 to 1183,70 as 2
+#set arrow from 1515,0 to 1515,70 as 2
+#set arrow from 1848,0 to 1848,70 as 2
 
-set arrow from 183,44 to 155,44 as 3
-set label "-28 [N2]" at 60,44 center font "Helvetica,20"
+set arrow from 365,0 to 365,50 as 2
+set label "(D1)" at 352,7 center font "Helvetica,20"
+set arrow from 549,0 to 549,50 as 2
+set label "(E2)" at 580,3 center font "Helvetica,20"
+set arrow from 697,0 to 697,50 as 2
+set label "(D2)" at 720,2 center font "Helvetica,20"
 
-set arrow from 183,25 to 517,25 as 3
-set label "+334 [M]" at 350,26 center font "Helvetica,20"
+set arrow from 183,48 to 155,48 as 3
+set label "-28 [N2]" at 80,48 center font "Helvetica,20"
 
-set arrow from 517,25 to 849,25 as 3
-set label "+334 [M]" at 683,26 center font "Helvetica,20"
+set arrow from 183,55 to 517,55 as 3
+set label "+334 [M]" at 350,58 center font "Helvetica,20"
 
-set arrow from 849,25 to 1183,25 as 3
-set label "+334 [M]" at 1016,26 center font "Helvetica,20"
+set arrow from 517,55 to 849,55 as 3
+set label "+334 [M]" at 683,58 center font "Helvetica,20"
 
-set arrow from 1183,25 to 1515,25 as 3
-set label "+334 [M]" at 1349,26 center font "Helvetica,20"
+#set arrow from 849,55 to 1183,55 as 3
+#set label "+334 [M]" at 1016,58 center font "Helvetica,20"
 
-set arrow from 1515,25 to 1848,25 as 3
-set label "+334 [M]" at 1682,26 center font "Helvetica,20"
+#set arrow from 1183,55 to 1515,55 as 3
+#set label "+334 [M]" at 1349,58 center font "Helvetica,20"
+
+#set arrow from 1515,55 to 1848,55 as 3
+#set label "+334 [M]" at 1682,58 center font "Helvetica,20"
+
+
+set arrow from 516,40 to 365,40 as 3
+set label "-[HOTf]" at 410,42 center font "Helvetica,20"
+
+set arrow from 847,40 to 698,40 as 3
+set label "-[HOTf]" at 773,42 center font "Helvetica,20"
+
+set arrow from 698,40 to 547,40 as 3
+set label "-[HOTf]" at 623,42 center font "Helvetica,20"
+
+set arrow from 365,30 to 547,30 as 3
+set label "+[BrC6H4N2]" at 540,32 center font "Helvetica,20"
+
 
 plot 'tmp-ms.dat' using 2:($3/1000) with impulses lw 5 lc -1
 
