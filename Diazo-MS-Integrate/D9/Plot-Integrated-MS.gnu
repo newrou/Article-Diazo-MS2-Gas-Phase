@@ -55,15 +55,15 @@ set label "(C3)" at 1387,2 center font "Helvetica,20"
 set arrow from 1735,0 to 1735,50 as 2
 #set label "(C4)" at 1765,4 center font "Helvetica,20"
 
-set arrow from 453,0 to 453,40 as 2
+set arrow from 453,0 to 453,30 as 2
 set label "(D1)" at 485,10 center font "Helvetica,20"
-set arrow from 829,0 to 829,40 as 2
+set arrow from 829,0 to 829,30 as 2
 set label "(D2)" at 861,6 center font "Helvetica,20"
-set arrow from 1205,0 to 1205,40 as 2
+set arrow from 1205,0 to 1205,30 as 2
 set label "(D3)" at 1237,6 center font "Helvetica,20"
-set arrow from 1581,0 to 1581,40 as 2
+set arrow from 1581,0 to 1581,30 as 2
 set label "(D4)" at 1613,2 center font "Helvetica,20"
-set arrow from 1437,0 to 1437,40 as 2
+set arrow from 1437,0 to 1437,30 as 2
 set label "(E4)" at 1469,2 center font "Helvetica,20"
 
 #set label "[2-HOOC-4-Br-C6H3-N2]+" at 380,23 center font "Helvetica,20"
@@ -71,35 +71,35 @@ set label "(E4)" at 1469,2 center font "Helvetica,20"
 set arrow from 228,47 to 200,47 as 3
 set label "-28 [N2]" at 228,48 center font "Helvetica,20"
 
-set arrow from 228,45 to 605,45 as 3
-set label "+376 [M]" at 416,46 center font "Helvetica,20"
+set arrow from 228,35 to 605,35 as 3
+set label "+376 [M]" at 416,36 center font "Helvetica,20"
 
-set arrow from 605,45 to 981,45 as 3
-set label "+376 [M]" at 793,46 center font "Helvetica,20"
+set arrow from 605,35 to 981,35 as 3
+set label "+376 [M]" at 793,36 center font "Helvetica,20"
 
-set arrow from 981,45 to 1359,45 as 3
-set label "+376 [M]" at 1170,46 center font "Helvetica,20"
+set arrow from 981,35 to 1359,35 as 3
+set label "+376 [M]" at 1170,36 center font "Helvetica,20"
 
-set arrow from 1359,45 to 1735,45 as 3
-set label "+376 [M]" at 1546,46 center font "Helvetica,20"
+set arrow from 1359,35 to 1735,35 as 3
+set label "+376 [M]" at 1546,36 center font "Helvetica,20"
 
 
 #set label "(1) [C14H7N4O4Br2]+" at 453,14 center font "Helvetica,20"
 
-set arrow from 604,30 to 453,30 as 3
-set label "-[HOTf]" at 529,31 center font "Helvetica,20"
+set arrow from 604,20 to 453,20 as 3
+set label "-[HOTf]" at 529,21 center font "Helvetica,20"
 
-set arrow from 982,30 to 831,30 as 3
-set label "-[HOTf]" at 907,31 center font "Helvetica,20"
+set arrow from 982,20 to 831,20 as 3
+set label "-[HOTf]" at 907,21 center font "Helvetica,20"
 
-set arrow from 1361,30 to 1210,30 as 3
-set label "-[HOTf]" at 1286,31 center font "Helvetica,20"
+set arrow from 1361,20 to 1210,20 as 3
+set label "-[HOTf]" at 1286,21 center font "Helvetica,20"
 
-set arrow from 1738,30 to 1587,30 as 3
-set label "-[HOTf]" at 1663,31 center font "Helvetica,20"
+set arrow from 1738,20 to 1587,20 as 3
+set label "-[HOTf]" at 1663,21 center font "Helvetica,20"
 
-set arrow from 1587,30 to 1437,30 as 3
-set label "-[HOTf]" at 1512,31 center font "Helvetica,20"
+set arrow from 1587,20 to 1437,20 as 3
+set label "-[HOTf]" at 1512,21 center font "Helvetica,20"
 
 
 plot 'tmp-ms.dat' using 2:($3/1000) with impulses lw 5 lc -1

@@ -71,32 +71,32 @@ set label "(D7)" at 2330,1 center font "Helvetica,20"
 set arrow from 150,22 to 122,22 as 3
 set label "-28 [N2]" at 60,22 center font "Helvetica,20"
 
-set arrow from 150,6 to 447,6 as 3
-set label "+298 [M]" at 298,6.5 center font "Helvetica,20"
+set arrow from 150,10 to 447,10 as 3
+set label "+298 [M]" at 298,10.5 center font "Helvetica,20"
 
-set arrow from 447,6 to 745,6 as 3
-set label "+298 [M]" at 596,6.5 center font "Helvetica,20"
+set arrow from 447,10 to 745,10 as 3
+set label "+298 [M]" at 596,10.5 center font "Helvetica,20"
 
-set arrow from 745,6 to 1043,6 as 3
-set label "+298 [M]" at 894,6.5 center font "Helvetica,20"
+set arrow from 745,10 to 1043,10 as 3
+set label "+298 [M]" at 894,10.5 center font "Helvetica,20"
 
-set arrow from 1043,6 to 1341,6 as 3
-set label "+298 [M]" at 1192,6.5 center font "Helvetica,20"
+set arrow from 1043,10 to 1341,10 as 3
+set label "+298 [M]" at 1192,10.5 center font "Helvetica,20"
 
-set arrow from 1341,6 to 1639,6 as 3
+set arrow from 1341,10 to 1639,10 as 3
 set label "+298 [M]" at 1490,6.5 center font "Helvetica,20"
 
-set arrow from 1639,6 to 1937,6 as 3
+set arrow from 1639,10 to 1937,10 as 3
 set label "+298 [M]" at 1788,6.5 center font "Helvetica,20"
 
-set arrow from 1937,6 to 2235,6 as 3
+set arrow from 1937,10 to 2235,10 as 3
 set label "+298 [M]" at 2086,6.5 center font "Helvetica,20"
 
-set arrow from 2235,6 to 2533,6 as 3
-set label "+298 [M]" at 2384,6.5 center font "Helvetica,20"
+set arrow from 2235,10 to 2533,10 as 3
+set label "+298 [M]" at 2384,10.5 center font "Helvetica,20"
 
-set arrow from 2533,6 to 2831,6 as 3
-set label "+298 [M]" at 2682,6.5 center font "Helvetica,20"
+set arrow from 2533,10 to 2831,10 as 3
+set label "+298 [M]" at 2682,10.5 center font "Helvetica,20"
 
 
 set arrow from 1639,3 to 1489,3 as 3
