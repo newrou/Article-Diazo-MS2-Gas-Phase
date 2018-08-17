@@ -1,0 +1,174 @@
+PHP Warning:  fopen(td/1a-A+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1a-I.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1a-D+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+
+plot "fT.dat" using 1:2 with linespoints linestyle 1,  "fT.dat" using 1:3 with linespoints linestyle 2,  "fT.dat" using 1:4 with linespoints linestyle 3
+                                                                                                                                                        ^
+"Plot-fT.gnu", line 25: x range is invalid
+
+PHP Warning:  fopen(td/1f-A+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1f-I.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1f-D+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+
+plot "fT.dat" using 1:2 with linespoints linestyle 1,  "fT.dat" using 1:3 with linespoints linestyle 2,  "fT.dat" using 1:4 with linespoints linestyle 3
+                                                                                                                                                        ^
+"Plot-fT.gnu", line 25: x range is invalid
+
+PHP Warning:  fopen(td/1h-A+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1h-I.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1h-D+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+
+plot "fT.dat" using 1:2 with linespoints linestyle 1,  "fT.dat" using 1:3 with linespoints linestyle 2,  "fT.dat" using 1:4 with linespoints linestyle 3
+                                                                                                                                                        ^
+"Plot-fT.gnu", line 25: x range is invalid
+
+PHP Warning:  fopen(td/1i-A+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1i-I.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1i-D+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+
+plot "fT.dat" using 1:2 with linespoints linestyle 1,  "fT.dat" using 1:3 with linespoints linestyle 2,  "fT.dat" using 1:4 with linespoints linestyle 3
+                                                                                                                                                        ^
+"Plot-fT.gnu", line 25: x range is invalid
+
+PHP Warning:  fopen(td/1a-A+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1a-F.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1a-G+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+
+plot "fT.dat" using 1:2 with linespoints linestyle 1,  "fT.dat" using 1:3 with linespoints linestyle 2,  "fT.dat" using 1:4 with linespoints linestyle 3
+                                                                                                                                                        ^
+"Plot-fT.gnu", line 25: x range is invalid
+
+PHP Warning:  fopen(td/1a-G+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1a-F.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1a-P1+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+
+plot "fT.dat" using 1:2 with linespoints linestyle 1,  "fT.dat" using 1:3 with linespoints linestyle 2,  "fT.dat" using 1:4 with linespoints linestyle 3
+                                                                                                                                                        ^
+"Plot-fT.gnu", line 25: x range is invalid
+
+PHP Warning:  fopen(td/1a-P1+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1a-F.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1a-P2+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+
+plot "fT.dat" using 1:2 with linespoints linestyle 1,  "fT.dat" using 1:3 with linespoints linestyle 2,  "fT.dat" using 1:4 with linespoints linestyle 3
+                                                                                                                                                        ^
+"Plot-fT.gnu", line 25: x range is invalid
+
+PHP Warning:  fopen(td/1a-P2+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1a-F.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1a-P3+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+
+plot "fT.dat" using 1:2 with linespoints linestyle 1,  "fT.dat" using 1:3 with linespoints linestyle 2,  "fT.dat" using 1:4 with linespoints linestyle 3
+                                                                                                                                                        ^
+"Plot-fT.gnu", line 25: x range is invalid
+
+PHP Warning:  fopen(td/1a-A+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1a-F.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1a-K+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+
+plot "fT.dat" using 1:2 with linespoints linestyle 1,  "fT.dat" using 1:3 with linespoints linestyle 2,  "fT.dat" using 1:4 with linespoints linestyle 3
+                                                                                                                                                        ^
+"Plot-fT.gnu", line 25: x range is invalid
+
+PHP Warning:  fopen(td/1a-K+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1a-G+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+
+plot "fT.dat" using 1:2 with linespoints linestyle 1,  "fT.dat" using 1:3 with linespoints linestyle 2,  "fT.dat" using 1:4 with linespoints linestyle 3
+                                                                                                                                                        ^
+"Plot-fT.gnu", line 25: x range is invalid
+
+PHP Warning:  fopen(td/1g-A+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1g-F.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1g-G+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+
+plot "fT.dat" using 1:2 with linespoints linestyle 1,  "fT.dat" using 1:3 with linespoints linestyle 2,  "fT.dat" using 1:4 with linespoints linestyle 3
+                                                                                                                                                        ^
+"Plot-fT.gnu", line 25: x range is invalid
+
+PHP Warning:  fopen(td/1g-G+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1g-F.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1g-P1+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+
+plot "fT.dat" using 1:2 with linespoints linestyle 1,  "fT.dat" using 1:3 with linespoints linestyle 2,  "fT.dat" using 1:4 with linespoints linestyle 3
+                                                                                                                                                        ^
+"Plot-fT.gnu", line 25: x range is invalid
+
+PHP Warning:  fopen(td/1g-P1+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1g-F.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1g-P2+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+
+plot "fT.dat" using 1:2 with linespoints linestyle 1,  "fT.dat" using 1:3 with linespoints linestyle 2,  "fT.dat" using 1:4 with linespoints linestyle 3
+                                                                                                                                                        ^
+"Plot-fT.gnu", line 25: x range is invalid
+
+PHP Warning:  fopen(td/1g-P2+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1g-F.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1g-P3+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+
+plot "fT.dat" using 1:2 with linespoints linestyle 1,  "fT.dat" using 1:3 with linespoints linestyle 2,  "fT.dat" using 1:4 with linespoints linestyle 3
+                                                                                                                                                        ^
+"Plot-fT.gnu", line 25: x range is invalid
+
+PHP Warning:  fopen(td/1g-A+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1g-F.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1g-K+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+
+plot "fT.dat" using 1:2 with linespoints linestyle 1,  "fT.dat" using 1:3 with linespoints linestyle 2,  "fT.dat" using 1:4 with linespoints linestyle 3
+                                                                                                                                                        ^
+"Plot-fT.gnu", line 25: x range is invalid
+
+PHP Warning:  fopen(td/1g-K+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+PHP Warning:  fopen(td/1g-G+.td): failed to open stream: No such file or directory in /mnt/sda4/Reserv/orca-2014/Diazo-2017/Scheme-5-6/td/reaction-td-gaussian.php on line 62
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+"Plot-fT.gnu", line 25: warning: Skipping data file with no valid points
+
+plot "fT.dat" using 1:2 with linespoints linestyle 1,  "fT.dat" using 1:3 with linespoints linestyle 2,  "fT.dat" using 1:4 with linespoints linestyle 3
+                                                                                                                                                        ^
+"Plot-fT.gnu", line 25: x range is invalid
+
