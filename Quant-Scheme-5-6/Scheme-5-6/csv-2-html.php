@@ -54,6 +54,7 @@ function read_table($fname) {
     }
 }
 
+$title="";
 for($i=0; $i<count($argv); $i++) {
     if($argv[$i]=='-t') { $title=$argv[$i+1]; $i++; continue; }
 }

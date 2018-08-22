@@ -2,6 +2,8 @@
 1a-A+ + 1a-I = 1a-D+
 1f = 1f-I + HOTf
 1f-A+ + 1f-I = 1f-D+
+1g = 1g-I + HOTf
+1g-A+ + 1g-I = 1g-D+
 1h = 1h-I + HOTf
 1h-A+ + 1h-I = 1h-D+
 1i = 1i-I + HOTf

@@ -1,2 +1,2 @@
 
-./run.sh Scheme-5-6.r
+./run.sh Scheme-5-6.r 2> err
