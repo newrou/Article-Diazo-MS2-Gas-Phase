@@ -1,7 +1,7 @@
 #set terminal postscript eps
 set terminal postscript eps color
 set key inside right top vertical Right noreverse enhanced autotitles box linetype -1 linewidth 0.200
-set title "Integrate MS Spectr"
+#set title "Integrate MS Spectr"
 set ylabel "Ambulanse, abs." font "Helvetica-Bold,22"
 #set y2label "Ambulanse, %" font "Helvetica-Bold,22"
 set xlabel "M/Z, a.e.m." font "Helvetica-Bold,22"
@@ -59,16 +59,17 @@ set arrow from 150,850 to 122,850 as 3
 set label "-28 [N2]" at 60,850 center font "Helvetica,20"
 
 set arrow from 150,600 to 449,600 as 3
-set label "+299 [M]" at 300,630 center font "Helvetica,20"
+#set label "+299 [M]" at 300,630 center font "Helvetica,20"
+set label "+[NO_2C_6H_4N_2^+ TfO^-]" at 300,650 center font "Helvetica,20"
 
 set arrow from 449,600 to 748,600 as 3
-set label "+299 [M]" at 599,630 center font "Helvetica,20"
+set label "+[NO_2C_6H_4N_2^+ TfO^-]" at 599,650 center font "Helvetica,20"
 
 set arrow from 748,600 to 1047,600 as 3
-set label "+299 [M]" at 898,630 center font "Helvetica,20"
+set label "+[NO_2C_6H_4N_2^+ TfO^-]" at 898,650 center font "Helvetica,20"
 
 set arrow from 1047,600 to 1346,600 as 3
-set label "+299 [M]" at 1197,630 center font "Helvetica,20"
+set label "+[NO_2C_6H_4N_2^+ TfO^-]" at 1197,650 center font "Helvetica,20"
 
 plot 'tmp-ms.dat' using 2:($3/1000) with impulses lw 5 lc -1
 

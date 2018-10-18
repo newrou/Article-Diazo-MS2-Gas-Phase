@@ -1,13 +1,13 @@
 #set terminal postscript eps
 set terminal postscript eps color
 set key inside right top vertical Right noreverse enhanced autotitles box linetype -1 linewidth 0.200
-set title "Integrate MS Spectr"
+#set title "Integrate MS Spectr"
 set ylabel "Ambulanse, abs." font "Helvetica-Bold,22"
 #set y2label "Ambulanse, %" font "Helvetica-Bold,22"
 set xlabel "M/Z, a.e.m." font "Helvetica-Bold,22"
 set bars small
 #set xrange [`echo $MZRANGE`]
-set xrange [0:2000]
+set xrange [0:1500]
 set yrange [0:]
 #set y2range [0:100]
 #set y2tics 10
@@ -65,10 +65,11 @@ set arrow from 183,48 to 155,48 as 3
 set label "-28 [N2]" at 80,48 center font "Helvetica,20"
 
 set arrow from 183,55 to 517,55 as 3
-set label "+334 [M]" at 350,58 center font "Helvetica,20"
+#set label "+334 [M]" at 350,58 center font "Helvetica,20"
+set label "+[BrC_6H_4N_2^+ TfO^-]" at 350,58 center font "Helvetica,20"
 
 set arrow from 517,55 to 849,55 as 3
-set label "+334 [M]" at 683,58 center font "Helvetica,20"
+set label "+[BrC_6H_4N_2^+ TfO^-]" at 683,58 center font "Helvetica,20"
 
 #set arrow from 849,55 to 1183,55 as 3
 #set label "+334 [M]" at 1016,58 center font "Helvetica,20"
@@ -89,8 +90,8 @@ set label "-[HOTf]" at 773,42 center font "Helvetica,20"
 set arrow from 698,40 to 547,40 as 3
 set label "-[HOTf]" at 623,42 center font "Helvetica,20"
 
-set arrow from 365,30 to 547,30 as 3
-set label "+[BrC6H4N2]" at 540,32 center font "Helvetica,20"
+#set arrow from 365,30 to 547,30 as 3
+#set label "+[BrC_6H_3N^2]" at 540,32 center font "Helvetica,20"
 
 
 plot 'tmp-ms.dat' using 2:($3/1000) with impulses lw 5 lc -1

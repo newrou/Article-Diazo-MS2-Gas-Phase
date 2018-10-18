@@ -1,7 +1,7 @@
 #set terminal postscript eps
 set terminal postscript eps color
 set key inside right top vertical Right noreverse enhanced autotitles box linetype -1 linewidth 0.200
-set title "Integrate MS Spectr"
+#set title "Integrate MS Spectr"
 set ylabel "Ambulanse, abs." font "Helvetica-Bold,22"
 #set y2label "Ambulanse, %" font "Helvetica-Bold,22"
 set xlabel "M/Z, a.e.m." font "Helvetica-Bold,22"
@@ -64,26 +64,27 @@ set label "(C7)" at 1840,1.8 center font "Helvetica,20"
 set arrow from 150,25 to 122,25 as 3
 set label "-28 [N2]" at 60,25 center font "Helvetica,20"
 
-set arrow from 150,10 to 387,10 as 3
-set label "+237 [M]" at 269,11 center font "Helvetica,20"
+set arrow from 150,15 to 387,15 as 3
+#set label "+237 [M]" at 269,11 center font "Helvetica,20"
+set label "+[M]" at 269,16 center font "Helvetica,20"
 
-set arrow from 387,10 to 624,10 as 3
-set label "+237 [M]" at 506,11 center font "Helvetica,20"
+set arrow from 387,15 to 624,15 as 3
+set label "+[M]" at 506,16 center font "Helvetica,20"
 
-set arrow from 624,10 to 861,10 as 3
-set label "+237 [M]" at 743,11 center font "Helvetica,20"
+set arrow from 624,15 to 861,15 as 3
+set label "+[M]" at 743,16 center font "Helvetica,20"
 
-set arrow from 861,10 to 1098,10 as 3
-set label "+237 [M]" at 980,11 center font "Helvetica,20"
+set arrow from 861,15 to 1098,15 as 3
+set label "+[M]" at 980,16 center font "Helvetica,20"
 
-set arrow from 1098,10 to 1334,10 as 3
-set label "+237 [M]" at 1216,11 center font "Helvetica,20"
+set arrow from 1098,15 to 1334,15 as 3
+set label "+[M]" at 1216,16 center font "Helvetica,20"
 
-set arrow from 1334,10 to 1571,10 as 3
-set label "+237 [M]" at 1453,11 center font "Helvetica,20"
+set arrow from 1334,15 to 1571,15 as 3
+set label "+[M]" at 1453,16 center font "Helvetica,20"
 
-set arrow from 1571,10 to 1808,10 as 3
-set label "+237 [M]" at 1690,11 center font "Helvetica,20"
+set arrow from 1571,15 to 1808,15 as 3
+set label "+[M]" at 1690,16 center font "Helvetica,20"
 
 plot 'tmp-ms.dat' using 2:($3/1000) with impulses lw 5 lc -1
 

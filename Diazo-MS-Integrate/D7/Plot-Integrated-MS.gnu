@@ -1,7 +1,7 @@
 #set terminal postscript eps
 set terminal postscript eps color
 set key inside right top vertical Right noreverse enhanced autotitles box linetype -1 linewidth 0.200
-set title "Integrate MS Spectr"
+#set title "Integrate MS Spectr"
 set ylabel "Ambulanse, abs." font "Helvetica-Bold,22"
 #set y2label "Ambulanse, %" font "Helvetica-Bold,22"
 set xlabel "M/Z, a.e.m." font "Helvetica-Bold,22"
@@ -72,44 +72,45 @@ set arrow from 150,22 to 122,22 as 3
 set label "-28 [N2]" at 60,22 center font "Helvetica,20"
 
 set arrow from 150,10 to 447,10 as 3
-set label "+298 [M]" at 298,10.5 center font "Helvetica,20"
+#set label "+298 [M]" at 298,10.5 center font "Helvetica,20"
+set label "+[M]" at 298,11 center font "Helvetica,20"
 
 set arrow from 447,10 to 745,10 as 3
-set label "+298 [M]" at 596,10.5 center font "Helvetica,20"
+set label "+[M]" at 596,11 center font "Helvetica,20"
 
 set arrow from 745,10 to 1043,10 as 3
-set label "+298 [M]" at 894,10.5 center font "Helvetica,20"
+set label "+[M]" at 894,11 center font "Helvetica,20"
 
 set arrow from 1043,10 to 1341,10 as 3
-set label "+298 [M]" at 1192,10.5 center font "Helvetica,20"
+set label "+[M]" at 1192,11 center font "Helvetica,20"
 
 set arrow from 1341,10 to 1639,10 as 3
-set label "+298 [M]" at 1490,6.5 center font "Helvetica,20"
+set label "+[M]" at 1490,11 center font "Helvetica,20"
 
 set arrow from 1639,10 to 1937,10 as 3
-set label "+298 [M]" at 1788,6.5 center font "Helvetica,20"
+set label "+[M]" at 1788,11 center font "Helvetica,20"
 
 set arrow from 1937,10 to 2235,10 as 3
-set label "+298 [M]" at 2086,6.5 center font "Helvetica,20"
+set label "+[M]" at 2086,11 center font "Helvetica,20"
 
 set arrow from 2235,10 to 2533,10 as 3
-set label "+298 [M]" at 2384,10.5 center font "Helvetica,20"
+set label "+[M]" at 2384,11 center font "Helvetica,20"
 
 set arrow from 2533,10 to 2831,10 as 3
-set label "+298 [M]" at 2682,10.5 center font "Helvetica,20"
+set label "+[M]" at 2682,11 center font "Helvetica,20"
 
 
 set arrow from 1639,3 to 1489,3 as 3
-set label "-[HOTf]" at 1562,3.5 center font "Helvetica,20"
+set label "-[HOTf]" at 1562,3.7 center font "Helvetica,20"
 
 set arrow from 1937,3 to 1786,3 as 3
-set label "-[HOTf]" at 1862,3.5 center font "Helvetica,20"
+set label "-[HOTf]" at 1862,3.7 center font "Helvetica,20"
 
 #set arrow from 2235,3 to 2085,3 as 3
-#set label "-[HOTf]" at 2160,3.5 center font "Helvetica,20"
+#set label "-[HOTf]" at 2160,3.7 center font "Helvetica,20"
 
 set arrow from 2532,3 to 2382,3 as 3
-set label "-[HOTf]" at 2457,3.5 center font "Helvetica,20"
+set label "-[HOTf]" at 2457,3.7 center font "Helvetica,20"
 
 
 plot 'tmp-ms.dat' using 2:($3/1000) with impulses lw 5 lc -1

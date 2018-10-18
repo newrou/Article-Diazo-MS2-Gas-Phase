@@ -1,13 +1,13 @@
 #set terminal postscript eps
 set terminal postscript eps color
 set key inside right top vertical Right noreverse enhanced autotitles box linetype -1 linewidth 0.200
-set title "Integrate MS Spectr"
+#set title "Integrate MS Spectr"
 set ylabel "Ambulanse, abs." font "Helvetica-Bold,22"
 #set y2label "Ambulanse, %" font "Helvetica-Bold,22"
 set xlabel "M/Z, a.e.m." font "Helvetica-Bold,22"
 set bars small
 #set xrange [`echo $MZRANGE`]
-set xrange [0:2000]
+set xrange [0:1500]
 set yrange [0:]
 #set y2range [0:100]
 #set y2tics 10
@@ -76,35 +76,37 @@ set arrow from 1230,0 to 1230,40 as 2
 set label "(D9)" at 1256,2 center font "Helvetica,20"
 
 set arrow from 149,35 to 269,35 as 3
-set label "+120" at 209,36 center font "Helvetica,20"
+#set label "+120" at 209,36 center font "Helvetica,20"
+set label "+[E]" at 209,37 center font "Helvetica,20"
 set arrow from 269,35 to 390,35 as 3
-set label "+120" at 329,36 center font "Helvetica,20"
+set label "+[E]" at 329,37 center font "Helvetica,20"
 set arrow from 390,35 to 510,35 as 3
-set label "+120" at 450,36 center font "Helvetica,20"
+set label "+[E]" at 450,37 center font "Helvetica,20"
 set arrow from 510,35 to 630,35 as 3
-set label "+120" at 570,36 center font "Helvetica,20"
+set label "+[E]" at 570,37 center font "Helvetica,20"
 set arrow from 630,35 to 750,35 as 3
-set label "+120" at 690,36 center font "Helvetica,20"
+set label "+[E]" at 690,37 center font "Helvetica,20"
 set arrow from 750,35 to 870,35 as 3
-set label "+120" at 810,36 center font "Helvetica,20"
+set label "+[E]" at 810,37 center font "Helvetica,20"
 set arrow from 870,35 to 990,35 as 3
-set label "+120" at 930,36 center font "Helvetica,20"
+set label "+[E]" at 930,37 center font "Helvetica,20"
 set arrow from 990,35 to 1110,35 as 3
-set label "+120" at 1050,36 center font "Helvetica,20"
+set label "+[E]" at 1050,37 center font "Helvetica,20"
 set arrow from 1110,35 to 1230,35 as 3
-set label "+120" at 1170,36 center font "Helvetica,20"
+set label "+[E]" at 1170,37 center font "Helvetica,20"
 
 set arrow from 150,30 to 122,30 as 3
 set label "-28 [N2]" at 60,30 center font "Helvetica,20"
 
-set arrow from 150,42 to 447,42 as 3
-set label "+298 [M]" at 298,43 center font "Helvetica,20"
+set arrow from 150,44 to 447,44 as 3
+#set label "+298 [M]" at 298,43 center font "Helvetica,20"
+set label "+[HCO_2C_6H_4N_2^+ TfO^-]" at 298,46 center font "Helvetica,20"
 
-set arrow from 447,42 to 745,42 as 3
-set label "+298 [M]" at 596,43 center font "Helvetica,20"
+set arrow from 447,44 to 745,44 as 3
+set label "+[HCO_2C_6H_4N_2^+ TfO^-]" at 596,46 center font "Helvetica,20"
 
-set arrow from 745,42 to 1043,42 as 3
-set label "+298 [M]" at 894,43 center font "Helvetica,20"
+set arrow from 745,44 to 1043,44 as 3
+set label "+[HCO_2C_6H_4N_2^+ TfO^-]" at 894,46 center font "Helvetica,20"
 
 #set arrow from 1043,42 to 1341,42 as 3
 #set label "+298 [M]" at 1192,43 center font "Helvetica,20"
