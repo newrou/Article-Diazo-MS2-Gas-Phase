@@ -1,7 +1,7 @@
 set terminal postscript eps mono
 set key inside right top vertical Right noreverse enhanced autotitles box linetype -1 linewidth 0.200
 #set title "TD spectr" 
-set xlabel "d, A" font "Helvetica-Bold,16"
+set xlabel "d(C-NN), A" font "Helvetica-Bold,18"
 set bars small
 set xrange [1.1:4.9]
 #set yrange [-100:0]
@@ -23,11 +23,11 @@ set terminal png size 1200,900 enhanced font "Helvetica,18"
 
 set nokey
 set output "scan.png"
-set ylabel "E, kJ/mol" font "Helvetica-Bold,16"
+set ylabel "E, kJ/mol" font "Helvetica-Bold,18"
 plot "o-NO2-Ph-N2+-B3LYPG-aug-cc-pVDZ-scan-d09-49-n400.csv" using 2:5 with lines linestyle 3 ti ""
 
 set output "scan-eh.png"
-set ylabel "E, eh" font "Helvetica-Bold,16"
+set ylabel "E, eh" font "Helvetica-Bold,18"
 plot "o-NO2-Ph-N2+-B3LYPG-aug-cc-pVDZ-scan-d09-49-n400.csv" using 2:3 with lines linestyle 3 ti ""
 quit
 
