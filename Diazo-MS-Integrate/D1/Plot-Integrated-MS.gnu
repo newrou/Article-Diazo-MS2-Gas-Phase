@@ -43,7 +43,7 @@ set nokey
 set output 'tmp-ms.svg'
 
 set arrow from 122,0 to 122,900 as 2
-set label "(B)" at 127,50 center font "Helvetica,20"
+set label "(B)" at 95,810 center font "Helvetica,20"
 set arrow from 150,0 to 150,900 as 2
 set label "(A)" at 175,810 center font "Helvetica,20"
 set arrow from 449,0 to 449,900 as 2
