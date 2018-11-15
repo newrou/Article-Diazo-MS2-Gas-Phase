@@ -1,0 +1,28 @@
+
+<style type="text/css">
+ table {background-color: #808080;}
+ tr {background-color: #FFFFFF;}
+ tr:hover {background-color: #FFFF99;}
+article {
+  display: block;
+  float: left;
+  background: #fff;
+}
+aside {
+  display: block;
+  margin-left: 400px;
+}
+#aside1 {
+  position: fixed;
+  z-index: 101;
+  height: 100%;
+  text-align: left;
+}
+td {
+  font-size: 9pt; 
+  text-align: center;
+  padding: 3px;
+  padding-left: 18px;
+  padding-right: 18px;
+}
+</style>
