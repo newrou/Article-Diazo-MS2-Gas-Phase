@@ -1,0 +1,4 @@
+%mem=500MW
+%nproc=7
+# rb3lyp/aug-cc-pVDZ opt=ts geom=connectivity freq=noraman
+

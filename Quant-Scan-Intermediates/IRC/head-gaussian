@@ -1,0 +1,4 @@
+%mem=500MW
+%nproc=7
+# rb3lyp/aug-cc-pVDZ irc=(calcfc,maxcycle=1000,maxpoints=10000,stepsize=1) scf=(xqc,maxcycle=1000) nosymm
+
