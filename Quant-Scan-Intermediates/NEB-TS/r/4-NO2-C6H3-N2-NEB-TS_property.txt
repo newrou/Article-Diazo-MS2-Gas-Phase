@@ -1,0 +1,1775 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:     -544.9761606370
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 2
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 2
+   prop. index: 1
+        SCF Energy:     -544.9733477070
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 3
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 3
+   prop. index: 1
+        SCF Energy:     -544.9733592116
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 4
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 4
+   prop. index: 1
+        SCF Energy:     -544.9733619682
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 5
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 5
+   prop. index: 1
+        SCF Energy:     -544.9733191532
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 6
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 6
+   prop. index: 1
+        SCF Energy:     -544.9733656131
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 7
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 7
+   prop. index: 1
+        SCF Energy:     -544.9733681021
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 8
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 8
+   prop. index: 1
+        SCF Energy:     -544.9733702251
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 9
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 9
+   prop. index: 1
+        SCF Energy:     -544.9733720378
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 10
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 10
+   prop. index: 1
+        SCF Energy:     -544.9733737641
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 11
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 11
+   prop. index: 1
+        SCF Energy:     -544.9733753540
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 12
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 12
+   prop. index: 1
+        SCF Energy:     -544.9733768160
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 13
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 13
+   prop. index: 1
+        SCF Energy:     -544.9733781559
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 14
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 14
+   prop. index: 1
+        SCF Energy:     -544.9733793891
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 15
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 15
+   prop. index: 1
+        SCF Energy:     -544.9733805039
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 16
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 16
+   prop. index: 1
+        SCF Energy:     -544.9733815846
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 17
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 17
+   prop. index: 1
+        SCF Energy:     -544.9733825531
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 18
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 18
+   prop. index: 1
+        SCF Energy:     -544.9733834527
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 19
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 19
+   prop. index: 1
+        SCF Energy:     -544.9733842675
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 20
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 20
+   prop. index: 1
+        SCF Energy:     -544.9733850866
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 21
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 21
+   prop. index: 1
+        SCF Energy:     -544.9733858340
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 22
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 22
+   prop. index: 1
+        SCF Energy:     -544.9733865217
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 23
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 23
+   prop. index: 1
+        SCF Energy:     -544.9733872012
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 24
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 24
+   prop. index: 1
+        SCF Energy:     -544.9733877995
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 25
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 25
+   prop. index: 1
+        SCF Energy:     -544.9733883730
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 26
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 26
+   prop. index: 1
+        SCF Energy:     -544.9733889052
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 27
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 27
+   prop. index: 1
+        SCF Energy:     -544.9733894447
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 28
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 28
+   prop. index: 1
+        SCF Energy:     -544.9733899075
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 29
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 29
+   prop. index: 1
+        SCF Energy:     -544.9733903687
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 30
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 30
+   prop. index: 1
+        SCF Energy:     -544.9733908005
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 31
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 31
+   prop. index: 1
+        SCF Energy:     -544.9733911740
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 32
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 32
+   prop. index: 1
+        SCF Energy:     -544.9733915286
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 33
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 33
+   prop. index: 1
+        SCF Energy:     -544.9733918898
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 34
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 34
+   prop. index: 1
+        SCF Energy:     -544.9733922201
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 35
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 35
+   prop. index: 1
+        SCF Energy:     -544.9733925142
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 36
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 36
+   prop. index: 1
+        SCF Energy:     -544.9733928089
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 37
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 37
+   prop. index: 1
+        SCF Energy:     -544.9733930911
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 38
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 38
+   prop. index: 1
+        SCF Energy:     -544.9733933323
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 39
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 39
+   prop. index: 1
+        SCF Energy:     -544.9733935804
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 40
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 40
+   prop. index: 1
+        SCF Energy:     -544.9733938012
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 41
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 41
+   prop. index: 1
+        SCF Energy:     -544.9733940094
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 42
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 42
+   prop. index: 1
+        SCF Energy:     -544.9733942139
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 43
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 43
+   prop. index: 1
+        SCF Energy:     -544.9733944005
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 44
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 44
+   prop. index: 1
+        SCF Energy:     -544.9733945662
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 45
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 45
+   prop. index: 1
+        SCF Energy:     -544.9733947198
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 46
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 46
+   prop. index: 1
+        SCF Energy:     -544.9733948817
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 47
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 47
+   prop. index: 1
+        SCF Energy:     -544.9733950196
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 48
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 48
+   prop. index: 1
+        SCF Energy:     -544.9733951650
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 49
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 49
+   prop. index: 1
+        SCF Energy:     -544.9733952817
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 50
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 50
+   prop. index: 1
+        SCF Energy:     -544.9733953914
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 51
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 51
+   prop. index: 1
+        SCF Energy:     -544.9733955030
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 52
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 52
+   prop. index: 1
+        SCF Energy:     -544.9733955991
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 53
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 53
+   prop. index: 1
+        SCF Energy:     -544.9733956903
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 54
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 54
+   prop. index: 1
+        SCF Energy:     -544.9733957846
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 55
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 55
+   prop. index: 1
+        SCF Energy:     -544.9733958731
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 56
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 56
+   prop. index: 1
+        SCF Energy:     -544.9733959439
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 57
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 57
+   prop. index: 1
+        SCF Energy:     -544.9733960322
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 58
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 58
+   prop. index: 1
+        SCF Energy:     -544.9733960954
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 59
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 59
+   prop. index: 1
+        SCF Energy:     -544.9733961653
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 60
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 60
+   prop. index: 1
+        SCF Energy:     -544.9733962233
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 61
+   prop. index: 1
+        Diskflag:     0
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 61
+   prop. index: 1
+        SCF Energy:     -544.9733962850
+-------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+-------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    1
+    Coordinates:
+            C     -1.985786413313   -0.202534829965   -0.627645674871
+            C     -0.563780206014   -0.257836563156   -0.769303993168
+            C      0.011585651394    0.877048899016   -0.190182523225
+            C     -0.568152341133    1.993828386125    0.470093029837
+            C     -1.943198421916    1.971545111434    0.556743492970
+            C     -2.621196318840    0.865339105379   -0.006521672358
+            H     -2.605609452818   -1.012331356023   -1.013133821508
+            H      0.023150405690    2.811681500167    0.882536875672
+            H     -2.504681438552    2.766061811311    1.039233482398
+            N     -4.109236945614    0.864752253429    0.098971765095
+            O     -4.724230422632   -0.005745658521   -0.504902622051
+            O     -4.628811657256    1.736648942772    0.792509418436
+            N      1.416827028583    0.879993185632   -0.310536253137
+            N      2.522620532422    0.814969212400   -0.438471504089
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    2
+    Coordinates:
+            C     -0.398407383462   -1.203311808228   -0.630878363859
+            C      1.019869182015   -1.208609410447   -0.740735119252
+            C      1.540789570811   -0.110223026477   -0.174184844640
+            C      1.007097839547    1.002464480292    0.481255220266
+            C     -0.376850544077    0.967938868756    0.566393101712
+            C     -1.044868649713   -0.138384065986    0.001039325393
+            H     -1.006325384828   -2.016355958533   -1.028339638104
+            H      1.606082321996    1.817094652468    0.887309337769
+            H     -0.942502891422    1.759243734512    1.049326563258
+            N     -2.526588188799   -0.153532701419    0.100887092546
+            O     -3.129167711621   -1.043381164609   -0.489236934438
+            O     -3.062051202243    0.726694240012    0.771701533838
+            N      3.128456376580   -0.069062796540   -0.283549947699
+            N      4.184466665216   -0.330575043802   -0.510987326789
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    3
+    Coordinates:
+            C     -0.397567810580   -1.202707297949   -0.631115229253
+            C      1.020888592887   -1.207417749951   -0.740607657766
+            C      1.541129948627   -0.110154413398   -0.174245991011
+            C      1.007643444780    1.002674318952    0.481161010493
+            C     -0.376885530382    0.967567947686    0.566177315277
+            C     -1.045755703669   -0.138443314922    0.001056177029
+            H     -1.004073344218   -2.015867416517   -1.028913624233
+            H      1.605768637137    1.818004792453    0.887809418593
+            H     -0.942564131052    1.758709344286    1.049010918143
+            N     -2.529251235230   -0.153754488474    0.101388641846
+            O     -3.132999001713   -1.043662217211   -0.487768084208
+            O     -3.065198885203    0.726957255389    0.771440813157
+            N      3.131871389747   -0.069136500361   -0.283576465924
+            N      4.186993628870   -0.332770259984   -0.511817242143
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    4
+    Coordinates:
+            C     -0.397442260061   -1.202306824543   -0.631342477573
+            C      1.021112313233   -1.208063932834   -0.741284495742
+            C      1.542656109366   -0.110319942364   -0.174536378750
+            C      1.008036233188    1.002501136106    0.481070911480
+            C     -0.376420259386    0.967456479314    0.565797346061
+            C     -1.045747848858   -0.138285014375    0.000616858093
+            H     -1.003875993431   -2.015429830347   -1.029609978084
+            H      1.605236313396    1.818219047395    0.888326156799
+            H     -0.942179350331    1.758660882351    1.048590185059
+            N     -2.529597936262   -0.153097752358    0.100845220727
+            O     -3.133375321027   -1.044584173636   -0.485866822285
+            O     -3.064945727409    0.727236292673    0.771745169015
+            N      3.130157368166   -0.070935677026   -0.284119656623
+            N      4.186386359416   -0.331050690355   -0.510232038176
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    5
+    Coordinates:
+            C     -0.396967522421   -1.203412497946   -0.629348613266
+            C      1.021313416242   -1.207098315123   -0.740676600698
+            C      1.541768404852   -0.109506281643   -0.174491644721
+            C      1.007672802224    1.002673473329    0.482031151492
+            C     -0.376816036973    0.965899655500    0.568368720480
+            C     -1.045747983621   -0.140453147788    0.004004504547
+            H     -1.002637274768   -2.017290936276   -1.027191979399
+            H      1.604116110894    1.819143429761    0.888878378360
+            H     -0.942895373963    1.756311895374    1.052151912032
+            N     -2.529385040515   -0.157508428116    0.106568960635
+            O     -3.133447282315   -1.040918623919   -0.491304077215
+            O     -3.066096320354    0.733681391203    0.762511254207
+            N      3.131827243322   -0.069415677723   -0.286138812302
+            N      4.187294857396   -0.332105936633   -0.515363154153
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    6
+    Coordinates:
+            C     -0.397334312343   -1.201996740448   -0.631473609425
+            C      1.021122780987   -1.207315738462   -0.741431760306
+            C      1.542246401257   -0.109874341285   -0.174498036997
+            C      1.007959601008    1.002712895716    0.481521899745
+            C     -0.376520141187    0.967122306893    0.566471920247
+            C     -1.045838331871   -0.138496726930    0.001127466547
+            H     -1.003369140165   -2.015203527924   -1.030173723477
+            H      1.604516443052    1.818751310347    0.889067797854
+            H     -0.942410803402    1.758043004981    1.049608162621
+            N     -2.529675192376   -0.153771285666    0.101618503728
+            O     -3.133121725923   -1.046004828293   -0.484251064015
+            O     -3.065459540318    0.729507116919    0.768369326377
+            N      3.130923940492   -0.070998825058   -0.284522823730
+            N      4.186960020789   -0.332474620790   -0.511434059169
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    7
+    Coordinates:
+            C     -0.397411443602   -1.201531778993   -0.632091566716
+            C      1.021062995560   -1.206722394191   -0.742118285900
+            C      1.542282902038   -0.109618212224   -0.174681970805
+            C      1.008033909701    1.002733847583    0.481752800566
+            C     -0.376506507498    0.967026252305    0.566622794059
+            C     -1.045962703884   -0.138398118250    0.001040517150
+            H     -1.003285766731   -2.014582259629   -1.031365616501
+            H      1.604193941860    1.818829235668    0.889753820687
+            H     -0.942423929347    1.757768964625    1.050061352177
+            N     -2.529828942719   -0.153827734109    0.101719857983
+            O     -3.132991591922   -1.048345034851   -0.480968319123
+            O     -3.065818547092    0.731179584740    0.766004903386
+            N      3.131352742396   -0.071416322072   -0.284560080578
+            N      4.187302941240   -0.333096030603   -0.511170206387
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    8
+    Coordinates:
+            C     -0.397419892574   -1.201165773119   -0.632536750355
+            C      1.021059967234   -1.206316806263   -0.742598256505
+            C      1.542388399672   -0.109381304286   -0.174785023221
+            C      1.008091729259    1.002755472065    0.482000694398
+            C     -0.376467940226    0.966924328782    0.566849738053
+            C     -1.045999877807   -0.138353642144    0.001036246148
+            H     -1.003161869417   -2.014128208149   -1.032179298728
+            H      1.603937366260    1.818908846323    0.890344285432
+            H     -0.942416358629    1.757522382597    1.050496804584
+            N     -2.529891159495   -0.153937342126    0.101839925296
+            O     -3.132822816903   -1.050086161569   -0.478532003634
+            O     -3.066106052172    0.732585200589    0.763895219427
+            N      3.131393489118   -0.071812077702   -0.284708786887
+            N      4.187415015680   -0.333514914998   -0.511122794008
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    9
+    Coordinates:
+            C     -0.397428446611   -1.200817480022   -0.632924167004
+            C      1.021040778373   -1.205865180737   -0.742993547525
+            C      1.542408811689   -0.109131326929   -0.174890537145
+            C      1.008117668915    1.002845600810    0.482195844339
+            C     -0.376474516514    0.966866790826    0.567086999954
+            C     -1.046043252341   -0.138287596790    0.001080575961
+            H     -1.003060247438   -2.013661597345   -1.032956937532
+            H      1.603732358983    1.819038089376    0.890793237355
+            H     -0.942460556069    1.757331252562    1.050933807148
+            N     -2.529954679802   -0.154091110476    0.101971786545
+            O     -3.132624700024   -1.051694272753   -0.476400023385
+            O     -3.066445959453    0.733745343160    0.762022923443
+            N      3.131601665270   -0.072119063955   -0.284790162855
+            N      4.187591075023   -0.334159447727   -0.511129799300
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    10
+    Coordinates:
+            C     -0.397440985519   -1.200504705314   -0.633381071049
+            C      1.021033382768   -1.205439616336   -0.743553921394
+            C      1.542492625527   -0.108912954956   -0.175017953684
+            C      1.008153481048    1.002803929529    0.482465891098
+            C     -0.376453137626    0.966738340887    0.567328510491
+            C     -1.046062764112   -0.138278704386    0.001072022093
+            H     -1.003001607016   -2.013194402412   -1.033841031948
+            H      1.603577117412    1.818971330037    0.891393328804
+            H     -0.942459431822    1.757037677722    1.051422340458
+            N     -2.529989441029   -0.154188471788    0.102104296177
+            O     -3.132463400608   -1.053570497750   -0.473713332334
+            O     -3.066681868900    0.735388288973    0.759657398941
+            N      3.131650227778   -0.072383844863   -0.284888298429
+            N      4.187645802098   -0.334466369343   -0.511048179223
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    11
+    Coordinates:
+            C     -0.397440588878   -1.200190579369   -0.633820014061
+            C      1.021029463623   -1.205026685974   -0.744024984942
+            C      1.542521995208   -0.108700973163   -0.175115108916
+            C      1.008175252594    1.002790997200    0.482732759318
+            C     -0.376443721307    0.966618107409    0.567614475315
+            C     -1.046073394998   -0.138264236671    0.001095491897
+            H     -1.002932824121   -2.012743859668   -1.034645654038
+            H      1.603453054182    1.818924912774    0.891943220040
+            H     -0.942475414156    1.756766984936    1.051930430298
+            N     -2.530016291119   -0.154287851157    0.102202409638
+            O     -3.132269758936   -1.055344012085   -0.471214282032
+            O     -3.066951653017    0.736906557286    0.757356015485
+            N      3.131720640496   -0.072580048916   -0.284973243017
+            N      4.187703240429   -0.334869312601   -0.511081514985
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    12
+    Coordinates:
+            C     -0.397446986068   -1.199888261647   -0.634256052754
+            C      1.021018730494   -1.204609461502   -0.744541600142
+            C      1.542558202043   -0.108501934320   -0.175237929632
+            C      1.008199274913    1.002753625356    0.483001372085
+            C     -0.376433304173    0.966496047703    0.567892979765
+            C     -1.046084812271   -0.138250279632    0.001118338164
+            H     -1.002892164237   -2.012279059939   -1.035475259797
+            H      1.603363783020    1.818823504893    0.892503650594
+            H     -0.942482688817    1.756492296517    1.052443456705
+            N     -2.530045871756   -0.154386661447    0.102311501666
+            O     -3.132078418137   -1.057165958098   -0.468621562137
+            O     -3.067225993563    0.738482086833    0.754979295977
+            N      3.131798122423   -0.072746516280   -0.285043034905
+            N      4.187752126130   -0.335219428437   -0.511075155588
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    13
+    Coordinates:
+            C     -0.397448940704   -1.199591486543   -0.634669470216
+            C      1.021012738245   -1.204214413263   -0.744989177663
+            C      1.542590433105   -0.108304014416   -0.175338336894
+            C      1.008216105212    1.002742360671    0.483242243182
+            C     -0.376430538967    0.966392744574    0.568156741710
+            C     -1.046094927811   -0.138231168601    0.001141986392
+            H     -1.002847515982   -2.011845105659   -1.036224616652
+            H      1.603284518326    1.818756163007    0.892994157548
+            H     -0.942502018842    1.756251145171    1.052910335933
+            N     -2.530074181931   -0.154489731752    0.102410957447
+            O     -3.131892674704   -1.058813354179   -0.466285171987
+            O     -3.067493269665    0.739858965168    0.752837530823
+            N      3.131880779157   -0.072893567655   -0.285092960483
+            N      4.187799494561   -0.335618536523   -0.511094219139
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    14
+    Coordinates:
+            C     -0.397450631142   -1.199312531802   -0.635063802469
+            C      1.021006222741   -1.203828905334   -0.745441741371
+            C      1.542629668286   -0.108115748966   -0.175446255431
+            C      1.008231855769    1.002720517852    0.483479600284
+            C     -0.376428085571    0.966291266995    0.568407043895
+            C     -1.046103705089   -0.138215328914    0.001162813144
+            H     -1.002812019187   -2.011417068772   -1.036969516237
+            H      1.603221282924    1.818669183010    0.893479439794
+            H     -0.942520980569    1.756012094871    1.053364703858
+            N     -2.530101004708   -0.154588736795    0.102510493180
+            O     -3.131715102846   -1.060433328086   -0.463971077689
+            O     -3.067744071381    0.741226747469    0.750722939900
+            N      3.131955257513   -0.073025546624   -0.285136772437
+            N      4.187831313260   -0.335982614903   -0.511097868422
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    15
+    Coordinates:
+            C     -0.397451124066   -1.199026277684   -0.635435386695
+            C      1.020995879003   -1.203466577022   -0.745833480599
+            C      1.542658578171   -0.107939029753   -0.175543434049
+            C      1.008245551689    1.002724445592    0.483685298864
+            C     -0.376427412357    0.966221045485    0.568641994245
+            C     -1.046113279891   -0.138172791504    0.001189346633
+            H     -1.002781897043   -2.011001537417   -1.037639666684
+            H      1.603176495923    1.818613329668    0.893900261151
+            H     -0.942538044821    1.755817852407    1.053788436124
+            N     -2.530128961006   -0.154696386875    0.102602147519
+            O     -3.131513603244   -1.061923736094   -0.461896235820
+            O     -3.068021739764    0.742396932383    0.748821846541
+            N      3.132035667480   -0.073156002151   -0.285167383080
+            N      4.187863889926   -0.336391267036   -0.511113744150
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    16
+    Coordinates:
+            C     -0.397449436300   -1.198781786305   -0.635809179287
+            C      1.020994314048   -1.203108761892   -0.746287679415
+            C      1.542711435501   -0.107767238536   -0.175645081916
+            C      1.008258819831    1.002677407363    0.483925336641
+            C     -0.376422088830    0.966107681990    0.568877582421
+            C     -1.046115282833   -0.138176557782    0.001200521432
+            H     -1.002752220456   -2.010606292977   -1.038355454569
+            H      1.603123953002    1.818491303596    0.894381221380
+            H     -0.942553973507    1.755570760064    1.054217230172
+            N     -2.530145979908   -0.154777342276    0.102692911612
+            O     -3.131363133360   -1.063466495880   -0.459629528832
+            O     -3.068218075251    0.743764745341    0.746748546042
+            N      3.132071888604   -0.073255193075   -0.285204910913
+            N      4.187859779458   -0.336672229631   -0.511111514768
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    17
+    Coordinates:
+            C     -0.397443442114   -1.198529111843   -0.636158739827
+            C      1.020995762660   -1.202769809744   -0.746641397246
+            C      1.542741060925   -0.107593312821   -0.175720217717
+            C      1.008264001350    1.002676839819    0.484126799624
+            C     -0.376425959181    0.966023194858    0.569106412525
+            C     -1.046118663867   -0.138162304813    0.001221947038
+            H     -1.002710203488   -2.010240920947   -1.038978243729
+            H      1.603073682948    1.818434172113    0.894776695703
+            H     -0.942581400314    1.755369003202    1.054612136039
+            N     -2.530164883873   -0.154868414641    0.102771004686
+            O     -3.131198526780   -1.064822359510   -0.457682876598
+            O     -3.068440291650    0.744883547129    0.744950719104
+            N      3.132137500365   -0.073345213861   -0.285226631809
+            N      4.187871363019   -0.337055308941   -0.511157607793
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    18
+    Coordinates:
+            C     -0.397438491006   -1.198295029860   -0.636477833606
+            C      1.020993222481   -1.202429566450   -0.747001901992
+            C      1.542774519546   -0.107422983463   -0.175806011098
+            C      1.008269622885    1.002672646164    0.484321219995
+            C     -0.376432421173    0.965948845034    0.569314085618
+            C     -1.046125211761   -0.138148859728    0.001244169036
+            H     -1.002675611845   -2.009880793471   -1.039591907332
+            H      1.603028450664    1.818371236143    0.895160596076
+            H     -0.942611018661    1.755181894262    1.054980217983
+            N     -2.530186607555   -0.154960375716    0.102854946159
+            O     -3.131041469990   -1.066134791894   -0.455798060117
+            O     -3.068656539390    0.745957455984    0.743226874056
+            N      3.132217576331   -0.073430188657   -0.285241886484
+            N      4.187883979473   -0.337429488348   -0.511184508293
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    19
+    Coordinates:
+            C     -0.397427880662   -1.198052403848   -0.636789009680
+            C      1.020991838032   -1.202117728132   -0.747314768502
+            C      1.542806227444   -0.107268422217   -0.175884166502
+            C      1.008275518181    1.002689792232    0.484487283880
+            C     -0.376439645181    0.965899225760    0.569501553444
+            C     -1.046130529623   -0.138113758393    0.001254295616
+            H     -1.002638969375   -2.009535315195   -1.040144388052
+            H      1.602992200292    1.818337410601    0.895501407904
+            H     -0.942644668267    1.755023631835    1.055323506789
+            N     -2.530208202983   -0.155059120190    0.102930345144
+            O     -3.130884589979   -1.067341606199   -0.454092963504
+            O     -3.068869102779    0.746884546414    0.741684782798
+            N      3.132286524072   -0.073527375321   -0.285250277840
+            N      4.187891280826   -0.337818877348   -0.511207601494
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    20
+    Coordinates:
+            C     -0.397428562431   -1.197850587285   -0.637105680380
+            C      1.020990226527   -1.201817961583   -0.747723605505
+            C      1.542870500526   -0.107129061188   -0.175967531596
+            C      1.008289805855    1.002623678739    0.484712498438
+            C     -0.376423174620    0.965791426698    0.569710029203
+            C     -1.046125094525   -0.138119067903    0.001269400850
+            H     -1.002624299785   -2.009190922243   -1.040767078699
+            H      1.602960711884    1.818193826137    0.895941484378
+            H     -0.942640619782    1.754801551457    1.055702370241
+            N     -2.530213847329   -0.155117535187    0.103000531064
+            O     -3.130732362046   -1.068699461990   -0.452068490474
+            O     -3.069039035201    0.748116013540    0.739799678535
+            N      3.132274572381   -0.073595132224   -0.285286104766
+            N      4.187841178545   -0.338006766968   -0.511217501288
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    21
+    Coordinates:
+            C     -0.397419726146   -1.197630156766   -0.637417881822
+            C      1.020993042355   -1.201521390050   -0.748033050701
+            C      1.542887875192   -0.106981501010   -0.176030158229
+            C      1.008290620207    1.002614354441    0.484900477888
+            C     -0.376427231111    0.965708907388    0.569925412300
+            C     -1.046123680532   -0.138108229019    0.001290115032
+            H     -1.002585763243   -2.008873111958   -1.041311600007
+            H      1.602926136916    1.818125794748    0.896305404774
+            H     -0.942664729690    1.754613896009    1.056069323736
+            N     -2.530222077288   -0.155190528159    0.103059043103
+            O     -3.130574139246   -1.069904737756   -0.450310874327
+            O     -3.069230548174    0.749131943087    0.738143330352
+            N      3.132321228360   -0.073643175387   -0.285300391761
+            N      4.187828992399   -0.338342065569   -0.511289150337
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    22
+    Coordinates:
+            C     -0.397416577125   -1.197414258705   -0.637700265686
+            C      1.020982682925   -1.201224553413   -0.748366540705
+            C      1.542912525698   -0.106847643159   -0.176115697099
+            C      1.008302086299    1.002598552234    0.485079481333
+            C     -0.376426152114    0.965648447267    0.570118791562
+            C     -1.046126809895   -0.138080557053    0.001318466849
+            H     -1.002570538132   -2.008533633632   -1.041856659672
+            H      1.602911376927    1.818041817804    0.896660558145
+            H     -0.942675265237    1.754452741785    1.056414968625
+            N     -2.530239561992   -0.155272837979    0.103128728551
+            O     -3.130401963248   -1.071111662619   -0.448584059544
+            O     -3.069452603709    0.750101483583    0.736532466097
+            N      3.132379083552   -0.073704345161   -0.285311924749
+            N      4.187821716052   -0.338653550952   -0.511318313707
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    23
+    Coordinates:
+            C     -0.397413836024   -1.197224087554   -0.638007216534
+            C      1.020986789723   -1.200950611242   -0.748720326908
+            C      1.542962558529   -0.106717383782   -0.176184752348
+            C      1.008309290055    1.002547629653    0.485278655246
+            C     -0.376419048216    0.965547809424    0.570312356054
+            C     -1.046123855879   -0.138088274238    0.001322407637
+            H     -1.002546965949   -2.008231415687   -1.042412888222
+            H      1.602880749389    1.817920855692    0.897052614732
+            H     -0.942686217332    1.754247842653    1.056762484868
+            N     -2.530244845786   -0.155327335158    0.103190591883
+            O     -3.130277826741   -1.072315317621   -0.446749821406
+            O     -3.069594397041    0.751195790276    0.734831770826
+            N      3.132383855821   -0.073747874392   -0.285331338271
+            N      4.187783749450   -0.338857628024   -0.511344537557
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    24
+    Coordinates:
+            C     -0.397408927991   -1.197026184209   -0.638275783643
+            C      1.020986087448   -1.200677551385   -0.748995046079
+            C      1.542981177988   -0.106578772010   -0.176247690494
+            C      1.008310162353    1.002546409153    0.485439913632
+            C     -0.376424449821    0.965482236342    0.570498710215
+            C     -1.046125468840   -0.138073587260    0.001346918228
+            H     -1.002515790443   -2.007941072433   -1.042901113001
+            H      1.602853494917    1.817865626388    0.897366243122
+            H     -0.942707596888    1.754089664359    1.057079926413
+            N     -2.530254660162   -0.155400049057    0.103247946798
+            O     -3.130130082099   -1.073374330685   -0.445203146586
+            O     -3.069776890667    0.752060262066    0.733381125947
+            N      3.132437415963   -0.073790104108   -0.285335862675
+            N      4.187775528241   -0.339182547160   -0.511402141877
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    25
+    Coordinates:
+            C     -0.397403756065   -1.196841792232   -0.638536715469
+            C      1.020984883885   -1.200408415889   -0.749292607594
+            C      1.543012743898   -0.106451188440   -0.176313265322
+            C      1.008314202581    1.002526750553    0.485606462945
+            C     -0.376427327390    0.965415386233    0.570668846170
+            C     -1.046127647215   -0.138065770144    0.001360551735
+            H     -1.002490229934   -2.007652183417   -1.043399130461
+            H      1.602827224990    1.817787885250    0.897692690220
+            H     -0.942728121103    1.753930924747    1.057383691631
+            N     -2.530267111049   -0.155467765383    0.103310091946
+            O     -3.130001142557   -1.074436948683   -0.443625457063
+            O     -3.069940870731    0.752953782040    0.731924021269
+            N      3.132486244732   -0.073833885764   -0.285341162912
+            N      4.187760905959   -0.339456778870   -0.511438017096
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    26
+    Coordinates:
+            C     -0.397397490416   -1.196658363368   -0.638794081551
+            C      1.020985535461   -1.200160193617   -0.749571974099
+            C      1.543047612307   -0.106331620599   -0.176373120029
+            C      1.008319342624    1.002508259290    0.485767374904
+            C     -0.376426072312    0.965349667032    0.570838508409
+            C     -1.046125382474   -0.138054078240    0.001372765185
+            H     -1.002466198359   -2.007375824841   -1.043866032734
+            H      1.602804361559    1.817712641953    0.898009130661
+            H     -0.942741320563    1.753774254425    1.057682973749
+            N     -2.530275229363   -0.155529522140    0.103363202197
+            O     -3.129866380122   -1.075458162981   -0.442110165720
+            O     -3.070100264626    0.753812096753    0.730510966838
+            N      3.132509276191   -0.073880285451   -0.285351206569
+            N      4.187732210093   -0.339708868215   -0.511478341240
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    27
+    Coordinates:
+            C     -0.397393039117   -1.196483949769   -0.639070252871
+            C      1.020982332756   -1.199912174657   -0.749921011209
+            C      1.543084091079   -0.106231093933   -0.176447338652
+            C      1.008331460714    1.002439769875    0.485970110155
+            C     -0.376412010802    0.965253496774    0.571031590012
+            C     -1.046117314089   -0.138056358673    0.001385099534
+            H     -1.002454476048   -2.007080858173   -1.044391365247
+            H      1.602795110041    1.817564354664    0.898405132211
+            H     -0.942736031698    1.753578235058    1.058031080191
+            N     -2.530275813451   -0.155573924118    0.103411123206
+            O     -3.129726642707   -1.076629926368   -0.440321053836
+            O     -3.070247087778    0.754891125604    0.728809944696
+            N      3.132492748691   -0.073909023839   -0.285379489737
+            N      4.187676672409   -0.339849672444   -0.511513568454
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    28
+    Coordinates:
+            C     -0.397385630118   -1.196303651665   -0.639308015858
+            C      1.020983906618   -1.199665341673   -0.750134374098
+            C      1.543086867131   -0.106101590838   -0.176493066220
+            C      1.008327303669    1.002457473336    0.486099826532
+            C     -0.376424560029    0.965202772531    0.571199669326
+            C     -1.046121443234   -0.138044123688    0.001410344503
+            H     -1.002421629035   -2.006830709628   -1.044801326451
+            H      1.602766879310    1.817541405023    0.898652089645
+            H     -0.942768937982    1.753450011957    1.058302374149
+            N     -2.530286741852   -0.155644913169    0.103461577035
+            O     -3.129597546353   -1.077506736363   -0.439035434396
+            O     -3.070413593342    0.755576199667    0.727601677539
+            N      3.132568970507   -0.073934199982   -0.285368307007
+            N      4.187686154713   -0.340196595507   -0.511587034700
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    29
+    Coordinates:
+            C     -0.397384629027   -1.196146265563   -0.639552081264
+            C      1.020980357776   -1.199429938775   -0.750455392479
+            C      1.543134793137   -0.105999472517   -0.176566441142
+            C      1.008338612620    1.002403701269    0.486273712536
+            C     -0.376415678412    0.965124782111    0.571359681598
+            C     -1.046119146062   -0.138046644256    0.001419382785
+            H     -1.002414163126   -2.006557726037   -1.045286084419
+            H      1.602754866824    1.817419252808    0.898995373405
+            H     -0.942769698264    1.753282938172    1.058596851652
+            N     -2.530293445998   -0.155692495710    0.103518763006
+            O     -3.129476082262   -1.078546522673   -0.437440289754
+            O     -3.070553143698    0.756508826818    0.726117642848
+            N      3.132573345015   -0.073972217222   -0.285384918661
+            N      4.187644011478   -0.340348218424   -0.511596200113
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    30
+    Coordinates:
+            C     -0.397378463597   -1.195975680364   -0.639794445631
+            C      1.020980834193   -1.199207066401   -0.750700620464
+            C      1.543153366813   -0.105895004689   -0.176613179103
+            C      1.008341604357    1.002383759796    0.486426351055
+            C     -0.376414107101    0.965059912432    0.571526212281
+            C     -1.046115781928   -0.138036102384    0.001434123464
+            H     -1.002390745380   -2.006308442480   -1.045703754305
+            H      1.602737790154    1.817345999249    0.899288409625
+            H     -0.942782222356    1.753137363100    1.058879444740
+            N     -2.530296829591   -0.155745925706    0.103559570085
+            O     -3.129345517219   -1.079474446423   -0.436045383931
+            O     -3.070698843075    0.757295362994    0.724793537840
+            N      3.132591732110   -0.073999729606   -0.285392281721
+            N      4.187617182620   -0.340579999518   -0.511657983934
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    31
+    Coordinates:
+            C     -0.397374123308   -1.195819558893   -0.639993228282
+            C      1.020978911773   -1.198978870633   -0.750903556959
+            C      1.543166459494   -0.105775556836   -0.176664731648
+            C      1.008339306595    1.002399934935    0.486539261520
+            C     -0.376426211800    0.965021002847    0.571662208348
+            C     -1.046121758793   -0.138022643140    0.001456292478
+            H     -1.002366635944   -2.006075203974   -1.046085526931
+            H      1.602711326619    1.817325649177    0.899508099842
+            H     -0.942812759867    1.753029505652    1.059110020364
+            N     -2.530309613422   -0.155814638679    0.103613413409
+            O     -3.129231670540   -1.080258997544   -0.434892587387
+            O     -3.070849191827    0.757893943543    0.723731939969
+            N      3.132669524948   -0.074032513407   -0.285379101265
+            N      4.187626436072   -0.340892053048   -0.511702503459
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    32
+    Coordinates:
+            C     -0.397371210659   -1.195669153984   -0.640200795196
+            C      1.020979007341   -1.198775037428   -0.751132140584
+            C      1.543205535092   -0.105678477620   -0.176714156987
+            C      1.008342945260    1.002385726989    0.486665316092
+            C     -0.376427799106    0.964974301088    0.571784680570
+            C     -1.046122503058   -0.138008012351    0.001459407098
+            H     -1.002349929542   -2.005845931452   -1.046470501076
+            H      1.602692295555    1.817266884912    0.899760699282
+            H     -0.942828081087    1.752911554910    1.059340446783
+            N     -2.530316494226   -0.155869064956    0.103662717943
+            O     -3.129122783016   -1.081073206426   -0.433665727230
+            O     -3.070975328792    0.758560060371    0.722612988452
+            N      3.132693051377   -0.074079005777   -0.285380064252
+            N      4.187601294860   -0.341100638275   -0.511722870895
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    33
+    Coordinates:
+            C     -0.397362353980   -1.195530421299   -0.640410573478
+            C      1.020980684986   -1.198575512490   -0.751384663041
+            C      1.543239545490   -0.105588570811   -0.176762066275
+            C      1.008347452242    1.002345812192    0.486819914467
+            C     -0.376421654694    0.964905385537    0.571935545960
+            C     -1.046115828315   -0.138011681874    0.001471618523
+            H     -1.002330005911   -2.005618502006   -1.046870839398
+            H      1.602675782736    1.817171457440    0.900051768823
+            H     -0.942830760645    1.752765164340    1.059599685038
+            N     -2.530316132119   -0.155907445787    0.103699872849
+            O     -3.129011266486   -1.081943399291   -0.432322361491
+            O     -3.071089907490    0.759345233107    0.721335560756
+            N      3.132681599245   -0.074108004788   -0.285397101102
+            N      4.187552844942   -0.341249514268   -0.511766361631
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    34
+    Coordinates:
+            C     -0.397358415345   -1.195383717113   -0.640622384839
+            C      1.020979480508   -1.198373614712   -0.751609169385
+            C      1.543253581773   -0.105494697591   -0.176808732704
+            C      1.008350634968    1.002325459506    0.486956457435
+            C     -0.376420307912    0.964845371608    0.572083061143
+            C     -1.046113514578   -0.138004647818    0.001486009424
+            H     -1.002312554545   -2.005395882762   -1.047250268189
+            H      1.602661147774    1.817100934853    0.900317025004
+            H     -0.942841014569    1.752632006476    1.059855099811
+            N     -2.530318698762   -0.155954532426    0.103737943444
+            O     -3.128895150187   -1.082772762301   -0.431060014450
+            O     -3.071218722836    0.760055077474    0.720135601306
+            N      3.132704729002   -0.074126687026   -0.285400903750
+            N      4.187528804709   -0.341452308168   -0.511819724250
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    35
+    Coordinates:
+            C     -0.397353592943   -1.195246908457   -0.640811661602
+            C      1.020979426456   -1.198176823194   -0.751810226605
+            C      1.543272306157   -0.105397221178   -0.176854897295
+            C      1.008351235378    1.002322435299    0.487071403049
+            C     -0.376425716200    0.964800006139    0.572210651997
+            C     -1.046115394467   -0.137998368160    0.001500054930
+            H     -1.002292833228   -2.005187026293   -1.047603448370
+            H      1.602642909321    1.817057482700    0.900540835369
+            H     -0.942861836221    1.752521732931    1.060074741978
+            N     -2.530326194637   -0.156007699828    0.103781973670
+            O     -3.128795182936   -1.083509049071   -0.429942244341
+            O     -3.071341239145    0.760656347181    0.719097013397
+            N      3.132747319957   -0.074154554125   -0.285395899325
+            N      4.187518792509   -0.341680353944   -0.511858296852
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    36
+    Coordinates:
+            C     -0.397351242061   -1.195112087425   -0.641011157391
+            C      1.020976795144   -1.197992304988   -0.752047958389
+            C      1.543303346162   -0.105318309288   -0.176904335140
+            C      1.008359273347    1.002283854338    0.487210636373
+            C     -0.376418297798    0.964739861933    0.572343748832
+            C     -1.046111573101   -0.137992397870    0.001507638528
+            H     -1.002284148504   -2.004967604085   -1.047978011805
+            H      1.602633879632    1.816964887415    0.900812328967
+            H     -0.942861460383    1.752390133987    1.060315066270
+            N     -2.530328041643   -0.156047159134    0.103819762216
+            O     -3.128686096190   -1.084325682841   -0.428681130314
+            O     -3.071456891914    0.761374521408    0.717908337382
+            N      3.132744839796   -0.074182066357   -0.285406683255
+            N      4.187479617514   -0.341815647091   -0.511888242274
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    37
+    Coordinates:
+            C     -0.397348557075   -1.194978942033   -0.641207992062
+            C      1.020974841001   -1.197809468586   -0.752263050357
+            C      1.543318597223   -0.105236573989   -0.176947043147
+            C      1.008363562172    1.002254669036    0.487344133358
+            C     -0.376414972699    0.964678789606    0.572484630988
+            C     -1.046109155180   -0.137988491431    0.001521368833
+            H     -1.002271544513   -2.004759378019   -1.048335398046
+            H      1.602622947794    1.816886103984    0.901069767679
+            H     -0.942867521472    1.752260562685    1.060556809178
+            N     -2.530329663512   -0.156086287933    0.103852480012
+            O     -3.128578135679   -1.085106994399   -0.427473570351
+            O     -3.071573978628    0.762060059197    0.716752396788
+            N      3.132759416969   -0.074195841202   -0.285413513061
+            N      4.187454163599   -0.341978206915   -0.511941019812
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    38
+    Coordinates:
+            C     -0.397346422488   -1.194847654695   -0.641378962170
+            C      1.020972484138   -1.197628230293   -0.752434262102
+            C      1.543330005202   -0.105144677719   -0.176988921399
+            C      1.008362599084    1.002260246597    0.487440858725
+            C     -0.376422427625    0.964643220495    0.572599938283
+            C     -1.046112226315   -0.137975701107    0.001538101790
+            H     -1.002255034269   -2.004567350922   -1.048647734303
+            H      1.602605098358    1.816856243035    0.901258211706
+            H     -0.942886408450    1.752168243827    1.060752477262
+            N     -2.530336265094   -0.156139054900    0.103893898853
+            O     -3.128477550798   -1.085757847298   -0.426494350508
+            O     -3.071696094741    0.762565384450    0.715842697720
+            N      3.132808957048   -0.074221527468   -0.285402721498
+            N      4.187453285951   -0.342211294001   -0.511979232359
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    39
+    Coordinates:
+            C     -0.397343380662   -1.194730378935   -0.641558272234
+            C      1.020972110966   -1.197458461315   -0.752650753841
+            C      1.543362592769   -0.105068994208   -0.177034689575
+            C      1.008367922045    1.002227887473    0.487564140559
+            C     -0.376418998161    0.964588150470    0.572714940399
+            C     -1.046110243877   -0.137976338885    0.001542307830
+            H     -1.002243491605   -2.004372545532   -1.048990911748
+            H      1.602594174550    1.816779178651    0.901499252467
+            H     -0.942893969432    1.752049856160    1.060962353858
+            N     -2.530339432365   -0.156176169371    0.103931897513
+            O     -3.128391455284   -1.086479146718   -0.425359986356
+            O     -3.071789945933    0.763204717873    0.714788079103
+            N      3.132812993104   -0.074248677856   -0.285408181887
+            N      4.187421123886   -0.342339077806   -0.512000176088
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    40
+    Coordinates:
+            C     -0.397339590486   -1.194610003191   -0.641724801495
+            C      1.020972104242   -1.197293878463   -0.752816610125
+            C      1.543376010894   -0.104988145471   -0.177064750981
+            C      1.008367903311    1.002220170026    0.487670272190
+            C     -0.376420623806    0.964544872611    0.572832368027
+            C     -1.046109342863   -0.137969735796    0.001556489440
+            H     -1.002226153083   -2.004194528902   -1.049289549988
+            H      1.602576771573    1.816736118466    0.901698810491
+            H     -0.942906816149    1.751950956535    1.061157398272
+            N     -2.530341902319   -0.156216760951    0.103963075397
+            O     -3.128293825780   -1.087115877158   -0.424386070095
+            O     -3.071897655153    0.763732008797    0.713863526265
+            N      3.132838335559   -0.074268217389   -0.285406317710
+            N      4.187404784060   -0.342526979115   -0.512053839688
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    41
+    Coordinates:
+            C     -0.397336479015   -1.194493028233   -0.641885172895
+            C      1.020969393671   -1.197133505418   -0.752997869614
+            C      1.543395516573   -0.104914805425   -0.177107981689
+            C      1.008371371953    1.002205573312    0.487774977213
+            C     -0.376421538781    0.964504904899    0.572941116342
+            C     -1.046108963789   -0.137960341933    0.001566796458
+            H     -1.002215683683   -2.004009977563   -1.049596627543
+            H      1.602567759871    1.816682785988    0.901905032703
+            H     -0.942916365052    1.751853006779    1.061352061739
+            N     -2.530345808239   -0.156257949240    0.103998467073
+            O     -3.128198925322   -1.087765212851   -0.423389896207
+            O     -3.072004570623    0.764271055954    0.712929831208
+            N      3.132859259808   -0.074295498534   -0.285407125631
+            N      4.187385032627   -0.342687007735   -0.512083609156
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    42
+    Coordinates:
+            C     -0.397332697234   -1.194382164541   -0.642049101120
+            C      1.020968842365   -1.196978168023   -0.753182027469
+            C      1.543416666629   -0.104844735285   -0.177142892987
+            C      1.008374863905    1.002181154301    0.487886767909
+            C     -0.376419255428    0.964455920157    0.573052915783
+            C     -1.046106807024   -0.137958967464    0.001575234190
+            H     -1.002203465764   -2.003834376035   -1.049899478865
+            H      1.602556141301    1.816617176022    0.902117917666
+            H     -0.942922913801    1.751748458347    1.061546077292
+            N     -2.530347036020   -0.156292102303    0.104029082346
+            O     -3.128111860099   -1.088410409377   -0.422378540869
+            O     -3.072096909267    0.764834189162    0.711974674661
+            N      3.132866222180   -0.074315599416   -0.285410094630
+            N      4.187358208257   -0.342820375545   -0.512120533907
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    43
+    Coordinates:
+            C     -0.397329379177   -1.194276229793   -0.642202770865
+            C      1.020970112163   -1.196826131113   -0.753343716435
+            C      1.543432172302   -0.104770514803   -0.177174623311
+            C      1.008373739830    1.002168942434    0.487988966593
+            C     -0.376423810657    0.964410635277    0.573160850899
+            C     -1.046105381011   -0.137959650678    0.001585620315
+            H     -1.002188378863   -2.003671472123   -1.050183926804
+            H      1.602539990618    1.816570276643    0.902310196486
+            H     -0.942936445916    1.751649799669    1.061727446385
+            N     -2.530348592130   -0.156326811817    0.104059519547
+            O     -3.128030256645   -1.089003099328   -0.421449143937
+            O     -3.072186482486    0.765344333993    0.711096341086
+            N      3.132889983643   -0.074331756053   -0.285409107399
+            N      4.187342728329   -0.342978322307   -0.512165652560
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    44
+    Coordinates:
+            C     -0.397327224053   -1.194167174814   -0.642343447206
+            C      1.020967149192   -1.196678047705   -0.753486799137
+            C      1.543445630856   -0.104697581928   -0.177206469377
+            C      1.008375423965    1.002170067329    0.488072101202
+            C     -0.376425725931    0.964383297410    0.573253099587
+            C     -1.046107575023   -0.137946563680    0.001597535767
+            H     -1.002175168091   -2.003508180542   -1.050443915627
+            H      1.602527804904    1.816541987106    0.902472343240
+            H     -0.942948572790    1.751574545604    1.061887896707
+            N     -2.530354509196   -0.156370382113    0.104092629900
+            O     -3.127943259200   -1.089546664749   -0.420627926936
+            O     -3.072289781950    0.765763380302    0.710332866170
+            N      3.132922564105   -0.074358334312   -0.285400777398
+            N      4.187333243210   -0.343160347908   -0.512199136890
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    45
+    Coordinates:
+            C     -0.397324248053   -1.194065529511   -0.642475484757
+            C      1.020965973632   -1.196539475572   -0.753623024411
+            C      1.543463868164   -0.104628380560   -0.177236797456
+            C      1.008376542997    1.002170493042    0.488151325025
+            C     -0.376428719243    0.964357337598    0.573336811016
+            C     -1.046109121393   -0.137934230897    0.001605249168
+            H     -1.002162345328   -2.003355457148   -1.050691759408
+            H      1.602513585128    1.816517393226    0.902627597990
+            H     -0.942962418735    1.751503059314    1.062036823207
+            N     -2.530359254389   -0.156410869274    0.104124228673
+            O     -3.127863921765   -1.090058054202   -0.419850929718
+            O     -3.072380691648    0.766160243230    0.709617401541
+            N      3.132949554999   -0.074387711886   -0.285393515884
+            N      4.187321195634   -0.343328817359   -0.512227924988
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    46
+    Coordinates:
+            C     -0.397320877877   -1.193973020919   -0.642619668448
+            C      1.020966172620   -1.196407063487   -0.753795418025
+            C      1.543490639201   -0.104570176452   -0.177269398357
+            C      1.008381598054    1.002138936610    0.488256352278
+            C     -0.376423340923    0.964309384039    0.573433659214
+            C     -1.046105707274   -0.137935747848    0.001609409876
+            H     -1.002152779511   -2.003200230026   -1.050967284265
+            H      1.602503908181    1.816449763624    0.902829161942
+            H     -0.942965460449    1.751403660423    1.062210134605
+            N     -2.530358687662   -0.156436523142    0.104150377131
+            O     -3.127789629041   -1.090639700454   -0.418922371592
+            O     -3.072453417625    0.766686620483    0.708741307696
+            N      3.132941656235   -0.074408263216   -0.285400135907
+            N      4.187285926071   -0.343417639634   -0.512256126148
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    47
+    Coordinates:
+            C     -0.397316669882   -1.193873896642   -0.642746367129
+            C      1.020965724840   -1.196274999066   -0.753909449402
+            C      1.543496636366   -0.104501946370   -0.177292182656
+            C      1.008379962326    1.002145321070    0.488331647097
+            C     -0.376427871887    0.964282781784    0.573524109838
+            C     -1.046106200166   -0.137925001120    0.001622868589
+            H     -1.002136502107   -2.003060070438   -1.051191134395
+            H      1.602487369993    1.816430702996    0.902970224754
+            H     -0.942978642695    1.751333693738    1.062358297021
+            N     -2.530360622447   -0.156473924272    0.104175152058
+            O     -3.127707819614   -1.091112616593   -0.418205890374
+            O     -3.072544567537    0.767052776923    0.708060443628
+            N      3.132971764970   -0.074427110755   -0.285392500944
+            N      4.187277437840   -0.343595711255   -0.512305218084
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    48
+    Coordinates:
+            C     -0.397313704002   -1.193785510285   -0.642884800156
+            C      1.020963971556   -1.196146429606   -0.754087150429
+            C      1.543521128891   -0.104450427252   -0.177329972666
+            C      1.008385905685    1.002110463796    0.488436225411
+            C     -0.376423338618    0.964236215430    0.573617391333
+            C     -1.046102561898   -0.137927005167    0.001626457236
+            H     -1.002131509810   -2.002905713490   -1.051465039306
+            H      1.602482707938    1.816355238466    0.903173399427
+            H     -0.942979361225    1.751235932890    1.062529180301
+            N     -2.530360131884   -0.156498482791    0.104202096261
+            O     -3.127635856806   -1.091689897885   -0.417278103197
+            O     -3.072616070696    0.767579617749    0.707185922235
+            N      3.132964925613   -0.074446842677   -0.285399943793
+            N      4.187243895256   -0.343667159178   -0.512325662659
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    49
+    Coordinates:
+            C     -0.397310894133   -1.193690818435   -0.643000763580
+            C      1.020963962168   -1.196022821972   -0.754172983164
+            C      1.543521382356   -0.104381559197   -0.177344290546
+            C      1.008382258055    1.002128498071    0.488496289865
+            C     -0.376430559283    0.964217653077    0.573698058745
+            C     -1.046105441966   -0.137914708076    0.001640201855
+            H     -1.002114478844   -2.002779472396   -1.051660409968
+            H      1.602464832868    1.816357353754    0.903284269622
+            H     -0.942998565308    1.751181138844    1.062656376993
+            N     -2.530364244003   -0.156538249515    0.104225764709
+            O     -3.127561281913   -1.092093860830   -0.416677207338
+            O     -3.072704538202    0.767866406818    0.706619176780
+            N      3.133009666574   -0.074462776106   -0.285384609623
+            N      4.187247901632   -0.343866784037   -0.512379874351
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    50
+    Coordinates:
+            C     -0.397308845741   -1.193611241164   -0.643102514571
+            C      1.020962674210   -1.195901711359   -0.754293033833
+            C      1.543542488490   -0.104321747219   -0.177372727284
+            C      1.008382601831    1.002128395286    0.488562251289
+            C     -0.376436243547    0.964198505104    0.573760544147
+            C     -1.046108471791   -0.137907561292    0.001647058363
+            H     -1.002104927275   -2.002650507156   -1.051873997875
+            H      1.602450358875    1.816335483450    0.903412216805
+            H     -0.943012840925    1.751125092866    1.062770108027
+            N     -2.530370602194   -0.156573701603    0.104257572043
+            O     -3.127501449250   -1.092512845512   -0.416031824104
+            O     -3.072778878143    0.768190446255    0.706036709969
+            N      3.133042268694   -0.074492026983   -0.285375865668
+            N      4.187241866764   -0.344006580673   -0.512396497307
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    51
+    Coordinates:
+            C     -0.397304292313   -1.193532508541   -0.643220091145
+            C      1.020965287048   -1.195797489439   -0.754419133455
+            C      1.543568136046   -0.104272849597   -0.177391139252
+            C      1.008385447802    1.002109425485    0.488644549003
+            C     -0.376432256895    0.964163731052    0.573837100978
+            C     -1.046104622685   -0.137906613731    0.001648657884
+            H     -1.002092663556   -2.002527796321   -1.052087128636
+            H      1.602439498405    1.816292665500    0.903567677158
+            H     -0.943017839140    1.751050242836    1.062904063621
+            N     -2.530369267170   -0.156595850217    0.104276894327
+            O     -3.127438777926   -1.092962548783   -0.415315486480
+            O     -3.072837345191    0.768586431802    0.705361676302
+            N      3.133030434385   -0.074516355895   -0.285379563278
+            N      4.187208261190   -0.344090484152   -0.512428077027
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    52
+    Coordinates:
+            C     -0.397299459306   -1.193455651178   -0.643308022503
+            C      1.020968181865   -1.195685937443   -0.754480148185
+            C      1.543571765537   -0.104203264098   -0.177403564995
+            C      1.008379392338    1.002138302663    0.488685762753
+            C     -0.376442594002    0.964153393353    0.573896642141
+            C     -1.046107999316   -0.137897744531    0.001661148475
+            H     -1.002069983186   -2.002424434203   -1.052250242936
+            H      1.602414928510    1.816314714695    0.903643961929
+            H     -0.943042441330    1.751010006685    1.062998408827
+            N     -2.530373544576   -0.156635364789    0.104301072562
+            O     -3.127383712862   -1.093270460024   -0.414862673340
+            O     -3.072905508441    0.768785748439    0.704949218283
+            N      3.133077787653   -0.074536665640   -0.285359956454
+            N      4.187213187116   -0.344292643928   -0.512471606557
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    53
+    Coordinates:
+            C     -0.397298193825   -1.193382094244   -0.643403348962
+            C      1.020965141230   -1.195583740614   -0.754596716972
+            C      1.543594581677   -0.104159497404   -0.177426108217
+            C      1.008383982917    1.002125162341    0.488758046812
+            C     -0.376441398811    0.964133359599    0.573955662507
+            C     -1.046108024785   -0.137886764129    0.001664617902
+            H     -1.002065770941   -2.002303300638   -1.052446736910
+            H      1.602408140787    1.816279878397    0.903781792816
+            H     -0.943046137656    1.750954402687    1.063109658857
+            N     -2.530376850528   -0.156661830839    0.104324640182
+            O     -3.127317849311   -1.093681538823   -0.414232432540
+            O     -3.072977746111    0.769116693454    0.704364880004
+            N      3.133088349790   -0.074565055143   -0.285360015688
+            N      4.187191775567   -0.344385674645   -0.512493939793
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    54
+    Coordinates:
+            C     -0.397290137824   -1.193315050692   -0.643508386973
+            C      1.020969995488   -1.195489505990   -0.754709173456
+            C      1.543615003609   -0.104113750269   -0.177440894475
+            C      1.008384545443    1.002107434121    0.488837503620
+            C     -0.376439750997    0.964098131951    0.574031372367
+            C     -1.046102876944   -0.137891848257    0.001667152705
+            H     -1.002050071003   -2.002199299814   -1.052636277072
+            H      1.602395075830    1.816237250517    0.903927134881
+            H     -0.943052202635    1.750881286121    1.063235427734
+            N     -2.530372929907   -0.156677445411    0.104338451763
+            O     -3.127262840825   -1.094083815287   -0.413578906874
+            O     -3.073024592751    0.769487643027    0.703736815224
+            N      3.133073517334   -0.074581602797   -0.285365381182
+            N      4.187157265181   -0.344459427221   -0.512534838262
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    55
+    Coordinates:
+            C     -0.397289143529   -1.193242584870   -0.643614186916
+            C      1.020968895976   -1.195388170792   -0.754825567345
+            C      1.543622389081   -0.104067784554   -0.177463690120
+            C      1.008386913043    1.002089370716    0.488913874646
+            C     -0.376437455765    0.964063879111    0.574109066553
+            C     -1.046100963870   -0.137888046162    0.001675118206
+            H     -1.002042722525   -2.002083057450   -1.052833257006
+            H      1.602389599823    1.816191894769    0.904074896522
+            H     -0.943054734878    1.750809504676    1.063371116475
+            N     -2.530372170865   -0.156698100527    0.104354759077
+            O     -3.127197224919   -1.094511166685   -0.412902857318
+            O     -3.073091488648    0.769861873512    0.703081909353
+            N      3.133080751292   -0.074589552087   -0.285366112832
+            N      4.187137355784   -0.344548059657   -0.512575069295
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    56
+    Coordinates:
+            C     -0.397286886075   -1.193167292835   -0.643698950798
+            C      1.020968160039   -1.195288499209   -0.754889360941
+            C      1.543622557940   -0.104011968481   -0.177479087928
+            C      1.008384882885    1.002112667480    0.488950442254
+            C     -0.376444635719    0.964058410112    0.574161202384
+            C     -1.046105173567   -0.137873615757    0.001685655237
+            H     -1.002029436788   -2.001982158012   -1.052983617332
+            H      1.602375682932    1.816206693474    0.904148352137
+            H     -0.943073304623    1.750776454745    1.063456601699
+            N     -2.530377962834   -0.156736087181    0.104378896367
+            O     -3.127141656228   -1.094805043388   -0.412473800817
+            O     -3.073162907154    0.770043176958    0.702695464224
+            N      3.133125582585   -0.074609771019   -0.285345277597
+            N      4.187145096610   -0.344722966888   -0.512606518889
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    57
+    Coordinates:
+            C     -0.397283875728   -1.193106687695   -0.643795722276
+            C      1.020968230519   -1.195201140957   -0.755020237352
+            C      1.543650755579   -0.103977827413   -0.177505659296
+            C      1.008390062857    1.002080343272    0.489030517756
+            C     -0.376440132522    0.964024369428    0.574225600834
+            C     -1.046101750848   -0.137875913175    0.001685303223
+            H     -1.002027040620   -2.001870954457   -1.053183667365
+            H      1.602370171769    1.816143844695    0.904300056461
+            H     -0.943071555977    1.750705245792    1.063576696185
+            N     -2.530376656976   -0.156750391238    0.104397904763
+            O     -3.127090517334   -1.095220402826   -0.411793095776
+            O     -3.073209674818    0.770431729749    0.702055396726
+            N      3.133110388714   -0.074630549825   -0.285352967964
+            N      4.187111595385   -0.344751665350   -0.512620125917
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    58
+    Coordinates:
+            C     -0.397279706419   -1.193039481283   -0.643879945149
+            C      1.020970209795   -1.195116222000   -0.755076032402
+            C      1.543651753932   -0.103928921523   -0.177511286751
+            C      1.008386414425    1.002094341115    0.489075902206
+            C     -0.376445683595    0.964008863901    0.574286631706
+            C     -1.046102401529   -0.137869189204    0.001694684482
+            H     -1.002011048574   -2.001783527190   -1.053321529793
+            H      1.602356795618    1.816149116985    0.904381968173
+            H     -0.943087843325    1.750663940433    1.063671010601
+            N     -2.530377097648   -0.156777157464    0.104411260793
+            O     -3.127036551706   -1.095504663034   -0.411363502565
+            O     -3.073267611608    0.770639305030    0.701642895027
+            N      3.133134963507   -0.074643176107   -0.285341363845
+            N      4.187107807128   -0.344893229660   -0.512670692482
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    59
+    Coordinates:
+            C     -0.397278394741   -1.192981348069   -0.643960535329
+            C      1.020967616402   -1.195025414032   -0.755181641335
+            C      1.543665774693   -0.103890547133   -0.177534645407
+            C      1.008388948993    1.002079857377    0.489140268487
+            C     -0.376446761330    0.963986783783    0.574340998550
+            C     -1.046102784879   -0.137866491224    0.001699893672
+            H     -1.002007143761   -2.001680749276   -1.053496803701
+            H      1.602350816455    1.816111135614    0.904504950820
+            H     -0.943092997363    1.750610617952    1.063771073058
+            N     -2.530379485917   -0.156798299385    0.104431789155
+            O     -3.126986485083   -1.095861185201   -0.410798405962
+            O     -3.073323621381    0.770942645223    0.701114510189
+            N      3.133149929354   -0.074659113655   -0.285339015178
+            N      4.187094588558   -0.344967891976   -0.512692437020
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    60
+    Coordinates:
+            C     -0.397275700963   -1.192919095772   -0.644043818537
+            C      1.020970324262   -1.194949464060   -0.755246874424
+            C      1.543678193269   -0.103848664663   -0.177542588291
+            C      1.008388124308    1.002082986824    0.489185791709
+            C     -0.376448241629    0.963969211844    0.574392723850
+            C     -1.046102365166   -0.137860312181    0.001702417685
+            H     -1.001995224458   -2.001596988097   -1.053632148049
+            H      1.602338398288    1.816101771601    0.904590754131
+            H     -0.943102099379    1.750567199660    1.063857027847
+            N     -2.530380108399   -0.156820227369    0.104446416388
+            O     -3.126940443588   -1.096140878174   -0.410361589060
+            O     -3.073371868169    0.771160574968    0.700707167943
+            N      3.133158895461   -0.074677432011   -0.285330549320
+            N      4.187082116164   -0.345068682569   -0.512724731872
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    14        Geometry Index:    61
+    Coordinates:
+            C     -0.397273220930   -1.192865735503   -0.644118242620
+            C      1.020968810971   -1.194867569186   -0.755341975292
+            C      1.543689059980   -0.103813275490   -0.177561967187
+            C      1.008390423664    1.002068147358    0.489249291709
+            C     -0.376447681246    0.963945564109    0.574450293903
+            C     -1.046101170797   -0.137859097008    0.001710210444
+            H     -1.001990148948   -2.001502382771   -1.053794018922
+            H      1.602332727805    1.816066383798    0.904708591283
+            H     -0.943105888513    1.750514690143    1.063956709802
+            N     -2.530380614859   -0.156837916168    0.104461255017
+            O     -3.126890408217   -1.096475851252   -0.409830245709
+            O     -3.073423729137    0.771452456777    0.700196525771
+            N      3.133166312710   -0.074689657288   -0.285330838887
+            N      4.187065527517   -0.345135757518   -0.512755589312
