@@ -57,23 +57,23 @@ set label "(C3)" at 1073,2 center font "Helvetica,20"
 #set arrow from 1937,0 to 1937,50 as 2
 
 set arrow from 269,0 to 269,40 as 2
-set label "(D1)" at 298,3.5 center font "Helvetica,20"
+set label "(P1)" at 298,3.5 center font "Helvetica,20"
 set arrow from 390,0 to 390,40 as 2
-set label "(D2)" at 418,4 center font "Helvetica,20"
+set label "(P2)" at 418,4 center font "Helvetica,20"
 set arrow from 510,0 to 510,40 as 2
-set label "(D3)" at 538,24 center font "Helvetica,20"
+set label "(P3)" at 538,24 center font "Helvetica,20"
 set arrow from 630,0 to 630,40 as 2
-set label "(D4)" at 658,31 center font "Helvetica,20"
+set label "(P4)" at 658,31 center font "Helvetica,20"
 set arrow from 750,0 to 750,40 as 2
-set label "(D5)" at 778,22 center font "Helvetica,20"
+set label "(P5)" at 778,22 center font "Helvetica,20"
 set arrow from 870,0 to 870,40 as 2
-set label "(D6)" at 898,13 center font "Helvetica,20"
+set label "(P6)" at 898,13 center font "Helvetica,20"
 set arrow from 990,0 to 990,40 as 2
-set label "(D7)" at 1018,5 center font "Helvetica,20"
+set label "(P7)" at 1018,5 center font "Helvetica,20"
 set arrow from 1110,0 to 1110,40 as 2
-set label "(D8)" at 1136,3 center font "Helvetica,20"
+set label "(P8)" at 1136,3 center font "Helvetica,20"
 set arrow from 1230,0 to 1230,40 as 2
-set label "(D9)" at 1256,2 center font "Helvetica,20"
+set label "(P9)" at 1256,2 center font "Helvetica,20"
 
 set arrow from 149,35 to 269,35 as 3
 #set label "+120" at 209,36 center font "Helvetica,20"
