@@ -65,22 +65,46 @@ set label "-28 [N2]" at 50,60 center font "Helvetica,20"
 set arrow from 135,70 to 419,70 as 3
 #set label "+284 [M]" at 277,80 center font "Helvetica,20"
 set label "+[MeOC_6H_4N_2^+ TfO^-]" at 277,75 center font "Helvetica,20"
-
 set arrow from 419,70 to 703,70 as 3
 set label "+[MeOC_6H_4N_2^+ TfO^-]" at 561,75 center font "Helvetica,20"
-
 set arrow from 703,70 to 987,70 as 3
 set label "+[MeOC_6H_4N_2^+ TfO^-]" at 845,75 center font "Helvetica,20"
-
 set arrow from 987,70 to 1271,70 as 3
 set label "+[MeOC_6H_4N_2^+ TfO^-]" at 1129,75 center font "Helvetica,20"
-
 set arrow from 1271,70 to 1555,70 as 3
 set label "+[MeOC_6H_4N_2^+ TfO^-]" at 1413,75 center font "Helvetica,20"
-
 set arrow from 1555,70 to 1839,70 as 3
 set label "+[MeOC_6H_4N_2^+ TfO^-]" at 1697,75 center font "Helvetica,20"
 
+set arrow from 241,0 to 241,40 as 2
+#set label "(P1)" at 347,45 center font "Helvetica,20"
+set arrow from 347,0 to 347,40 as 2
+set label "(P1)" at 347,45 center font "Helvetica,20"
+set arrow from 453,0 to 453,40 as 2
+set label "(P1)" at 453,45 center font "Helvetica,20"
+set arrow from 559,0 to 559,40 as 2
+set label "(P1)" at 559,45 center font "Helvetica,20"
+set arrow from 665,0 to 665,40 as 2
+#set label "(P1)" at 665,45 center font "Helvetica,20"
+set arrow from 771,0 to 771,40 as 2
+set label "(P1)" at 771,45 center font "Helvetica,20"
+set arrow from 877,0 to 877,40 as 2
+set label "(P1)" at 877,45 center font "Helvetica,20"
+
+set arrow from 135,30 to 241,30 as 3
+set label "+[E]" at 188,33 center font "Helvetica,20"
+set arrow from 241,30 to 347,30 as 3
+set label "+[E]" at 284,33 center font "Helvetica,20"
+set arrow from 347,30 to 453,30 as 3
+set label "+[E]" at 385,33 center font "Helvetica,20"
+set arrow from 453,30 to 559,30 as 3
+set label "+[E]" at 506,33 center font "Helvetica,20"
+set arrow from 559,30 to 665,30 as 3
+set label "+[E]" at 612,33 center font "Helvetica,20"
+set arrow from 665,30 to 771,30 as 3
+set label "+[E]" at 718,33 center font "Helvetica,20"
+set arrow from 771,30 to 877,30 as 3
+set label "+[E]" at 824,33 center font "Helvetica,20"
 
 plot 'tmp-ms.dat' using 2:($3/1000) with impulses lw 5 lc -1
 

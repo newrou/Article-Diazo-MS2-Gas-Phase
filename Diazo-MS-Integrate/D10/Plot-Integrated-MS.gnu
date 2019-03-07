@@ -45,7 +45,7 @@ set output 'tmp-ms.svg'
 set arrow from 77,0 to 77,180 as 2
 set label "(B)" at 55,172 center font "Helvetica,20"
 set arrow from 105,0 to 105,180 as 2
-set label "(A)" at 128,67 center font "Helvetica,20"
+set label "(A)" at 128,62 center font "Helvetica,20"
 set arrow from 359,0 to 359,180 as 2
 set label "(C1)" at 387,22 center font "Helvetica,20"
 set arrow from 613,0 to 613,180 as 2
@@ -64,27 +64,63 @@ set label "(C7)" at 1911,6 center font "Helvetica,20"
 set arrow from 105,100 to 77,100 as 3
 set label "-28 [N2]" at 160,100 center font "Helvetica,20"
 
-set arrow from 105,75 to 359,75 as 3
+set arrow from 105,140 to 359,140 as 3
 #set label "+254 [M]" at 232,80 center font "Helvetica,20"
-set label "+[C_6H_5N_2^+ TfO^-]" at 232,80 center font "Helvetica,20"
+set label "+[C_6H_5N_2^+ TfO^-]" at 232,145 center font "Helvetica,20"
+set arrow from 359,140 to 613,140 as 3
+set label "+[C_6H_5N_2^+ TfO^-]" at 486,145 center font "Helvetica,20"
+set arrow from 613,140 to 867,140 as 3
+set label "+[C_6H_5N_2^+ TfO^-]" at 740,145 center font "Helvetica,20"
+set arrow from 867,140 to 1121,140 as 3
+set label "+[C_6H_5N_2^+ TfO^-]" at 994,145 center font "Helvetica,20"
+set arrow from 1121,140 to 1375,140 as 3
+set label "+[C_6H_5N_2^+ TfO^-]" at 1248,145 center font "Helvetica,20"
+set arrow from 1375,140 to 1629,140 as 3
+set label "+[C_6H_5N_2^+ TfO^-]" at 1502,145 center font "Helvetica,20"
+set arrow from 1629,140 to 1883,140 as 3
+set label "+[C_6H_5N_2^+ TfO^-]" at 1756,145 center font "Helvetica,20"
 
-set arrow from 359,75 to 613,75 as 3
-set label "+[C_6H_5N_2^+ TfO^-]" at 486,80 center font "Helvetica,20"
+set arrow from 181,0 to 181,80 as 2
+set label "(P1)" at 181,85 center font "Helvetica,20"
+set arrow from 257,0 to 257,80 as 2
+set label "(P1)" at 257,85 center font "Helvetica,20"
+set arrow from 333,0 to 333,80 as 2
+set label "(P1)" at 333,85 center font "Helvetica,20"
+set arrow from 409,0 to 409,80 as 2
+set label "(P1)" at 409,85 center font "Helvetica,20"
+set arrow from 485,0 to 485,80 as 2
+set label "(P1)" at 485,85 center font "Helvetica,20"
+set arrow from 561,0 to 561,80 as 2
+set label "(P1)" at 561,85 center font "Helvetica,20"
+set arrow from 637,0 to 637,80 as 2
+set label "(P1)" at 637,85 center font "Helvetica,20"
 
-set arrow from 613,75 to 867,75 as 3
-set label "+[C_6H_5N_2^+ TfO^-]" at 740,80 center font "Helvetica,20"
+set arrow from 105,70 to 181,70 as 3
+set label "+[E]" at 143,75 center font "Helvetica,20"
+set arrow from 181,70 to 257,70 as 3
+set label "+[E]" at 219,75 center font "Helvetica,20"
+set arrow from 257,70 to 333,70 as 3
+set label "+[E]" at 295,75 center font "Helvetica,20"
+set arrow from 333,70 to 409,70 as 3
+set label "+[E]" at 371,75 center font "Helvetica,20"
+set arrow from 409,70 to 485,70 as 3
+set label "+[E]" at 447,75 center font "Helvetica,20"
+set arrow from 485,70 to 561,70 as 3
+set label "+[E]" at 523,75 center font "Helvetica,20"
+set arrow from 561,70 to 637,70 as 3
+set label "+[E]" at 599,75 center font "Helvetica,20"
 
-set arrow from 867,75 to 1121,75 as 3
-set label "+[C_6H_5N_2^+ TfO^-]" at 994,80 center font "Helvetica,20"
 
-set arrow from 1121,75 to 1375,75 as 3
-set label "+[C_6H_5N_2^+ TfO^-]" at 1248,80 center font "Helvetica,20"
+set arrow from 153,0 to 153,50 as 2
+set label "(P2)" at 153,55 center font "Helvetica,20"
+set arrow from 229,0 to 229,50 as 2
+set label "(P2)" at 229,55 center font "Helvetica,20"
 
-set arrow from 1375,75 to 1629,75 as 3
-set label "+[C_6H_5N_2^+ TfO^-]" at 1502,80 center font "Helvetica,20"
+set arrow from 77,30 to 153,30 as 3
+set label "+ [E]" at 115,35 center font "Helvetica,20"
+set arrow from 153,30 to 229,30 as 3
+set label "+[E]" at 191,35 center font "Helvetica,20"
 
-set arrow from 1629,75 to 1883,75 as 3
-set label "+[C_6H_5N_2^+ TfO^-]" at 1756,80 center font "Helvetica,20"
 
 plot 'tmp-ms.dat' using 2:($3/1000) with impulses lw 5 lc -1
 
