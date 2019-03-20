@@ -9,7 +9,7 @@ do
    Name=`basename $i .mol`
    InName=`basename $i .mol`-$1-$2.gjf
    echo "New file: "$Name
-   echo "%chk=$Name.chk" > $InName
+   echo "%chk=$Name-$1-$2.chk" > $InName
    cat head-gaussian | sed -e "s/METHOD/$1/" | sed -e "s/BASIS/$3/" >> $InName
    echo "$Name-$1-$2" >> $InName
    echo "" >> $InName

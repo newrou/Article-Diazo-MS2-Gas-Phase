@@ -1,4 +1,4 @@
-%chk=x2-4-NO2-Ph-N2-OTs-v2.chk
+%chk=x2-4-NO2-Ph-N2-OTs-v2-RB3LYP-aug-cc-pVDZ.chk
 %nprocs=7
 %mem=200MW
 # opt=(maxcycles=1000,cartesian) freq rb3lyp/aug-cc-pvdz
