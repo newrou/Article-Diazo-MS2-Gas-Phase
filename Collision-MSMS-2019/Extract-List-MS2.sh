@@ -1,9 +1,11 @@
 #!/bin/bash
 
-M1=135.7
-M2=136.3
-T1=30
-T2=140
+M1=$1
+M2=$2
+T1=$3
+T2=$4
+
+echo -n "" > Diss.dat
 
 ../Extract-MS2-eV.sh *Pos*-0eV-*.mzData    00.00 $M1 $M2 $T1 $T2
 ../Extract-MS2-eV.sh *Pos*-0_1eV-*.mzData  00.10 $M1 $M2 $T1 $T2
@@ -18,3 +20,5 @@ T2=140
 ../Extract-MS2-eV.sh *Pos*-10eV-*.mzData   10.00 $M1 $M2 $T1 $T2
 ../Extract-MS2-eV.sh *Pos*-20eV-*.mzData   20.00 $M1 $M2 $T1 $T2
 ../Extract-MS2-eV.sh *Pos*-40eV-*.mzData   40.00 $M1 $M2 $T1 $T2
+
+gnuplot ../Plot-Diss.gnu

@@ -2,6 +2,7 @@
 
 $SrcMS = array();
 $IntMS = array();
+$MZDiss = 0.0+$argv[2];
 $row = 0;
 if (($handle = fopen($argv[1], "r")) !== FALSE) {
     while (($data = fgetcsv($handle, 1000, "\t")) !== FALSE) {
@@ -43,6 +44,15 @@ array_multisort($data_m, SORT_NUMERIC, SORT_ASC, $IntMS);
 //var_dump($IntMS);
 
 for($j=0; $j<count($IntMS); $j++) printf("%2ld; \t%9.4f; \t%7.0f; \t%5.1f; \t\"%s\";\n", $j, $IntMS[$j]['MZ'], $IntMS[$j]['INT'], $IntMS[$j]['I100'], $IntMS[$j]['TXT']);
+
+// DisSociation
+$SumAll = 0.001; $SumDiss = 0;
+for($j=0; $j<count($IntMS); $j++) {
+  $SumAll += $IntMS[$j]['INT'];
+  if($IntMS[$j]['MZ'] > $MZDiss) $SumDiss += $IntMS[$j]['INT'];
+ }
+printf("%.4f\n", $SumDiss*100.0/$SumAll);
+//printf("%.4f\n", $SumDiss, $SumAll, $SumDiss*100.0/$SumAll);
 
 }
 

@@ -1,0 +1,260 @@
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0eV-50ACN-i1.mzData': Unexpected CV entry 'ion source'='Esi'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0eV-50ACN-i1.mzData': Unexpected CV entry 'analyzer type'='QuadrupoleTimeOfFlight'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0eV-50ACN-i1.mzData': Unexpected CV entry 'detector type'='ElectronMultiplier'
+Progress of 'loading mzData file':
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan
+-- done [took 0.04 s (CPU), 0.04 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.02 s (CPU), 0.01 s (Wall)] -- 
+FileConverter took 0.15 s (wall), 0.14 s (CPU), 0.00 s (system), 0.14 s (user).
+<While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan> occurred 98 times
+Progress of 'loading spectra list':
+-- done [took 0.02 s (CPU), 0.02 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileFilter took 0.21 s (wall), 0.20 s (CPU), 0.00 s (system), 0.20 s (user).
+Progress of 'loading spectra list':
+-- done [took 0.01 s (CPU), 0.00 s (Wall)] -- 
+Progress of 'storing DTA2D file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileConverter took 0.09 s (wall), 0.08 s (CPU), 0.00 s (system), 0.08 s (user).
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_1eV-50ACN-i1.mzData': Unexpected CV entry 'ion source'='Esi'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_1eV-50ACN-i1.mzData': Unexpected CV entry 'analyzer type'='QuadrupoleTimeOfFlight'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_1eV-50ACN-i1.mzData': Unexpected CV entry 'detector type'='ElectronMultiplier'
+Progress of 'loading mzData file':
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_1eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan
+-- done [took 0.04 s (CPU), 0.05 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.02 s (CPU), 0.01 s (Wall)] -- 
+FileConverter took 0.19 s (wall), 0.18 s (CPU), 0.00 s (system), 0.18 s (user).
+<While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_1eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan> occurred 80 times
+Progress of 'loading spectra list':
+-- done [took 0.01 s (CPU), 0.02 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileFilter took 0.19 s (wall), 0.19 s (CPU), 0.00 s (system), 0.19 s (user).
+Progress of 'loading spectra list':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+Progress of 'storing DTA2D file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileConverter took 0.11 s (wall), 0.10 s (CPU), 0.00 s (system), 0.10 s (user).
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_25eV-50ACN-i1.mzData': Unexpected CV entry 'ion source'='Esi'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_25eV-50ACN-i1.mzData': Unexpected CV entry 'analyzer type'='QuadrupoleTimeOfFlight'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_25eV-50ACN-i1.mzData': Unexpected CV entry 'detector type'='ElectronMultiplier'
+Progress of 'loading mzData file':
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_25eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan
+-- done [took 0.04 s (CPU), 0.05 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.01 s (CPU), 0.01 s (Wall)] -- 
+FileConverter took 0.16 s (wall), 0.14 s (CPU), 0.00 s (system), 0.14 s (user).
+<While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_25eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan> occurred 67 times
+Progress of 'loading spectra list':
+-- done [took 0.02 s (CPU), 0.02 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileFilter took 0.19 s (wall), 0.18 s (CPU), 0.00 s (system), 0.18 s (user).
+Progress of 'loading spectra list':
+-- done [took 0.01 s (CPU), 0.00 s (Wall)] -- 
+Progress of 'storing DTA2D file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileConverter took 0.11 s (wall), 0.10 s (CPU), 0.00 s (system), 0.10 s (user).
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_5eV-50ACN-i1.mzData': Unexpected CV entry 'ion source'='Esi'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_5eV-50ACN-i1.mzData': Unexpected CV entry 'analyzer type'='QuadrupoleTimeOfFlight'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_5eV-50ACN-i1.mzData': Unexpected CV entry 'detector type'='ElectronMultiplier'
+Progress of 'loading mzData file':
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_5eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan
+-- done [took 0.05 s (CPU), 0.05 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.01 s (CPU), 0.01 s (Wall)] -- 
+FileConverter took 0.16 s (wall), 0.15 s (CPU), 0.00 s (system), 0.15 s (user).
+<While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_5eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan> occurred 62 times
+Progress of 'loading spectra list':
+-- done [took 0.03 s (CPU), 0.02 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileFilter took 0.22 s (wall), 0.22 s (CPU), 0.00 s (system), 0.22 s (user).
+Progress of 'loading spectra list':
+-- done [took 0.01 s (CPU), 0.00 s (Wall)] -- 
+Progress of 'storing DTA2D file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileConverter took 0.12 s (wall), 0.10 s (CPU), 0.00 s (system), 0.10 s (user).
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_75eV-50ACN-i1.mzData': Unexpected CV entry 'ion source'='Esi'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_75eV-50ACN-i1.mzData': Unexpected CV entry 'analyzer type'='QuadrupoleTimeOfFlight'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_75eV-50ACN-i1.mzData': Unexpected CV entry 'detector type'='ElectronMultiplier'
+Progress of 'loading mzData file':
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_75eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan
+-- done [took 0.05 s (CPU), 0.05 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.02 s (CPU), 0.01 s (Wall)] -- 
+FileConverter took 0.16 s (wall), 0.16 s (CPU), 0.00 s (system), 0.16 s (user).
+<While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-0_75eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan> occurred 63 times
+Progress of 'loading spectra list':
+-- done [took 0.02 s (CPU), 0.02 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileFilter took 0.19 s (wall), 0.18 s (CPU), 0.00 s (system), 0.18 s (user).
+Progress of 'loading spectra list':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+Progress of 'storing DTA2D file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileConverter took 0.11 s (wall), 0.11 s (CPU), 0.00 s (system), 0.11 s (user).
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-1eV-50ACN-i1.mzData': Unexpected CV entry 'ion source'='Esi'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-1eV-50ACN-i1.mzData': Unexpected CV entry 'analyzer type'='QuadrupoleTimeOfFlight'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-1eV-50ACN-i1.mzData': Unexpected CV entry 'detector type'='ElectronMultiplier'
+Progress of 'loading mzData file':
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-1eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan
+-- done [took 0.06 s (CPU), 0.05 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.01 s (CPU), 0.01 s (Wall)] -- 
+FileConverter took 0.17 s (wall), 0.16 s (CPU), 0.00 s (system), 0.16 s (user).
+<While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-1eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan> occurred 68 times
+Progress of 'loading spectra list':
+-- done [took 0.02 s (CPU), 0.02 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileFilter took 0.22 s (wall), 0.21 s (CPU), 0.00 s (system), 0.21 s (user).
+Progress of 'loading spectra list':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+Progress of 'storing DTA2D file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileConverter took 0.09 s (wall), 0.08 s (CPU), 0.00 s (system), 0.08 s (user).
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-1_5eV-50ACN-i1.mzData': Unexpected CV entry 'ion source'='Esi'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-1_5eV-50ACN-i1.mzData': Unexpected CV entry 'analyzer type'='QuadrupoleTimeOfFlight'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-1_5eV-50ACN-i1.mzData': Unexpected CV entry 'detector type'='ElectronMultiplier'
+Progress of 'loading mzData file':
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-1_5eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan
+-- done [took 0.04 s (CPU), 0.05 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.00 s (CPU), 0.01 s (Wall)] -- 
+FileConverter took 0.17 s (wall), 0.15 s (CPU), 0.00 s (system), 0.15 s (user).
+<While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-1_5eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan> occurred 65 times
+Progress of 'loading spectra list':
+-- done [took 0.02 s (CPU), 0.02 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileFilter took 0.19 s (wall), 0.19 s (CPU), 0.00 s (system), 0.19 s (user).
+Progress of 'loading spectra list':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+Progress of 'storing DTA2D file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileConverter took 0.09 s (wall), 0.08 s (CPU), 0.00 s (system), 0.08 s (user).
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-2eV-50ACN-i1.mzData': Unexpected CV entry 'ion source'='Esi'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-2eV-50ACN-i1.mzData': Unexpected CV entry 'analyzer type'='QuadrupoleTimeOfFlight'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-2eV-50ACN-i1.mzData': Unexpected CV entry 'detector type'='ElectronMultiplier'
+Progress of 'loading mzData file':
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-2eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan
+-- done [took 0.05 s (CPU), 0.05 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.01 s (CPU), 0.02 s (Wall)] -- 
+FileConverter took 0.19 s (wall), 0.18 s (CPU), 0.00 s (system), 0.18 s (user).
+<While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-2eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan> occurred 72 times
+Progress of 'loading spectra list':
+-- done [took 0.02 s (CPU), 0.02 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileFilter took 0.22 s (wall), 0.21 s (CPU), 0.00 s (system), 0.21 s (user).
+Progress of 'loading spectra list':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+Progress of 'storing DTA2D file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileConverter took 0.09 s (wall), 0.08 s (CPU), 0.00 s (system), 0.08 s (user).
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-3eV-50ACN-i1.mzData': Unexpected CV entry 'ion source'='Esi'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-3eV-50ACN-i1.mzData': Unexpected CV entry 'analyzer type'='QuadrupoleTimeOfFlight'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-3eV-50ACN-i1.mzData': Unexpected CV entry 'detector type'='ElectronMultiplier'
+Progress of 'loading mzData file':
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-3eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan
+-- done [took 0.05 s (CPU), 0.05 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.01 s (CPU), 0.01 s (Wall)] -- 
+FileConverter took 0.15 s (wall), 0.15 s (CPU), 0.00 s (system), 0.15 s (user).
+<While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-3eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan> occurred 72 times
+Progress of 'loading spectra list':
+-- done [took 0.02 s (CPU), 0.02 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileFilter took 0.22 s (wall), 0.21 s (CPU), 0.00 s (system), 0.21 s (user).
+Progress of 'loading spectra list':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+Progress of 'storing DTA2D file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileConverter took 0.11 s (wall), 0.11 s (CPU), 0.00 s (system), 0.11 s (user).
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-4eV-50ACN-i1.mzData': Unexpected CV entry 'ion source'='Esi'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-4eV-50ACN-i1.mzData': Unexpected CV entry 'analyzer type'='QuadrupoleTimeOfFlight'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-4eV-50ACN-i1.mzData': Unexpected CV entry 'detector type'='ElectronMultiplier'
+Progress of 'loading mzData file':
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-4eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan
+-- done [took 0.05 s (CPU), 0.04 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.00 s (CPU), 0.01 s (Wall)] -- 
+FileConverter took 0.16 s (wall), 0.15 s (CPU), 0.00 s (system), 0.15 s (user).
+<While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-4eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan> occurred 68 times
+Progress of 'loading spectra list':
+-- done [took 0.01 s (CPU), 0.02 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileFilter took 0.18 s (wall), 0.18 s (CPU), 0.00 s (system), 0.18 s (user).
+Progress of 'loading spectra list':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+Progress of 'storing DTA2D file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileConverter took 0.13 s (wall), 0.12 s (CPU), 0.00 s (system), 0.12 s (user).
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-10eV-50ACN-i1.mzData': Unexpected CV entry 'ion source'='Esi'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-10eV-50ACN-i1.mzData': Unexpected CV entry 'analyzer type'='QuadrupoleTimeOfFlight'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-10eV-50ACN-i1.mzData': Unexpected CV entry 'detector type'='ElectronMultiplier'
+Progress of 'loading mzData file':
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-10eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan
+-- done [took 0.05 s (CPU), 0.05 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.01 s (CPU), 0.01 s (Wall)] -- 
+FileConverter took 0.15 s (wall), 0.15 s (CPU), 0.00 s (system), 0.15 s (user).
+<While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-10eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan> occurred 67 times
+Progress of 'loading spectra list':
+-- done [took 0.02 s (CPU), 0.02 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileFilter took 0.22 s (wall), 0.22 s (CPU), 0.00 s (system), 0.22 s (user).
+Progress of 'loading spectra list':
+-- done [took 0.01 s (CPU), 0.00 s (Wall)] -- 
+Progress of 'storing DTA2D file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileConverter took 0.11 s (wall), 0.11 s (CPU), 0.00 s (system), 0.11 s (user).
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-20eV-50ACN-i1.mzData': Unexpected CV entry 'ion source'='Esi'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-20eV-50ACN-i1.mzData': Unexpected CV entry 'analyzer type'='QuadrupoleTimeOfFlight'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-20eV-50ACN-i1.mzData': Unexpected CV entry 'detector type'='ElectronMultiplier'
+Progress of 'loading mzData file':
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-20eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan
+-- done [took 0.05 s (CPU), 0.05 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.01 s (CPU), 0.01 s (Wall)] -- 
+FileConverter took 0.16 s (wall), 0.15 s (CPU), 0.00 s (system), 0.15 s (user).
+<While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-20eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan> occurred 71 times
+Progress of 'loading spectra list':
+-- done [took 0.02 s (CPU), 0.02 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileFilter took 0.20 s (wall), 0.20 s (CPU), 0.00 s (system), 0.20 s (user).
+Progress of 'loading spectra list':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+Progress of 'storing DTA2D file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileConverter took 0.11 s (wall), 0.11 s (CPU), 0.00 s (system), 0.11 s (user).
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-40eV-50ACN-i1.mzData': Unexpected CV entry 'ion source'='Esi'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-40eV-50ACN-i1.mzData': Unexpected CV entry 'analyzer type'='QuadrupoleTimeOfFlight'
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-40eV-50ACN-i1.mzData': Unexpected CV entry 'detector type'='ElectronMultiplier'
+Progress of 'loading mzData file':
+While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-40eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan
+-- done [took 0.03 s (CPU), 0.04 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.01 s (CPU), 0.01 s (Wall)] -- 
+FileConverter took 0.14 s (wall), 0.13 s (CPU), 0.00 s (system), 0.13 s (user).
+<While loading 'Diazo-C5H4NON2-OTf-ESI-Pos-122-40eV-50ACN-i1.mzData': Unknown scan mode 'Scan'. Assuming full scan> occurred 67 times
+Progress of 'loading spectra list':
+-- done [took 0.02 s (CPU), 0.02 s (Wall)] -- 
+Progress of 'storing mzML file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileFilter took 0.22 s (wall), 0.21 s (CPU), 0.00 s (system), 0.21 s (user).
+Progress of 'loading spectra list':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+Progress of 'storing DTA2D file':
+-- done [took 0.00 s (CPU), 0.00 s (Wall)] -- 
+FileConverter took 0.08 s (wall), 0.08 s (CPU), 0.00 s (system), 0.08 s (user).
