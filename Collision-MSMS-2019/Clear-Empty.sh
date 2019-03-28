@@ -1,2 +1,2 @@
 
-find . -type f -empty -exec rm {} \;
+#find . -type f -empty -exec rm {} \;

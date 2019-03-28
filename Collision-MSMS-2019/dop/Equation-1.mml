@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mtable>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <msub>
+        <mi>K</mi>
+        <mi>D</mi>
+       </msub>
+       <mo stretchy="false">=</mo>
+       <mfrac>
+        <mrow>
+         <mo fence="true" stretchy="false">[</mo>
+         <mrow>
+          <msup>
+           <mi mathvariant="italic">Ar</mi>
+           <mrow>
+            <mo stretchy="false">+</mo>
+            <mspace width="2em"/>
+           </mrow>
+          </msup>
+         </mrow>
+         <mo fence="true" stretchy="false">]</mo>
+        </mrow>
+        <mrow>
+         <mo fence="true" stretchy="false">[</mo>
+         <mrow>
+          <msubsup>
+           <mi mathvariant="italic">ArN</mi>
+           <mn>2</mn>
+           <mrow>
+            <mo stretchy="false">+</mo>
+            <mspace width="2em"/>
+           </mrow>
+          </msubsup>
+         </mrow>
+         <mo fence="true" stretchy="false">]</mo>
+        </mrow>
+       </mfrac>
+       <mo stretchy="false">=</mo>
+       <mi>exp</mi>
+      </mrow>
+      <mrow>
+       <mo fence="true" stretchy="false">(</mo>
+       <mrow>
+        <mrow>
+         <mi>B</mi>
+         <mo stretchy="false">+</mo>
+         <mfrac>
+          <msub>
+           <mi>E</mi>
+           <mi mathvariant="italic">collision</mi>
+          </msub>
+          <mrow>
+           <mi mathvariant="normal">Δ</mi>
+           <mi>G</mi>
+          </mrow>
+         </mfrac>
+        </mrow>
+       </mrow>
+       <mo fence="true" stretchy="false">)</mo>
+      </mrow>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mspace/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mspace/>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mi mathvariant="normal">α</mi>
+      <mo stretchy="false">=</mo>
+      <mfrac>
+       <msub>
+        <mi>K</mi>
+        <mi>D</mi>
+       </msub>
+       <mrow>
+        <msub>
+         <mi>K</mi>
+         <mi>D</mi>
+        </msub>
+        <mo stretchy="false">+</mo>
+        <mn>1</mn>
+       </mrow>
+      </mfrac>
+     </mrow>
+    </mtd>
+   </mtr>
+  </mtable>
+  <annotation encoding="StarMath 5.0">K _{D} = { [Ar^{ + ~ }]} over {[ArN_2^{+~}]}  = exp( B + {E_{collision}} over { %DELTA G }) newline
+~ newline
+~ newline
+%alpha  = {K_D} over {K_D+1}  
+
+</annotation>
+ </semantics>
+</math>

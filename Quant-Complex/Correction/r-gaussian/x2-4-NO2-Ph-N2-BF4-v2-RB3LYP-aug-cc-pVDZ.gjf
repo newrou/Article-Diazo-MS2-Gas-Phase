@@ -1,7 +1,7 @@
-%chk=x2-4-NO2-Ph-N2-BF4-v2.chk
+%chk=x2-4-NO2-Ph-N2-BF4-v2-RB3LYP-aug-cc-pVDZ.chk
 %nprocs=7
 %mem=200MW
-# rb3lyp/aug-cc-pvdz scf=(xqc,maxcycle=1000) nosymm opt=(maxcycles=1000,cartesian) freq
+# rb3lyp/aug-cc-pvdz scf=(xqc,maxcycle=2000) nosymm opt=(maxcycles=1000,cartesian) freq
 
 x2-4-NO2-Ph-N2-BF4-v2-RB3LYP-aug-cc-pVDZ
 
@@ -38,9 +38,9 @@ F           0.44050        -0.62140        -0.68460
 F          -0.33970         1.52950        -0.47030
 B           0.05270         0.37250         0.25310
 H          -6.91280        -0.57970         0.26000
-N          -6.91630         2.03760         0.61780
-O          -7.97830         1.50020         0.76490
-O          -6.75460         3.21920         0.74520
+N          -6.93210         2.04890         0.62260
+O          -8.01600         1.50040         0.77270
+O          -6.76710         3.25470         0.75260
 
 
 nprocshared=7

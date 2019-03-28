@@ -1,0 +1,61 @@
+Make 4-Br-2-HCO2C6H3N2-OTf
+[1] dG=2.12 eV   B=-0.07   Quality: 2.674e-05 [Nelder-Mead]
+[1] dG=2.12 eV   B=-0.07   Quality: 2.674e-05 [BFGS]
+[1] dG=2.12 eV   B=-0.07   Quality: 2.674e-05 [SANN]
+Make 4-Br-2-NO2C6H3N2-OTf
+[1] dG=2.11 eV   B=-0.21   Quality: 6.389e-05 [Nelder-Mead]
+[1] dG=2.11 eV   B=-0.21   Quality: 6.389e-05 [BFGS]
+[1] dG=2.11 eV   B=-0.21   Quality: 6.389e-05 [SANN]
+Make C5H4NO-4-N2-OTf
+[1] dG=1.76 eV   B=0.58   Quality: 2.750e-04 [Nelder-Mead]
+[1] dG=1.76 eV   B=0.58   Quality: 2.750e-04 [BFGS]
+[1] dG=1.76 eV   B=0.58   Quality: 2.750e-04 [SANN]
+Make 3-NO2C6H4N2-OTf
+[1] dG=1.60 eV   B=1.83   Quality: 1.007e-04 [Nelder-Mead]
+[1] dG=1.60 eV   B=1.83   Quality: 1.007e-04 [BFGS]
+[1] dG=1.60 eV   B=1.83   Quality: 1.007e-04 [SANN]
+Make 6-CH3C5H3NO-2-N2-OTf
+[1] dG=1.80 eV   B=0.49   Quality: 3.463e-05 [Nelder-Mead]
+[1] dG=1.80 eV   B=0.49   Quality: 3.463e-05 [BFGS]
+[1] dG=1.80 eV   B=0.49   Quality: 3.463e-05 [SANN]
+Make 4-BrC6H4N2-OTf
+[1] dG=1.87 eV   B=0.80   Quality: 7.694e-06 [Nelder-Mead]
+[1] dG=1.87 eV   B=0.80   Quality: 7.694e-06 [BFGS]
+[1] dG=1.87 eV   B=0.80   Quality: 7.694e-06 [SANN]
+Make C10H7-1-N2-OTf
+[1] dG=1.29 eV   B=2.92   Quality: 2.460e-05 [Nelder-Mead]
+[1] dG=1.29 eV   B=2.92   Quality: 2.460e-05 [BFGS]
+[1] dG=1.29 eV   B=2.92   Quality: 2.460e-05 [SANN]
+Make 4-NO2C6H4N2-OTs
+[1] dG=1.42 eV   B=1.56   Quality: 8.400e-05 [Nelder-Mead]
+[1] dG=1.42 eV   B=1.56   Quality: 8.400e-05 [BFGS]
+[1] dG=1.42 eV   B=1.56   Quality: 8.400e-05 [SANN]
+Make 4-HCO2C6H4N2-OTf
+[1] dG=1.16 eV   B=2.63   Quality: 1.341e-06 [Nelder-Mead]
+[1] dG=1.16 eV   B=2.63   Quality: 1.341e-06 [BFGS]
+[1] dG=1.16 eV   B=2.63   Quality: 1.341e-06 [SANN]
+Make 2-NO2C6H4N2-OTf
+[1] dG=1.71 eV   B=-0.84   Quality: 2.165e-04 [Nelder-Mead]
+[1] dG=1.71 eV   B=-0.84   Quality: 2.165e-04 [BFGS]
+[1] dG=1.71 eV   B=-0.84   Quality: 2.165e-04 [SANN]
+Make 4-CH3OC6H4N2-OTf
+[1] dG=2.33 eV   B=1.77   Quality: 5.858e-05 [Nelder-Mead]
+[1] dG=2.33 eV   B=1.77   Quality: 5.858e-05 [BFGS]
+[1] dG=2.33 eV   B=1.77   Quality: 5.858e-05 [SANN]
+Make dop
+Make 4-NO2C6H4N2-BF4
+[1] dG=1.27 eV   B=1.56   Quality: 4.157e-05 [Nelder-Mead]
+[1] dG=1.27 eV   B=1.56   Quality: 4.157e-05 [BFGS]
+[1] dG=1.27 eV   B=1.56   Quality: 4.157e-05 [SANN]
+Make 4-NO2C6H4N2-OTf
+[1] dG=1.36 eV   B=1.50   Quality: 1.876e-05 [Nelder-Mead]
+[1] dG=1.36 eV   B=1.50   Quality: 1.876e-05 [BFGS]
+[1] dG=1.36 eV   B=1.50   Quality: 1.876e-05 [SANN]
+Make 5-BrC5H3NO-2-N2-OTf
+[1] dG=10.93 eV   B=1.03   Quality: 5.059e-03 [Nelder-Mead]
+[1] dG=10.93 eV   B=1.03   Quality: 5.059e-03 [BFGS]
+[1] dG=10.93 eV   B=1.03   Quality: 5.059e-03 [SANN]
+Make C6H5N2-OTf
+[1] dG=1.33 eV   B=1.56   Quality: 7.671e-06 [Nelder-Mead]
+[1] dG=1.33 eV   B=1.56   Quality: 7.671e-06 [BFGS]
+[1] dG=1.33 eV   B=1.56   Quality: 7.671e-06 [SANN]

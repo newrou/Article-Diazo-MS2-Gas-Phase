@@ -51,7 +51,7 @@ for($j=0; $j<count($IntMS); $j++) {
   $SumAll += $IntMS[$j]['INT'];
   if($IntMS[$j]['MZ'] > $MZDiss) $SumDiss += $IntMS[$j]['INT'];
  }
-printf("%.4f\n", $SumDiss*100.0/$SumAll);
+printf("%.4f\n", 100.0-$SumDiss*100.0/$SumAll);
 //printf("%.4f\n", $SumDiss, $SumAll, $SumDiss*100.0/$SumAll);
 
 }

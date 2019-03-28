@@ -1,0 +1,4 @@
+! B3LYP/G aug-cc-pVDZ TightSCF TightOpt NumFreq Grid7
+%geom MaxIter 2000 TolE 1e-8 TolRMSG 5e-7 TolMaxG 1e-6 Convergence tight end
+%scf MaxIter 2000 end
+%freq Temp 298.15, 323.15, 373.15, 423.15, 473.15, 523.15, 573.15, 623.15 end

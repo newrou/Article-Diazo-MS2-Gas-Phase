@@ -29,7 +29,6 @@ unset key
 set nokey
 
 set output 'Diss.svg'
-plot 'Diss.dat' using 1:2 with lines lw 3 lc -1, \
-     'Diss.dat' using 1:2 with points ps 0.5 pt 7
+plot 'Diss.dat' using 1:2 smooth acsplines lw 3 lc -1, '' using 1:2 with points ps 0.5 pt 7
 
 quit
