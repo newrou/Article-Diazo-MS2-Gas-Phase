@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mzML xmlns="http://psi.hupo.org/ms/mzml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://psi.hupo.org/ms/mzml http://psidev.info/files/ms/mzML/xsd/mzML1.1.0.xsd" accession="psi-ms:100" version="1.1.0">
+	<cvList count="5">
+		<cv id="MS" fullName="Proteomics Standards Initiative Mass Spectrometry Ontology" URI="http://psidev.cvs.sourceforge.net/*checkout*/psidev/psi/psi-ms/mzML/controlledVocabulary/psi-ms.obo"/>
+		<cv id="UO" fullName="Unit Ontology" URI="http://obo.cvs.sourceforge.net/obo/obo/ontology/phenotype/unit.obo"/>
+		<cv id="BTO" fullName="BrendaTissue545" version="unknown" URI="http://www.brenda-enzymes.info/ontology/tissue/tree/update/update_files/BrendaTissueOBO"/>
+		<cv id="GO" fullName="Gene Ontology - Slim Versions" version="unknown" URI="http://www.geneontology.org/GO_slims/goslim_goa.obo"/>
+		<cv id="PATO" fullName="Quality ontology" version="unknown" URI="http://obo.cvs.sourceforge.net/*checkout*/obo/obo/ontology/phenotype/quality.obo"/>
+	</cvList>
+	<fileDescription>
+		<fileContent>
+			<cvParam cvRef="MS" accession="MS:1000580" name="MSn spectrum" />
+		</fileContent>
+		<sourceFileList count="1">
+			<sourceFile id="sf_ru_0" name="GR-N6-4-tBuC6H4N2-OTf-pos-10eV.mzdata" location="file:////mnt/sda4/MS/export/Diazo-2019/Roman-Guliaev">
+				<cvParam cvRef="MS" accession="MS:1000569" name="SHA-1" value="27fbc4a2e1aaedeff02f874556286cf9bec48236" />
+				<cvParam cvRef="MS" accession="MS:1000564" name="PSI mzData format" />
+				<cvParam cvRef="MS" accession="MS:1000777" name="spectrum identifier nativeID format" />
+			</sourceFile>
+		</sourceFileList>
+		<contact>
+			<cvParam cvRef="MS" accession="MS:1000586" name="contact name" value=", " />
+			<cvParam cvRef="MS" accession="MS:1000590" name="contact affiliation" value="Agilent Technologies, Inc." />
+		</contact>
+	</fileDescription>
+	<sampleList count="1">
+		<sample id="sa_0" name="GR-N6-4-tBuC6H4N2-OTf">
+			<cvParam cvRef="MS" accession="MS:1000004" name="sample mass" value="0" unitAccession="UO:0000021" unitName="gram" unitCvRef="UO" />
+			<cvParam cvRef="MS" accession="MS:1000005" name="sample volume" value="0" unitAccession="UO:0000098" unitName="milliliter" unitCvRef="UO" />
+			<cvParam cvRef="MS" accession="MS:1000006" name="sample concentration" value="0" unitAccession="UO:0000175" unitName="gram per liter" unitCvRef="UO" />
+		</sample>
+	</sampleList>
+	<softwareList count="4">
+		<software id="so_in_0" version="" >
+			<cvParam cvRef="MS" accession="MS:1000799" name="custom unreleased software tool" value="" />
+		</software>
+		<software id="so_default" version="" >
+			<cvParam cvRef="MS" accession="MS:1000799" name="custom unreleased software tool" value="" />
+		</software>
+		<software id="so_dp_sp_0_pm_0" version="7.0.7024.0" >
+			<cvParam cvRef="MS" accession="MS:1000799" name="custom unreleased software tool" value="MzDataExport, Version=7.0.7024.0, Culture=neutral, PublicKeyToken=null" />
+		</software>
+		<software id="so_dp_sp_0_pm_1" version="2.0.0" >
+			<cvParam cvRef="MS" accession="MS:1000799" name="custom unreleased software tool" value="SpectrumCanvas" />
+		</software>
+	</softwareList>
+	<instrumentConfigurationList count="1">
+		<instrumentConfiguration id="ic_0">
+			<cvParam cvRef="MS" accession="MS:1000031" name="instrument model" />
+			<userParam name="acquisitionMethod" type="xsd:string" value="D:\MassHunter\methods\ESI-Pos-MSMS-50ACN-2019.m"/>
+			<componentList count="3">
+				<source order="0">
+					<cvParam cvRef="MS" accession="MS:1000008" name="ionization type" />
+				</source>
+				<analyzer order="0">
+					<cvParam cvRef="MS" accession="MS:1000014" name="accuracy" value="0" unitAccession="UO:0000169" unitName="parts per million" unitCvRef="UO" />
+					<cvParam cvRef="MS" accession="MS:1000022" name="TOF Total Path Length" value="0" unitAccession="UO:0000008" unitName="meter" unitCvRef="UO" />
+					<cvParam cvRef="MS" accession="MS:1000024" name="final MS exponent" value="0" />
+					<cvParam cvRef="MS" accession="MS:1000025" name="magnetic field strength" value="0" unitAccession="UO:0000228" unitName="tesla" unitCvRef="UO" />
+					<cvParam cvRef="MS" accession="MS:1000443" name="mass analyzer type" />
+				</analyzer>
+				<detector order="0">
+					<cvParam cvRef="MS" accession="MS:1000028" name="detector resolution" value="0" />
+					<cvParam cvRef="MS" accession="MS:1000029" name="sampling frequency" value="0.5" unitAccession="UO:0000106" unitName="hertz" unitCvRef="UO" />
+					<cvParam cvRef="MS" accession="MS:1000026" name="detector type" />
+				</detector>
+			</componentList>
+			<softwareRef ref="so_in_0" />
+		</instrumentConfiguration>
+	</instrumentConfigurationList>
+	<dataProcessingList count="1">
+		<dataProcessing id="dp_sp_0">
+			<processingMethod order="0" softwareRef="so_dp_sp_0_pm_0">
+				<cvParam cvRef="MS" accession="MS:1000034" name="charge deconvolution" />
+				<cvParam cvRef="MS" accession="MS:1000033" name="deisotoping" />
+				<cvParam cvRef="MS" accession="MS:1000747" name="completion time" value="2019-07-19+18:15" />
+				<userParam name="peakThreshold" type="xsd:string" value="0"/>
+			</processingMethod>
+			<processingMethod order="0" softwareRef="so_dp_sp_0_pm_1">
+				<cvParam cvRef="MS" accession="MS:1001486" name="data filtering" />
+				<cvParam cvRef="MS" accession="MS:1000747" name="completion time" value="2019-07-24+09:49" />
+			</processingMethod>
+		</dataProcessing>
+	</dataProcessingList>
+	<run id="ru_0" defaultInstrumentConfigurationRef="ic_0" sampleRef="sa_0" defaultSourceFileRef="sf_ru_0">
+		<spectrumList count="1" defaultDataProcessingRef="dp_sp_0">
+			<spectrum id="spectrum=54" index="0" defaultArrayLength="132" dataProcessingRef="dp_sp_0">
+				<cvParam cvRef="MS" accession="MS:1000127" name="centroid spectrum" />
+				<cvParam cvRef="MS" accession="MS:1000511" name="ms level" value="1" />
+				<cvParam cvRef="MS" accession="MS:1000580" name="MSn spectrum" />
+				<cvParam cvRef="MS" accession="MS:1000130" name="positive scan" />
+				<scanList count="1">
+					<cvParam cvRef="MS" accession="MS:1000795" name="no combination" />
+					<scan externalSpectrumID="45274">
+						<cvParam cvRef="MS" accession="MS:1000016" name="scan start time" value="45.24" unitAccession="UO:0000010" unitName="second" unitCvRef="UO" />
+						<scanWindowList count="1">
+							<scanWindow>
+								<cvParam cvRef="MS" accession="MS:1000501" name="scan window lower limit" value="55.0204363160688" unitAccession="MS:1000040" unitName="m/z" unitCvRef="MS" />
+								<cvParam cvRef="MS" accession="MS:1000500" name="scan window upper limit" value="3108.62787398839" unitAccession="MS:1000040" unitName="m/z" unitCvRef="MS" />
+							</scanWindow>
+						</scanWindowList>
+					</scan>
+				</scanList>
+				<binaryDataArrayList count="2">
+					<binaryDataArray encodedLength="1408">
+						<cvParam cvRef="MS" accession="MS:1000514" name="m/z array" unitAccession="MS:1000040" unitName="m/z" unitCvRef="MS" />
+						<cvParam cvRef="MS" accession="MS:1000523" name="64-bit float" />
+						<cvParam cvRef="MS" accession="MS:1000576" name="no compression" />
+						<binary>Q5U+qJ2CS0CenK5g7oZLQHx1IaMcAVBA8IpFh3bDUECVH/C0M0JUQIBqC6qCw1ZAnqHaGK0DV0ApNANie0RXQFeOnk4lw1dA7mGAZRnFV0D5NRKoUohZQFsi8jtzRFpAAbmuwcWEWkAM3EKsNsNaQKYA2bjaQVtA5LuQRxtEW0CNpiMbhEZbQBwm4GfexVtAy7ruQ6zLW0DkAAQACAZcQEfcLBfLhF1AOFOEfFbFXUAiMdtW0sJeQKzipn6/YmBALpwoLjujYEAU32UPVMNgQLecQL1/xmBAOm/dY2LjYEBOWL4iDSNhQKWkQqMJ4WFA6dnz74vjYkDlXGn+wANjQMzFh4tsI2RAj3CELoVDZED/FL7qpWNkQClg/ZHcomRAtPDttwvEZUCraSLb6cJpQK2w13Ofcn1ACZdp+auCfUCEebRRnZJ9QHeWimmkon1AVBfiWqCyfUDnKtpPKSGAQABvYZ/EaYhAxmxHWMpxiEDsIwYwxnmIQOtlSbLLgYhAXlXVMsOJiECX3eoEntGJQK2CFt8U0IxAe+LFhOt/jUDqycOirP+NQBU11u+zB45AKV/OQ6IPjkDAI/D9FKCQQJ5zdK0cDZFAnkrJ/R8RkUCZ2IosGxWRQGkNNgYYGZFAStzw6xcdkUDUtJFHHiGRQP+fzegKwZFAdA/ztQTFkUDQox/yUuWVQJ2YqCxW6ZVAsxGFNFTtlUBO2JlaWfGVQPuE5Z9X9ZVAJmotf1T5lUCPIyMtTZmWQJ1MzHiOvZpAYcBzbY7BmkANp0XmkcWaQEbLhSiPyZpANgkoLonNmkBQ2EV/htGaQIyWfLmhK51Aa3eK/60tnUCGAn1qpS+dQEtRd73FlZ9A5n3tScCXn0DcHO0tyZmfQE8ysYHEm59A/+ZZFMudn0C5nM6FyJ+fQFxfvJvNoZ9AWHfbm8Oln0ARY+Jr0KmfQDD1Aq3rAKFA8/1kWvIBoUAkeoWe8QKhQG2vEoXyA6FANEXAgPMEoUCgOt919AWhQPzUa+f4NqJALgOSIQI4okAql6nV/jiiQM6a23/8OaJA7gWROwQ7okD5nqCqBjyiQFtsRKD/PKJAMY7CXgI/okD8+ccTCW6jQCOQFyMRb6NACyPQQxBwo0Douu1WD3GjQKRSrXAHcqNAUnNe8R5zo0CjX9ygBXSjQJOfEvkko6RARY4/CxakpEAHw5V2HqWkQCnlHh0jpqRAE+NKaRmnpECeVAlPGKikQIei/EIeqaRAsE7bCxKqpEAMmkwNJdulQEF5zZkm3KVAP9y9ADDdpUC4x1O8I96lQBALsPYx36VAzJv/nj4Pp0BjBLkJNBGnQACIAAE5EqdAHTT6pTMTp0A+dv29QRSnQFLumtY5FadAgxkKjjEXp0BIL5QxS0ioQFAMs3hBSahA</binary>
+					</binaryDataArray>
+					<binaryDataArray encodedLength="704">
+						<cvParam cvRef="MS" accession="MS:1000515" name="intensity array" unitAccession="MS:1000131" unitName="number of detector counts" unitCvRef="MS"/>
+						<cvParam cvRef="MS" accession="MS:1000521" name="32-bit float" />
+						<cvParam cvRef="MS" accession="MS:1000576" name="no compression" />
+						<binary>iBABRN6P0UP8Q1xEd42ZRHkwvUMMYUdGQb2RRPNUwkMBhlBFGeICRAAkwUPRsXxFCm7mQxXKzUMPAPJD2Ie7QyYxEkSLUzNHnkh0RN68ckVAB+lDttM1RKvkK0TmR9RDskezSNhmGkcZZFRE/OToRIs4MUU/2O5E3QNSRaHALEQf0sFHxeUxRoZk5EMQWmNEjBcpRXbshESK50ZIgKFBRxC6ekY6nl9FpjzQQ5pDT0T5zSpHEKyDRsWc5EXFuxBF4rwjREnu3kMeprdDbkVmRB5ikUVqfIFErQnMQ9cy1kNyxzlHhQq9RskyX0YvF4dFvwrjRAAQxEPC1UlEf/DfQ/eqfEYbSypG9HTqRbSjPEUj2HtEo+vIQ1sv+kOzLw1GqmHLRW9InEWgtBdF22OYRAAgx0MNuQpEc/AXRG5b70PaDcRFAPCMRMjZvUUiVYREtEWWRbknOETb8BtFP1KsRAAI3UMUi9RD685jRDhfa0Ta6oBE+iVqRM6RHkRCWptE01BARICg4kQTQ51ER9HIRPFBEkS1zGNEe5fDQ4VzCUSr6lBEuR5BROT4TkQ/whRESZLbQ4CMyUPHAf5D10HPQ/HwekRhgXZEQnWdRIQPMUSb1yVESuHDQwvS4kPRni9E5A4hRPYl2kOZRABEfuXaQ6nAYkQHWRdEJxeHRCz4xkNn3BVEfgTOQzDLuEPuWcRD</binary>
+					</binaryDataArray>
+				</binaryDataArrayList>
+			</spectrum>
+		</spectrumList>
+	</run>
+</mzML>

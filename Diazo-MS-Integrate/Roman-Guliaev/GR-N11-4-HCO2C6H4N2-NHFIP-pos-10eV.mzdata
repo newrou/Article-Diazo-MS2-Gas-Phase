@@ -1,0 +1,2623 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mzData version="1.05" accessionNumber="psi-ms:100" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cvLookup cvLabel="psi" fullName="The PSI Ontology" version="1.00" address="http://psidev.sourceforge.net/ontology" />
+  <description>
+    <admin>
+      <sampleName>GR-N11-4-HCO2C6H4N2-NHFIP</sampleName>
+      <sampleDescription comment="" />
+      <sourceFile>
+        <nameOfFile>GR-N11-4-HCO2C6H4N2-NHFIP-pos-10eV.d</nameOfFile>
+        <pathToFile />
+        <fileType>Agilent Technologies 7.0.7024.0</fileType>
+      </sourceFile>
+      <contact>
+        <name />
+        <institution>Agilent Technologies, Inc.</institution>
+        <contactInfo />
+      </contact>
+    </admin>
+    <instrument>
+      <instrumentName>Instrument 1</instrumentName>
+      <source>
+        <cvParam cvLabel="psi" accession="PSI:1000008" name="IonizationType" value="Esi" />
+      </source>
+      <analyzerList count="1">
+        <analyzer>
+          <cvParam cvLabel="psi" accession="PSI:1000010" name="AnalyzerType" value="QuadrupoleTimeOfFlight" />
+        </analyzer>
+      </analyzerList>
+      <detector>
+        <cvParam cvLabel="psi" accession="PSI:1000026" name="DetectorType" value="ElectronMultiplier" />
+        <cvParam cvLabel="psi" accession="PSI:1000029" name="SamplingFrequency" value="0.5" />
+      </detector>
+      <additional>
+        <userParam name="acquisitionMethod" value="D:\MassHunter\methods\ESI-Pos-MSMS-50ACN-2019.m" />
+      </additional>
+    </instrument>
+    <dataProcessing>
+      <software completionTime="2019-07-19T15:33:42">
+        <name>MzDataExport, Version=7.0.7024.0, Culture=neutral, PublicKeyToken=null</name>
+        <version>7.0.7024.0</version>
+        <comments />
+      </software>
+      <processingMethod>
+        <cvParam cvLabel="psi" accession="PSI:1000033" name="deisotoped" value="False" />
+        <cvParam cvLabel="psi" accession="PSI:1000034" name="chargeDeconvolved" value="False" />
+        <userParam name="peakThreshold" value="0" />
+        <cvParam cvLabel="psi" accession="PSI:1000035" name="peakProcessing" value="PeakDetectedSpectrum" />
+      </processingMethod>
+    </dataProcessing>
+  </description>
+  <spectrumList count="83">
+    <spectrum id="1">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="4244" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="65.0478613922227" mzRangeStop="1312.21618193319">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.071" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="66">m5U6KRBDUEDqwkppV4NQQF2hODK6QlFAvgFYFRDCUkBzFSaexsFTQE1RHr3AQldABu9HzHRCWEBB+rMWsYJYQK1YbSnNwVlACsZmb3jBWkCxgNQQ9AFbQBiWh8SCxltAA6gWO4JCXkBRL4n+eUheQDSwfZizgl5A7ylZ/tDCXkAMZn/M/gJfQM4y9wQxQl9AGDIRTJthYUBnUWgeqOBhQIYqHXJ0oWJAsXoIjozBYkCJz4jznuFiQJu0I4JtAWNAtp9EVs4kY0AzHDD7HkJkQPkoPZwxYmRARcGZTuJgZUDhcvmkdeJpQBNrL+3+gGpANwXXCPIhbkDmsrn2C0JuQGU0cpAR0XBADBW+VhvhcEATYxcqa6FxQHgxwEAskXJAmbKc8TahckBBtMACexF6QLmI3aGU0XtA0aYfIqLhe0DzB/kmh8F/QHogZWe3uYBAmQQI5v2IgkA70mqaBJGCQA6eF9nwgIRAYpmCJ/iIhECWwzMQfjuFQAHmEW0yKYdAoV5CtjUxh0AqG6sd/JSHQPG8D6kgZYhADhyMYiZtiEAY++hgJCGJQPWhb6MtKYlAyqYO6D1xi0CGw5AhUHWLQJdQEvQT0IxAnPUNYlfBjUB8uMUrVsWNQHN4ab9gyY1AalJJvF7RjUBlfdEtwTCRQNpvWN3KNJFAFm5Msb0skkAMb5Ix1nyUQB30y17dgJRA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="66">ALQYR898GUU87kVF5htLRR8uEUV9j6RGWdUUR8aSPEW9HvJFNV/4RZBTmEUOWAlGoHvrSe3fu0fN+wdI/hgdRg9/B0WfbZ9GvCYqRmc7IkVwarlIMnQDR7w+K0U2s3BFSY4ORaZuBEfQG19FNfIXRQa7qEU9oQlF2At8RhBgJ0X305tGsWhURcw78kQpIYNHy3IvRqPVskVQNYVGWGeGRapQ/UQAoBtF0OITRk9QbEVNWr5FR5cERfsw+0RaM89FiaY2RQnPX0VeB8dFYWlzRcW9SUZK+6tF3jUaRd5bFEVh2wdFQ51CRt4I+kQWpMdF7cLxRGcQsEWeozxFXnENRY2RBkWZ8CVF</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="2">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="5843" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.031828329599" mzRangeStop="3026.64081438645">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.097" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="149.0313" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="49">Y1th8xKEQ0A04ViPYUBQQDvAElcNQ1BAc4ZLDHlHUEBqr5chsUhQQGPlJ8B5SlBArMSBN+lLUEBUNNBy/01QQLCGPAUyUFBAnGFbhD9hUEATHiKvQ3RQQH517eJJg1BAh2spU8SGUED/ZM529YpQQHwfdIThoVBAXI8f9NW2UEAkuVr1YsNQQB93yASJQlFAHmig6TfCUkA92n1gOQJTQFgNxaJuA1RAXgWqbcNCV0BN2+VS/EdXQGTgrTAwSldAy+Y8QW1LV0D7Sz2B5IJXQEdAGeuLvFlASJkcHMPBWUAYmbTijsRZQMhA7dh5x1lAj+3NjcoBWkDbqM+wFSdeQAjabOBvQl5AIBbfoXlIXkBMYkGg1UteQPH9epp4Tl5AYs3uwGhRXkCSrF26d11eQOV8KNhJdl5A3HvprKqCXkB5DHkL0YheQEirmNXMjF5ApkuA3YoCX0B7qqhPvhVgQPVViPt5BoFAP2NP6Bpxk0DWuJAv1yCcQG2eYz5zAZ5APMHSGEilp0A=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="49">QxbxQXZi2UEF3BhGDYCZQ/JZnUIAgNhBJUn6QcVOGEIAAGBBIQQQQowuYEGYFT1EVVVhQc4HoUJiJ2BBjC5AQQBA4kEAALFB3HEVQ7HTpkI7KCFCV5DVRACQH0IAAHJBq6pAQSxlD0NJkqNBSkILRHTRuEEAgDRBSZLkQQAAkEHc9MFFDFsfQ7IQTULkOEBBeQ3IQaOLZEElSV5B3/QNRCIicEHZiXdBD0+pQgAAkUEPD1FBq6ogQVVVzUHkONhBo4s0QQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="3">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="6035" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.0489241684355" mzRangeStop="2501.15462694139">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.100" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="297.0544" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="24">hdrVkiFDUEAORHsh20RQQORBPjxgg1BAn4s41OhCU0AtbJcnnEJXQHt4Z1xzQl5A00NctH5IXkDQaexZO0peQElZdhPnS15AkM/pt5VOXkBX9m4AqoJeQO1sM69twl5AMKnVvbRUYkDJCcmNfqFiQDCCeuoJ4mRAVKRcFgelckC3IaLd7HN+QHM2rbyIA4BAC+9DrFnQgkCyxARh19iKQCp4CjnTJJhALFMusS0EokBsnnhJDwaiQLUwQytPiqNA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="24">E3hGQzMzY0E8fIZCKutbQtmJN0EASE1FmAO1QuzEi0FVVZBBAABAQSea0ENDFppCq6oyQWzBYENGFxlCmpkjQeQ4oEEeHo9BmhlUQjMzc0ElyQFCYifAQQ3lkEEzM2FB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="4">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="6310" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0304390930458" mzRangeStop="2846.72972192896">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.105" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="65.0381" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="18">a5OebeWDQ0DPL4DQoopDQEsHbzf4jUNASKdoKm4EREDSQvBkO4FEQJVuUAS8hURAqkull5xCRUCvt0bqlYNFQPPKL1ELQ1BAzmZQ2XhHUEDVLtusE4NQQG7zhuY6QFFAi5+HuY5CUUCAnMDB22d3QK2DU0RAwJlAPlDEBUGJmkC8/P/CST2gQBnYHJ51PaZA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="18">AmC2ROYeKUKSJEdBsROVQjuxiEGS3DVDNcLnQQCAKELWId9EuA85Qjhfi0KEj2pCr57PQs3MLEFVVZhBAICMQbroSEGji0RB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="5">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="6588" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0318345490819" mzRangeStop="2264.30761369569">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.110" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="97.0267" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="26">TJiNJxOEQ0CdKOIo74VEQMs7psIBhElAcnnVxcoESkBXvc6C2AZLQOEJS3SNg0tAeu1fqzxAUUBs0AqRr0JRQLVWNZlOR1FA4w4zZuxIUUCUZPby2IJRQMJk9GODwVFAMijVdLrBU0AH56yS4gFUQKkNBxd3QlhAsIhJRxJGWECxozxi40dYQPm44JDkSVhA80yvPe9RWEAPhuMJMVlYQIJZ2WqIclhAtchgca6CWEDHfHRnR8JYQNk9raS6zHdAPbokUoyeh0Cc1Yp/nbChQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="26">KyzAQjJHr0MgHSRDXXSMQQAAsEGcjyJDG0o5QjJnukQAAExCmpmLQXUQgkIAALtBOwDqQy+hvUKcgPhEREQHQlPKKEIlyUFCZmYgQc3MUEEAQPhBJ8cGQ5/1MUJyHHdBAABiQXZiUUE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="6">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="8174" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="65.0475457504543" mzRangeStop="1312.20325958124">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.136" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="61">99BU/QpDUECGK7QLukJRQLqIMmEOwlJAsuDOpMPBU0DblewLwUJXQCD9d8VvQlhAlwFdcqqCWEASIQWxxcFZQOSthSJvwVpAShtlWOgBW0DGX9mvh8ZbQFDIDJZ8Ql5A3rKOV3NIXkBT2UjQqoJeQAfGsHjSwl5AB8wljg8DX0BiACq3H0JfQCq2EmSYYWFAi3BRKa/gYUDP/XcMcaFiQP5kogqGwWJAayR7HpzhYkDQhRiFbgFjQLHQD8TJJGNAPwUlPhZCZEBNN3LYM2JkQAV63cdq4mlAKLDxnPQhbkDl44pDD0JuQJZhIDMR0XBAP0/KNxrhcEBt2hrLJ5FyQIMWbQ40oXJAClA9NHwRekCj35ToktF7QKPHZcKa4XtARwkAHn/Bf0BN/Ihtt7mAQHk4EM35iIJAYkJyq/2QgkBDXox28ICEQFQifpD0iIRApk55aywph0DAGVx+MjGHQAcOE633lIdA8gSbiwSdh0BhGffEGWWIQDqYUwsdbYhAE+vYdyIhiUBEKkVQISmJQCyXsC44cYtApGSptjZ1i0APPShOUsGNQP58n/FYxY1AKZcjY1bJjUAznUD6uzCRQEHPXrHCNJFAx7NjfLuwkUD9Jk0CvCySQOVZxjnQfJRAIJhHI9CAlEA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="61">b8MnR9Kbh0Xon4RF7MEXRTvfz0agDTRHvaQfRXeVQkb5Ix9G65euRYU+30WZZwdKFaXfRwhpI0iy1EVG7UEjRTMvxkaoSTpGwf06RVDx10iELANHEz0tRT/YlkV8By5Fbpc3R3TPkEVZmbVF2q6MRmScJEWHj65GAYtiRdcnlEc8GDtGU73ERSkLm0Zb+6FFZZQ6RSP/LkXwKihGurBTRZOKu0UxHhFFhbbSRcbMSkU+IYFF624NRX2t3UUcYXdF91B5RmQN2UVZ3itFMOEdRSltYkaJ0BFFBijmRdSpnEUbMkBFhzIXRTNoHkVAbzRFCM8LRQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="7">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="9768" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0302944843412" mzRangeStop="3168.35299535062">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.163" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="6">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="149.0313" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="59">VL+NsOCDQ0A7/ghIIVNLQDuNHvCzN1BAjKp57bQ9UECQvFlpCkNQQKM5X71zR1BAS8FEgapIUED43XPLrEtQQKwEvdUxTVBA/mqnXTJRUEAx3OJ/AFNQQOSCgM98V1BACbSv2zuDUEC5fhxIHIZQQFHuAgWih1BAm3igiaKIUEDV3THChYxQQFTegF+5ulBAkWFQlt++UECtF3Qhl8NQQHL6sZv2wVJA7YaQ0UjEUkAC/wYI88ZSQK8LbWUaAlNA9Q13QByDU0BgcD9wADRUQO2A62prsFRABhdgGMBCV0B2N7KjBkhXQHAN+dDZTldAjP1th/2CV0CWppNsuMFZQA2zSsTPAVpARmnOPIBCXkARnE5SnEheQH4ISnalSl5A5q1d7P1NXkD6o3MQbFBeQNZsBgwYU15AQ+czi85jXkAJ5t/Vt4JeQEEzgspgh15AWTYVnv+IXkARdmTeSpBeQLIwCJjZwl5AIj55IdTGXkB/2wb1KhVfQPEYN+InwWBA2N/ST1YBY0D6L4ZzHVpjQKiFp9G/EnlA/8wdjF9nfEB6MkIxbyeJQJjTRSLl9IpAUS+JnV7ni0Dsb0xGB5KVQNxRqRMlSqJAQh9asFdKokAkfc67tMCoQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="59">waElQwAAckFVFUBCYidAQXDIK0ZZgL9DjbCzQiVJ6UFVVQRCAAANQjMz0EF00ZhBkJ4+RHZiMUFVVYlBkiSvQWZmhkEAgFBBkiR5QQBAvkJdgKtDq6qCQSIicEEvuvZBqyoQQgBAhkGrqrFByCfFRBddx0FmZo1BUMexQp2HuEPBHuNClHitRauaHkOrqqpBxU6hQQCQPkKrqmpBx3GdQbtNBUQAADpBAABcQQAArEEREdBBG0oFQquqgUFGFyBCMzOBQgAAUkEAAFJBT+yZQRzHkkElSVJBOY5FQTaUqkGO48JBJUlQQQAAMUE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="8">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="9947" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.046883772591" mzRangeStop="2917.3210696648">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.166" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="6">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="297.0544" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="36">c3/LJABDUEACy/ShSYNQQOm5VVgE1VJANMFAkOJCV0DK9oHmeUJeQPHZqwSESF5AnDgM0pBKXkAcut7xlVBeQJU9v1Ktgl5AJG+KCTOFXkDX+U4sNcNeQGww7QV70V5A1Vq77aMiYECYyD+y2SxgQDwu3XhlYWFAfBP9r2OhYkCxspx8oMFiQBD5FTYRCGRABNhsDzgiZ0D77fdwYJpoQLNJEAhMIW5AJYOJykMVekAadcwhYNB7QKH9Ljj2ModAhklt3UhJi0BGu5jL/lqNQAAtvwi0w41A7Sevw7VBkUAjOep/hxiTQHUqby2Nk5RA6/DKP25clUALDApWnQabQG5SNfPWbZ5AssXipW77okCsFeGCfzCmQBg8PmOkyqZA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="36">4bycQ6iRUEIAAHBBhXY0Qlqre0WOANxCAACPQQCAIEHiKaVDZma4QcVOLEIAgEBBAAAgQQCA4EFIYStCfh6wQ2IncEFGF8BBFDvOQc3MIEGoA0RCHh4gQXTRiEGrqiJBJUlgQY7jkEHHcUBBzcwgQauqWkFVVVFBSZJiQQAAckF2YiFBAACBQfMaMEFJklBB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="9">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="10190" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="40.1233070775173" mzRangeStop="3028.11436280027">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.170" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="6">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="162.0512" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="24">rqa8hsgPRECfQwC4F0NQQBEbSPGn6VBA9qOOgMxCV0CkCzj4bkJeQF3yURC3gl5AWUq9wGaTYUACui6kEUJkQGDPBgiARWRAGWWsZ95HZECeEABBJklkQC+O3IhySmRAUN09y6ZNZEALbf6IOWJkQLAn+lNcZGRAdS38XABmZEClIbEwi2xkQMCRad8rgmRAas4lk5KRZECFu0v03LpkQKNW58TxZY9AtbyxBPHwk0DnMZJsx4ukQBnOwo06qKdA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="24">IiIgQUi0R0PNzPBB6QIBQ+Ck1UNqBCRCAAAyQX93BEUAEFRCVVXJQXTRDULkuCpCzcxQQWZGj0MAAFFBkiRlQQAAMEG7bvVCMQzQQdmJJ0EAAEJBAABQQS+64EHNzDBB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="10">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="10436" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="41.0463104208732" mzRangeStop="2538.95189907398">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.174" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="6">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="97.0267" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="27">po73f+2FREBScgvu94xEQEwSVIelBkVAWRJ2XVqDRUCP8cV+7INJQHZ7amtcBEpA5TKda7CFSkBY8cphQINLQPSjCByQhktAAS1AuGFAUUA46ductkJRQLl6wojERVFAycU210tHUUD4yaN/cMFRQHyyhD+SsFJAhElSx7vBU0Ceypi79wFUQCRthD5yQlhAYv6w9Q5GWEBnRVa21UdYQDC6W+PgUFhAXyCNTUpYWEArYwza2IJYQCpXO4IfwVhAGPusr8PCWECb3if74ROLQLe/UF/n1aNA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="27">bAiZQzMzI0FP7EBCAMCkQiq4/ULmnuRC+GBQQjtxEEMAAEZBLeQMQnAvf0R2YvlBKVygQTAeoEIiImBBa0XlQ/Hw8UEDyO9Eq6rZQQCQEEItZMBBAACYQQBAqkKe2PtBRhdJQgAAgUGhPR5C</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="11">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="12020" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="65.0479006747552" mzRangeStop="1312.21462103222">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.200" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="55">6OH9zRBDUEBl/6AqwUJRQIlIDn8ZwlJA75IEQchCV0DayzgEc0JYQLLf7H67glhAcORlBMnBWUAzySFceMFaQH5WHtX1AVtAkid0jIPGW0DHKfVVgUJeQEmzwgN4SF5A4c8PJrOCXkBSzGNVy8JeQK2DRnIqQl9AaFefiJNhYUD6TwHdp+BhQPqIQfNzoWJA3XJ/iYrBYkAp+F7WneFiQF/0PvF2AWNAm1HtBhxCZEBhgFUWOmJkQE/1/O5z4mlAnrCDQPMhbkDObm2fAUJuQJzJ1J4S0XBAblB2RSDhcEA3cL0uKpFyQJr4yU05oXJAC0vbi34RekCJG2Pjk9F7QDiKMg6h4XtAIocRGnvBf0CbvWvSvLmAQC0oVMT9iIJA202cCAaRgkCcZmrN8YCEQMb3Uvf6iIRAAhpCsS0ph0BHsY8nODGHQNcotqf6lIdAect8zhxliECy4b2hI22IQKXgzvUlIYlAbkVIoyspiUBFtQTsQXGLQAuQTl9AdYtAzqkhYlTBjUDhSFaMVMmNQDnrbnDBMJFANhrN5MM0kUCD4/C+uSySQOtcZtDVfJRAnamdxduAlEA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="55">SuE0R/BKSUWZCklFW6fZRiILNkcae1lFimE2RlAQF0anX6dFan/2RdI6D0peIPFHOhoqSDjCWEaBTb1GnQhHRvOnKUWBKtlIKHARR1S0OUUwxoFFPcZnR0x0sEUapblFFb2QRglQKUUzta9GGO9pRRBAnUcuFU9G9DjARebrm0ZSvp5Fod1eRREHLEXKtC5GHdhbRbS6xUUOEDNF3sbmRXynXUXj3YFF7PzVRWt0ZEUuentG4w/SReHtOUVgdSdF4FhvRkre8UVb1sdFcH2ARY1ZL0UDeUxF4KQYRQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="12">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="13615" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0316397417058" mzRangeStop="200.9841880873">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.227" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="11">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="149.0313" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="48">qPBjxQyEQ0DifgRW/zVQQIpvOKxuOlBAwhdS0w5DUECMY7WndUdQQCkBYdfWSFBAJ5oHDwRLUEBpHkUwNUxQQGvsnikfTVBA7uamkeNPUEC+SfT31VFQQJ3fad9GVlBAUMEF6EODUEBjoJ9+DYZQQElKPYLfh1BAXGPkZ+eKUECc8ymtipNQQOc8vQ7illBAFpPfaTeZUECFFyVPkcNQQNu8+IkDZFFAyt/jLoq4UUAdgak/+8FSQDs/P5ZgAlNAPPAUcMhCV0BcSHOWKEhXQNprdRoCg1dAmzBgxcHBWUCoyXne8wFaQOaaujcwA1tAizzJB6b2XUDuLIOXdkJeQDnSp+p9SF5Aw4XmuyRKXkATl62iW0teQE94jRXvTl5Ao1i6bF5QXkD7ti0BFVReQJPmXhf7Wl5AQWofLGxzXkAh7Eu5qYJeQBUmbvExh15ACWVrOtCIXkDQ5/po5wJfQHih0EFvMV9AK1ckwpu0YEBsfskPGOhjQA4CBHh+H2lA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="48">CQ4FQ1VVkUEAAFFBPlFFRnrE9EPckWRCAADeQUYXmEGPwv5BMzOYQR4eUEHx8FJBPRyQRAAAuUFfQvZBsRO4QdhQiUGrqsJBSZJQQc5HZUI5joNBJ3ZMQQ4I5UNJkrJBWgz4RFVVWUIAkDNDFRA4RLfthULNTC5CAACCQanMzUUdKyRDHh4KQusG8EFeQ4RBTGiZQkmSm0EoLwtCT+yZQUOyPETNzFBBmNDBQQCQXUIAAFBBXkPMQcP1wUHpouFB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="13">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="13787" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.0475555720676" mzRangeStop="2639.69472419771">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.230" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="11">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="297.0544" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="29">eLGGJgtDUECiN801KINQQKb4LVIlwlJAkYr+RahCV0AV7u7rrURXQKrZiSQO0FhAX8oH0XlCXkCNC3NwNkZeQFFOvwmOSF5A/bHp0lRKXkAct6exf0xeQH12eqHSTV5AZER2aJaCXkDTYU1VZJ9eQAtYI9foeF9Ah5K4oJI+YEBf8NCakaJhQEoplT7U3WFAyjyXZgacYkD3FpePZKFiQD7vHFQzqWJARMybVcvoe0AL+1600P2DQBTViSc3uoRA5rFN/Mp/h0D68G28eVCQQAbSabe6MJpARU+iqQGfm0DG2eOyY5+kQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="29">IQRcQioB2kLHcR1CVZXmQtmJR0GrqkJBKiZlRYyuc0JrSq5CF13vQUmSQkHpojFBACBXQwAAMkE5jiVBVVX6QQAA7UGKnbBBshANQiGLLEK+BAhCHh4gQauqwEGjiyRBzcw8QfHwckGrqjBBAABQQYmIdkE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="14">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="13995" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="30.9064060082614" mzRangeStop="3052.93861141664">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.233" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="11">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="162.0512" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="24">e2FiOQroPkBl0yGrNUNQQB+DbPbER1BASua7OtDDVkB1B13Jn0JXQDJkzB1VQl5AhaQHUIhIXkArL9nP74JeQCaLkhcw7WBAciIUChVCZECt+HSToUZkQPznu7bvS2RAAENL5UBiZED51wex9n5kQFni/lQAqndA50eiAMvld0Dp2sHuubx9QIw/vbi9UH9ADK1S8Rj0gEBDj6lFSmyHQGynC49sq4dAq/HCM57YjUBj+ilhXr+fQEH0rJHg2adA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="24">eHj4QQNRkENiJ0BBZmaWQcSdQkLWEMhDMzNhQVDH5UIAAIpBFogkRUmSYkHNzFxByx09QwAAUEEAAElBIYskQowuMEGrqiBB6aIhQXZiMUHkOFBBVVWVQUmSkkEAADRB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="15">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="14240" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0311543841986" mzRangeStop="2697.21591126138">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.237" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="11">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="65.0381" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="23">TaHq3fyDQ0BIXGVw7IpDQFFV8E2XjkNA5aUgTlXvQ0CeU18SCYZEQJAwWCwMQ1BANqAguI1HUEAU0IOX+0hQQPlYPMpuVVBAejv1iTeDUEDDTw0ww6hQQKli0u0FtFBAeFP72TUCUUBr9qsx5RdRQHHlyt9gQFFASF+lLWZCUUBZrEFo8EdRQNJJGCVeblhABpQJMk7VdUBTolF3SqigQFBSkoXgr6NAil23wosRpUDkvOuLbhKlQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="23">Bi+4RCf2HEIAACBB5DgwQSAdI0OJLA1FAABIQnkN6EE5jp1BqwpLQzkOEELFTolBjuNaQauqMEHsFEtDj3ioQpIkOUHlNd9Bzcw8QQAAeEFuWyVCAPCDQwAAmUE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="16">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="15825" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="65.0479357360188" mzRangeStop="1312.20260736314">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.264" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="59">q6AMYRFDUED2H9+URYNQQFn5uZm4QlFAzJt0LBDCUkCDnB4Uu8FTQFrJnQTIQldAY7nguXJCWEBMPm+UvMFZQMDo0Ip4wVpA6yfYHO4BW0DTXP1vhsZbQIciv/h9Ql5Axkh2vXRIXkB1Dj87r4JeQAJvbTjSwl5AQnJ5QSMDX0AMu6CBIEJfQPrj+eWSYWFAmRMJSajgYUBUPVGjcKFiQHAfupaHwWJAld+C2JvhYkA/lujIcAFjQDZ8RgMYQmRAaMiyQS9iZEDbYFVp2GBlQMNZeVl14mlAQXvkUe8hbkBHYCd9/EFuQJu1TCcQ0XBAe7tPIB3hcEB6wO6GJ5FyQPUpULgyoXJAH/isaX4RekAECEOqk9F7QBM3gU+a4XtAoeD6aXrBf0CJpgbitrmAQGjAmn/7iIJAOwCem/6QgkCrfLoj7YCEQFzw53fwiIRAYS7STygph0D5GFccNjGHQGaDaJP1lIdAewWEJBZliEBWEQk8HW2IQGA/m24gIYlAB9IUxCUpiUBjYnr/NHGLQPivYKI+dYtA5rkddk/BjUBuQkibUsWNQJB9sNBYyY1AqtSQ6r4wkUDOM13JvzSRQK71S++7LJJAwu64+NF8lECJ+k14z4CUQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="59">s9k5R2JZK0VI6VlFlcRfRRAiM0XQjstGITwzR/B2LkYi0B5Go/fCRQKT7kUHlg1KS1zsR/DKKUjpPU9GHzkSRW0Xx0aqDUNGmYQWRVvh2EjYugdHD8QhRa0qiEUa4WNH7QbARS0JEUVMpaJFyLyVRiIbH0XVN7pGBlRERSBTk0eftzxGvtOxRY12nkaRpaZFB8RlRd2GTEWxQDVG1p6FRdrN2EWMHR9FFQPgRX5rPkUw84ZF+OnGRU+7YUVTy3lGn2nrRQCcGkXNfiRFAylcRlYeIUW8t+BFnlHIRT/WdEWZQy1FLQUzRYe0HUU=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="17">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="17418" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.03070032975" mzRangeStop="2848.92196686838">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.290" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="16">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="149.0313" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="63">WSAI/e2DQ0BejA8QzgJJQK96q5sMQ1BAbWp7IG9HUECN03cz60hQQBXy4MqzSlBAg0lPIDNMUEBhnLisEk1QQPZukf3YTlBA9X2XBiZSUECu6d9YylRQQIeoNa+VV1BAVtThfHZYUEDMKaYzj2FQQFcLFpp6cVBARFFz00iDUEBL4TCB5odQQBD79YtAw1BAvVriFJAoUUAg4b/bJoRRQMOmWI/mwVJAWwyBkZvEUkAKqM+UDAJTQLa6ire9A1NA/EMw+8gAVEAYIjybf99UQGsy5WO8QldAny181yZIV0Av3QuITk9XQEKQ3gHcgldAO4EAaM/BWUDejoLobi9eQDp5PcB1Ql5AaNzXV3RIXkAcqWtvIkpeQClmIyeLTF5Ajt1JjrZSXkCAHcmB8VNeQHsaS01wYV5ADWWWzRJsXkAgcZlPkIJeQCpyMmZkiF5AssffIpqQXkDm/sCk3ZheQHryY2QmoV5ARTwA/tCuXkBGmwWUOL1eQKCq+8jFwl5A7gjXqTcDX0Dg+Sea+AZfQAcLIPUL/19AhI80TbcBY0CVZOFVMzdjQEqR2/VXC2tArMA6bSIFckB5kV/8tHVzQJnRr//6/HRA/HAM6CWkg0CL/SN8ZiGTQNOEPWDGGptA8DtxvlyWoEB8IwqBtMykQF+XCgzYQaZA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="63">cy3yQgYngEI3WBVGnqmaQw8PU0Li4dJB5DjYQU/suUGaGTxCxGRKQgBAkEHlNe9B8fD5QQAANkGameNBuNA0RLrogkFERKtBqyoUQowuMEEXbDdDAACPQVVVzUJVVVVBMzMxQWIn6EEZnQZFDMNUQg8PMUG66LJCQFziQzmORUFgM7xFnrQUQ1VVwEGamaBBAABUQV10lEEAAMNBq6pCQb74J0QAgDRBAABkQQCArEElSTBBERGAQauqOkEcx7FCAABAQWZmDUKMLiBBAACBQQAAskFiJyBBAABAQZqZqEEAAIBBq6pAQWInIEGrqiBBVVVjQeQ44EEAgFRB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="18">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="17598" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.0453185318796" mzRangeStop="2282.48502307983">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.293" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="16">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="297.0544" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="21">1RSzf+ZCUEAlny0td0dQQGM4btkNg1BAEDrtf8NLV0BU7qR5I8JZQMxSMc5zK15AaEfZa2lCXkCQsmJ1bEheQDoHbbklTF5AVAJOXwpSXkA4qpE4wIJeQLyrlq8chV5A6EtdytGIXkCBxO6pX6FiQCzlmgmO8HBASipo/souckCTm7d3jad0QDxSGMwfBH5AXoiT2/+/l0A+KhEzcB+hQFvz8VT41KFA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="21">KnCVQwAAkEEAAEJBdmLRQQAAzEEAAKFBt4wnRWKnQUIAAHJBJUmqQZgF9kMPaiZCMzOjQdyRcEIcx0lCiYjwQSVJfkGaGQRCo4skQQAAJEGIh6hB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="19">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="17809" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="44.1069139872968" mzRangeStop="2248.11327635292">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.297" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="16">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="162.0512" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="21">WnaHW68NRkBq1YWp9UJQQJQArtVmR1BAdre/BO9CV0DVU/XVLoNXQIQOGzE2wVlAEBFeXi/2W0Be1WKeWUJeQI8Ukiptgl5A70M0XhVCZEAcPil/R0RkQInvQ/eqRWRADja8uo9LZEDCxHOBLGJkQIQO5zVBgmRADIOuvGsEcECXj8TQ76OMQFdH/1TWpIxAtmhpQcB+mUCgNaB52FSfQGeuW/85kKFA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="21">ntgjQRUIQkO66EhBAABkQTmO1UElSU5BAAAsQRU5uEJhORpC/gXvRKuqEELNzCVCSZIgQVTDjkMmF65CO7GgQQAA2UFJkkBBAAAgQdFFikFP7IFB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="20">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="18049" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0307975952544" mzRangeStop="2484.80057140636">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.301" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="16">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="65.0381" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="23">4DT0LPGDQ0AllQfWn4hDQHjHJnfHikNAx97MzXkEREBv4GtbgoREQLfQCu9ehkRAOIcakg5DUEBnmH8kd0dQQMrCkPLUSFBAL5hXd8dLUEDvdl8ZU4NQQEBWi9rmh1BAhKWHj2RAUUDq7BiFsEJRQJcYjToBR1FAkSkPGGc+ZEC33ijXqVl0QIPGsif8MYRAj9loGcZ2jkAM3EGPVRaZQC/9IjmcnptAf1LhE4Onn0Dj0H7kmWmjQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="23">Mkh6RAAAsEEAAJJBSZIfQiGLAEIAoIBCAOD0RLkCNEIAAGlBxU7BQdjXQ0PHcTBBccddQmZQskPpokFBzcxsQTEMqEEAQKpBAAC4QeLhykFJkoJBAAAxQQAAIkE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="21">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="19635" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="65.0479890869689" mzRangeStop="1312.20807489159">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.327" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="61">LMbRQBJDUEB/ZjJkS4NQQIjYQgjEQlFAMUBxVBbCUkA55zUpzcFTQO4EgRzLQldAjlJPu3hCWEAAD1vUrYJYQOi6HkfKwVlA0KHacXfBWkBnmhBt+wFbQMRUIgSAxltA17D4boVCXkCDv98MfEheQF5aQE60gl5AyoJat9DCXkC7PhJGK0JfQOexAfiYYWFA0+TvErDgYUAKKeDgdKFiQBDycbuNwWJAHm3E/qPhYkDzb6qMdAFjQCy/ukIdQmRAO9PCzDhiZECZyY+h22BlQM+VedJx4mlAQFslVv6AakCH+n4PqmJtQH33mhH0IW5AEVy0ih1CbkDNHU0BFdFwQGx5M+Qb4XBAaDWLsSyRckDRnoMHOqFyQEH7oR2EEXpAC3tuXpjRe0Bwl+mjpeF7QIFy209+wX9ANcqdhcK5gEDn4c9R+4iCQGRcEjYDkYJANFM5xPOAhEAZaTx4+4iEQPMDSFQwKYdAEDkInToxh0CbtwuUAJWHQI52514dZYhABXhGVyVtiEA07Yx3JiGJQKdKeEIvKYlA7MMhskNxi0D6C+lKP3WLQIYnir9XwY1A7goIvGnFjUDXAcd1V8mNQDyds1PAMJFAuvTOQMU0kUD7ZqsFvCySQDjiIqbXfJRA7ZmVEdWAlEA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="61">a8E0RzJXGkXAfoBFy3pCRQs5F0WbRrtGVfIzR1zvHEVkTjJGRpkbRglEtEVkNQZGZCwMSl0e6kfsQSVIo5BNRokFv0Ybu1RG56Q7RYjw1EjdOQdHJVpWRQH0fkUCdEZHvv2fRUorLkWfNbVFQoQXRfwTEUVPGoNG8rslRVqArEatiYJFeO2RR05gNEbkBcxFnZmQRvPEk0XzhEBFtoo/RXAJPUYzwGlFPWrORUPpH0WBkd5FIA1ORRk3fEW1iNxFwkBfRaDlb0bKmtlFE600RRkOO0UgOGhGdmohRXH/5kVHS7JFgHB6Rc6BKkVCsCxF6UcfRQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="22">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="21230" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0310904026211" mzRangeStop="2254.90330447962">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.354" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="21">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="149.0313" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="48">Cz0zxfqDQ0B6EBxeI/VPQIk4WYz7NVBAbJf8mwpDUEAc08XNeUdQQAnJKMkySlBAu9LpL0RMUEDfV3hkOU1QQE6k/f3eTlBABKwC16FQUEBCouKo7FdQQGoIpHSJWVBApTZgHn5cUEBK8/xMel9QQBi2FhuqYFBALxJ5H413UEB2f50zu3hQQHeLZppKg1BAG1n1F5SGUEDTRoKX0YdQQCDiDxnPw1BAYI2uVqGVUkD9NgbeFMJSQFg8olizxlJAtCqFHuYBU0AXZUwX0UJXQIbdh3sySFdAPwTXa6tJV0BcxP6azYJXQANma70jkFdAzZFwgcrBWUDHGV7KfMdZQBTNRtTeAVpA0vM35NcBW0AYH1BYfEJeQG/ugSJ6SF5AgnkyDytKXkDLYHst/ExeQJgb5Q3UUV5A2m4z6LuCXkAVmy2MBIheQH0jaX7rBl9A+sCOsRTSeEAw/EXh6gmEQPwQOU2F14dAOxF2yIkRnECQAWUNQ1ydQJ287H3OnaFA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="48">AExWQwAAikHi4fpBgYguRqaW0UNV1QRCyMIZQgCAzEFmZgBCXkPUQQAAsEEAkA1CchyQQTMzoEEiIlBB6aLBQQAAqEHoESJEAABUQRayv0HSoERCmpmQQTd8VUOji0RBZmZJQhrj9kSVUl1CiIeAQc0MvkIlSZJBKnBgRCELoEEAYCNDE1p1QiNxxkVqTj9D0mZYQoqduEGMLlBBYATkQwAAQEEAgFBBkiSwQS+6PkFERBBCAADiQUmSpEEAAJlB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="23">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="21410" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="54.2940641811853" mzRangeStop="2786.57397681604">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.357" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="21">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="297.0544" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="24">0o4k5aMlS0AaVqbIOUNQQJEX9/DiQldAggwyXXZCXkBtZYZYfUheQDeV4cmlTF5Auz8E7idOXkA+2bdeN1BeQDyRNEg1YV5AQZ3GnDl8XkDDyUrPooJeQN8ifvbPi15AmXPegF/JXkCxCGkUXaFiQOMoRceOImdAOiYvSHJhaEDfKqTHKSJuQE9Tz7rBQYJA1VWjdq9xi0AT5rlITeKQQD9gvkafLpZA1uFSyc6Ml0AG5va0Cr+fQCMLSuAlxaVA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="24">chx3Qc0sfUM8vBhCU29kRdHKvkJVVVpCJUlwQQAAIEE7sZBBAECqQZ0il0NVVVVBjC5AQQAgY0NwfrJCLzoFQhERyEGGLOtBOmcAQquqckEAAEBBAACJQZqZo0FJklBB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="24">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="21640" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.047478860605" mzRangeStop="3039.7951536206">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.361" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="21">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="162.0512" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="20">MmPG5AlDUEB2OEAXQHNRQBWtFVObQldAWjZuLAXXWUAwKgwwf0JeQP6Bhk4RQl9ALSfyMBxCZEAXWMOWuEVkQM2utFkvYmRAANNhiIllZED+SKsuJIJkQFPev+OqrWRAzzXkudzeZEDhkKa81+dkQN09ikzMuZZA44Z8QczJlkB1LHHlSOqeQJTsrj3fWKNA23s5rBC+pUCMF2Ael7+nQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="20">SZmIQzmONUEAQKhBHMcGQruNg0NVVchBTAsBRadgMkIs13JDjC4gQdUA5EIAAIlBAABEQQAAVkGrCkhCAACQQQBAjkEzMyFBOY4lQc3MMEE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="25">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="21886" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0301585672305" mzRangeStop="2249.47583498498">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.365" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="21">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="65.0381" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="17">f/llPNyDQ0AnPFv1XYhDQFX4Ve+WikNAkYEt1cQERECiClvyOzhEQGj8pU0IhkRAhaDpJwdDUECMyi72i0dQQOrgMmcLSVBAlVA+pilPUED+GgBrN4NQQM1C4HE7hVBAsfeK3B6IUEBaSZAkiEJRQED5ljgeMYJAyIgl7cyJk0CTpaSg85KhQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="17">dkyAREmSm0FddIRBowuOQgAAtUGDvuxCPcUMRQAAgkIAAEJBAAA2QfdRjkKrqjJBjuMqQQ9PYkOe2GNB0UUDQgAA8EE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="26">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="23470" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="65.0478785057881" mzRangeStop="1312.21069106201">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.391" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="59">oSICcRBDUEAJJ9jrQYNQQGUk3aS8QlFAD8LHgg3CUkAPCRLsx8FTQE7L3VbDQldAukQJcHFCWEBYxbSVsoJYQGPWWbTAwVlAWVBtjnbBWkBr8b2Z6gFbQOfB7zqExltAHHnbhoBCXkCDWnazdkheQJFiFc+vgl5AyiYIEdLCXkC3kovYJUJfQNLnNHSSYWFAiPJCW7bgYUB6/n4Ac6FiQKye+gaMwWJAtQ7kApvhYkBWPQsJdAFjQM+D3IsaQmRAo+yhiTRiZEBpHNjZbuJpQDeYcLvvIW5AoouoSQtCbkADKJIEE9FwQEJ5zwoj4XBAnq03aF2hcUA9CRA2LJFyQBMOjXU3oXJAf5oa83gRekBtdI28mtF7QEOADF2m4XtAChr6NYbBf0Cx6f81urmAQBvhXPL9iIJAIC/75geRgkButKmU8oCEQKx7HK0yKYdA+amS0Tgxh0C3kb35A5WHQExGft4eZYhAfF+ahCJtiEBbtfcBKCGJQJk3eOEuKYlATESJlD5xi0B08F6bQXWLQFcLboxbwY1A9OoZdGfFjUBXVnJmXsmNQK+AQtyziJBAfb+yS8QwkUCpHhWoyzSRQKW42tG/LJJA0qiaWtN8lECQ02W/14CUQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="59">0OY0RxseMUX4bjRFuK+IReh+RUUtusRGBG00R5xlJEVMMhFGMBAkRuPLs0UtMMBFZO4KSoS750eIiB5ICQ5dRtIow0bOp0RG+cAaRYPi0kibKAxHaeUPRR7BmEVcBzdHJraKRR5jvUV7hHpG0B8mRS+WnEZ5fWZFxyQRRcqlkkeCGzxGGR6tRQbCkUaPc5xF8DVERaOSGkU9kx1GRTJZRZBB1kX3NtpF+pw+RZ4oiEVRH+RFciprRbu9b0Ypc79FXNVBRc59IUVcZmNGnUISRTL81UUGgA5FM2SdRX6AX0VNFkZFeQAyRWpeL0U=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="27">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="25066" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.031783921609" mzRangeStop="2025.60881849289">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.418" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="26">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="149.0313" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="50">u+zbfhGEQ0BQkLb3D0NQQOVJYed7R1BAasX/putIUEDZEMmDD0xQQPq54/S7T1BAjikV5zxRUEDQv87oAlNQQMYmN/WPVFBAnzHCa/hZUECrJCiLeGdQQJCzP91baFBASef+nhZyUEC/gS6YPYNQQKQI06Xlh1BA5KfpLhGeUEB+J3E0bu9QQB3C0g27ElFA6ibNvSF6UUCP9hX3+8FSQBEnV70CPldAFLPPVMtCV0CNG+z25EdXQGzrqM7pgldAcAGNMl2cV0Ak+huPsMFZQOJNE44vxFlAuYGW3wkCWkC+Vdive0JeQA4Hm9R/SF5ASDh+pvVKXkAcJjxcT05eQKsu0+iXUF5ANMQI781RXkBgMLFMH1peQKpuWuq9gl5A5lQDppaHXkDuZWoIHY5eQAVGO37alV5A4zamd+WbXkDYLMvkqbZeQEbVNlulwl5ANd4ixmwDX0ANv4yd1TtfQAL2gedpvGdALu2iqfEqc0B3/HyWpph2QFhV0pH1dZJAmgFVELDTlEC1cB1ub6afQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="50">Bqp3QxyDJUYw+aJDhmGAQhC+UEKrKvhBJUkwQTuxgEEAAGRBAADYQYwuyEEREYBBAECuQU6REETDMCBCHh6/QVyP20EzM1FBL7o+QQAkbkPZiUdByef+ROkiOULHseRCq6owQayfSEQAIA5CABAgQnqL00W3PSJD2zYIQpTX20F5DahBMzNBQQAAjEFKjyBEzcxgQaOLREEAADRB2YlHQauqcEEPD2NCAADPQTMzuEElSWJBAABBQfHwCELx8CxCzcxQQYiH2EE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="28">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="25244" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.0455933249279" mzRangeStop="2125.4615537177">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.421" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="26">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="297.0544" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="26">zd5DAOtCUEA7XOWA+UVQQHWsxHFrg1BA8opmrqdCV0BhKkwm1sFZQDuHPRhpQl5AQH7WZoVIXkDxFe+Pu0leQP2eCn6xTF5AI89HoZxSXkAUbTQo7GReQIBFyFSxgl5A+jjuxM2IXkDJ3ya62MJeQApfVRBWoWJAvsmqrLOiYkARYbpcnsFiQHR5apMNAmVAkPRYhiYiZUCTFMaz6mFmQKE21D0rbGpAgKTovcihbEC5Fzhe/0FuQBEzCHyfLoVAgqNXi/MVnUC71cRQ7JqgQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="26">wyqOQ5qZiEEfBZRCAOQwQx7xcEK6KjpF6QF4QmZmiEEndmxBAAC4QauqokEgUc1DMzOAQeQ4QEFddCRDHh5AQTpn2kIAwEZCAAD+QeQ4IEHIQr1BVRUUQiVJiUEJ7ehBMzNBQXkNmEE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="29">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="25489" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="36.5235029280999" mzRangeStop="3142.4346722313">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.425" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="26">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="162.0512" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="22">S8bZJAJDQkATNSf2CUNQQF6BYTmYQl5Ae6Vr9gvDXkDfC/NrJEJkQIxT3s5yRWRANKkT3F1HZEAbCU1WSkxkQMQa6woiWmRA3++yERtiZEDxa8RryoBkQJ11PspBgmRAI8vk+x36ckDQX+J+3Qx6QGbF0GNgk4BAbLmtilu6jEDFrhu2YwGZQCOT6Zg3kp5Ai7uuyAZ4oEBrHMDlc76jQOYnnK+34qNAztNbjd6MqEA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="22">AACdQUkStkJ1a4FDAACbQepT8ESSpCxCSZIgQUmSikFddJRBAIDkQtu22kElSdpBbtvDQeQ4MEEAgIRBOY5FQQAAOkEAALZBMzNTQVFe9kEAAClB2YlHQQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="30">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="25733" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="38.019495777017" mzRangeStop="2839.0115284673">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.429" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="26">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="65.0381" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="19">YVlu1n4CQ0AxDZ6JVAVDQJ48HRTPg0NAHLeeFt+KQ0BZaq41qI1DQHGn0hsVBERAKpTNRQ1DUEDqK/L3dkdQQD8P+LU7g1BAgE1lTReFUED55j7Sl0BRQER0lR6nQlFAH/05DusXVUCw0I5RVVqQQDFQdO7eIJRADNcRLTd+oEBlp07515CgQAJNKaEPWaNAFywP5wUupkA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="19">9mj6QlVVZUGGW5lEZuYkQp7YM0HJ5ztCFOrfRIqdREIAzDpDSZJSQQAA4EGSOypDAAAgQUmSIEEAANhBAABCQZ7YQ0FVVZlBhGUNQg==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="31">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="27319" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="65.0477741853457" mzRangeStop="1312.22007814775">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.455" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="59">y+l0uw5DUEAXIuGOQINQQEo2A/a1QlFABrl1dhXCUkDMaYJeyMFTQOtvUhzIQldA7zAe/nFCWEDJIZBPs4JYQN+5CDLKwVlA1YNIaG/BWkAPkOJ38gFbQFmjdHKExltAwNPBTIBCXkBamt9tdkheQLpr/Uewgl5Ax9LDl87CXkBY9bmJBANfQEHSKCAkQl9AvxES1JdhYUCvOWT7p+BhQB9TVN5zoWJAL0yUForBYkDNKARpnuFiQJp+FyZzAWNA/GS8PhpCZECDElboM2JkQK5AOL/iYGVAfew0u3LiaUCBzRE87yFuQLkhNGwGQm5AKWnqWxLRcEBiZIemGuFwQAfoZiUtkXJAkr3WUDihckBn1MIKhBF6QEzT9/OY0XtAcajpPKDhe0DpRhdPhsF/QNw9iRW4uYBAz1iKPwOJgkC78JxwBZGCQJuFZHD3gIRArlbJ3jUph0Byl6XZPzGHQD3IEkL/lIdAHp87miBliEBVdEOwIm2IQCTuVJMqIYlAmPRaNCwpiUB12P7eRnWLQHTntSQT0IxA3o77+FnBjUCacyLXVsWNQJvzMCNlyY1AnUN/mMkwkUAoZQdZxjSRQADy31jBLJJALmdl1th8lECifCpc4YCUQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="59">FSs1R7z8MEUiVElFsSt7ReFpJ0W/6dNG/sQyRwGyMkXqPilGsqoyRrabpUVpxyFGYxsJSpNH40e1aCFI6B5rRm4PF0UcFblGvZxJRt0eWEX5j89IbZQBR4ayMUU1/5hFGswzR9C7qEVjvwxFSJmhRQ/xhEZ+SC5FgPqlRp7UbkX9XZNHcIhFRlXCtEXh+JtGZD6dRcJbQ0VRLCdFoEYwRpRog0Vfot1FLpDgRUqAQkUY12NF8THoRX/SYUUKXopGr6jHRejSIkWlVxNFnXReRjNzL0UB6P1FrvCjRVdzXUUAsBdFRIBORYRCIkU=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="32">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="28914" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0322523212773" mzRangeStop="3004.22909312901">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.482" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="31">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="149.0313" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="60">ko0U2CCEQ0DAn5sjCkNQQEjgBAF6R1BAJv/wf6NIUEB3yL2ywklQQDshyqKCS1BAFk+f8DlNUECvzGn6TE9QQLOZTayrU1BAfhyyzKBYUEBX+9EYX1lQQK2WMnL2blBASLTqYk6DUEDftr824odQQHlJNcQViVBAkvREVDiRUEBKA6TDBaxQQGWlA+cfulBA9X9V6MzBUkADWJ3XwUJXQGoIjVXqR1dA7sGuGdhSV0CKW47ou1RXQOLgME7zgldAfjgakvWEV0BwV63CR6RXQBA6m3Few1dAPW/CcsngV0DW0bDrFzBZQGxKfiyciFlAyAgpb7zBWUAcYqz5dcdZQAcv9kTFAVpA4TqLyLIDW0C1yw1NRkBeQM9tHOZzQl5A4GAO1ohGXkCS4bBLfEheQKjl0Qn1TF5AOXBB6pJOXkCz4H5K6FBeQAU9qnEIVV5AQ62ZCfxbXkBYKXfZsoJeQAdS/6ykiF5AeNnbV6fCXkAPoTx/NuReQFmEWPItAV9A9cGXTywDX0CXoD4H4wZfQFb7jZaB6V9AzsXk7zihYkClDvkCaAFjQDmGD3/Uq4VAjDDH3nX3j0BCLDZX1/ePQMA8pUsOHZRAyIyBHpx8lkCfUVAUWl6bQLXRsUt1eKdA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="60">sw8yQ7pSFkZGR4hDqANYQojHiULsxDdCAABuQUOWMUJVVTlCSZJwQQAAJkEAAKlBh2hzROmiYUHNzCBBuuh4QZ7YU0EJy+JB1USoQtb0pUT4YBBCYicgQWQhY0IvuqhDAABGQVyP00Et5BhCVRUqQkmSMEHsxKNBIEodRAAAQEEKRn5CAABZQZIkEUIiZttFAICWQpBIc0NP7IlBAABQQfFwBUIAAC5BAAA2QdRub0QAAJJBiIePQsMwsUHEw0VBzIETQ+Q4UEHYUA1Cq6pQQVVVuEEAAD5BkiS5QU/soUEAAEpBAACxQR4eIEG66NJB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="33">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="29092" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.0468174025746" mzRangeStop="2803.86173849069">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.485" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="31">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="297.0544" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="30">RjxrDv9CUEB9IB4pqkVQQJbnlodZZVBAfSIxcFKDUEAZb95ss0JXQJJaozTBRVdARwaE5r0iW0DEU/D7FBxeQGhlctDgKV5As9IZf2JCXkDJhux4eEheQCHAnEHFSl5A4DyvOYuCXkDN7yo/48JeQG+/oKrhD19AU5HlX39hYUBy/nTta6FiQBICoLPtpGJAFZE67x0CZUAmXmcTe2ppQLBjBD3KIW5AHjEkxqTke0DVync9RkCDQEn0bl7HUoRA5u9oXCXchUCJpHK8LIqPQDZB0MYR449AwoYDqmMxokAjdF54WoKkQGeWyTW556VA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="30">WR+EQwAAIkEAQKpB27ahQqG9PUMlSVJBzcwgQXbiAULD9dFBvWwhRWEzikIlSSBBOQ5TQ4V2NEIAAFJB7MS7QYQQEkOjiyRBkqQ0QgAAIEGrqhZCAACtQXZiIUFJkiBBkiRVQQAAiEGIB5JCL7peQQAAMEFDlgVC</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="34">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="29340" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.0456888619492" mzRangeStop="2926.28589128324">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.489" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="31">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="162.0512" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="23">Pff5kOxCUEAdLkMAbYNQQN1lXo65QldA//xofxoDWEBCpfQl+MFZQBXijr5TQl5A5VnGjJ2CXkCXr1dBFkJkQDyhYFeCRWRACCNbekFLZED8uVFYMmJkQK48iB3Kt2RAhbx3Ma7eZUCoBcJgdUNsQBfSLByWJG5Acqp8cCQNiUAQIeuOFb6OQNeo+3SUiJhAaCdsodb6nEDaDAtJ+aehQBZZR7mUUqJAsc0WXcX8o0B2n1dgktymQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="23">AMibQnkNwEH9POBCXXQVQts2V0KCiD5D8ekLQy5Sv0QvOhlCkiQ3QZWgh0NDFsFBAECOQaOLzEEAAHJBAICpQTEMoEHNzJlBmplDQauqOkEeHmBBPDyVQSEL0EE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="35">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="29584" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="38.0238778852293" mzRangeStop="3197.74307207192">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.493" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="31">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="65.0381" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="26">KhQ4bg4DQ0AOJTv49INDQA7GY03jikNAmI26mw+GRECgjB3TFxlJQJEcrkMCQ1BAwQzfMpxFUEDYbNGRdEdQQCpaaZXwSFBAhGJOigFRUECGiMZHg1RQQEi8DBBfY1BAM6EOrXR1UECk59/JgoNQQKdwCzGqh1BAWsBUGoyKUEAVmMwvYEBRQIQMI6CbQlFAK+J5mblmhUDHaUmvIT6NQJO7MTbNHI9AOocTYMI7j0DRHXRuVJaVQJVo7NpUAKRAPuqg5zACpEDmTvFzfPuoQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="26">UjhjQsXrzUQAYDBCaVCGQgAANkEBAsREVVUNQm5bEEIlSYhBDeW4QUmSgkEndkxBMzMzQRiGhUKrqlpBqyoIQoYsL0MAgLRCDw9hQQCABEIlSWBBJUkyQTMzQ0EzMydBiYh2QQAAIEE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="36">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="31168" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="65.0478127012367" mzRangeStop="1312.2159556472">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.519" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="58">RgkBXQ9DUECYYWZ+T4NQQMK5JL3AQlFAex5dfg7CUkBluEhWyEJXQI9C5Rt1QlhAiuOfW6+CWECMcrXRx8FZQNXQLhNywVpABmESeu4BW0BIkYB0hMZbQCVCLDOAQl5AfDEDonZIXkCVTMgosIJeQNcz5IzYwl5AsIYJqyhCX0BS+J0Kl2FhQCtwloas4GFAwk+/snKhYkA1EJZtjMFiQHF9D3qV4WJAdzlR1nEBY0ALWY6RG0JkQH2aqxswYmRAkdSML3XiaUAQ1p4e9yFuQOJZrmUQQm5AEn9m6RLRcECQH2nIG+FwQKhpfrUpkXJAiMIf+DShckDqIm7wdxF6QIbOHE+U0XtAuQRfFJPhe0Asg1YTe8F/QI9cBUO2uYBAHgGqkf+IgkCu/DjS/5CCQCjtsrTygIRA3Rk1nPiIhED7UaziKimHQBoTaUc1MYdAxKJivP6Uh0CNkoUbGmWIQLBiv4khbYhAMFIyVSQhiUBZt/SJLimJQKVXhE0/cYtAhqL7Cz91i0B/KEjDGdCMQFPgFZ5UwY1AcNzRulrJjUBIJAV3sYiQQN4J7RDCMJFAQAgpFMQ0kUAI8JuLuyySQN5vpDHQfJRAfSh6I92AlEA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="58">ercjR4+5IEVywkhFX+2CRbwDy0YoOi5HxDoRRUCtLkauBhpGuVqqRRDxA0bu1gRKLR7bR9yoH0ibPUNGGjC/RnAzQkYW3z9FydjGSLRbCkdY8xRFnvKcRVniJEdeVZVFUDmjRY4AakbYiidFBwimRh/pYUUADY9HEE0zRgQ8okUgm5NGL4WPRYIjMUXYciZFhC8pRuGVXEXEC7ZFu8UXRSk9y0UdbjJFwFlcRb493kWEmGpFBFJlRh5nr0X2VyRFfHktRY95EUX9llRGJpW/RSq6LUUzcapFYlBaRUwQNEVPvTpFQYMrRQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="37">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="32765" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0304947739614" mzRangeStop="3110.28930645765">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.546" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="36">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="149.0313" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="56">fm60QOeDQ0DfJ6olE0NQQCwtFJl2R1BAn3AfnPJIUEBAAqWph0pQQLz6ktE4TVBAr9Pt/g9PUEDoN+/q0lFQQIsM2riqX1BAT0G+StZkUEANB+rlUWhQQM8PieBof1BATB2kWzqDUEDSp7CmtIdQQHCATbOo1lBAdw68XvlvUUB8PZ7NDcJSQOlF54poAlNAbhhXZXntVUB+gN8qwUJXQMCJiunpR1dAiNpPqlpKV0C771i4PVhXQDae+kYYXFdAWUMPLwqDV0BpyKkxwcFZQA8vdr12x1lA6HTs/O4BWkB+pA1G2EFaQAZck4F3Ql5AY0RPTndIXkC1mRGMIkpeQAZalv9cTV5Axc98FX5OXkDVyLF6PlBeQE5WJNtxV15A43ay1klrXkAKoeoPkIJeQF402zBfhl5AKWkpEYuIXkBPdQKB5IpeQH6ALd1BjV5AqEgr6ufCXkD/rIhAbQNfQOzQt2WE6mFAYAxKxfUgY0DMyTFck8FjQAcUbRwyhWdAdraSwa0gcUBKXY1Ri/l4QB9K99DNQYZAvUsfLEFKhkAMNhPUOsaIQDanM3sEwpRAFQY1RWuMo0A53PkflEyoQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="56">huEiQhb7L0amAM5DRhdJQgBAKkJEREdCLzoWQquqQEEAAFRB2YlXQQAAQEEAAGJB/RUnRAAAwUEvuohB2Yl3QXfm8UMquI9CJQmGQq/oAEUOKVBCAACIQZIkN0Gji0RBCHSbQ4jG9EPx8FJBXHLHQgAAq0FDdOpFMZlRQ2oCOEIvuthBZmalQR4ej0FGF4BBo4s0QX783UMAQIBBVVVFQY/C7kEAQIhBshAdQpoZSEIzM0NBAADdQQAAdkGSJHVBqyrYQc3MkEFJkqxBVVWtQZjQ+UG66FhB6aJRQVVVmEE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="38">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="32949" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.045621884334" mzRangeStop="2978.77000009523">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.549" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="36">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="297.0544" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="29">lUwNeOtCUEBUSn3pDrBWQD/ZA+e7QldAfb4SE/1JWUB50FGHncFZQHB6GTd0Ql5A8kIPenxIXkBbSCBxWEteQP1qNWpmUV5ARFu8k1VXXkAVNEira2ReQF1M79e0gl5AaciV/rbCXkDNuA1jS2FhQGuN/kktgmFAmMQnYWShYkAxHBisg8FiQJaUXjdZAmNAmFNX/XgQY0BryCZo205qQGLtZmWFu31AbioQFqLUiEDddS2MgeuMQJ2X7nS7U5BArMK+3WnYmEDqOFkgdMSfQFoXRrwsp6NAh87njq9JpkDi1XM9ikWnQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="29">AEAOQ5IkVUEHk4lCkiSPQWKnWUIadk1FwU+yQsMwiUHkOJBBHMeKQXTRgEFiwJFDqypEQl5D7EGSJDdBzWwBQ3uUNkKrqnpBAAAyQYwuQEEeHiBBjuNqQW7bq0F9VihC7ukSQsTDjEHbtrJBAACRQTmONUE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="39">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="33200" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="41.0451942175969" mzRangeStop="2356.1169900695">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.553" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="36">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="97.0267" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="28">B0aT7MiFRECuUg2j1wRFQAX2kJF8g0VAJTDWf8KDSUCfY1egfoZJQCUDTHHjgEpApN4Oz5mFSkBVcKyD0gZLQC801Ms1g0tA6ZnMBb1CUUAfWScST0dRQHRDhMp3V1FAqaLd/QSDUUAyLhQD64RRQEjmzrF/wVFAHBb7JrzBU0B0IWbVvWpVQHd395pjQlhAVmVe0WZGWEDyhJ3D0UdYQHn5WCt+glhAFRATgQnfWEBN4gfpnIx+QIrrcftz0odApGlLqmEDlEC+DUHIonyaQFjgLhvTPJtA5VQf5jtookA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="28">KA9OQ2KYEEI+eFVCW9GaQk/smUGM94dCI38EQ+Q4MEFccrVCIF6ORAAAkUGIh5BBzPXAQgAAjEEAQK5BoY+DQ3h4kUHUq8REAACiQUlSTEKxE3BCblsIQgAAIEGrqlBBIiJAQSIiYEER7NJCq6pKQQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="40">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="33460" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="53.9474090745588" mzRangeStop="2251.86562249489">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.558" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="36">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="162.0512" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="16">8JRXs0T5SkBqICR6HENQQFi6Qr6cR1BAoP8BaSyDUEBJo71nzx5RQF3bGqOSQldAyPA9F1tCXkCp8Ta31QFiQOtliugWQmRAZ0CFEJVFZEAzLpyFr0ZkQDRm2YlAYmRAZWLjV2tpZED5NfiG0o5kQCQE3o/6nnxAeCTfMruXoUA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="16">q6rRQYm720MAAJlBspBtQjMzJ0EzM5BBH6ODQ1VVokFjzdVEDMPlQYwuYEEAAJJDAADJQQAAJkHZiVdBIiJwQQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="41">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="35044" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="65.0479080919999" mzRangeStop="1312.20814656398">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.584" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="61">nhYa7RBDUEAicV8JVYNQQIWzQp64QlFAL1g1DRbCUkCSTPx5yMFTQOdObP7JQldAmAdjovyCV0Co68NAd0JYQCQmgaqkglhAJPq6GsvBWUAtNbp5bsFaQOMd8UXpAVtAhqnJw4DGW0AQwNJ/hEJeQD4oGDR6SF5AvXgKoLSCXkAQT+7M2cJeQP1lkBQoQl9AwU6yxJ1hYUAjOJ04s+BhQEAOkwx1oWJAi5eKWYzBYkD40RVAmeFiQGeNKT1xAWNAzijDJhtCZEChT+wrNGJkQO14mM134mlAJ/+5ifYhbkAnV4CLAEJuQDTldecT0XBA1vpwEhrhcEAxc6eMK5FyQAe0NrsxoXJAinsq43URekAepw06ltF7QDLP9iuf4XtAMfXOdHvBf0CjtgduvbmAQHYRUsH7iIJACTolIwKRgkDBLJdY8oCEQIZa+tkrKYdA0Jws0zYxh0BIpmkd+pSHQFPITDMZZYhAB9t3aSZtiEDjOYlvJCGJQO4EDx8mKYlAuyzcTURxi0Ck3499SXWLQOJFvnAZ0IxAQtw/xVTBjUD9yUN7VcWNQK2HIJdYyY1Aun0EHV7RjUDwjGs1uYiQQHyLHtq/MJFAgasom8E0kUDOn0G9uCySQFzZu8HUfJRAWHRfJNWAlEA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="61">BKg7RysaGkVMyG5FqvFwRV/dHkUvK8ZGuR0NRdEsLUdwWEdFEjkqRjArL0a+8KNFZtkORt7FCUrviORHg58lSPHSb0bFY79Gx145RvmGKUX+tc1IMr0GR5GTNUXh7JdFTFAvRwl4ikW9p6dFw4OARjuLOUXoGrlGMldWRduTlkdY3iNGhT+7RSeYkUYVQJJFnTo/RTI2OkVepCpGADBLReWb1EXGO9tFkqE1RSrlgEV/xtlFpOZZRdc8cEZB3stFftoyRUqDLkWLVBhFBcBoRoOWGUWr2+1FjRQNRX59D0VbP7ZFZ8BGRfWQN0UYaSxFTnckRQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="42">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="36640" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0296830553647" mzRangeStop="3182.67330211935">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.611" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="41">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="149.0313" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="50">uQSEp8yDQ0B72yWMFkNQQOn4eaSCR1BA7K/foYpJUEBttPAnLkxQQMDXdw56TlBAe8O6zodRUEB++NB5QGFQQFrKJGlEg1BAMdR5N76HUEDmwamNv6VQQHTjrTUkt1BAy/L4TBXCUkDlWVQm6NRTQOwtv1G6A1RAFRJUhNNCV0CAaPVp00ZXQPyQEqPxR1dAMwYUpvtKV0BoEy55/k9XQEDSrvMoY1dAoALBggGDV0DJgOLE9IVXQMIpoiHBwVlA8yBh0fTJWUCJmbYDfMtZQLTpl+AfAlpAvBW6+gNsWkDUouYic0JeQGpOr4p1SF5AyjpnzSVKXkBZN7rDgE5eQD+6HoV9Ul5A+xHpzeBUXkB43sDHS1peQOLOSy0fbF5A4BN3qUVwXkB/sv2wfXpeQCgLm9q7gl5Aw64x2seGXkD0okGv0IheQGt7xrmmi15Ak2zmUUqiXkAD+Rzoi8JeQC68pa//Al9AEtMTDzZVfEBhdsZ9VdODQOGhSsLnQZVAlGXOwnuFo0DiLQ67WN2oQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="50">F13XQfAWMEbWmLlDLWRAQgCAoEGmSGJCAMAAQvMaUEEE8lRERETDQSVJcEEAAMBBrsx1QwCAgEEAQOBBomLERKOLZEGe2OFBjC5AQVVVREIAAEBBghwHQx4eYEGqfBREL7o+QauqWkG5QtBCjuOaQe7/tUXSABFDAAAsQlFe3kGW+0BCPDy9QXZiQUFVVYFBjuNaQc3MgUEbeMlDq6pwQYmIsEEAAFBBAAByQc65TkI8PDVCSZJCQbro6EEzM0dBAACgQQAA1EE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="43">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="36818" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.0462522800998" mzRangeStop="2882.55396161364">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.614" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="41">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="297.0544" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="33">NpkfzPVCUECQsDXLeUdQQDVG6Oklg1BAiCzmY9mEUEBu0nEo8fhQQNjmIFglPlZAC26/JyFDV0AS9kc36sFZQCXm7OZrAlpAVXkuE3lCXkD4GtWYhkheQIcMy7pyS15ACgagNqlWXkBdpVz/toJeQJWhzqIZiV5Aj8fQAaaWXkCDtQMuW8JeQJUEaaw3PGBAPOckIwlEYED+OvhjY2FhQPBMBJBcoWJAnCa0xbikYkBpqzY8nfVpQLDlkxxHGG1Abr6f/zoUcEBg06evRep5QIMqfeaPkpJAcIbVkY+VkkAJBWTWXnOZQNgmQOIWtJlAuIBd+PUwmkC0pAaRsCihQKBL26AbhaZA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="33">hwixQ5IkJUEAEBhCAAAiQRQ7lkG66DhB85ojQr0GAEIAAEBBoGlCRb0GWEIAAEJBjC4wQcHmvEMREZBBREQAQk/s+UElSaJBAABAQdFFgkG6CDVD5DggQSd2XEEAAH5BmpmDQQAAIkEzMyNBq6qhQQAArUG66NJBRESjQZIkN0EAAO1B</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="44">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="37056" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="38.0196578192185" mzRangeStop="2776.74246303115">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.617" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="41">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="65.0381" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="23">ulO9JYQCQ0BvZIsHDIRDQHvU8sfuikNAbKf9dXqVQ0Dmizz23YVEQAh3o+5AA09AvIfKN0QCUECVLCEUE0NQQPYWsf4LRlBAXY6FMH9HUEBa+uAjqUhQQPIphAIqg1BAHkwHmJ/BUEBrQmf4YcNQQKJQeNe4QlFAyH4BuG1FUUB8HG1fRfBpQJmxecMAfHZAYNObLXL/h0C9RcCwuR+IQFwrkS1QcItAGiS4kQxdn0COSh0kfLGlQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="23">jgO/QpnWXUQAgIFBdmJBQasKG0PkOCBB2FCxQbrwFEWrKhVCbltAQlVVs0FDFrpCgTtAQ0REk0FVhYFDVVUhQauqIEGamUNBzcwwQVXVJUJiJ2BBzcxQQRERgEE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="45">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="37307" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="46.7497145557052" mzRangeStop="3037.60986515682">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.622" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="41">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="162.0512" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="23">awuFpfZfR0CAhaOHSkNQQIJAluYyg1BA3GL3L2pCXkAT13bZ/kReQF6YgJ+lgl5Afj6JqhlCZEAGQ4OFlERkQHt2gsqWRWRARGAYnzVHZEDmSZQwxUhkQAHYmYJ4SWRAR/82VzFiZECBfm6khGNkQDe6Y83FjmRARLMBAtvVZEDxwWDLiW+MQCQREgePDJFAyRprErWFkkDxJdxSbtaUQO793B2ECqJAwt8Nt5P5okAF7z5AOLunQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="23">L7puQWbmCEKyEIVCMVyfQwAAokHIwolCnIzxRKI8BEKux0FCmpkjQSIiQEGamWFBbIhcQ1VVkEFVVTFBuuhIQemiIUE5jlVBo4s0QQBAqEHlNa9BkiRHQZ7YI0E=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="46">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="38892" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="65.0479914898282" mzRangeStop="1312.20278683432">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.648" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="58">GtPlShJDUEAH+moTUYNQQIJbtH/IQlFAz2y8whvCUkAvV4lWxMFTQGdKT7HLQldAD3MmvnRCWEC8UtjSuIJYQA5NkRPQwVlAljyzEXrBWkAklfOD6wFbQI0Wl5mAxltA4XrRqIRCXkDUVGyGekheQELOGuO0gl5AaVyBdc7CXkBXRjzrEgNfQKRcROkoQl9A5bgmkpphYUCJ+UplsuBhQC4qoqh0oWJA/SwoL43BYkAACay4n+FiQJFT7XdtAWNAm/3qHhtCZEAL6GPZM2JkQFVNqDpu4mlA7/VJXPQhbkBX4K2x/UFuQCdUwWoT0XBAYo4wJh3hcEDV7B8eKpFyQH9bvtA2oXJA7aQcFIARekAVMjEflNF7QEX3Zwug4XtA0+9adHzBf0DebYUlt7mAQPaxxUr8iIJAW28TXgCRgkDr5EX78ICEQGibUOYtKYdAxNj2zDUxh0AT/HkQ/pSHQJyVamceZYhAmtEAWiBtiEDChvlbIiGJQG/QzYonKYlAfHygOj1xi0BH5WMLP3WLQFyVlmtTwY1AbNyrRljJjUBkibdLtIiQQMybcB3CMJFAOZwJbcI0kUB3wNNKvSySQLDVpITWfJRA0RVap8+AlEA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="58">CDY6R35kJUWxD3pFMKeARV1xF0VqFNFGwSksR91BJ0WgyCpGU+cbRgtmuUWmzq9FJgQOSnej7kfLHSpI/H1mRs79FUUQr8hGMQFMRkfwHkXFqtZIF2URR1EtPkVMS49FnRFOR+jEo0WiHMRF082DRtvwGUUvWqpGHVGARaRblUclSDRG11/RRS0vpEYdxJRFqPBHRUkfQkW/aRtGFnh6RQVOyEXFKOlFYbBsRf6HZEWVPP9F3xtyRYWqYUZD+sxFhRlYRVMaKkVPQmpG7vL3RSTAF0X+69JFnqZ5ReARKUW8/S9FYAcpRQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="47">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="40487" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="38.0222396476271" mzRangeStop="2984.6579516652">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.675" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="46">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="149.0313" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="52">zp2vv9gCQ0AFhqMo8YNDQM/4GegMQ1BA5n/uhntHUEB7o3fetUhQQNK0yUXzSlBAPze2uahLUECWonifGk1QQJDKHr06TlBAC6Y4e4hPUEDLQorNRFNQQFe07lnCfFBAJ7GhE1GDUEBslPQoj4VQQCnth9WLllBA+nVcbmm+UEAPm9VkacNQQITtQYbhwVJAT5NZRkQCU0BYg8xFq8FTQJGggta2wlNAOcFDX6U7V0DnsncZ00JXQGpAntA/SFdAh9by/ARKV0B0ZumrGFFXQBX6vB4Yg1dA50VMyjXDV0C/juwd18FZQA6YcuxXxVlAoNaqfE0CWkDHXpMddfZdQD73oVF7Ql5AHq2qAH1IXkCXFBQZb0peQPr9yhn6TF5AQbBvq3ROXkCUxO4STlBeQMH00QzSUV5A5L+B7opxXkD52KE3sYJeQG2MT6sPjF5At2phfW3CXkBpVbqpVYpfQINxM4+IYWFATHJC67RPdEALD0x5TLx0QPH7u2XYLo5Ah5rSRIixn0C5gOB1sSygQA8EnAirNKdAumgK31BRp0A=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="52">AACUQdFFY0JxyilGBYG2Q6sqWEJJksxBMzOIQYodAEKrqmBBMzOIQauqmEEAADZB5lS5Q47j0EGe2ENBHh6fQRddgEKGrMdCFDu7QquqUEElSTBBZmbtQVwt1kQAQA1CQ3mYQcMwiUHzGopCbtv7QWag0EOrqmpBzQz6QowuUEF18fVF37qDQwAAJ0IAALBBzcyZQdFFykGamYhBAAB6QWg87kNVVTNB5DhQQgAATkEAgIBBGAYIQo7jakF0zvBB2FCJQU/siUHNzFBBOY5lQQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="48">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="40665" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0293316467362" mzRangeStop="2411.89520797118">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.678" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="46">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="297.0544" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="27">HbyvI8GDQ0Cr1xSYKkNQQKrNhLMUg1BAQCCA7ybCUkCky49HiEJXQNChWZOog1dA0BClNwLCWUBWdy4zYQJaQK47WvZ5Ql5AkqPpU4BIXkA5zS81rUpeQFGgA7P+Tl5AUMWpN+hRXkB+xsKoOVheQGmsYomagl5AZlbwsdGIXkCFAM31zcJeQNXPVSh6YWFAkcnrkdKBYUBsr2t+v8JhQCw59aM9xGFAqVP3HmyhYkBcC3pwXcFiQJ1uIEmU0YVA51QntQs6jUD2Dn9zIgCiQLH+sljK16JA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="27">mpkLQmQS/kLEw8xBC9kjQqsqpUJJknJBZmYxQlXVLULI62VFhKW+QmZm5UEAAKhBWcjJQQAAJEHCSLFD2FCBQVVVDUIXXZdBIQRkQqvqhkIzMyNBqyokQpqZ0UFJkjBBzcxKQcTD1EEAADFB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="49">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="40890" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="41.7847399815176" mzRangeStop="2848.65003649266">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.681" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="46">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="162.0512" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="24">qD0WXHLkREAYHOWmJUNQQFcHKQ8vg1BAf2S3x5dCV0D2y0E/sEJZQNpf5DF1Ql5AozWOwolIXkCXrPCTm4JeQCZ8kP+u5l5AkF9iVRVCZED98V3k6EZkQM0DaMEVYmRA6/PlxESCZEBBTiUt99JkQIkJ8Cn32XlAgySx9KpMgkDyfuveouOJQLcGmiwSFJFAU4qnqs3vl0A4gZgBIQuZQJd6juQkFp1AGiUKWybonUC5M4YauE+eQFlKldFMQaZA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="24">E1oBQkhwP0O5QpBCAIAUQpIkHUKPeJJDdmIxQeS4ZkIAAGJBnyXvRHZiYUFciIxDRESzQs3MIEEAALBBeHiBQQAAkkEzMyFBkiSxQWInUEG66GhBYifYQQAAUkGrqlJB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="50">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="41131" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0312681916767" mzRangeStop="1822.72997574668">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.685" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="46">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="65.0381" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="18">BlSamACEQ0BWsMPh8IpDQIC+ZoI8jUNAaFSSgSSGRECk6Y5cWy9QQDZATj4SQ1BA1behZyJHUEDqtn0zV0xQQEigNDpYg1BAxMhV/oNAUUDyqGbkzUJRQIZFtnsAg2BASTJkUB7FckCrWQDBNyRzQEZnBpyn4HtAKZ93FQcYhkAPOuftIjiWQHAbw37repxA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="18">klx7RDNzCEIzM3FBJSmtQs3MLEEK4OJEAADZQcVOsUEAsLZCVRXAQgTqOkN5DdhBYQovQgAAMEGMLiBBq6rKQQAAJEEAAClB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="51">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="42716" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="65.0480527015207" mzRangeStop="1311.20462741666">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.712" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="57">BmGjSxNDUED+UsSOS4NQQBahQ2G5QlFAZ4m1DxbCUkAe3HShu8FTQB0nVs3EQldAD992TnNCWECxoPyOp4JYQFsSIdvCwVlAYJNasHPBWkAZZyhg8QFbQKef6D6FxltA1R+8kn9CXkBl/j+bdUheQA7trSWvgl5AX0FjtsnCXkDbFh65J0JfQPoAZNiXYWFAp8Z2c6LgYUC7KYSjcaFiQCYthmmLwWJAfDpG4JfhYkDrP+yQbQFjQOLugG0YQmRA/rxyzi5iZEBF+zDPaOJpQOXoxjzzIW5AUsf2MhFCbkAJUOsBEdFwQE3fS1wg4XBAkxF23yeRckA4f4THMqFyQGQhWHF2EXpAJN6ZWIvRe0ByFYTzmuF7QP8PImhxwX9AB5Rv37W5gEDh1Xiy94iCQOox7rj+kIJAziyiWfGAhECW40bk94iEQLcv/BMoKYdAofhNkCgxh0De6A3P+5SHQLlSH3UUZYhAGO8SBhZtiECJCAdNHSGJQAQKq0sjKYlAyugoADZxi0Cme79ANHWLQH8hbJ5IwY1ABij9m0rFjUARu0dVUcmNQNb7iAC+MJFAXSWm+bo0kUCUbEmQtSySQKN52YnRfJRA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="57">bP83R38vOEUOPT1Fnm2URRIRJEW4bMtGulkzR2sJIUXlAC1GF04uRk3esEUSlxRGRBYNSq9G6kfDoSFIRfxNRge6zkYlY0ZGhBsrRV8R1UgzJBBHGY9JRR89nEU4CUBHkGCsRXFzvUWu+YdGiZYjRQKEqkYaHktFKxOURyGjQ0bK4tdFNcueRlEMmkWTR1xFDqAiRW+sKkaAlmxFVYLhRQuBHkX/ac5FPgpERaBQj0Wn9PBF5Bp6ReB0cUbx0r9F8ZFORUbjJ0XaUGFGjrwpRd0iA0bD3btF9ThgRRk5O0XSZStF</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="52">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="44311" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0337860644188" mzRangeStop="1766.59352605444">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.738" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="51">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="149.0313" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="47">nN4MGlOEQ0DotTAgEENQQJA6gXJ4R1BAvNhpNOlIUEDiCF84MUxQQF82PoZ3T1BAgaPgUG1RUEAIBhbpalJQQFeVzMkzVFBAkgxUXt5WUECI4nzn21hQQDt0SsKmWVBAC2Z2C3NyUEC0d6oq9nNQQHsQ/MBBg1BAFKAVH7yHUEB0VGtR1otQQHUkQjoJwlJAKfK73EDEUkBvrQnxcoJTQDuKg+q8M1dAyM+B/rFCV0A1OPLl5UdXQEn7aeprSVdAi5OWypxTV0DwTWra7oJXQBcJ8wHEwVlA9iobafMBWkC1icZLdEJeQMpnL6N/SF5AL3+ZFEFKXkBU8er8pE1eQL7/kuFsUV5AiN5ZsPdTXkAJykf2o1ZeQK5m6aRNfl5Ac91DIqGCXkBIlfSd0sJeQO9bhhtsAl9AzHntZe4pYEDDEIp9mTZhQDrt+7RaAWNAyjqx3101fUCM2C9wAUSAQLfwT/TkP41AHMwZRidljkB9REvFX5qbQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="47">F13vQSclOkZPANBDNUifQlPKQEIYBmxC5xxbQlhuFEIAAEBBAABAQQAAkkFJkpNBkiSAQTMzUUFD8FdEAECsQVnIsUG4gnFDAAByQR4ev0EPD6hB8vTcRJTXMELNzExBUV6eQUHQ00KqzBZEEhZSQgee3UWhTFlDNpQfQquqgkElSdhBkiRnQbHc+EEzc2hClxUIREYXgEEvOlpC5DiYQTMzR0EAgLBCq6q4QbrosEGIh7BBnthjQauqcEE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="53">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="44489" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.0470917355786" mzRangeStop="3182.83292393038">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.741" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="51">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="297.0544" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="28">Ng4OjQNDUEDb7BS6JINQQJDbdwo1wVlA737RFXIpXkB8zhw0ZUJeQOUZMRl1SF5AqsJJ3mJMXkBao3E7K05eQOWBhOE7UF5ARoXh/JpSXkBZpqGymnpeQErvazSjgl5A1YyQ+YfCXkBjyL2rdqFiQLIy8dPRpGJAV9hbBoHBYkBTaAot0iJnQFEMX+KuYWhA6JF9tiUibkB80IAR2hlwQEF457Vx8HBAIsE41FlUc0A3deIq4Pd1QFRsOp+LqX9AxuVZ0JgmikCKh3eH3fSZQDvAH4KKdahAFmIBdardqEA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="28">BT7AQwAAckGrqjpB6aLxQQvscEXX47xCIiJgQSMs3EHZiWdBzcwgQauqUkHUcZ9DKgHEQrpVJUMAADBBVRUaQnh4qUFrSlxCmpmYQUmS20HHccVBAACKQTw87EHi4ZJBjuNqQbroOEFJkmRBq6o6QQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="54">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="44725" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.0488891541186" mzRangeStop="3039.36651866008">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.745" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="51">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="162.0512" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="22">ZYT5/yBDUEAMG65+S0ZQQL5gMjx6R1BAU1T11RvCUkBcLvwlvEJXQMjIM3uMQl5AxUoqGSeDXkBB7N6HGUJkQGJYzQGARWRAvwM6O/ZHZEAbWI5Cf15kQLUy17hBYmRAINciSMCiZUBkipjjD7VvQMXO+GStrHBAFI7nEF7IckBuim1Skt2IQGYVtkQJjZJAzJF9hWkin0CT3QnsFLuiQOPt1d9HRKNA4HRVqLu+p0A=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="22">ILGIQ57YQ0GamYBB7NGaQkOWEULCZLhDO7GIQc2hBEXbNhNCZmaOQeQ4MEEW4YhDq6owQdmJV0EAANhBHh4/QgBAwEExDNBBkiRlQQAAoEElSQBC2YlXQQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="55">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="44967" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0312197358222" mzRangeStop="2841.64133771566">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.749" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="51">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="65.0381" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="20">UCwgAv+DQ0A2W2B0aYhDQDtu66XrikNA2HasORUERECYb2StB4ZEQNn9o08EjURAVdoq3lOJR0AcfFVbD0NQQBKuYrt4R1BAKMHMZ1KDUEAMjcmwRpZQQHZmer1XylBAFN5ZcFFAUUBRtynrm0JRQPundcMvHJNAtLN+6wyumUDC1Hx4/dCZQDPWx5WdjppANSxLvNRZm0DsxGpdSDOmQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="20">Q3vFRAAAZEHUhmtCJckNQimYh0Oe2CNBAACoQXaM60RhPERCmhnCQquqKkHNzJhBZQAMQ2wF6UI2lNpBxU6pQdmJR0EAADFBF10rQjMzI0E=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="56">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="46552" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="65.0478401770635" mzRangeStop="1312.20281314444">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.776" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="57">D/s+0A9DUEDih2p8SINQQBtfKMS4QlFA+EuL0g7CUkCyJx2/vMFTQH4eJNPCQldAIhOmBnJCWEDsaMzdrYJYQOsEEYPEwVlAasgpiHDBWkD+MAVQ8gFbQGd/sOKExltAgCl5sH9CXkCU3afudUheQE4riEivgl5Ahe6PitjCXkCcos06/AJfQP3cQiwkQl9AuKPWyZJhYUCSYRnmuOBhQDKXm6NxoWJAewTzbIjBYkBtmjywleFiQLUI8510AWNAgLIMcxpCZEDIFOJVMGJkQJMlNh9t4mlAVcFGxO4hbkDXZyiLEUJuQMLRcD8S0XBAsDMkIh3hcEASJu60KJFyQIJSlEIzoXJAZK2QSX8RekDoJFYhltF7QGFBrCWZ4XtAxo+w7YDBf0Co3Ec+t7mAQPRga2j8iIJAlurmVgCRgkD8UTQn7oCEQMqEW9YtKYdALAP8HzMxh0AqJmLP+5SHQCowb8ocZYhALvFx2h9tiEAirYrCISGJQP7mG68lKYlAQIv3jDZxi0DiMQrvQ3WLQLCGQ/FOwY1AvTYJ1VfFjUD+g8mKX8mNQFDe5FvEMJFAxZM/EMg0kUDevTdG03yUQDa6P67PgJRA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="57">jUQ+R2PKKUXso1FFlMBpRXYxD0V+l85Gpfg5RyF5M0XvwCJGR1gcRtD3x0W5Wv5FmsALSo9o6Edr0CVIDKhhRryOF0WmYLhGuwdeRt5gNkW7o9BIm9IRR42QUkXsU6JF7FxKR4pWl0Ukp7xF14GDRk8CN0U0lahGt7dcRRm2ikdaXkZG7RLIRc57lUbGaYVFPB1MRWmOOEUw8TJGxHmCRfbvzkXYhONF+1guRbkOfEXex9ZFgmdpRa8oe0aYC8lF05A/RS7nLEUXmmBG9tIkRXPi3UU+26RFSBB5RezjPkUSGyFF</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="57">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="48147" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.028754182269" mzRangeStop="1835.78255417429">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.802" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="56">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="149.0313" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="55">+zuQN66DQ0CrCNnLVIZDQAIiyVI5lkNAdLR9l8sCUECEPgYMDkNQQFiL1vZ1R1BA+hm9GcNIUEBf3VFMt0pQQMGJY6ssTFBAm528yc5NUEB7N9AY009QQLHdake0U1BAIhXvO6BZUEDhbPjfS21QQIOlRX0Nd1BAwigGtE+DUEArn9I4aYZQQCJv97Tbh1BAU5s3sj2bUEAEipmtqu9QQBp5DzEcwlJAv+EBGLTGUkBte9pk6AFTQAYFwXXCQlNAMKSahW2CU0AVVfctMARUQMYB1edUNFdAmIbXcL1CV0BAaHT9OUhXQGJWJvV3aFdAzgjQLv1vV0CSZcvh34JXQIXkic/nwVlATY6UjXbHWUC7rdQr2wFaQDRvniR0Ql5Am7QZ0H1IXkDJOsCA1UpeQDgDC8FNTF5AKtmR85FOXkDHEGfvM1JeQJ37GcLbVF5AFSI32GtXXkDsiBh87VleQD09qjDqXV5AcV3jSvZjXkChfXRZOGteQORzqP2agl5Ae943t8iIXkBGX5nQapleQETJ6Lmlwl5ALkl+PKnmXkBKVI75JgFjQMAf7IVKcYxAx6fhVSGvnEA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="55">aqx4QzEMoEEAAERChXaqQkERKUZzAsBDj8JZQlVVyEGji75BRhcBQqI8SEJVVTVBAACpQRddh0FERLNBqC5hRA8PgEG66KBBMzM3QXZiQUGNQL1D5DhAQRIWZkIhBChCZmadQRER4EEAANBBP4/HRAd1+0ElSVJBeQ3oQTNzvEIQwGBEuuiKQa/hnEK4nupFF218Q0/s0UEAAKJBMQyIQZqZgEEAAFZBAAA2QSVJmUEAAFBBRheAQTMzM0FFvjtEAADQQWInMEG5pzZDYifQQQAAIEIAAPRBAACtQQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="58">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="48334" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.0467174582327" mzRangeStop="2400.23823250036">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.805" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="56">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="297.0544" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="30">v9A4a/1CUEC8yHh8SINQQP8tHafqQldAb5bhvHaCV0BdKJdwn89cQBbsh411Ql5AH598V3VIXkBDMUBslkpeQBvxvRugVF5AJaHulT1WXkAwcDwFX1teQO8tddYgcl5AQZzeuZGCXkDfHt94xYZeQICLkylyM19A6Wy8OZ9hYUDD0MhgUqFiQJHGgl0Xo2JAPQoi+LWkYkDiy50k5gFlQLADn2nYFGhA9chvYJTwcEDQR6Eo8FpzQOSel0zEJn5AKdShSzJ6iECPuiz01RONQJ6UU+p/6JBAbgMp8WABmEAOIfnyWgOYQL47nPl5wKJA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="30">2NsPQxddj0LFDqxCMzPHQR4eh0G261RFKzu2QjMzV0EiIiBBMzMxQRzHBkIAAJBBhQHfQ3ZiQUGrqoFBHh7fQdMCn0PRRZJBr6FyQQAA+EG66MpBAACyQbKQ1EGrqnpBMzNBQTXC30GSJCdBMzNhQauqIkHkOIhB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="59">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="48562" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.049036758781" mzRangeStop="2341.42529533877">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.809" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="56">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="162.0512" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="20">CdESayNDUEDTcQea0URQQPvWW9e2T1BAx5SmirJCV0CSbPM3zsFZQHxhzwV6Ql5ABRQdUhNCZEDlRmSSikVkQNAH/jNLSGRALSfEyTZJZEBqeukgMmJkQNYWyw2VZGRAY9p2HFOCZEC7jzVk5QNlQLQp6V98IG5AyGHwfjh/dkBeLF08FTeJQAU4QZYaqo5AU7ECl/y2kUBWhk/A2UqiQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="20">AOASQ83MYEEAAFZBAEBLQlXVBEJKR2RDYhogRTEMa0IAAHBBAAAhQYUts0MxDLBBVdWkQgBAnEG66ChBq6owQXZiIUGSJHlBJ3bcQUmSgkE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="60">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="48799" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0305801918029" mzRangeStop="2159.45631744726">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.813" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="56">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="65.0381" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="21">cNk9DeqDQ0DOw0zk6YpDQN4eG+0cBERAs0rkBkKGRECWsiH6vYlEQOEUbGhjik9ADuVVIxNDUECSrd+wbkdQQI7eiR/mSFBA3YVv361NUEDbu3AUH1pQQPGL/y9Pg1BAck9A6WZAUUD10Ud5uEJRQMouauMttVJA6cCcTMxBU0AUChYZP5ZzQNDWixFVo4BADodv63+ml0CTLgsFKK2eQCDBcKLp3qBA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="21">VaOMRCsCLEI3L7lCZmZyQquqYkFJkoJBfiTVRMMwXEIzM2NBSZIgQWInQEGF9tZCyCDLQpoZskIlSZFBMzOQQYmIVkG66EhBOY5FQWInQEEvum5B</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="61">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="50383" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="65.0355505113525" mzRangeStop="1312.74181598964">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.840" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="61">X+emdUZCUED9fQrBh4JQQFhdkDEJQlFAJmFDR2nBUkAVCySXLMFTQMadFE5pQldACNjiiShCWEAEb1pNZoJYQNvsCi2UwVlAh+c4NlrBWkDP3HsH2wFbQF0uP4mjQl5AxEsiJppIXkDmjPLJ2IJeQBpxaQj9wl5Ae4Vy+WBCX0BNKV1W1WFhQA78uc3x4GFArNAKNcyhYkDeDZLU5cFiQMZZtMv/4WJAK0eF28oBY0BCz1Qal0JkQIn1p624YmRARCGYv3xhZUDB9H9icONpQPpqkjVWI25ALmjLnm1DbkBk5atc79FwQFPEJsoA4nBAKp7WbzWSckAg/P9iQ6JyQJ1zuMNVE3pA8GlES5nTe0Cz4ZKCpuN7QKVIhJ71w39AUo80HA27gEBKO0uKhoqCQMstOJyPkoJAFC4oCLiChECjhHIPvYqEQBJR031GK4dABvdUGUgzh0BrB9EmIZeHQDNX9FEln4dAUaC3jVBniECrX3ixY2+IQB0ZZflzI4lA3NvxAn4riUCb6OWt3HOLQMuZqXzdd4tALMuQIjTEjUB4i//YPciNQP13F8s7zI1As8vNDFuIkEB9z2NhejKRQBsj4tOANpFAv1LAZ42ykUD/c3+GkC6SQLWoFCH3fpRAo1ycnveClEA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="61">J+A5RwL3JEUjY19FKgSGRaL3HkVA2tJGnF4yR0orG0V+mTBG6uIuRns3sUWzLw9KxefvRzb0J0iNsF1GU/2/Rl9ZSkb+HjNF7n/VSOJgB0dfU0VFzRGeRZxBQ0fkHaFFa1AXRaKtuUXbxIVGuD4lReSCtkYmWWJFnu2WR8kEQEYS5rFFn/afRla2lEVX319FdAwsRfaXMkbPUGRFxX3eRSNJIEWjuN9Fs/plRZ05lkUq4xhFPMznRXO/gEXUnYFGHWjDRVUhOkXcOjRF+ylrRgOuHkVUEfBFRJcTRdQYwUXB43hFlKokRcyiOkUPqj1FaMIuRQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="62">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="51979" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="40.0187987081334" mzRangeStop="1302.92499008757">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.866" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="61">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="149.0313" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="47">8lH+/mcCREBeLnH0SEJQQKg9Ll+7RlBANdhmSz9IUED57rnts0pQQGLBTaaKTFBARPWqxrRNUEDLJkyorU9QQDL4iPlaUVBA5EZtJCdUUEAycN7+RldQQH86lkjzWVBAR5WPDzB7UECLthF1gIJQQI4maSEXh1BA4mQXXkaTUEC2+44H1LdQQGnQxkdywVJAJVg9mWTGUkAExwE8GddSQMmhkd64AVNAOC80QLA0U0CiNChRJ0JTQGzg7XNlPFdAYkbXVFVCV0A2W1QAlUdXQA05CYaAgldA8p9kXzKEV0B/8ytXVYlXQMuyVgWhwVlAmyOrWmnFWUBhR0J1vQFaQOEokT8bNl5A1ZRx949CXkB+02yZx0ZeQOG4GsOhSF5AXjL4L6FKXkBd2wgfL01eQJjmbgT0gl5AmWJKsPWIXkBRQQJJ0MJeQGcxk6XIe2FA5pZJgbsFZkAtLtu+9LuCQGfnV75MDIhAAS0ESOvqjED1/Jkws1uUQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="47">e5RaQmTIFEa3oaxDxJ1SQiVJmUFJkjpCAACLQS+6XkGe2DNBAABUQfMaUEGSJEVBSZKKQasSIESe2ENBVVUlQZIkV0ElyT1DHh5QQQAA0EEzM5BBq6pgQY7jgEElSfJBeVq/RCd21EEIIapCVVWIQQAAMkHoxPJDAABAQSUpyUIAALhBYwC8RTw8skKELyRDzUwMQs3MyUEuQC5EeQ2gQQAAM0KIh4BBYicgQQCAiEF2YkFBSZJAQeQ4QEE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="63">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="52154" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.0366537765596" mzRangeStop="2447.56044098637">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.869" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="61">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="297.0544" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="25">S+YUiVhCUEAU/QKDnIJQQIhUoGWjQldAblkmB2yCV0B94izI1AteQC1buW6QQl5AU1YrMZxIXkDd2c/36UleQPzklDEjVF5A+CM2JN2CXkBmvDpe04heQGf5+NLWwl5AgjETXb6iYUANh8X71KFiQLxUMIMPwmJAOZ60zyaYaEDfnaMf4BRwQFreK8x+xXJAEsstoRfihECqifkrZmyXQIiJZYO68ZpAIUl7AoufoEBl9iwGeK+hQL5nG4svAKJAmfce8h4fo0A=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="25">XdDBQwCIh0LFjo1CAID5QauqYEHv7UdF2JeGQgAAgUElCbJCbaBFRBQ7pkGxE39CxMOkQQhfwkIn9hhCJUkgQRrhT0JVVWFBAAAgQQAAPkGrqiBB2FCBQUmSUEExDJhBVVVDQQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="64">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="52388" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.0354263750453" mzRangeStop="1281.68317239614">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.873" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="61">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="162.0512" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="21">E4/8bERCUED36gHVscJQQI7Ha9Yc21BAIrgdcmEBU0BLj9dQkEJXQCMikaewQl5A4wx0+VZIXkD7XFBljoJeQKbtR3mSnmJAP88fxZRCZEDCpLCrC0ZkQPetEaYkR2RAFpMgFWhJZECUdotgxFNkQJVmE+TDYmRARBk/FWRvZECDjqJvyoJkQNGRzJS2bndAvPSFQ5g3fkCOkBPaTICTQMVri5G7BpRA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="21">XgAVQ1UVNEJCiABCzczgQUQEyELgIq5DUV6+QbDOm0JVVYpBW6T4RGQhP0JGF4BBmpkzQUmSUEGOZcpDSZJgQYasS0KO41pBAABmQSd2PEElSZJB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="65">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="52628" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0152118085804" mzRangeStop="2485.11805161588">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.877" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="61">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="65.0381" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="17">zS7mdfKBQ0AJuCXD04hDQL5vY/NskUNAciLHecE9REDqhSwQ+INEQDZhsZ9IQlBA5GqA+HlFUEANXIZVsUZQQD+a7IwqtFBACUP74ag/UUBVppcfAkJRQHyJYXOeRVFAjdAmcmNGWUB3wgXBXLWLQLgnDmkRLZRAY/N0VqKhokDg6kJxPGqjQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="17">2EN6RDMzy0HNzFxBD2omQrknrkL/4PpEG0oBQsMwIEIAAGlBq6q2QiEE8ELZiWdBAAC9QauqiUHNzDBBkiRFQQAAmEE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="66">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="54214" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="65.0474948301821" mzRangeStop="1312.21643533993">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.903" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="59">HpfBJwpDUEDuKFOJQ4NQQAWD+Be8QlFAQf7yoxXCUkBLTPYmv0JXQKwH2yptQlhAM5oj6KOCWECu9K1WwMFZQG383JluwVpARW3Ko+4BW0A1Rtf3h8ZbQNuP0R18Ql5A3DQD4nFIXkC/Uhfzq4JeQE4Ti7DAwl5AM30T7yFCX0CDx5RwlGFhQM2yrLCh4GFAZce1pnChYkB/Qa+ShcFiQBz/mEyR4WJANGq753UBY0AvezfkGEJkQCty3WI9YmRA6HpCVNxgZUC7LUvpaeJpQIhhRXDzIW5AJkNCr/lBbkChSxKHD9FwQLvZwScf4XBAEeZ7ZiqRckC+3H1uNqFyQPu+ZSN9EXpAUbMDYZXRe0AYxPJTouF7QD/4xM9/wX9A5jtN1Li5gECPZlkW/oiCQC3pfMQDkYJAels6T/WAhEDQMoplMymHQP3/R58+MYdAXTIiYwCVh0AsWmYiG2WIQFFZnNAobYhAT/sV1yUhiUCHUmyVKymJQMjCEtpBcYtAF+MbLkl1i0CDqYxkGdCMQI6iCSZYwY1AANkfhWXFjUBAuV0GYcmNQCzKtXDGMJFAWlWlG8Y0kUCrSb6JwK6RQMMWUxTBLJJAHMmJOdV8lEDCyjmh3YCUQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="59">dsAvR8HXGEVQQHhFjVyBRRJL0UZeuy9HTHA7RRwdIkb93hxG8ejBRVLH7UUSxAtKprnmR14NI0hnaHdGQ2+7RjvqPEbSF0pFDbDPSActBkezTyNFRYuMRcS+QUe/tKNFHCcURemZtEXGgYNGbSMhReaBtUY4o1xF9omQR5l5Q0YaB7hFTUiYRu9vlUV4Yj9F1KwrRWhuMUbUyHVF4l/QRYI11kUK8CNFlvaGRVrUy0X8RGpFng9uRgfIwUXKFD1F8gw5RQppG0V7G2NGfCQZReqJ3EUAB6lFG0tERULYHEXOpCFFwsBNRWbmJUU=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="67">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="55809" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0307762630857" mzRangeStop="2701.52426995396">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.930" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="66">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="149.0313" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="51">HrkBevCDQ0B+ziwisLdIQBQadOTWg0lAYO6VJzE4UECuj35xBkNQQKhx6FdxR1BAX1DDqaFIUEB56qAeskpQQPwuJ3ktTFBApL1d5elNUEDkwp0J6E5QQJHHFtxzUVBAyJLzVitUUED/79No4VZQQH9zUXRlWlBA8CdHOtJhUEAcIh9+UnFQQIn8OtpGg1BA7biRnqiGUEAWO6fB2odQQLRQIqVTw1BAiS9muBfCUkBX7XQ9r0JXQPQm/FTbR1dAOSG7RtyCV0AlutYLw8FZQASMcqnyxVlA0iygrmXHWUAcc1i35AFaQDyO9B6IP15A2uADSW9CXkCAwgWidkheQF63weNvSl5ASOsXFVNPXkD4n+Vb81ZeQC65fzX/Wl5A7Tulh/xlXkDr9Ndtt4JeQKjgcgPOiF5AAHW1n8qRXkDN6F20xMJeQPE1FbRcA19A22Z6y/HAYECUcMZfjWFhQMa72McEGWNA233LHzZQgkDh3IUodpuYQBcLhXXNTqJA8C2dXGWko0ALNdZ4LLGjQAiFHG0MG6VA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="51">2JeoQtmJV0EAIAlCjuP6QVhdL0ZKgNFD3QiEQlVV8UGIh5BBnlgEQgAAwUEAQNJBO7GAQQAAbkHzGlBBq6pCQQAAk0GBVGRESZKEQZGF00Hk84NCzOo2Q/RWvkQzM7hBqyqyQmZzVkRVVYlBAAC5QQDAo0KhPUZCni7nRZyIRUPhZVVCiQgYQquqgUEzM3NB5DioQUEO9EPpokFBAABCQTtx6UJde8tCAAB4QfABlEIAAIJBO7HgQSXJBULkOIhBSZKzQcMwyUGEjwZC</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="68">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="55991" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="48.5415875111594" mzRangeStop="2990.43153485958">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.933" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="66">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="297.0544" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="30">AC1UvVJFSEAdlEwE70JQQHWEroVxR1BAKTt+RyFDV0A/Dz+KiQRdQD0eQX54Ql5AWSAQLoVIXkCvbNsZIkpeQHnVlG0TTF5Ab9fY341OXkA/133G11deQP+JU6TAWV5A9BYo56KCXkCZVLAgca5gQCPzWNRlYWFAb52knCNiYUC3uSqmnaJhQAm36gJ0oWJAM5YfHyMUZEB7XtOn0qFqQA4kep8mIm5AgJdbWRJCbkDyVB4OZ/BwQCHuNgpIgH1ATchquc3zgEC2qXigo4uSQGXEeoOrgplAOK3Po7GBnUCdkOAA5dijQPwZI/LcXKdA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="30">jbC5QR3hbUMeHkBBVVV1QY7jKkEHuilFsRNEQuLhmkEAAFZBYicgQQAAckHNzMFBsdPkQjmOvUEAQNZBSZKSQQ8P6EGyRxNDCtfEQSVJUEEAAKBBiIe4QUJ79EElSYBBAACoQTMzI0HkOCBBzcy5QSd2bEGrqkpB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="69">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="56225" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="59.6085161759127" mzRangeStop="2899.04061030179">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.937" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="66">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="162.0512" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="21">4lCp2+PNTUCS5hd7DUNQQO2oHJeEQl5AoXbAWJaCXkAC9MC3HUJkQBRpjX59RWRAgnubNDZHZEDoIkMhU0tkQJfWAeneXmRARYJBdj1iZEBUbpaYIYJkQLTiyGSfi2RAIer/iYlhbUCzWTlO7/56QOZDdMRwz39A4VuC+BV2j0A/inpW7ueTQG4Redtd1aJAh3bEGHaIo0Bnr0wOtfujQCGc38oUpqZA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="21">MzNxQb6XMEO0+lxDzcyJQepT3kQAAM9BMzNXQQAAMEGSJO9BqxptQ5oZKEJVVUVBAECqQauqUEEAAJNBIiJAQc3MXEHFTsFBAABZQTMzJ0EAAGRB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="70">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="56474" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.030805631867" mzRangeStop="2375.78690194784">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.941" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="66">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="65.0381" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="20">XbNecPGDQ0A8edLm3opDQMr+hyX2kENAWaUFJ4uTQ0BaQkcQRwREQD8IvITjhURAoWERowNDUEAMKEuJmEdQQIyLQZAbSlBA+TCkjlBOUEDRx4y9LFBQQIhUz1kLg1BAVfgcaheGUEDoTpnrV0BRQPeG9kWpQlFA/1R6cL97iUAvsRTmGCifQPKd9Xi0n6BAIe7Stcf3oUBO5s/kko+iQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="20">UnihRGInLEKO4ypBSZKKQQAA9EGxE0xCyMj4RABAZUIAQIhBUV7GQQAAuUHTS4BDAAAxQcG9kEI8fJxCHMdhQYwuYEEAAN5BFDueQZIkNUE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="71">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="58059" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="65.0479790580336" mzRangeStop="1312.20152070781">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.968" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="60">bknBFhJDUECTELWtVoNQQJWz8rnAQlFAN+uTOxfCUkDK0CqvucFTQINrAwPIQldAX1dz+XZCWECW/B4DpoJYQOEbJzDGwVlAbd7tz2vBWkBegLwJ6gFbQIBE4g2ExltA16wktoBCXkAgifivdkheQJMDopKwgl5Ah/QN89TCXkAZelOkJkJfQOKY0uqYYWFAJwgkz7DgYUB1j81qcqFiQEx5o2aJwWJArHEdJZXhYkDFeBpecQFjQGmzSDoYQmRAA3aOuzliZECRTf8CeuJpQOvafonqIW5Av2YOdwtCbkCDf0qzENFwQOAcrvgd4XBACuam6yeRckCMBqkeNqFyQEGqEA96EXpASVPGT43Re0BQ0bEMmeF7QPU7VxJ4wX9ABIOuH7m5gEA2Fdnl+oiCQMiTfh4CkYJAdBXGB/KAhEBp6MOu84iEQMIG5CErKYdAI06CDjQxh0BdC2fQ9ZSHQNiNZi8ZZYhAqadxqBptiEBRUC+fHyGJQGC9X/UmKYlApsuPnTxxi0C7o+khQ3WLQBZPEpIV0IxAc0lc9UvBjUBEjQQjTcWNQC9rSu5UyY1AH8jmB7aIkEDZiR4avDCRQBPx6OW+NJFAmh48oLUskkDIbl5Ty3yUQBjGcVvOgJRA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="60">p7w0R3KMEUXyRWVFU6hjRSOQLEUhqslGANEoR5SZV0VXVjRGZG0YRse2uUXOWgVGHhoMSjn96EdA1CpIXU1TRqWDr0b9wURGADU5RWGb00hNVABHKFE3RYGrcEXrwT1Hj7yfRQRDvkVOKIZGiqkdRV5CsUYbnHBF0UeTR2ItSkbTfrlFXl2hRsOfj0VV6CtFQK0/RXWaLkanRnNFS3vDRVTzHEWpnetFqkQ/RRoqhkWmH89FAlpXRTdQeEY8sOFFISImRfggLkWF5xZF+7FnRlBCMkX4+fdF7JEdRRRLtkWsFV5FFQZHRWDcTUWeRURF</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="72">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="59654" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0308581382314" mzRangeStop="2763.68920027464">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.994" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="71">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="149.0313" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="54">fkLTKPODQ0AsG52BdYZDQMJ2xBTkrENAew69EIOKT0BSUrm5DENQQL8nQ4p5R1BA/a7Q31xKUECK/bIT0kxQQNthh9MITlBAY86NcGhQUECEk0Bl0FRQQMow/C+5Y1BAxQP/FEeDUEBRhbBOrodQQCuLnr1tw1BABEwk6cHVUEDjsR3bLttQQL/Db1YLwlJAKQsY3+DGUkBs2EjVbwNUQIzCNP8rKVZAXIHdt8RCV0BSyIxnBEhXQDoHNGCFSVdAJBsIvhCDV0AZt/S2B6RXQBTuEkwgyFdAKooWptnBWUBW+IFv3QFaQN+hCYRdQlpAfuuYnB0tXkCdJa8rnDZeQH6oLmYcPV5AadB9m21CXkCf1Lrrb0heQH7/G7KaSl5A2FvfcXpMXkCjm+Ltnk5eQMPX/TJnUF5A6XyDM1VSXkDSrTLeZFleQExic6TQXF5AYhV4lNNhXkCrY2kUFm5eQODLCGOegl5AXZJBn8yIXkCnVBWS2oteQGC99MXQwl5AgoztWF1IX0B27OS3amhmQGhOgWbLVpdA2NFFMPU+m0ACVZ/Hf4SfQOq/295gl6VA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="54">kjsyQyVJkUEPD9hBVYWDQns7NUbWAtdDhI9WQsSknkKamQ1CF12XQc3MYEGamRFCElUtRLroeEEfBRhCQxbJQVVV00GGLI5CAACCQZ7YY0EAAKVBSoH2RMdxRUKrqoJBOY4sQwAAk0GO43pBfZwqRDMzR0GO40pBL7rAQRddp0FddARCPyPiRSr5SkOSJPlBVVXxQTMzgEHx8JlBmpmTQQAAREFu21ZCDeX4QQAAqEHMKS5EPDzcQQAAWEGrKmBCiIeIQQAAwUFJkoRBAECOQW7b00GxE4BB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="73">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="59834" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.0455342395764" mzRangeStop="2623.51209876338">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.997" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="71">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="297.0544" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="35">DHVxCOpCUEAcTzZ3fINQQPM+IqzUQldAWGVRTQbmWUDxKlxxdEJeQFvFJHyBSF5AjFvcXSJKXkAeJ60HgkxeQEMMgWKIUl5AjAnKQqCCXkBuhlnCpIVeQMxlY6tqiF5AGt9VKYDGXkCXsAIah2FhQAuUGfhooWJA07LyUYjBYkBDmv90uqRkQL0eFiIeAmVAeuDdoo8DZUBSccBiPSJnQI+iTDky5WlAEq9Pam3wcEB3FUiLmGCDQM4jj0UYWYdA8wQ1mE5elkClLsf4d42WQIJks3aIxpZA65k6Dp+4m0DWAYN5bDKeQH8BIHtbgp5A1LP6hThon0C6jn2oBZ2gQFJsnO0znaBAnjBhTAnVo0AUIs8xBn+kQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="35">Qt0PQ6OL7EE+eHtDAADAQV1SR0WaGa5CL7qgQQAAMEG66EhBsm7ZQ2bmDEKrqlJBIiIgQeaerkK+sWxDm8P6QgAAJEEAIBhCAECAQQAAw0HDMPFBAADQQQAAIEGSJFVBMzMjQUmSMEGrqiJBAAAgQeQ4lkHkOCBBJUkwQQAAZEEAADRBq6pCQQAA00E=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="74">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="60071" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.0467626973767" mzRangeStop="3041.70638391594">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.001" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="71">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="162.0512" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="33">9Pn3KP5CUEBaTCksP4NQQKLcFbj0uFBAWSmcHiXCUkAuZzm1TU1XQJxYG6q5TldAvxOsBKiTV0AcwPotqK1dQHE4wKaqQl5ASMfI74ZIXkD0RPoQQFpeQGao9IHGQGRAZejXXBFCZED6tlDvfUVkQNk8Mf7FRmRAgwfjhtNHZEAP3prExUhkQKkxlGxqXWRAFHMglUdiZEDodgAQNoJkQL2sszJg521A78muC3URdkDG4kro6MCBQJf2QGSu4YNA2qHZf/ADhED5I7hZkx6NQGGwKHXMBJdAYCiW2rNImECsrGf98O2bQHfuwXQz7KFAhNfCTIR5o0AdH9fFlgSkQLoSJ6tpw6dA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="33">4cZXQ7FTmkIAQPBBAMCcQuzEk0GamVNBVRUyQgBAlkEzYOpDq6oyQZIkkUFJkrpBE0j/RAAAMEIAAFJBjC4wQaOLJEGU1+tBYVlRQ7ftZEJYbjhCERGYQQAAhEGjizRBdmIxQWIYMEFGF5BBAEBFQgAATkElSXJB4uGyQc3MMEEiIjBB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="75">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="60316" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0306633603506" mzRangeStop="2969.30646483997">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.005" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="71">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="65.0381" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="19">EvLoxuyDQ0DAXhu+jYlDQBoiSbrtikNAX236XcWMQ0AW/3l7x5dDQLmo3C4HhkRAakwDb3XXRUA9d3DzC0NQQFjucy14R1BAom5qxslJUEAnXjdog1ZQQMgCZjxTg1BA6CQ7TVNAUUBiMsOKf0JRQHTKBaInUFFA2UK2owIpVkAv6/9oSFZ6QDuYSbSwMZhAGaL16Jwyp0A=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="19">/97CRGInsEGl+GBCzcxAQeQ4MEEDu85CL7o+QaSID0UJckhCAAB2QTmONUHhOvFCBDczQ0mS4kElSYhBAIB0QQAAnkHYUMlBAAAkQg==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="76">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="61902" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="65.0480372933242" mzRangeStop="1312.20040046922">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.032" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="55">N/QCCxNDUEBenSfZvUJRQDrHcGQSwlJAEJmNTsdCV0Dtpb9GdEJYQJM4P/vKwVlAStXK0HbBWkD8x3kM8wFbQG4opLOExltA7vnMA4BCXkDh1A4idkheQCPTYKOwgl5AFjvN7NbCXkBe7LmWIEJfQMR/IVWTYWFA+7xzGqbgYUA9EPGDcqFiQOk+omOMwWJAknwnD5XhYkCduV1qbwFjQLMiSNYYQmRAg0Kg9TliZECi9nNrcOJpQLu5l1DsIW5AXopbHQ1CbkDlJhafDNFwQGxarzIe4XBAMnUiDSeRckD0afSyM6FyQIL+XOhwEXpAmpOAyYzRe0BRuqEsn+F7QCBtO+RswX9AvR+wdLO5gECQnk5D+YiCQDpUA3r9kIJA+WAvSOuAhEB1PtDvJSmHQNnfA/4tMYdAlx4fDPKUh0Beckjx8pyHQBhoE9IWZYhAYCUA0RttiEBNGEU/HiGJQMfDqUkfKYlA0RLZcT9xi0CrW+lCNnWLQKOxMtVOwY1AFUhdO0bFjUC6ASoXT8mNQAV/PWbBMJFArZj5+MA0kUCS/MWEtSySQCIUchrKfJRAmtXHNc2AlEA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="55">71wyRzCKeEXUCU9FyZHcRsoLIkd6tSlG30ggRh8xx0UgER9GjLcJSgWK5UcdaCVI+CtNRsfhxkYx2UlGpJA9RUMz0EgfzgRHNEA4RdJDhEWZJjVH/hOXRXrvuEXTGnxGbAhgRcdnqEYQMFJFbniNR0C1Q0YRu7RF/W2fRuzAmUUCbjZFUxY3RXWlK0aydHxFhYffRd066EXsTytFxY52RZaBDUXgeOVF3m5jRQ6pbEbHBcBFTOw+RZDvNEXTUFJGIn4eRSP96EU8ar5F7XFyRWlaL0UWLihFoE0kRQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="77">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="63496" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0272443796276" mzRangeStop="1322.12075502525">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.058" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="76">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="149.0313" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="50">B8BrvnyDQ0AuJf4ID0NQQJb1/u0SRlBAtd4HQ3pHUEArUcAHwUhQQIvv9BCESVBAI+Z38MhOUECm/40w1lFQQI+vnokCV1BAVXoZBz9hUEAOJMx+WXVQQJz1tBlUg1BAjOYKSmOGUECE0rfmqodQQMhaJUvjm1BA4I+z7M7DUEABpmVL0BhRQIuLMbfvwVJABqaXpNbDUkD13QPnz0JXQKfL3IACSFdAMBLPdPdMV0BtaIKJoFRXQP/DB39Fg1dACw8BQTeEV0CbZ8xkuMFZQKUZlh+sxVlAC75D2NwBWkAasllfaIJaQF/e4ih7Ql5AMxw2eJdGXkDqc21viUheQEliyLt5Sl5Ay993ewNPXkAvibWnnFJeQJbiNOjeWF5A0KftlvhaXkCKxmdAtVxeQEsX/6ZneF5AdlMd456CXkADknwByIheQFm6NY3IlV5AVDbJxAOrXkCJ3p2TwNdeQDCQG8NjSF9AyfPpoCVNY0DURxIU1OJrQOdjCne/SYRAKtLQhoNckkAukTSne6iUQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="50">ldIpQiwVIUYAQAhDMYCdQz74mELkuGJCHMeSQTMzQUFyHCdC6aIxQVVVQUGRsz5EchygQQ3lsEGe2GNBmpmhQTMzi0G4gm1DkiSIQYg5rURddLxBkiRHQYwuMEEAAGpBZmZAQc7J1EOrqjBBqakWQygvC0I5TPJFvYbqQu8rWUO6aC9CMzMrQuQ4mEEAAHZBkiSAQQAAgEEAAEBB2JtRRM3M9EHDMLlBL7pOQUmSg0EAACZBMzPoQQBAhkEAgFRBhLoVQomIVkE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="78">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="63681" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="65.0482352420794" mzRangeStop="930.052664809677">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.061" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="76">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="297.0544" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="18">uM9ESRZDUEAZPYChl4NQQFXNnAxgQldAOD10O3RCXkAp6TbBj0ZeQGmogXCGSF5Ab/chTOdMXkDwQE49e4JeQHqt9ebfwl5Aa9oMWlw3X0AZrrgHraJhQMz5AqBxoWJApekCv6DBYkB78YmGVPZvQHoTPqJR73lAfYNJvnwVgkDagKabtX2DQLIZh9trEI1A</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="18">IBiOQwAArEE7sT9Cw4U6RQDAJEIlCbRCzcxqQRZRIkRVVZhBAAAwQVVVnUKrGoJDVRUFQwAAMkGji6ZBAAAwQZIk0UHZiXdB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="79">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="63925" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="71.4722685452162" mzRangeStop="3061.57286907651">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.065" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="76">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="162.0512" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="15">gijZpTneUUDbMRYq5iBYQI0LiQhMQl5AUEXmh4aCXkC4jtqAHUJkQAQNduKfQ2RAE0Wx6YdFZECaOs4t32FkQMW41KJMgmRA42VdfSkYZUBR0/HixLBrQBCoGc5ChnNA18Ppm6WEjkDZ3V1Ca7uOQAJ5GE8l66dA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="15">AECKQQAAGEJ7lHZCAACsQYLnD0QAAIBBAAByQQAAgkIAABtCVVWIQTMzIUGSpDBCZmYCQgAAMUElSTBB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="80">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="64174" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0307935366922" mzRangeStop="1752.67816970416">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.069" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="76">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="65.0381" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="17">s4LoCvGDQ0CqhbOe04VEQHWD+mCvDkdAYT+9OApDUEAhmcVcQUZQQLmrSU16R1BA3bVjlx6DUEDoyefb60JRQK3u6YQJqWhAzBoYGepIckACDOb2cEJ6QHWGyNhgfnpAjAweOXzCkEDPq2t6JRuYQM68wYLkpZlAfLAIgUunmUD8cR5ytmKbQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="17">gXZVQyVJCkKe2HNBFng4RDMzJ0F2YrlBJUn4QXj4gEIAADBBdmJhQZ7YM0G66EhBjuOQQQAARkFRU09DSZJkQbrosEE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="81">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="65759" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="64.0261454542162" mzRangeStop="1386.20438336782">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.096" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="84">DrP7XawBUECeGGp1EkNQQJMbKIUng1BAmcSwx8VCUUAg9Lecy0JXQGzOlcZ+QlhAhWTXw62CWEA06HCM1IhZQOeYhBO9wVlA8GhK/HHBWkCBseUmlP5aQIyTOIUDAltAm0c2lIbGW0DgpOczRcxbQAvcOk7KBlxAwvwXxX1CXkA1F3GGtIJeQGu94QbAiF5AML6jQOHCXkDMdZzcJkJfQNFnQoCRYWFAYhAkpe7gYUD27pFcdKFiQJ7SISORwWJA4S4J1ZzhYkA+hVycbwFjQEmWYh4cQmRA9SXrvHTiaUD3y3Ci94BqQMZQTkuUYm1AQlATB+ghbkDqKa8rAkJuQKvVS8EV0XBAbqIXCSzhcEARVqnvKpFyQC9NA04xoXJAsy7uzm0RekDy4hf8k9F7QHtDPi+T4XtAOfp/AnTBf0DMqWjKvLmAQO5Jm4f+iIJAuqi0TPGQgkA6sT/u54CEQEeO4YrxiIRAcJBSzSAph0A4HEb3LDGHQEz3wPTylIdA+UEzpgydh0CWi5bvGgWIQGOcrBkYZYhAlW/XBxFtiEDM9AfwA92IQHKs5AocIYlACk2wDyMliUBTACZKKCmJQPI8jjLV74lAlUMhPiZ1ikCPKm9Wy8SKQBis3z48cYtA4lSW7Dp1i0Dgx+8wMMmLQOWk5hkW0IxAYx2F1h/YjECOX0gYAICNQGQD6yNEwY1AoxW/GlrFjUCRvb2QV8mNQG4q0rK3/41AneXDqCC9jkBhTaHSScGOQNKKM2iuCJBAQHk2AMAKkEA6/TDNMEiQQEO3Xa+uiJBA23LXbb4wkUBIudzwtzSRQNvCGSS7rpFARtwz0cIskkCji8D0v1aTQPIpdq3IfJRAHmLuKL1+lEBt5Fxy04CUQIqi30nRqJVA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="84">GRwnRB/uy0X9oJZDgwbeQ0Z4VEWd+qJFTLfrQ6MBCkXdWrxEtiXHRMrAdEQ8m1pEUHTgRi6vJ0SuJuNEv46PSC1MrEYw+/JDoCfeRPQIPEWF+BpFsi4wRJfWdUdk3JFFn3KsQ38oW0QwnGVFQSs1RFwPxUPuBMxDg/AuRXJgqUO1NW5FxNx0RDm2M0atERVFCL6BRCbgVUVIHSZEynH1Qwel5UPzxMRERJdRRHVnkUTh5bFDumKNRCmcnUM24CNEkBeuQxkztUMmYYhEIuAlRDEMokOSqwlF0ZS3QyqrbkSaGcFD6p6UQxSGlUNJStVDR+7KQ/Mu4kPIUqRFAs9fRBb7rkNyPA5FKWydQ/+YpETbaqZEsayUQyKAvUM/HrRD9NGXQzQc+0PNYLVDvV5PRKcoIEQXDaFDnEDQQ1DylEMgRyBEe8SwQxpPo0Mi5JVD</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="82">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="67489" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="39.0302530651174" mzRangeStop="1991.26313046172">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.125" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="81">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="149.0313" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="10" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="32">OKQaVd+DQ0DVzIqbC0NQQGz7nT99R1BAMNBg/VlKUED8DJJABlNQQKDPVxzrVlBAoDOpB/BaUECtQlaGDHdQQHGn0khdg1BA3UQmXjSGUEBQWVZlf6JQQI7WWujBgVJAY6ePeVQCU0DoehdZzgNUQDTLvt/keFZAk8uzX8tCV0Da2b/vfEZXQJ3lj8GggldAqQCGguPBWUD3vCIyQcVZQIOHl1t7x1lAwNET91wDW0AL4eqYgEJeQMIYS5aPSF5AKFCQP15LXkBX+xMCglpeQGPNLJOngl5Aq68hz+yIXkB/FupXFgl0QNF9jTvS/XxA3QrqqlLOnECoXhJyDR2fQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="32">ZU0ZQ/JchEU/AARDmpkjQc3MQEEAAEJBVVUlQS+6LkEAsLFDq6owQSIicEE6ZzBCMzOoQXB+mEKSJFdBjSrQQ6uqoEGG4VpC5OzSQw8PkEGrqjJBVVUlQTMeFUWaGVlCq6qBQQAAYkHx8OZCOY4lQQAANEEAAIBB2FDJQQAAt0E=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="83">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="69075" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="64.0241523700234" mzRangeStop="1312.21552610381">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.151" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="85">w9dhtosBUEAOnTZDHENQQLy7+DIrg1BA9tjcxrBCUUA1goXWD8JSQO0mAdbHQldA/kbHN5/DV0A/9k3zdEJYQDjKoinZiFlA05VSgdTBWUAdTBfsj8FaQO1VmvmJ/lpAAOB2Of4BW0DNT5rQhsZbQP5lpPZAzFtA72W2h7sGXEDgpoGTfUJeQCvew5S5gl5APtghI8+IXkDmsh5FvMJeQI7O75ryAl9A+41IqjRCX0ArJZMx4gBhQJHBBB2SYWFAhIkxrg/hYUAAYQpvcqFiQPGl/AzJpGJAP/S9qIjBYkC70y3paAFjQP+EUHkaQmRAiRBnKzQjZkA0nGBSYeJpQGuL5vFayGxA5h6TdPEhbkD5YXa5B9FwQPFqVCQk4XBAD4DKYyiRckBwkrfgMKFyQKyEP1g2sXJAXuoVuIMRekDCZrPSktF7QK/7i/GZ4XtAYuCzyJnBf0CBfy+4w7mAQLW8MWP5iIJAyckWqQ6RgkB9YeTG7ICEQAciHdv/iIRAwlFN0zQph0BV/EG4PDGHQOtJ9VP6lIdAoUPeYPich0Dy5tTMQCWIQJftS1gSZYhAt5K60SdtiEA6IrOsKnWIQNEUH9Io1YhAf/UvpCzdiEAvj1dmJSGJQMX6IUAQKYlA7+/Y6dvviUBkvYhvQHWKQJYrN482cYtAfwtlPA/QjEAkgwS/EdiMQNtXdD0T4IxAZYEa9vJ/jUBkF9gqRcGNQIZRPedKxY1AJNl7XVfJjUAEZ3TIvv+NQDTtCIC1B45Ad1mkzK0KkEBw8wexMkiQQLid7Ha+iJBA8U3AdLswkUDwYIsi1TSRQHiPnOO0rpFAy24x/cKwkUB1UXtQyrKRQDW4Pta2LJJAjd8aUbUukkAxWvGGqDCSQM/KmqjW2JJAHf3fstyAlEA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="85">D0pqQ2WhWUWsBVJDv7LvQ96jwUMf1QpFwEd7Q/uASkVjPLtEvRIPRAhvJUTkfChETUgxRMiZuEZhwwhEyaHhRHMhJUg8KkVG6ge1QzbWkkT7qN9DpmvZRCrSfUOynQNFDim0Q676GEdVjDtEZeFPRYjAJkQGbLxE80d7QypSBUQE6mtDpgB+RHLsFUVVBdlD7PAKRgQ8rkTpAoBDdtVQRHFD80Q/eK1DIyxaQyx3sUOMoYtEopDXQwAAyUMagY5D1Oo6RCMvlkPBlvJD/ChOQ0Efp0MIwg1ER1bRQ1c8m0MfvFJDNveGQ8HD4kQAwBtEyEJXQ7ZeWUPE7QdEkOi+RcZTlkRWAHFD1Sm2Q0woiERKpXlD2w4wRKsgnEQh9IxD3wl0Q63FBkT5KGNDqyoyRMMw20NEipxDfXGHQz6YhUNgj3RDxa5fQ34UmkMUO2ZDSQKhQw==</data>
+      </intenArrayBinary>
+    </spectrum>
+  </spectrumList>
+</mzData>

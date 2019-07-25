@@ -23,77 +23,63 @@ def read_MS(name):
     f.close()
     return n, mMZ, mInt, mIntP, mTxt
 
-def make_Label(s, mz, h=100.0, a='right') :
+def make_Label(s, mz, h=100.0, a='center') :
+    print 'set label \"%s\" at %.2f,%.2f %s tc rgb \"black\" font \",17\"' % (s, mz, h, a)
+
+def make_Label_Line(s, mz, h=100.0, a='center') :
     global mMZ, mIntP, mTxt
     for i in range(len(mMZ)) :
 	if abs(mMZ[i]-mz)<0.05 :
 	    idx=i
 	    h=mIntP[i]
 	    break
-    print 'set label \"%s\" at %.2f,%.2f %s' % (s, mz, h+2.0, a)
+    if len(s)<1 : label='%.1f' % (mz)
+    else : label=s
+    print 'set label \"%s\" at %.2f,%.2f %s tc rgb \"red\" font \",17\"' % (label, mz, h+2.0, a)
 
-def make_Label_DA(mDA, dm, h=50.0) :
+def make_arrow(mz1, mz2, h=50.0, l='', a='center') :
+    print 'set arrow from %.2f,%.2f to %.2f,%.2f as 3' % (mz1, h, mz2, h)
+    print 'set label \"%s\" at %.2f,%.2f %s tc rgb \"black\" font \",17\"' % (l, (mz1+mz2)/2, h+3, a)
+
+def make_Label_DA(mDA, dm, h=50.0, nmax=50, A='A') :
     global mMZ, mIntP, mTxt
-    make_Label("A", mDA, a='left')
+    make_Label_Line(A, mDA)
     print 'set arrow from %.2f,0 to %.2f,110 as 2' % (mDA,mDA)
     maxM = max(mMZ) - dm
     m = mDA
-    while m < maxM :
+    n = 0
+    while m < maxM and n < nmax:
 	m = m + dm
+	n = n + 1
 	print 'set arrow from %.2f,0 to %.2f,110 as 2' % (m,m)
 	print 'set arrow from %.2f,%.2f to %.2f,%.2f as 3' % (m-dm,h+10,m,h+10)
 	print 'set arrow from %.2f,%.2f to %.2f,%.2f as 3' % (m-dm,h+10,m,h+10)
-	make_Label('+[M]', m-dm/2, h=h+12, a='center')
+	make_Label('+[M]', m-dm/2, h=h+13)
 
-def make_Label_DC(mDC, dm, h=50.0) :
+def make_Label_DC(mDC, dm, h=50.0, nmax=50, DC='DC', AC='AC') :
     global mMZ, mIntP, mTxt
     mAC = mDC-28.0
-    make_Label("DC", mDC, a='left')
-    make_Label("AC", mAC)
+    make_Label_Line(DC, mDC, a='left')
+    make_Label_Line(AC, mAC, a='right')
     print 'set arrow from %.2f,0 to %.2f,110 as 2' % (mDC,mDC)
     print 'set arrow from %.2f,0 to %.2f,110 as 2' % (mAC,mAC)
     print 'set arrow from %.2f,%.2f to %.2f,%.2f as 3' % (mDC,h,mAC,h)
-    make_Label('-[N_2]', mDC-14.0, h=h+2, a='center')
+    make_Label('-[N_2]', mDC-14.0, h=h+4)
     maxM = max(mMZ) - dm
     m = mDC
-    while m < maxM :
+    n = 0
+    while m < maxM and n < nmax:
 	m = m + dm
 	print 'set arrow from %.2f,0 to %.2f,110 as 2' % (m,m)
 	print 'set arrow from %.2f,%.2f to %.2f,%.2f as 3' % (m-dm,h+10,m,h+10)
 	print 'set arrow from %.2f,%.2f to %.2f,%.2f as 3' % (m-dm,h+10,m,h+10)
-	make_Label('+[M]', m-dm/2, h=h+12, a='center')
+	make_Label('+[M]', m-dm/2, h=h+13, a='center')
 
 ### Main part
 
 nLine, mMZ, mInt, mIntP, mTxt = read_MS(sysname)
 
-#print nLine
-#print mMZ
-#print mInt
-#print mIntP
-#print mTxt
-
-#for i in range(len(mMOC)) :
-#    print '\nStep: %ld  E=%f' % (i+1, mSumE[i])
-#    for j in range(len(mMOC[i])) :
-#	print j, mE[i][j], mOCC[i][j], mMOC[i][j]
-
 print 'set output \'%s.svg\'' % (sysname)
-
-#with open( '%s.label' % (sysname), 'r') as f:
-#    for line in f.readlines():
-#	eval(line)
-#    f.close()
-
-#print(eval('x=7'))
-#print eval('max(mMZ)', globals=globals(), locals=locals())
-#print exec('print(123+8)', globals(), locals())
-
-#y = 3
-#print(exec('y = 4'))
-#print(y)
-
-#print mMZ
 
 exec(open('%s.label' % (sysname)).read())
 
