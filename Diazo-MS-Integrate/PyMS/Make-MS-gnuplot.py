@@ -11,7 +11,7 @@ sysname = sys.argv[1]
 
 def read_MS(name):
     mMZ=[]; mInt=[]; mIntP=[]; mTxt=[]; n=0;
-    with open( 'Plot-MS/%s.dat' % (name), 'r') as f:
+    with open( '../Plot-MS/%s.dat' % (name), 'r') as f:
 	for line in f.readlines():
 	    lst = line.split(';')
 	    if len(lst)>4 :
@@ -26,7 +26,7 @@ def read_MS(name):
 def make_Label(s, mz, h=100.0, a='center') :
     print 'set label \"%s\" at %.2f,%.2f %s tc rgb \"black\" font \",17\"' % (s, mz, h, a)
 
-def make_Label_Line(s, mz, h=100.0, a='center') :
+def make_Label_Line(s, mz, h=100.0, dh=0.0, a='center') :
     global mMZ, mIntP, mTxt
     for i in range(len(mMZ)) :
 	if abs(mMZ[i]-mz)<0.05 :
@@ -35,7 +35,7 @@ def make_Label_Line(s, mz, h=100.0, a='center') :
 	    break
     if len(s)<1 : label='%.1f' % (mz)
     else : label=s
-    print 'set label \"%s\" at %.2f,%.2f %s tc rgb \"red\" font \",17\"' % (label, mz, h+2.0, a)
+    print 'set label \"%s\" at %.2f,%.2f %s tc rgb \"red\" font \",17\"' % (label, mz, h+dh+2.0, a)
 
 def make_arrow(mz1, mz2, h=50.0, l='', a='center') :
     print 'set arrow from %.2f,%.2f to %.2f,%.2f as 3' % (mz1, h, mz2, h)
@@ -65,11 +65,12 @@ def make_Label_DC(mDC, dm, h=50.0, nmax=50, DC='DC', AC='AC') :
     print 'set arrow from %.2f,0 to %.2f,110 as 2' % (mAC,mAC)
     print 'set arrow from %.2f,%.2f to %.2f,%.2f as 3' % (mDC,h,mAC,h)
     make_Label('-[N_2]', mDC-14.0, h=h+4)
-    maxM = max(mMZ) - dm
+    maxM = max(mMZ) - dm + 50
     m = mDC
     n = 0
     while m < maxM and n < nmax:
 	m = m + dm
+	n = n + 1
 	print 'set arrow from %.2f,0 to %.2f,110 as 2' % (m,m)
 	print 'set arrow from %.2f,%.2f to %.2f,%.2f as 3' % (m-dm,h+10,m,h+10)
 	print 'set arrow from %.2f,%.2f to %.2f,%.2f as 3' % (m-dm,h+10,m,h+10)
