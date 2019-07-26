@@ -1,0 +1,15 @@
+mDC = 121.0402
+#mA = 166.9937 + 15.9949
+#dm = 288.0333 + 15.9949
+mA = 166.9937
+dm = 288.0333
+mB = 92.03
+
+make_Label_DC(mDC, dm, h=40.0, DC='DC', AC='AC', nmax=0)
+#make_Label_DC(mDC+121.0964, dm, h=80.0, DC='', AC='')
+#make_arrow(mDC, mDC+121.0964, h=65.0, l='+121.1', a='center')
+
+make_Label_Line('', 65.04)
+make_Label_Line('', 109.03)
+make_Label_Line('', 134.06)
+make_Label_Line('', 241.08)

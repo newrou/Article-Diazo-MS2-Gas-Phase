@@ -1,0 +1,15 @@
+#mA = 166.9937 + 15.9949
+#dm = 349.9489 + 15.9949
+mA = 166.9937
+dm = 245.007
+
+make_Label_DA(61.9913, dm, h=90.0, A='')
+#make_Label_DA(mA, dm, h=30.0, nmax=3, A='')
+
+make_Label_Line('', 61.9913)
+make_Label_Line('', 96.9590)
+make_Label_Line('', 124.9829)
+make_Label_Line('', 146.9651)
+make_Label_Line('', 215.93)
+make_Label_Line('', 306.93)
+

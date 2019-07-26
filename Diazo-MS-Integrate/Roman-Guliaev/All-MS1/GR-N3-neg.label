@@ -2,8 +2,10 @@ mA = 166.9937
 #dm = 302.0490
 dm = 61.9913 + 135.0538
 
-#make_Label_DA(61.9913, dm, h=90.0, A='')
-make_Label_DA(mA, dm, h=30.0, nmax=3, A='')
+#make_Label_DA(mA, dm, h=30.0, nmax=3, A='')
+make_Label_DA(61.99, dm, h=50.0, A='')
+make_Label_DA(124.99, dm, h=70.0, A='', nmax=2)
+#make_Label_DA(153.01, dm, h=90.0, A='')
 
 #make_Label_Line('', 124.9871, a='center')
 #make_Label_Line('', 189.0170, dh=5.0, a='center')

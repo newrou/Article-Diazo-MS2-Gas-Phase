@@ -36,6 +36,8 @@ def make_Label_Line(s, mz, h=100.0, dh=0.0, a='center') :
     if len(s)<1 : label='%.1f' % (mz)
     else : label=s
     print 'set label \"%s\" at %.2f,%.2f %s tc rgb \"red\" font \",17\"' % (label, mz, h+dh+2.0, a)
+    if dh>5.0 : print 'set arrow from %.2f,0 to %.2f,110 as 2' % (mz,mz)
+
 
 def make_arrow(mz1, mz2, h=50.0, l='', a='center') :
     print 'set arrow from %.2f,%.2f to %.2f,%.2f as 3' % (mz1, h, mz2, h)
@@ -45,7 +47,7 @@ def make_Label_DA(mDA, dm, h=50.0, nmax=50, A='A') :
     global mMZ, mIntP, mTxt
     make_Label_Line(A, mDA)
     print 'set arrow from %.2f,0 to %.2f,110 as 2' % (mDA,mDA)
-    maxM = max(mMZ) - dm
+    maxM = max(mMZ) - dm + 50
     m = mDA
     n = 0
     while m < maxM and n < nmax:

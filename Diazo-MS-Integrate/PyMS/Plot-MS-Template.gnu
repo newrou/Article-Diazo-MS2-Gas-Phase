@@ -17,7 +17,7 @@ set xtics nomirror
 #set terminal postscript enhanced "Courier" 20
 
 set terminal svg size 1600,900 font "Helvetica,24"
-set key autotitle columnhead
+#set key autotitle columnhead
 set datafile separator ";"
 
 set termoption dash
