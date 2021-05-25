@@ -79,7 +79,7 @@ plot \
  '4-HCO2C6H4N2-OTf/Diss.dat'      using 1:2 smooth acsplines lw 3 lc 8  ti '', '' using 1:2 with points lc 8  ps 0.5 pt 7 ti '4-HCO_2C_6H_4N_2^+ TfO^-', \
  '4-Br-2-NO2C6H3N2-OTf/Diss.dat'  using 1:2 smooth acsplines lw 3 lc 9  ti '', '' using 1:2 with points lc 9  ps 0.5 pt 7 ti '4-Br-2-NO_2-C_6H_3N_2^+ TfO^-', \
  '4-Br-2-HCO2C6H3N2-OTf/Diss.dat' using 1:2 smooth acsplines lw 3 lc 10 ti '', '' using 1:2 with points lc 10 ps 0.5 pt 7 ti '4-Br-2-HCO_2C_6H_3N_2^+ TfO^-', \
- 'C10H7-1-N2-OTf/Diss.dat'        using 1:2 smooth acsplines lw 3 lc 11 ti '', '' using 1:2 with points lc 11 ps 0.5 pt 7 ti 'C_1_0H_7-1-N_2^+ TfO^-', \
+ 'C10H7-2-N2-OTf/Diss.dat'        using 1:2 smooth acsplines lw 3 lc 11 ti '', '' using 1:2 with points lc 11 ps 0.5 pt 7 ti 'C_1_0H_7-2-N_2^+ TfO^-', \
  'C5H4NO-4-N2-OTf/Diss.dat'       using 1:2 smooth acsplines lw 3 lc 12 ti '', '' using 1:2 with points lc 12 ps 0.5 pt 7 ti 'C_5H_4NO-4-N2^+ TfO^-', \
  '6-CH3C5H3NO-2-N2-OTf/Diss.dat'  using 1:2 smooth acsplines lw 3 lc 13 ti '', '' using 1:2 with points lc 13 ps 0.5 pt 7 ti '6-CH_3C_5H_3NO-2-N_2^+ TfO^-', \
  '5-BrC5H3NO-2-N2-OTf/Diss.dat'      using 1:2 smooth acsplines lw 3 lc 14 ti '', '' using 1:2 with points lc 14 ps 0.5 pt 7 ti '5-BrC_5H_3NO-2-N_2^+ TfO^-'

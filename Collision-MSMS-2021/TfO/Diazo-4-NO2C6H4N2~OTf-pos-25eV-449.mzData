@@ -1,0 +1,1531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mzData version="1.05" accessionNumber="psi-ms:100" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cvLookup cvLabel="psi" fullName="The PSI Ontology" version="1.00" address="http://psidev.sourceforge.net/ontology" />
+  <description>
+    <admin>
+      <sampleName>Diazo-4-NO2C6H4N2-OTf</sampleName>
+      <sampleDescription comment="" />
+      <sourceFile>
+        <nameOfFile>Diazo-4-NO2C6H4N2~OTf-pos-25eV-449.d</nameOfFile>
+        <pathToFile />
+        <fileType>Agilent Technologies 7.0.7024.0</fileType>
+      </sourceFile>
+      <contact>
+        <name />
+        <institution>Agilent Technologies, Inc.</institution>
+        <contactInfo />
+      </contact>
+    </admin>
+    <instrument>
+      <instrumentName>Instrument 1</instrumentName>
+      <source>
+        <cvParam cvLabel="psi" accession="PSI:1000008" name="IonizationType" value="Esi" />
+      </source>
+      <analyzerList count="1">
+        <analyzer>
+          <cvParam cvLabel="psi" accession="PSI:1000010" name="AnalyzerType" value="QuadrupoleTimeOfFlight" />
+        </analyzer>
+      </analyzerList>
+      <detector>
+        <cvParam cvLabel="psi" accession="PSI:1000026" name="DetectorType" value="ElectronMultiplier" />
+        <cvParam cvLabel="psi" accession="PSI:1000029" name="SamplingFrequency" value="0.5" />
+      </detector>
+      <additional>
+        <userParam name="acquisitionMethod" value="D:\MassHunter\methods\Diazo-Target-ESI-Pos-MSMS-50ACN.m" />
+      </additional>
+    </instrument>
+    <dataProcessing>
+      <software completionTime="2021-04-03T12:40:19">
+        <name>MzDataExport, Version=7.0.7024.0, Culture=neutral, PublicKeyToken=null</name>
+        <version>7.0.7024.0</version>
+        <comments />
+      </software>
+      <processingMethod>
+        <cvParam cvLabel="psi" accession="PSI:1000033" name="deisotoped" value="False" />
+        <cvParam cvLabel="psi" accession="PSI:1000034" name="chargeDeconvolved" value="False" />
+        <userParam name="peakThreshold" value="0" />
+        <cvParam cvLabel="psi" accession="PSI:1000035" name="peakProcessing" value="PeakDetectedSpectrum" />
+      </processingMethod>
+    </dataProcessing>
+  </description>
+  <spectrumList count="55">
+    <spectrum id="1">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="4211" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="107.025855834986" mzRangeStop="2544.06194069769">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.070" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="46">QWs7n6fBWkB9Q88zZQJdQKPEB5m/QV5ABi9IALiAXkCkCOgn8sBeQBSvlOMXAV9Ai+sRApTBYEDT75aaroBhQI0Sz7zQoGFA5uDZzueAYkDFd3FxG6FiQORWUQSTwGJAbQWZsqXgYkA0GIYNtwBjQG3rdrcxYWRAnKAn32LiZUB3VqwMhAJmQO8YmXHPIWlAZXC98TcQfEATBD9WRiB8QN6IDiIwMHxAFAwRPCtAfEAkB5LrH2CHQOe9pLzJYYdAIHYLFyFoh0BAEpinJ3CHQK9pnUUzeIdAXohMcA5ckECUqcegGmCQQD/qzrcTZJBAvm1seyJokEC+Y4pQGAiVQChLH1MaDJVAr71tLRAQlUAOE2zCFxSVQBekCeUTtJlATPEVnSm4mUD2KAyQKbyZQKJEcjouwJlABE49VSZgnkB1nuCxLmSeQC+iM2g5aJ5AEmMArzZsnkArBrPgLYahQP5mCvYK3qNAve2wth/go0A=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="46">GAZ0Q86ok0SKfYJDXQRXRzouYEULOZ9D+uzvQ3HgBkUHkpxDSivpQ5+mPUSr2ExH+mJjRef4BURjU3BEdvEeRbfd0UPU2ItDPNViR4EdHkbE339FDXwHRMw3VkafFaVDMdFcRTidE0XkwNlD4kjeRQDQH0VwwrZEcnX6Q4BgLkVYXadE2qeARCpU0ENy2JZERM47RL8qEEQzM3dDH1MDRAAQq0MzRL9DwetUQxEiu0N4A1tDAMBRQw==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="2">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="7270" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="105.003323654244" mzRangeStop="2708.26237432634">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.121" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="54">5pFqdDZAWkBPoS/+0ldcQJexoln4Ql1AvkkL5olvXkAANHYYY3deQITMjBS5gF5Ak5FYV7KGXkCJzQTN2YheQDQAfNUHi15AIn6FwOaNXkBLFe6V1ZFeQO4u8DgtlV5Aq1RpR+SaXkC762YJYaBeQF5Q5Eciol5AhdoK8majXkCT4elehqteQK6t7H/drV5AZo8IX+7AXkCUP5P98cZeQFrWnUE2yF5ASk351TvQXkDVjuX2u9NeQKOvRTcR115APHSr817gXkCgufrt0QBfQFGUKkJYJl9Akih/6zdbYEBeEwtXq4BhQHozakn8oWJAE3E+AY/AYkCKwdguQeBiQDjKPisTymVA3sT40I39a0BuBr5UappsQNPJlpCDK21AL+67m82cckDTQ5LkKRFzQAFFBdfDEXRAS5KMMTFqhUBYtdzlh2SKQD6fm/viAY5Ah6is+YUakEDf8QwZ9geSQGFikUfgZpVARqNWq3dHmEBLIwkGNseZQF23PSWrd5xA70Pn7LBGnUBq7dEzmlieQC3LBBXz1qBAmEn8Rf2SoUD6LubYAiuiQOp97VWGKKVA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="54">mJOUQgAA+EGO4+pBFjIEQsdxzUEu0r1GpX3+Qy8aF0MRAoxCxAOKQquqbkJimERCAIA0QiVJJkJVVfpBZCH6QaMLDEJV1ShCffMPRaiRWEKamfNBkiT/QQ8PyEFVFQ5Ct23YQVK8QUNVVdhBqyrIQdAXU0MhiwRCYngdRMTDzkI7seBBAIANQjmOWULkOOhBntj5QQAAT0IAAMhBEREwQkYXyEGRBRhCJUnQQbcthkI7sZRCEL4QQk/sDEIAgBRCAADNQezEQkL6WJJC0UUnQhERCEIAwAZC</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="3">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="8850" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="107.021725621958" mzRangeStop="2842.98964301317">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.147" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="60">yvLc82PBWkBsGriuHgBcQPSJwbhNAl1AUfRD+MxCXUB0XkYYWUFeQMsmQN6mgF5A298pwNzAXkBUd1uP5wBfQORqM6F/wWBAw/Rqda/hYEB6q3IXpYBhQFX24ea1oGFApWvsqsyAYkDcKm1xG6FiQCRA+1GIwGJAi4o3pZ3gYkAcaMFEvgBjQFgvWNY7YWRAXyAYJ13iZUD9lWqPXgJmQEjrXT3LIWlAXHHLlvXhaUDV56vo1+BwQKzwx4ys8HBAvnAtySgQfEDyoeICOiB8QNG5Vd8nMHxA5NZRSitAfEDo/pU9FWCHQK6irsDgYYdATFhNDhRoh0D3Rs8EEnCHQLXwRFsleIdAepXF+Q5ckEBHySsUC2CQQObmGvgKZJBA+AP+7hBokEA0LhPDAmyQQDO85KUSCJVAlreMfRIMlUAKgbJUDxCVQHqQRbQRFJVAiK9/MRUYlUBzhDw4FLSZQHpmV2UbuJlAai+cbx28mUAYSjskGsCZQCb3C7EExJlA3VxZziJgnkBmqr9hDWSeQMpMNwcvaJ5ApBV7/A2GoUC7tRlSD4ihQAVrd/cXiqFAZc4ta/yNoUBU+KDuEtyjQDL9fiwe3qNAz+bwjx7go0BAjWwsIjSmQJEwfbL6NaZA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="60">XaR4Q29VxUOU9NtEpwyWQy2etUPVpHtH5z2PRd8fzUMBJx1ES+F3Qy5AQUXfpaxDnWOgQ/DTpET5jIJHcAWaRXqqmkNEYI9EH4FsRdkJiEPwEoNDuYtIQ1VhX0PpKJ1DVOeLR8stO0YqpKVFgTASRM0SgkZ4OKVDlOmaRWiHIUVVBRFEaR4NRhVQPEXaugpF7DEqRHY9SUPNFVhFxoTGRIqvk0QJS+tDUICIQ+8E3EQA9k1EOV00RNEOjUMUXoNDiXJFRPJZyEPxdslDAICvQ8FWeUN+5Z5DH6NSQ4wCcUOED5VDH3xOQ5LkZkNpUGtD</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="4">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="11909" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="104.829502575562" mzRangeStop="2934.3455030504">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.198" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="119">En/4kRY1WkArvF8TyB9dQHX3ddgza15ALosB9GV5XkDDq2Gzp4BeQGK5l4K3hl5AtUsWvpOIXkDCOpemrIpeQAaoqSb7kF5A7rAKhT6TXkDd554CJ5deQCEFO7/9mV5Ac8v64tmdXkB94YGO7KBeQBB4voelol5ALDM0dSumXkCCd2RxsK5eQKPG/sHrsF5AHrR1GpO1XkD9xi4yFbheQIMj2n+XuV5AV0H9YuXAXkDFuJyipcZeQJVmYiiEyV5AAOUYhC3NXkBdGJaHaM9eQORTX0SS0V5A7lfqhZzlXkAP3rMH6/deQFnLmPtx+V5ADnvjyPYAX0A+fQCZ4BtfQJsi68NoTV9AoDUl4Fn3X0Az8MU2zSVgQJCnH4bP+2BAH24xgZuAYUCTVW/Qd4ZhQEJ03bWYlWFAqcqw9yq5YUANCRM12cBhQDM30taAwGJAKll61afCYkBtTxUryMNiQGwfPP5D8GJAKLmFM50AY0BIRZj4XQFjQH1NBiDLCmNAtuGnfboFZkCdtdAjvzVnQOpTjY/HPGlAMUTd/6bIbEAEQbkg4MpsQKY9aNsLkG1AE2lp4MyobUCKgpGO3x1uQCHwv9nPvm5AE4aZ/mRHb0CFy4+DdfJvQKCeCf9jAnFAjnzP8GE/cUCoSlhBulxzQLGbcZy2k3ZA/TYAIywzeEC5Gml1rTl4QCMUQ+uAhn5AYMbH6I5PgUBbdOuKYYOBQHImct83IIJAXEjHEoI6gkB1Ll2InwiEQBX2QuKiTIRAOiXTY0zShECSZ9CAU8qHQPYFgkkX8YdAt27IHDWAiEATlTE1FGeJQHTUtFjEX4pAPmtVZB/LjEC3TXjNbLWOQCNnZWe36o5ARTI7eqYhj0BKEPki/GePQN/gcbjmupBA+uJl2wP4kUDuDvTWHaiSQIPSFfyZO5NAuuqCCkljk0Bt6/CPVnGTQL2MzSB6mpNAldPlVl1HlEAIXEHTtbSUQGH37Pr5u5RABzr0NuzQlEBEJkxFr5SVQC72pDBtO5ZANo7SuNNHlkAOV+i9L2+WQBKpPVxd8ZZAL+GeuCLtl0BapknBBtOYQOMBH/F2zZlAnSEGOufemkDrpO0ti46bQHyywfrgOZxAMWqYDv5EnECUSIu3gracQK3uPqe0HZ1ApL2wWHbOnUCGeAd+NGyeQCeL6iAps6FAbvYYggTloUCUbAEDRuehQFynBIPrG6JAbdBmQhFWpECWiUS9toylQHXKFuKMpqVAz4PN/X34pUBKnMblsOymQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="119">ewmwQU/sgUEAEDZCDw9fQpOfY0YA9KRDfQHCQiKiaULpostBSZIgQoiHkEGamZBBdNFEQkYXZEKamSdCAECgQVVVgEFVVXNBchyAQauq0UFmZoVB13N8RDMz0EGrqplBsROIQQAAwEGrqmpBuuiaQWZmgEGrqppBxAOIQlVVgUEAAIlBmpmAQRQ7jkGOYxlC0XWlQwAAjEEXXY9BO7HQQbETyEG8wR1ESZKKQQAAcEEvun5BGAYQQs3MmUFDFvlBJckVQhddHEKSJK9BJUmIQQAAcEFVVThCxMO8QU/sgUEAANFBJUkFQmivWkIAAMhB6aK5QQAAiEF00ahBkiSJQXkNgEHRRYpB6aLTQWZmlkGamYtBVVW1QQAAo0EAAHBBSZKqQZIksUEhC/hB7MQCQgAAgEEUO6ZBVVUFQgAA8UFP7JFBSVKSQrftXEIAAHBBAEDmQasqFELx8KlBAACwQYfycEHkOMhBZmbVQVVVqUFmZqVBAECoQfFwEUIAAJhBdNGYQWZmcEHIQr1BJUkiQrftAUIAAMBBAACpQQBAgEEAALhBkiSAQSVJkkGamdNBzcxqQQY9lEJGF4BBo4t0Qeec8kEAAJFBvgQwQnTRkEFP7LFBxU6xQQAArUE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="5">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="13487" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="116.036560906904" mzRangeStop="2543.0559208619">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.225" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="51">3N2OA1cCXUDubIHSsEJdQMwG/nl+QV5AI8gslKWAXkBXcp012cBeQA1nms4GAV9AwY3RauSAX0Ai5qXzc8FgQGPciV6pgGFAd34vSM6gYUAmqLox3IBiQPhEbXEboWJAXvIpOoLAYkA8TP/flOBiQP0/7RyLAGNAYmgy/i5hZEAaTizi5KBkQD63pnFY4mVAdvM52lkCZkBaw7DK26FnQFY9iwC0IWlATsp/cicQfEB+llR5MiB8QKeA12IeI3xA15p2zSAwfEAeZE2hE0B8QJg/ttwUYIdA5OHefd5hh0C1Z1cwE2iHQBMpg1URcIdAc8e+/BN4h0AZ7e/oCVyQQDzX5z4PYJBA1iepRARkkEApdf2XAmiQQPsLhO4MCJVAKySV/wwMlUCnQRVxChCVQGrt4xkNFJVA9BpuqhS0mUC8of/0EbiZQLjmd2sSvJlAFLNXuhrAmUBUBYWZFmCeQGktvg48ZJ5APCAMchxonkAjFEmgEmyeQMVUc2oMhqFAeYnjsSSIoUAezN+yEoqhQAvCqKEc3qNA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="51">cuLVRCcGlkPKdoFDdftXRwrefkXrQ9tDNy9eQ9ZkJkQWczlFwzq9Q7lS0EOEAYRECYlYR2EtkUUJDpVDbgnkRGpde0PJLkRFFgHIQw6EkkMOhl5DEzBvR2AkIkYKHU1D3PaLRXItOERLAm9G/UysQ5w7e0U1+eVEkiTzQzxS6EXWRSpFJZ3WRJjFH0To2CZFvICcRAzsh0QXzclDUICpRCYXSUTXrQdEf9WwQ7dqMERKqZxDF82bQ6V0S0OE0GpDJQGFQw8PdUNVxY1D</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="6">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="16546" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="105.003583826761" mzRangeStop="2995.92391685837">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.276" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="124">/a6otzpAWkDp+a8+nWNcQLNDZGllQl1AYtzB9qkKXkC9seM4MmZeQLf3ndSRc15AdFTG46KAXkA9Q1QbtIZeQHnDrilAiF5ABdq4MwqKXkA1Qh6izo1eQGmmmjqdkV5ArS2a0aGTXkASFwRI55ZeQP9GbwP4mF5ASQXcjOybXkDQI23qP51eQGPHyjqGpV5Ahi+7dC+oXkC7oMwdh6peQKA7gqPerV5AbXkwLMu2XkD+7Xo5gLheQM68fV4Lul5AlOup097AXkDGMKzeesNeQD5lr7/7xl5Ataya+TbYXkDQhwAiruleQCHizmsJ9V5AFRR4Z1P2XkAkjh+fvwBfQPsaJDYyE19AlqFNhUMsX0As7TLsgS9fQKMVFEuzQF9ADH9zaQhzX0DqAdSiCYBfQAEaCRRLn19AI2fThu3XX0BmK4bigQpgQEYnWxWIEmBAPKUblIk+YEBon6mTrIBhQNVHfu0IoWFAmuyedIrAYkAqs7oG0cFiQNlBYaz1w2JAbTJ/zFngYkAFA2uluUxlQP7GKtvfJWdAjJn+medtaUDzN7alUKRrQF0HNWAZTG9AIB4N6hmFcUBEFT4nfJZyQCGaLk6RKXdA0PkkUFosd0Ak8MMbrU53QIzVj+IRiXdAcOHY1PGMeEAj7stIMPJ4QJIRKbWLd3pAnZFlVB6SekCmJp7sHPl6QMY0bfpxynxARvA8Hpv+fEDHO3UqCRZ9QB+iDA+ZkYJAEyOATp/KgkCYYGLsjAyFQBWjPQTJxoVAItVekU8HikBdS68rcC2KQGyRxvyfjotAiGTpQe3ZjEA704Q6OsWNQMNOP69Y545Ag3z3PAwDkEAxxe6rquWQQDOD8w480pFAeoVIhtdgkkDKNShUJaiSQOjI2LscIpNAWSFX14a1k0AuJxSwkvKTQHFuudI+aJRASB/xnm/DlEDVmJWcK6qVQFA18vhL65VAYCdVMJyilkC29cjZhd2WQFJ0N0rGI5dAbG2L+q1DmEAeqGwKx1CYQOGTMYiM5JhAc1tUIpQfmUCxTEZY4KqZQJ+UYmDXhJpAxN8/U2Rvm0BMkqN44KSbQCf+0wJ5A5xAUdO23NW+nkC3aZXpwuCeQCoD+86y9p5AHC6nY7UCn0DcYt2dVUyfQEIDIjBZ2aBAd4DsFEbToUAv/EUAoz+iQCnL1quOsaJAYmeOfRkQo0C/cSvxpmGjQAx50BqLBaRAepAFFqoxpECvAIwr9TSkQNm7c1j3maRAGnj5vfRZpUDxu9NXq3KlQBxdrRzo3qVA4X42lx7qpUAo086P/RmnQDJW/63mXadA22WhC9lnp0A=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="124">HMfSQauq8EGs45pCeQ2gQQAArEEAAJNBWzd6Rm7Ds0M3kOBCYQp3QhYyUEIAAMhBmpnrQQCAJUIAALhBXXQAQpIkkEF00ZBBUAfgQR4ex0G3bRBCMzPDQQAAkkFP7JFBFwmXRJ0zuEJRXu5BOY7TQUMWwUHkOJBBZCHiQbmnu0ITWiFCq6qIQdhQyUEAgKJCAAC0QQAAtUEAAIJBAACDQQAAg0EAAINBKC8LQiUpqkKxE7hB8joDRAAACUJJkopBAADwQQAAi0FERJNBeQ34QY7j0kGMLrhBRESzQZqZk0HkOIBBD2peQgBAEELsxINBsROYQauqyEFmZr1B2FCZQUmShEEAAKJBQ3mAQQCAhEGrKoBBMzOAQQ8PkEGSJLlBo4uOQU/siUEvOgpCAACCQUREq0EzM/hBRhfAQWQh+kGrKvxBt23YQasqlEF00bhBSZKKQQCAkEEzM5dBXXS8QZIkmEEAANdB6aL5QXIckEEzM9BBq6qiQV101EEAANhBqyqIQU/siUE5jsNBmhkEQj0K8EEAALFB5h4tQgAAvkGW+zRCNpSCQVVVvUFm5gRCMzOAQauqkkEzc3xCq6qAQbdtgEHkOIBB3eAkQhQ7rkHDMIlBAICMQcdxHUKFdgxCAADBQUmSiEIcx6JBAECIQQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="7">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="18126" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="107.019931121426" mzRangeStop="2544.0230914144">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.302" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="62">sawujUbBWkBD90atJABcQEOBptk6Al1AKgrglY1CXUDh1f3Bq0FeQA+PGpyUgF5A3nsIPsnAXkCeV4tfAwFfQFGpE2FmwWBAtwXPS5yAYUBw74GDv4BiQPdYbnEboWJARdeWuXjAYkD1uPhRjeBiQMBoXi6aAGNAzvz+9X0gY0AIlKsIJWFkQAXUsdRQgWRAAAxCOFniZUAbR0HKZgJmQFL6+JeAoWdAIAj045khaUBGHoSSJIBqQG/clEyC8HBArgn7jWFAekCIhPrgFBB8QNRFT9gdIHxAjAedIt4ifEBoLoB2EDB8QHEIhy8iQHxAAUalsOxPfEAGExxwAmCHQNd36DjbYYdAtMmySAVoh0CMJmJg/2+HQKRzavH3d4dAlhxB6AuAh0BpA5mVAFyQQFiE+1v9X5BA5kJ8vf9jkEC1MLYA9meQQFZurHoDbJBAYbvaOQMIlUA+PiNdCQyVQBzIdIQHEJVAJmy6LP0TlUB8Bo4AA7SZQI9HbigBuJlAAij6e/i7mUDFdJRJB8CZQARaI3H6w5lASjnuIxBgnkAQhTWHBWSeQDQjNLMNaJ5ANNLp5hZsnkBu+wc1+IWhQNYDzLHuh6FAqwmsJyqIoUCimaFq94mhQKYi00cJ3KNAZERdcQLeo0BRS6PSC+CjQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="62">AAjQQ4wCl0NUgZJEf7iuQ1XmlEOyrnlHkkucRQNcJUTFnvRDpkptRewE1EP09mlE2n+GR7ZnnUULmeVDI4CXQ02B1UQ+62BDv+hjRT9ky0PqnodDOIDlQ72PU0Ndt3VDcRVcQzdkjUeAzzJGEyiLQ9pspkU0zFVEAICRQ9HekUbsxJ1DqzGPRcsEFUXJuz5EXABwQ8dMAkYh5GVFBGb1RG80KES6GYtDoQA+RQSXykQtYpZEAjfYQz1DuURkUXZEvc8ZRPYDkUNLC19DNNEyRBPa80MA0bFDtw1mQzGArUPIJMhDLSRZQ62JX0NVJYZDo6OrQ67ngEM=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="8">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="21185" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="105.005480849872" mzRangeStop="2692.90032737226">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.353" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="49">K71ZzFlAWkDt6yO6xUJdQCapUQboPV5AAhZTBBlyXkBnYIpvgnReQAj67nySgF5AolHWgZWGXkCYcl0Uro1eQJeNIxpXkV5AejepCo+TXkCCAfcFcJheQDpbRrD0tl5A6TrCjbjAXkDDQhYfMcleQB7+Jgy5z15A7cQI7jzgXkAAoCxsuPJeQCG8iI4x9F5AcMDC/boAX0DuyXoJADpfQB+lSt24QF9A/WYzWph0X0DaFj4zr4BhQFDksFtiqGFAiAmiv3XAYkAOt9l6j+BiQDKH9toKKmVA2fMxUhyPZUD0jfFSeuJrQMmGWlGI5mtANJXh+xP0a0DM6MnVvxJ1QNON9HqSg4VATGqzU20mhkAbfVf+CiGHQLi3r6Ab34dA0N1Ma+BeiEBlx444kBeMQHZpqPcwYpBA+2tgCp3ekUC1zFbL8kiUQFqehCN8OZdAiChxxGZnl0A0s37NTUiYQKGjyLTz9phAvaO90uNooUDbtw94MBSjQLtREOncTKNAIJe198wJpUA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="49">4uHqQUkSREIAAOBBqyooQtFFO0KsOtRGKrQORLF2G0LLDXhCjXEwQooY4UEaACRCjMr8RAAA7EGmY/pBVs0bQvHwPUJtIORBQOejQ/hgQELYl5RCAAABQsKrF0RH2DRCg2FcROEltUIPakpCYifgQVQAkENmZulBJUnqQTuxB0I7KD1C2FDxQQAAOEIAIGZCKnI0QiVJ4EFV1UFCiQgMQgBA4kHRRdpBx3HdQVVVUEKrqvFBmpkdQgAA8UF4ePFBQQGGQg==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="9">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="22764" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="107.024506588867" mzRangeStop="2843.03434743243">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.379" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="59">IW4VhJHBWkCEEA/f50BbQIoxBvBSAFxAFTgjBVwCXUAfnNJ+10FeQLXyf6CvgF5AmFit0uTAXkBxVc0hFQFfQMiTe/yEwWBAFyweZ7KAYUDY/hAMyqBhQBoxP4fWgGJABdFscRuhYkDGR8hPisBiQMeP+gyd4GJANbCZQq0AY0BevOY1nCBjQJE8kN4wYWRAaCMAnl/iZUBTAha/egJmQItVKwSdoWdAp+VH0M4haUAHc9MVLxB8QDsucoo2IHxA/TFfZBojfEBpO17vKjB8QM7DLcslQHxAcEP4ACFQfEAuwJzEGGCHQEGdlioXaIdARm0PhxRwh0CtJq/kDXiHQH9qVFQhgIdATH/iZhFckEAsFdnxUF2QQE0WWPYSYJBAB7R7mg5kkECI+0EyFGiQQFhHw4QNbJBAAjL4TBYIlUB3N29ZHQyVQH4GVhUdEJVAh97qCyQUlUCX/0grGbSZQM72fgwfuJlArhLTSBm8mUDMURBuFMCZQLJcY4gVYJ5AlVUu/zRknkCTK63mPGieQKIxgClEbJ5AEoj7ThWGoUAJajCKE4ihQNIQSUUOiqFAwJiABQ3eo0A5WKlOE+CjQLct350TMqZAH9ETthM0pkD9lfyVETamQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="59">nZqxQ5WzXENVNfJDuYjaRKMNrUMFl4RHwfmTRUhp4EMRdGhEqhNfRcOyqENBcdhDiWlZRAFIiUcy+Z9FRqMXRBtf7UMDB+5E8K1KRZqJnUMZXpxDB7yeQwo2mUdqQUZG4umVQ8btoUVlGRpEpqZTQ9BojkbP6ZhFA3A1Rcf660MAgItDhAkbRm8wZUOwZHVFIJEZRbWDKUShPZlD85diRXG9vETszZtE4lbWQxwC/ERRYVtE14dIREMpn0NDsjVEg5ApRHUA90MPj1JDUBuTQ7edukOZhJlDg+JSQzVWikOueYFDADJPQ6wwhEM=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="10">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="25823" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="107.998143831486" mzRangeStop="2985.50823287239">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.430" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="74">/DuqluH/WkAVS+4zykJdQDUFRvgTbV5AIe1/r6iAXkDKt+jrvIZeQNzu1NoniV5AxD722feKXkAXP1BGaIxeQJCx60qgjl5A0r72lbCQXkA1495C0pJeQKjkg8ZtlF5APDDGQF2WXkDisOFR+JdeQIGMxmqUm15A5ZdE+V2gXkCUHqovwaNeQIEy9gO/ql5AAaY1gufAXkB2r0EzC8deQDM1sSMi0F5Af1gs0FvVXkAKWvWWq+BeQGphArhu5F5AeILMPAn1XkBhnqFpCwFfQM+K9ButEl9AZscv5oIkX0A0xe04xjdfQAH1YuQGfF9AZqF17GcPYEBcC+LHxhhgQI9h9hO7xWBAZZUudRPSYECxFXR4tYBhQJsbYDZjg2FAysHyvhyEYUDO9TXLg8BiQKPFYGy2wmJAhOa8Ja7gYkBQw7oQEChjQNhMXqRGYWRA9yc+QTLtc0DvvB1liGN0QBC7OCKPBXdA7YfozEHAe0D5IwsAfIWAQGaNFfGHx4BA+F/Jk9bygEC5JkmRfV2CQLPtc/RSgIJADUFPOVtxg0B9jBC2iuCDQO2tCiuwWIRAR+W2dyNJikDwLeY/0+uLQPMZHrzzG4xAosvrhO4rjEDow2CIkZ+OQElpGJD53o5AqkYC2mYxj0Bg4FmjeZaRQJxgu1XjzpJAAFXzibU6k0DeFzjhw4yUQG+NM7rckphAthjhGuYbmUBWOra5gFCZQLhZVfR8yZpAzFDsun9zoEBnvU4ezfSkQLV+iq+OGqZApGLy+czfpkBdWxk3BFOnQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="74">mpkVQgAAwUHpIjRCGwqvRory7kMULvpCinzkQhHRhELNTDhCREQ/QukiMUIAAOhBchzIQVVV4EEAQPJBUjgvQiVJDULHcbVBnNwRRYhJdULEw9RBiAcMQgtZ/0HNzNFBRETLQb2aaEOrKhxChGUFQuQ42EHbtuJBABAAQgAAvkEWMgRCmKJJQjwn1EOSJO9BwzDJQUAkLkRV1ThCx3G9QaOLzkE7sSxCAEBsQukifEIengJCmpkLQpqZMUKSJM1BkiS5QYOpKEIRESxCzczAQZqZTULkOLhBzcz8QQBA7kGhPQJCSZLzQUREA0KFayJCQ3nYQcP1uUELWYxCYifYQWZm+EHFTrlBWUgaQk/syUHNzMlBxEMIQlVVuEEREVVCVVUMQpIkyEE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="11">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="27401" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="109.013814425027" mzRangeStop="2841.07838549902">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.457" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="60">+OzlVeJAW0BaP+huSQBcQA29YCBlAl1AERaaVMlCXUCAyRYnz0FeQMMB4DW5gF5AHEmKH/DAXkCuoDt2EAFfQAQEJDg/gV9Am8GAUnbBYEDuT+BDt4BhQJ/rnzHToGFAB1iFQtOAYkAYRGxxG6FiQAcLMKGQwGJAOP5ROaHgYkDevh/usQBjQJtK3uKLIGNAqLsHgD5hZED0o8Xi+KBkQHnR6kle4mVA/GtyyU4CZkBVq3J8s6FnQNfOi4U4EHxAe9e02EYgfEDs503UCSN8QEheFxk7MHxA9LC1hEBAfEDApa7LH2CHQOuYWCTnYYdAQ/ncLCZoh0Du8x9UHHCHQDponFwveIdAbUE8hRWAh0AGNf5lF1yQQJe4jLEVYJBACS4ADRVkkEB24lvWFGiQQFMA1+4PbJBAiwuC1SEIlUBd96hQGgyVQIj1sTocEJVAKIbOZBsUlUAMO1nrExiVQFNYupsjtJlAmjq9ZSm4mUBp0YUKK7yZQKCDMpkQwJlAxHna2TFgnkCvvtTuOGSeQLfjvY5NaJ5A/8xISCVsnkDxliiiG4ahQDjb1YEWiKFA7taM4ymKoUDuW261GNyjQMh0ZYsX3qNAANNKhR3go0DcxqBwF+KjQJLlJCIoMqZA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="60">Os1eQzNrBURJqbZExKKTQ+scAETSm4JHtfmaRW/z8kMP3p9D1HkqRBo0PkUYApxDVEy3Q7WAHUSDKYdHLDCdRR5eCkQ+xNFDpBy7RDMKgUP3gFRFFK7UQ4OXh0O5IpRH50BMRgxgXENjz4hF64NFRNdEjEa69tFDrdqeRUIwG0W5cvNDT+xUQ+UwBEaBnEdFPp/pREQGXkRQZJhD21tlRRVqrER1HXtEaVC3Q5qZT0OvmNVEQCZLRMGmQESJT+pDMi8jROX17EM3gPpDEo1YQxm8tkMpZWBDmbpnQ4nAm0OSJExDDqmbQ3iYYkMh619D</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="12">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="30460" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="117.045014455233" mzRangeStop="2995.06948631363">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.508" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="90">sERPhOFCXUBGP0p7dT9eQGqC4ND9cV5Ax9aNmNd5XkDlv0se9HteQEyskogqfl5AMh7Gm7qAXkCW1jJcuIZeQBBF9jqxil5AusoJvl+QXkDncFGMhZReQN4d62Enl15ANq0kxiSaXkBw8eNyw5xeQBqc3lsyoF5ABHteG8ShXkA52tbEDaReQM3ZeNNsqF5AjQECLp60XkCMrj4O4bheQNAtxmeaul5AFD0IH+vAXkBQY2d39sZeQHanPvDOyl5AQX1w7crVXkC87wMW1NdeQMIoikjY5V5A+UR3DcjxXkBN4tep8QBfQIu49kStK19As9skQ4FmX0CcWi7+3mhfQDEpYUICbF9A31/d0MOIX0CnLFFTz2xgQHyPKvxXfWFAqvvt1ayAYUCTiLCOo8BiQIO6h4fI4GJAqLAyp1AAY0AGibb2k+dlQECLu+B/jmdAyw1LfEuKcEBTyqwSFMtwQM4Xo1FSO3FApE2gLywAc0B0DyspCkB1QJNVqqhJrHhAE8SFjqOhfkATgKEmSgGAQOov66VZOIBAdK3uG9Y5gEDqGX2VtNyAQMG6KZnOGoFAp365NQlrgUDCFWbSV6WCQBTG3sStpoNAXQZk22XvhEBmgiY2zAaGQLnii+N0WIhAxk6AEIx+ikAmiUlmY2aMQKIXRbSpUY1AjjD+oO3cjUAD1Uy/TGCPQBgD0xdHYo9ApHB53Lr/kUCLrXkYzXuSQDgCqvwUipNASBApNHvnk0CohmQWIReWQCw3GEAxIpZA1RZLj5QolkAsAaKC1SmWQJljwc+OZpdAKFV7wRAdmUC+2rCNJkubQCh20TmNuZtAb+O5etkYnEBOtE+HULCcQAEJ7WKgYp1A6lAORTJqn0C2DmFwW2SgQPGwJdLxkaBAMz84i3PGoEBuviIHXbChQGyyCetIYKNAlTKcReykpUBw5KX9q9alQB/JtZMjZqdA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="90">AIAwQhERwEGrqvJBjK53QuzEw0EcR2xCr9CmRjCN5kPbNsRCX965QhzHWkK37QlCHMctQhzHEkIAAAFCAAC4QSVJskHFTslB5TXvQQAAwkFP7LFBVdUNReEDZEKe2NNBzcywQQCA0EHlNd9BXXS0QewUL0MAQIxCAJBBQgAAzkHCcsxBUV6uQSVJwEEUO7ZBzE0sRFLZB0SGLMxCAAARQsrrEUJVVbBBAAC0QcTD9EERESFCq6ryQRgGAEIAEABCjmNVQqsqYEKOs4VD7qN8QkII0EFddMRB8fC5QcjCFUInNapCRESrQQAAsEGrKntCuujIQemi8UEAALlBXx+EQnh4yUEAgAxCjuPQQSEL6EEAAKtBERGwQU/s8UEXXSNCu3KOQ1UVFkLsxDJCAECwQWZmzUGO47JBSZIQQlVV9UGJiOhBx3EgQnh4dEJZyNlBO7EAQkII4EEAAKtBAEDQQTMz30GzD6tC</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="13">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="32040" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="109.016367245652" mzRangeStop="2842.00137171814">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.534" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="56">OjM0KQxBW0DiO14qLgBcQPdL1T46Al1AWAO6/odCXUCJXeqovEFeQNJ4G7ikgF5A6NP5FOLAXkAMT4LK3gBfQEX7vhB9wWBA1faQrp+AYUAgPppds6BhQHsq/6u3gGJAJGdtcRuhYkDm/SprgsBiQGsYOEig4GJAJhgeAI4AY0D0cPZ7oCBjQOPIOYceYWRAh/PKDVLiZUB1hbXeXAJmQCSw1rXM4HBAFz3nJoHwcEBi3OuoIxB8QPB16YAsIHxANCl5rAIjfEBUXJDsIDB8QNd0cp8uQHxAXU8COA5gh0BWuBRt3WGHQOSLhKgPaIdAmxW6Hw9wh0DihlIGE3iHQBpoiLkIXJBAIV5bWQlgkECXOPHZBmSQQMw8dwkDaJBAXfW0xwRskEDMXgj9DAiVQHQsnb8JDJVAGPNkbxIQlUCVH4PTGxSVQBjqa2QNtJlA4vVMkBC4mUCB6vhyDryZQMb+/bsWwJlA9cdXwhZgnkCnuO9aHGSeQF71wX8HaJ5A0oXJ1hBsnkA7PciwD4ahQOAqpoQaiKFA6KDuzxeKoUAzFPGnGd6jQCW/Skj836NAGxc4xB8ypkAPOcuzADSmQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="56">jYd1Q5IcX0PIxK9ErDCXQ8UezEPVuoRHEzORRRSLzENDZf1D1H03RRR7dUNox8pDlsONRDaRh0fXKqdF/Mq1Q5/jh0Pc2s9ESh5iRa6Q0EPY25pDJ3KoQ3krlkevo2JGjLOUQ93fpUWfbl9E3WGQRjtHskMErqZFo4ErRUFQGUTzFQtGhmVYRcL7E0XdyBdEt1BbQ+C4XUUG+9xEMXFgRLi+wEM9AM9EJ3lLRL1LPEQbSolDLEcwRABICEQkW95DAABbQ6t3xUMzI4BDaP2XQwBmmkOmpmFDvuRRQwo3VUM=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="14">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="35098" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="105.002289789407" mzRangeStop="2977.187752649">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.585" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="64">aqcShCVAWkBACRqtEIFaQO+UJJuvQl1ASBHLXSs8XkCaK6Qmo4BeQD4Zzjm4hl5ALjqXw5WIXkCFNjaxHI1eQKf3AS1ij15AyVRQGeySXkCwSparSJZeQPnI4OS6ml5APbTfJcGcXkCIbylayqBeQI0XFfJhpl5A0UCE6CyoXkBlYJm6NapeQGL/8kIbtV5A+AXVdLq4XkBLUoU4wcBeQCmSc2tzw15AzgnbECjFXkDz7Exk/sZeQESPscjRyF5A9lTUiWbZXkAXD3hgg+deQJ7qbJ7ZAF9ACzGzNQafYECPdMxOm4BhQE0exud0wGJAfKT78m7gYkA2IxA8FWFkQMjayQt6RmVA6LhVaIkrakDxxJ59AwNrQN2nTvLit2tAZ2AmEp4tcEBi1InQOVZyQC9Guoz3931AguHkC87QhUCtIW/QjouGQJyxBWa+aIdA9nnuDbNgiECH/ig7WuqJQDpFox7pRIxAJ1RKd3bVj0BSshODenqQQD4wDobQs5BA7DjcrcTukEDW0oNbEV2RQC0Co3A8ZZJAsBHhkqmZkkCiiLsgnwmTQLjomSMpvZZA0PiyNCX1lkATuZ/Ym3uXQN/UfI67e5hAYvxMcPwEnEBFLKMFE6+dQBSzs5yeap5AI+DcMihwokBpdbNo4o2kQOAsaAEID6dAYX4dIWBCp0A=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="64">qJEgQp5YkEJVVTRCQ3nAQVMvpEbMldFDYqf4QiGLVELLfZBCAEASQnh4LUJJkspBVVXJQQAA4EEAAOlBsROwQUgDSEKrquFBAEDGQRgI7kRVFaJCLzoeQuH6hELxcBVCiIfgQZIksEG66CRDJUnqQfsx5kPE1NhDsVO0QlUVCkKrqg1COY7bQVVV6UE5jstBjuPoQRddr0GFdkRCERG4QQBA6kGamahBkiSxQXROJUKrqsBBAEDSQQBA9EHkOPZBsRPAQeH6GEKxE8BBAADQQc0MJEIeHsdBmpnYQRzHIkKji/xBdgNAQlFe/kFimDBCCtfkQc3M7EFSOB9CAEDEQQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="15">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="36677" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="107.025049299455" mzRangeStop="2544.09922907806">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.611" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="57">mnxgaJrBWkBkdDsGtgBbQE+4jqILv1tAniJW1xMAXECEwV2aQQJdQP9ESy7kQl1AiX23ArCAXkB99n4q28BeQCM2WYXyAF9AOb/O+YDBYEDaTpmVroBhQJ1PyA29oGFAoNd8cuWAYkDQ2WxxG6FiQNdRRWeKwGJAPyOyWZLgYkANebizvQBjQIQhKsSHIGNAG0pPiTBhZED56CCYW+JlQCGXx8xyAmZAh6le+byhZ0AiwZAOoCFpQBWYotwrEHxASe8q+zQgfEDjPAez+SJ8QPBjX+8kMHxAdTOV4TlAfEBb4pnxFmCHQEqnVoXYYYdAnDvxwx9oh0B+8t/LFXCHQK1DTZ8TeIdA7EhXhR6Ah0C+GQ/oD1yQQBY+YfcRYJBAqLfiTRNkkECFmFNCDGiQQOkfsG8PbJBAEJo3AA8IlUDUmtgKFwyVQLe4o0sXEJVA6bqhoxMUlUBNiWUGHbSZQKtRE6UkuJlAzA82xx28mUBMkWY8J8CZQLCBgx14HZ5AMbUTJS1gnkDlfNC1IGSeQIozU2MeaJ5AhKGiNPJrnkCThQEOFYahQGaqh9QNiKFAobiHOwOKoUAZ7XY6GNyjQCtaJ84y4KNA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="57">hiydQ9FFZUObVXdDVETKQ3rHcERkkYJD/Xl4R19zkEXN7eBDqb3gQ5ksPUXFYuhDj0IARJqibURI9YFHzGGVRU5RmUMK6pVDqqm3RP+eOkUx3PJDwyG9QwAQnUPVKIxHeaBJRuR2Y0OiJaBFYeCURMKshUbZqcRDwo+VRaTNGkVzVv1DJFt1Q3TwB0brHktFLqXwRHZCHUSEgYZDsLZJRbq9rEQJpIxEWLS/QwDSyURDRVBEORdGRGZGrkNZGIVD+9wXRNQnFESASPRDuQRxQwBgvEMJ0qdDFJtfQy3khUPkOIJD</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="16">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="39737" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="116.364789181498" mzRangeStop="2906.13682851165">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.662" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="69">7h25tFgXXUBary/c1I9dQOOqDfdXel5AKdulGq2AXkB8xW0IuIZeQEn25ZeXiV5A3HE1VEyLXkBCGPlwBY1eQDyk3/tJkF5AWqaCtluTXkBeTXFbn5ZeQC2wLRG0nF5A7/7e/MSfXkAoTYixhqJeQGG6KzUopl5Awy62OeCqXkDbZjus7rxeQEPUlwzlwF5AJbtCDfnGXkB5CJdnfNJeQLtTEn+X115AYfE/whEBX0BtLsXbqwZfQMZsFut4H19AP4O2dKv/X0CpsiG/M6BgQBRH4Tm+gGFAejfYpaCgYUCod3T9fsBiQC4bMGaFwmJA4KA076vgYkAm9i1O2aFlQBknvfEAzGdAGMZnzZfwa0A/IvlGD3dxQN7aN1yGXHNApqACzRdzdEDj+pwOM9eAQPbH0FdyZoFAhw8hU3a7g0CaI6ANFh+GQIUtpazgEYhA0Yg8pBOxiEAhkuPu4wWJQOg2doa1ZolAWHBLLTImi0DuGydeae+OQCAQ5JP3D49AqAVYtLdOkUCJ1NUgj5GTQCSboA371pRA8b7lmPDolED7Yp8SAs+WQHnQGq06NpdAdIKiBmlcmUAaeFcLaoibQEBN3J0K2ZtALzKyEIFYoECwd+nZFeugQIk6N5Mk9aBA/pTr4mD3oEBolcIZYy2hQNc0KuKCWqJA09bcUwsGpEDXWYXygRukQKjpxcDHHqVAcDp2dzrOpUBX8KDv7XWmQFv9Yg5GtKZA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="69">AEDkQbETsEHh+pJCScmqRh+F4EM5ztpCAGCAQmIYhkIlSX1CCQuvQkOWdULnHFtCt23IQb0GCEJmZmhCbtvbQYV2AEIRbflECKFXQjw8IEIAgBZCBhugQ3kN+EGamctBdmLRQTMzw0GoHIdDE6SbQk50M0QAAMlBumjVQrETG0LsxAJCERHIQQAAr0FVVcVBsRMQQgAAy0FfQvZBAADIQQAAsUEpJQRCqyoBQgAAGEKxEwhCdNERQkmS1EF0Ti1CSZK8QWbmDEIxDLhBXXT0QYkIJELDMNFB27baQVVVwEEAADRCRETDQaOLvEFm5jBCAADNQasqJEJ4eLlBqyrgQRYyAEJEROtBSZL7QUhhX0K5JyhC</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="17">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="41315" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="106.018056750622" mzRangeStop="2543.04341791376">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.688" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="55">J1mA1yeBWkCHsxCyO8FaQEy2iLB+AFtABQb38o+BW0DAontM5sFbQJ9GAUNEAFxA4Az8wlACXUBWdtNMxUJdQA3sRwfVQV5AhYTeXLiAXkCJ+5j79MBeQLZ6PS78AF9ALpZVcxGBX0AtWxeIi8FgQKYyx4C0gGFA25F9YMygYUBS85lk4IBiQJgsbHEboWJAVAruP5LAYkDdYh7MquBiQL09Y6jEAGNA3ow2JUhhZEAwBVe4aeJlQO6Dpa11AmZAxOfTP70haUCrFBiyOhB8QJ+ugIhCIHxAl5kq5hkjfEAiidU5ODB8QMeh3w88QHxA9ReU6iFgh0BwG9TYKGiHQDub6N0ecIdAXF63gCV4h0ARo3lGF1yQQHqa+6MXYJBAmnH7kBRkkECoCFZ1HGiQQAg0bvUcCJVAuF3n8xoMlUArM5m7JRCVQJIbVpYfFJVAkHYhNSa0mUCKK9jsJ7iZQOQFg6s6vJlADUfEpzHAmUAWGFGtKmCeQD+uCAQqZJ5AT1rHGS9onkC5MTRiHGyeQEGkx78YhqFAeYe0KxOIoUCvl0Ga+omhQEX3Ti81iqFAXG/fOhbeo0A=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="55">OsdwQ6pzhEMtnYtDmplsQ27bhUOBxJBDrzvaRDSKj0ODL9xDY35+RwjojUVJHdJDI+2xQ08XFERSJV1FjuNZQ2Sw20NNBlBEBfCIRzdNqUXaU/1DF7adRBWNWEVRjZ1DkGjCQwVpk0fmh0RG9l9eQzYnm0UxuUpEYu+HRokZoUVf0ChFVUU8RIUdDEahaVhFt+gSRaPDF0RSrl5Fr0e2RDL1gkQERwBE1kG6RILLIURiVSREGgFRQyBWSUTIMtlDDxzbQ0lSZUOXRrRDzYy7Q3EJekODzXND+pl2Qw==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="18">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="44375" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="105.008665635083" mzRangeStop="2940.65382935334">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.739" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="88">EtJO+o1AWkCiGEtBy0JdQD/1hgHZbl5Av7jhd8Z9XkB81MCatoBeQJ77t+bBhl5AntHFFaOIXkBZE0YUkIxeQJgA4EFyj15AOCCwa4+TXkB4K3q8J5VeQC9Xee3hll5ArDkvk1uaXkC/JnhQc51eQAyzFuBWn15Ai+7wCkOoXkClzmCD26peQD3Sa03btF5AgdWv2iu8XkA4bOyH7MBeQE8EdcMPx15AfmQEgp/JXkD7ZzVECMxeQCdgiD+Z3l5AHa+0OYLxXkDhVJiu8PReQK0JM+QbAV9A1oq9Uz4YX0AwK0LbeiBfQH6+xVesP19A6RwQpLNTX0ApE3bFY4hfQJ7SkFaMAGFAnKGG7R97YUCScfiAl4BhQBcHGQLooGFAYmMHFYLAYkByy+IDnuBiQBkU6ulGYWRAYtN0hBV+bEBBo/oqz6JxQD+RJ7o333RAM6czPlpjeUB8DkY0RSF+QLntR7hrWYBAJ9B1WZ8rgUD+CcmMsVGCQKuDPfjlrYJAx126BaH7g0C1xsSK4C2GQJuCYXb9sodAZqwy6g63h0AbOvD6fFKKQI+WtnFwq4tA3qXOOBf0i0DjnZhfdhyNQKq2MDhP7JBAwWTnRMJYkUCH52v/Cd6SQBh8iz8YJpNAeVXPHohuk0CbfHOgMciUQEva5cvGt5VA3xrDQ7zllkDgqH0h7gKZQH3clXvnxZpAyUS/VJzbm0BjzmV74SqcQB387Jkk0ZxADSLW0TLonEBhSGz782+dQP+LY1h/p51APw9Yazpqn0BmMEECqaKfQJMj0gN5QKBAkAM6VzTHoEDYnqbC9cuhQBID/nkCd6NAO3vsFlKZo0CCZYLgy7CjQJEzUq3gJqRAwTIMT8+opEDMQ2C/zsKkQA2OudC1baVAX3TRgnbBpUBRky9XdHumQCWPiuv2faZAj5O4wk75pkA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="88">5OmKQpqZuEElSSJCMGhpQgU+ikZV1cVD51zvQkmSeEKrKiBCNxghQgCAKEIAgMhBKC9TQquqmkEAQNBBvgQcQmbmNELDMKFBjuOYQeaQ9kRP7GVCYpgEQhERoEE8PLVB+GAAQuU1v0FeQ/xBC1nXQQAAMELEw7xBMzOTQXh5g0KrKrhBRETDQRF/PEN4+HRCD54SRAAA+EEPD7hBjuOoQUmSqkEAQIhCyEL1QSVJCEJGF+BB5Di4QRQ73kFyHBtCAACoQY2w4UEAAARCAADRQeF6kEJP7JlBXXScQW7bu0EXXZdBip3IQQAAm0Fu29tBkiSfQY7jyEEAABhChXYoQgAQE0K3bfBBuujaQU/swUHkOMZBAAAiQiEL2EEAALNBDMOlQbETF0IAANBBkiSoQVVVsEEAAMBBzcyhQeS4GkKambhBRETDQZqZmEGrKshBkiS3QRERDUI5jrtBeHjRQQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="19">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="45954" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="107.023193576918" mzRangeStop="2842.97174559788">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.766" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="63">2JXpAHzBWkDQ0iKfZQBbQFaUVh2jQFtAK84+x0yBW0BNatu2NQJdQIFeacm4Ql1A0Ojv/piAXkB8aFC/1MBeQHU5YbxVAV9Al/OPBS9BX0AtdLooCYFfQGw/YQ+DwWBABRpx4a6AYUCYCvsQoKBhQFP9W5LHgGJAR5JSihuhYkCY41Y3fsBiQCJiZRqK4GJAp9NXd7AAY0AVyA/5aSBjQHMmm2MjYWRAg/hFlVniZUCO8cWGZwJmQBwGk82EoWdAn+mKKsghaUD1h4oLWkB6QPC5a+kdEHxAitSpkSYgfEDrJw9U+yJ8QJny2OYZMHxAk+SWICpAfEBQ0RwQDmCHQNhl4KzSYYdA/fy+Jgxoh0BW6DuTCHCHQI4AXTL+d4dAw2zOWwNckEBLzNfgCmCQQEfBydAFZJBAQec/PQhokED9u4H+AGyQQA2lrJILCJVAkuBI9AgMlUCj0eH6BxCVQFWtfHYVFJVANYPsAQsYlUBnFSv2B7SZQPwFLUoOuJlAW3ok5ge8mUA5JBS6IcCZQC8IfGX+w5lAtmxboBBgnkC4ZEjtDWSeQKrOazsTaJ5A8N2gJiBsnkD9uls3CYahQACS02QYiKFAsOAq1QaKoUA8rxPJ94uhQA0P3k7426NAQ3Ta9x7eo0A3/yYkAeCjQOSVo4jxNaZA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="63">NcivQ3XruEMiAlJDykR+Q0AlskQCb+hD6tSKR33YrUUoAIRDUX5ZQxVXtUOjkGBEdOF+RZg+nUO9ZvFDUz6URG2uk0ddAq9FSOjIQwCRV0NZ4bVENatXReak+UPF8IxD8YuHQwAEYkMca5pHtRpYRviEW0NDV6xFsZt1RLtflEYPj6dDQ2CfRW6VT0WO7iJEIB0dRiKaVUWzKx1FXRYaRI7jnUPz7lhFlIDYRNh1n0TbBstDq4pZQ94n3UTDFnZEy3V1RAI3v0PpAk1D7GBPRCU5BkSYQt5DduJXQwBg0kPZmbZDNpSXQ9s2akODzXJDg81OQ2LHeEO822ND</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="20">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="49014" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="104.000175867167" mzRangeStop="2378.14371130165">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.817" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="58">yO6j4QIAWkD94yZj6UBaQNq6PlKNeFxAshaqQPBQXkCW6egPT19eQEQ4VCaXbF5AOJ9fN9h1XkDrjEs0mIBeQCW3nASUhl5AYDq9C7SIXkBPZAqWwIteQK0ettA/jl5A/OQgAt6PXkCmgPoVZJNeQAezk3/Lll5AuytyX9qYXkBFGlw+85peQFc09sSLn15AjXovWsWhXkC/tccY6aReQGokau0Kq15ALRPZYFyuXkDrvkqNoLZeQKoyAVpcvF5AA3xUHd/AXkDylGHwBcdeQM9BphBByF5AKG+9u9vbXkAyT2eMNfleQF3FKEYAAV9AUGj6jepGX0ALDpYwhVZfQDv27uSgMGBABdR9XQxUYUB1HwBSp4BhQAtYxB7AoGFAtxNC/BW4YkCtwlPif8BiQI0MPnDnxmJAerxoZmzgYkCbEBIS3CRjQOeSDYOyA2VA91cZ79+vaEBVeRAr6mJwQPhZVNAwn3NAQ843C/3DeUAXCn4iPPKBQGyy9ni+i4NARbZrCxT6h0BUJ/0ferGNQJ493PrrxJRA2bKC8MWdl0CQLlqrKNuaQEx06F/TEpxAif3RrcaNoEDItJE58wSiQDuaa6u7Z6JARhmHlEmUokA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="58">+ODVQhER8EFJktBBchw/Qs3M8kGSJPhBnlgkQgaGxkbgMQJEOF/3QksHyEKy0NhCHl6UQsRDOEJDObhCACAkQpoZTEJVVTlCAADYQQCA0UFmZuhByEJGQiVJ0kElSQlClmzuRM0MWEIAAOFBAAD5QXTR4EGg0jdDABANQjy8HEJJkvJB6iBQQhBKkUO/PnxCYifYQeHeIUSNsPlBVRVuQid27EEAAOBBpkhOQgAA7UGJ+4ZCqyr0QZqZB0LqIEBChGUVQs3M2UEAACJCMzPQQQBACkIAgAFCzUwIQiKiHUK+MYZDAADxQQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="21">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="50592" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="107.024151579481" mzRangeStop="2842.11389006952">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.843" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="58">HgERs4vBWkBMAptqfIFbQHR0cbdDAFxAFVmDcG4CXUCxkjrUjUJdQI7C4IDBQV5Aga/GfcGAXkB8/0HD8sBeQOnrInglAV9A5L9LL4DBYEBawzZ42F9hQN8q/bG8gGFAvJ23Q8ugYUCvHwTo7YBiQI6xa3EboWJAp7XAtJjAYkA68WqTq+BiQE9jPjbKAGNA5OBOb4ggY0Bn5dgRPWFkQOD0YgNl4mVAc1bGkm0CZkCU9tSevqFnQIXH2ZbFIWlAEq95uHtAekCWUqqqQhB8QEWWQHNNIHxAidTa/DswfEAOduR8QUB8QN7rep4oYIdA96ET4OVhh0DvbiOnK2iHQI1L2Y4ocIdAaCnTURJ4h0Byk4wIG1yQQLpkyy4dYJBASFWYLRVkkEAW9bXQGGiQQGHDxschCJVAC6QGfiQMlUA1HKbYFxCVQFf15TsiFJVAou/1iyEYlUB1IrrCLbSZQJSAZas9uJlA0+g3Xym8mUBoQv8vNMCZQOlVSso7YJ5Aj4Kd+UFknkBjLMeKQGieQJ3hVZ5DbJ5AgIfJyRyGoUBLh3ooIYihQM60lc8ZiqFAsbWqcR7co0CIAhYgJt6jQAA9aa0w4qNA3pfMTzo0pkA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="58">dwCGQ/dRakN/bKtDJFThRAAAgUMwlbpDGlqiR0NwskWpRfNDwCI4RPelXUOHq4FFchyoQwAoHERyAXNENkSkR2p/ukW5kSpEFIucQ7TnsER28GNFCxG2QwtR9kNVhbNDfh5mQ8THskcAv2NGi1S5RdzBpUSpGrBGgLj9Q22AxEWBnTpFct8tRHCiJkYHoIhFXnAQRTT+ZERBbHZFcoXfRPM6qUTHEhdEcgWKQ7EJ90SzfoREBq5LRMMwv0NQADpEfmUrRCGtDERbAIJDgX4BRFg/rkOiBaBDuA+ZQ91YlUODE5BDgsdbQw==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="22">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="53652" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="106.005047788312" mzRangeStop="2931.97984913828">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.894" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="79">BW71s1KAWkBeQjvHMohaQA9ka93yQl1AZ5MBmmN4XUC20uFo1NNdQCoboK2Ja15ApZLypDV4XkD27gXitnleQFGlsgDHgF5AO/U5tuOGXkDhFHzZzoheQLBOxaLjjl5A65G+iRyQXkAeKAP+upJeQOyaA36XlV5AtlamjkyXXkCJUPO8eZpeQBDCEKbAnV5A6EKw11+fXkDb7XEOlqNeQMdZWgiwpl5A+rc8vsiqXkBv07Lk/q1eQAulWBOGr15AUErwUoq4XkBrmAEa9cBeQFiIGr05x15AHMJJA6TMXkAKgf0xxNFeQDBAA8CL3V5Av1JL2R8BX0COoS6/QBBfQBweg3K0MV9A2gpUTy08X0C6KOEvakJfQBYwANJspl9AjzMxRLqAYUCceB4R7YNhQLVTJL7hoGFAu581UEG4YUD7g0xHhr9iQBXlsUOVwGJAokTDz9/DYkBmY5I7C9ZiQOLUIqO04GJA6ltgSAgUcECBE8VbRe1wQOP64NklX3NAJB9JPCE5dkCuYG9k08F4QOYrAjb8QnpA34qnnkawgkCxkfc1K8aCQERxb6bB+oRAgJOK520khUAexmY/rIqIQMDxyX/RF4tADkB8UGcqjUDSc4/GeUGNQEZx5wFNo5BArvKtvf7qkkDJbXE0NmCUQAaHm6dEopRAKVNgo86vlUCPb2ACQXqWQEhmlgWzLpdAZM9Yf/Cul0AcySdnHKGZQNk9Y/0i95tAOdp9q1nsnUAlta5kLdSgQENAwBGt5qFAajCRowFPokDAKOVAY3+iQMAQkkE2iKJAzsCHDn5tpEDmBIl9ycqlQEDKtVLmpKZA2UfJrvXnpkA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="79">5xx/QgCAOkIlSfpBvQYcQoiHqEERESBCFDvGQXIcyEFS2ZlG33TZQ2ShzkIHk7FCVVVVQgAAZELpImlCGAa0QhYyKEIAkAxCAAAIQpqZoUE7KBlCO7HIQb0GAEIAQJ5BzQxMQhkk3kQAQEVCyusNQtQIWELYUNlByVlPQ9Fe9UGrqtBBJUnqQQAQO0KMLqBBBU7YQ3kN0EEzM+tBxU6pQQAAu0HxmiJEO7G4QRYyEEIor61CdNGoQdFF8kGamclBF12nQfoCSEJVBZBCF13nQQCAKkIAALBBXXSsQUREu0GaGTBCkqQAQkmS4EGxE7BB8fCxQTmOq0EAQMBBERGgQQAA9UEAAMFBAECuQQAA1UEpXKBByqukQhddNEIAQMhBhLp1QhgGAEI5js1BchygQRddt0HNzKFBDw+gQQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="23">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="55230" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="107.041817667771" mzRangeStop="2842.86979617938">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.920" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="64">Cd4CJK3CWkDV+OrzrgJbQJKWKUbqw1tAIc85hD0CXEC0fcxEZQRdQOxRpvq8RF1ASId3kcpDXkDrN93Z34JeQFSrb5sbw15Aefk0QiADX0A7CzGvucJgQGgzrovsgWFAeAu9ywSiYUAnYx8OPoJiQPSfVhtromJA521s7uPBYkDyCsmb++FiQHzYislb5WJAdnxY5xYCY0AaQ6LO8iFjQHViMpuoYmRAE/ZVcO/jZUBj7H6QHARmQGuNM7Fyo2dATCoVWZMjaUDriX9l5PFwQMjCFVgwQnpAYZnCdTQSfEAnAVOMPSJ8QMg8dCUWJXxAWVK/4jYyfEBSzdddPEJ8QIN3zRDHYYdAa6Z8OoBjh0BOUc0xzGmHQDHUnofCcYdARjdB2bl5h0CFQvHMOl2QQJg3ar82XpBApkfVnD1hkECoCB1jO2WQQMdATGdEaZBAYB2HgTdtkEDhdHimnQmVQMgplZabDZVAMt7cvZYRlUAXT3GJiRWVQNcrYUz0tZlA4x7rCPy5mUDQaK/05r2ZQBhOLPr3wZlAEC7nX1dinkDOwkakV2aeQNtVWABuap5AVZs5eWRunkA8yrT2XIehQDLpoetBiaFAYl2AwYCJoUB8XB0SQIuhQLw51Z+D3aNAqS77B4Lfo0AWrDGneOGjQB5Jl4qK5aNAQ8HsVb01pkA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="64">s7axQ2lCYUMeJp5DSXJuQ8Gd3kSOcLtD+5PXQ8WUmUcw3LhFPQW6Q685KUSYlYJFAIDBQwobrUN6AI9EtrqgR2vB2kXpSWNDljK9Q+XqfUNMyMJE+G6MRV6GrkOSnZJDA9+FQ5Cfj0MAYHBDfw2vR9SScEaOsKFDurbfRd+DaUSMZKtGmADHQ7trvUUs9l5Fjo07RGPCNUaxE3RDKrKARR/DMkXay0VEnaKKQ8vgdkUFbABFGZe7RAW0/UMS7fREI4d5RGTYW0SrQsBDfIItRGEqGUSKHeFDXwKjQ6yR40PBrrxDxMRWQ94ah0PE40hDyIRyQyoBfENsiGND0wycQw==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="24">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="58291" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="106.047719743519" mzRangeStop="2992.75714850502">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.971" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="83">e3Ic1w2DWkDWp8zSGN1aQF9HnMtlclxA25YM6p1EXUBcF1NO9lVeQOP6KhWzZV5ArngKEBF4XkBHsTDaq3teQEiiCeNBfV5AmKkvit+CXkD/LQTG54heQM2eZK6Xi15A0NVjvdyOXkACVUT4tZBeQJiECkYdk15AL0ft5pSWXkC1iIFy7ppeQBSMQYeXnF5Ax/E/peKfXkAo/wisA6ZeQKOJi5eEql5AzkBD1oCtXkAikDr1jbBeQN3ZhO0Nw15AB+gDDlPJXkC2i3TOYcteQIvNL68B1V5AZSHYE53bXkBaSj7859xeQJbODQgvA19AGa6mprkPX0DIuZoJYhFfQDe+aZjQH19Ay6MeKxI+X0CB3OVm8pdfQI4FKckJVGBACkKtpEWiYECitoho2oFhQGFOWHEEomFA0uJLT6axYkAV6gCz5sFiQG1KjVlRw2JApMlw0hriYkCkZ+mt9QFjQHkBbNDyZGZA5vfTRixqbUCLm4gBmcNuQJ2zRdetqnBAU1iaE+RNcUArhb/MtuZ1QLIK56qZw3tAIKuPxsMmfEAGs6ntR4F8QESlmLJWhn1AXuxX9HGNfkDkZcllpR6BQCaSGvGbIoRAnpFgeT75hECZQMjG2WmFQIzZpJoFfYVAsq/zlLlQhkBy6cv/dtaHQNLf8tt5qYhAGZWR9TzViEB+Lrljt9iKQJVWzLPC44pASdHVB9G4k0CehNX/ea6VQIWHfm1geJZAAtZKWhCplkBzk95+jAyYQB4GOzZzd5hA3fCrmOhpmUBv5XZ3HFuaQJQ7kio4EqBAv8jn0WiQokCSWOTWbTujQCNRVDTHAqVA/Y1/opNRpUDvigcs/DamQP93k9Ysr6ZAXEPckkAkp0CHBviog2GnQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="83">AAAoQkmS7EFVVaFB85o7Qnyae0Lx8DVCSZLaQSgvL0IAgMRB3fOaRjBy7ENzMPhCpyCcQgCAikIzM1dCAACWQmZmKkIhi1hCZCH6QQCAoEGamaFBJUnyQRQ7EUKEqvREagJoQkYXoEFJktRBojwIQjsoOUK45otDXXRAQuzEy0HhAyBC4uGqQURE40GU18NBAADpQf1MpkMAgCFCdE4lQgGnzkOEZTVCF103QnTRyEGrKhRCwzDhQQAAC0IAANRBqyrcQQBAokFCiChCIYsoQgBAvkEAIAdCZmYOQpIkoUFP7OlBAADwQRERsEGSJNBBZmbAQasq5EEAABBCAAAAQlVV1UEAkElCZmamQZqZsUEAwABC2QkoQuLhqkHu6QpCyus9QnTR0EFimCRC1AjIQeQ4yEEAAKhBXXS0QTuxqEEMw9VBmpmrQRQ71kE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="25">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="59869" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="108.009437720192" mzRangeStop="2844.08183250563">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="0.998" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="64">rOSqoJoAW0COclBBZYFbQFgLerk5v1tAO/NSIMvBW0DIMbj5+/9bQGgAcAdLAl1AclBJy6BCXUALAXFttUFeQGg691iwgF5AK3E0B+LAXkBsrrN6JQFfQMGbVzocgV9AfCuYn2HBYEACCUFLsoBhQGi9drqzgGJA6cFscRuhYkCb1hi0iMBiQHdBg8Wf4GJAlYtUgM0AY0Cdy6CQlyBjQDQp3603YWRACCA/l0+BZEAvxpm8XuJlQOhkflNqAmZAgmjXQtShZ0Bc6QZstCFpQE1XlF2R8HBAfH2JVi0QfEAGziWvNiB8QL5bmHwOI3xAojlCaS8wfECH4j0dNkB8QO7LYKAZYIdAcdfwZNBhh0AU6ir4F2iHQLD5rawScIdAMIABziZ4h0Cpe9kWEVyQQPYB4OFxXZBAOEqaChNgkEBBYcuiDWSQQKHEpCYWaJBADQLIlAFskEBt9I7WFAiVQMKZY4MWDJVAuHc7/QkQlUDpDE4rCxSVQA0R9N8ctJlAFpU7Ghm4mUDzzaPGKbyZQDclTDEXwJlAZHoFhDLEmUA4azEJTRCdQPSfJA0bYJ5AoY4oLClknkApAbgVKWieQJglomwQhqFA4xuhSRWIoUAqOqcEFIqhQFUA6N0V3KNAVYBxIhXeo0AS1dzGHeCjQLacIcUeNKZA3T7z5Sk4pkA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="64">mqmFQwAgU0NCCIRDG0hcQ3/a8UNA+K9EJUibQ49fyUMwfZlHRBSXRdGO8EOLz2NDnWk7ROmJiUUROtxDH4OHRL1OnUfJXb5F+KG5Q2AGj0O4bOBEO7FeQxPZckUGHL1DOe6jQ4yUqUN3YLRDpFuqR1vSZkb3U6tDq0vCRdnQY0QRH51Gx/fZQ0sPtUUHnUhFHEg4RMG0L0b3dFhDnzWBRRMzFUXnC1NEAABOQ2sMe0X3+eBE54ClRF0E0EPS8NtERMuhRPPCP0RRDexDTgBzQwAwg0MiSVxEeDkRRJuX7kPpArtDyJ/rQ34c8kPV1JdDGAaFQ5qJnUOZLJlDZZh1Qw==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="26">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="62929" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="105.011265280938" mzRangeStop="2980.07145637895">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.049" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="87">Uk0DkrhAWkAUzsiYvz5bQCx0LhQWQ11A+xI8tOp6XkDiFUrR2HxeQDcvzWGvgF5AAQkuWrGGXkAlyQA2oIheQBPrnCd4i15AJEHnTXeOXkANoUEYW5BeQErK46kukl5AXWvCqciUXkDh7/AnepZeQCUaFe4Am15AcEJ1XBWdXkCuAhlVrKJeQFcPcTc5qF5A19X5kHu1XkDr0xelHbxeQGrl1ZHpwF5A2o+K7QfFXkBH2FfHJcdeQO/WDKhiyV5AXp3EQwzPXkCobBUt9tFeQAohDLCZ615AHgiIPJz+XkDzMgpKDwFfQD4494SxGF9Aeed7RmtzX0DcfU5crKZgQNR4awfCgGFA5Db5giCCYUDhWCxnisBiQPmKGrjM4GJAbzZunSriYkAYrDOU6rtlQHFKczjmvmdAAJw7tw5OakB3BIwksi9tQKT1vbEPw25AwPGuXBtob0DuLFI0XWxvQP5NITGEdXJAIc/YuneaeUDYhJVWsLN5QJqH0tW/jnpA1nGAiJc9fECr+of4A+d8QAP57Byu/n1AimiwUH5FfkC8cst/y6R+QDhNTAtCSYBALS9PnPe5gEAbmwVAUVGBQK12qvLOIIJAhjqPnoF0gkBd10XnQ2yFQLr90mZ/coVAYSxdCjiIiEBKLcDxpeOIQBeHIj3/OYlA1wTKOb59iUCSRjWURu6QQE3/zfzWA5JA8eBrH9mJkkB4fFPVY+eSQExN1XwtN5NAw5MbMn1Nl0C/Sv1puLaXQHeKmooVmphASPhrHK/Em0A1iK1kxsmdQPqgokcEz51AHgL+kviMn0AEOcL/hCOgQO6yzeYEWqFA8J5zW1uEoUCK2AlzqoWhQL3Ummj1WqJAfruyoxzMokD6OL+TEqukQB7xbdUjyaRAd784zR+EpkC+2M57P6OmQFI17pUkSKdA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="87">qyocQm7b60EAQMZB4uHKQQAACEKRq6lGky3cQ6tq70LKa4BC85qDQibXV0LzmhNCFDsVQs1MJEIUO1JCHp4WQhddr0FkIcpBAJAKQr0GFEI0u9lEhXZAQqsqKEIAgLRBAIC0QeJhHkIAQLRB8XABQtmpyUNyHMhBKC87QgAAuEEAKfdDshAlQv5mCEQREUVDAAAYQsMwwUFCCLBBewnYQVVVwEEIoV9C4UKPQ2Zm6UFmZq5BAECyQVVVEELlNShCxU7ZQUREw0G4ngFCVVXYQbro2kFdNIBCNpT6QeQ43kFYbhhCiIfIQQAA1UGamblBmpnQQRgGKEJ24jpCx3EcQj0K8EFRXkdCUjifQnE9+0G3bdhBw/XhQe7pGkIxDLBBblsBQiGLAEIAAMFBAADBQRERsEHK6wlCZuZwQuLhXkJwviZChqwfQtmJ/UEPjwNCJUm6QR8FJEIxDOBB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="27">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="64508" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="107.021092497807" mzRangeStop="2544.06133392897">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.075" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="51">UxFZlFnBWkBmLpHhWQJdQGA9PpauQl1AqlaZgLhBXkA+1ndJsYBeQA9xKu7fwF5A6ugO5TQBX0Dtfg3y5oBfQKpOALmEwWBAh6aww7hfYUCPjow/qIBhQAGlQQLjoGFANtuKlvWAYkDEomxxG6FiQGDp1JCJwGJAqCyxrKDgYkDjRR1OngBjQEqd8rGnIGNALDysEkRhZEBO57qTa+JlQOCjWJ2RAmZA4+t0E4ShZ0Dn7594p/BwQIHqdnEwEHxAWV3UojggfEBpf2DnLjB8QOsYocsuQHxAurfpqSlQfEAXEWKrG2CHQOzJprkaaIdAq3XpABtwh0DfvUEaOHiHQEkNjy0PXJBAE+46QhJgkEDs7tBQEWSQQKwA1LITaJBAENXKqhYIlUC3uUaMFgyVQIVHu+YYEJVAhXEjygcUlUBGIgR2E7SZQGS534wfuJlA9nfkvyy8mUCFE5Ji/L+ZQDCVOuwtYJ5ApL91mClknkD5zJIsLWieQG02eNQZhqFAeIvIShyIoUA0CVDBEt6jQCYmKWcf4KNA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="51">OwGWQ3rZk0T3xJhDPuNhQ8oBV0e/C29FEDaOQ12DoEMocK5DZs5aQ4AwLUWSBFlDfwnSQ24jJUSG8FxHaymFRWYQo0PTcrJDKruERNF2N0VyYKxD5WBuQ9wRh0NEGnxHhucnRpX+jkWrSiVE8n5LQybkb0bsS4BFy4QbRQhCB0Skv/RFpIQwRfYh0ESsUBFEvQAwRSDwpUT6g29EfDC3QwzXsEQXLWJEpm4WRJKca0MgxzhEkhTYQ53TrUObEntD5JmfQ4hJo0MwzmRD</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="28">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="67567" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="100.308906077675" mzRangeStop="2991.17665145031">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.126" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="115">hkn/HcUTWUBmmO2IIaNZQASfsICc81pA4nusntmAW0A4LPVlI/5cQBMh/Y/H411AcJsqQ/U/XkDnLg3JPmpeQDmu9YuvdF5Ab2yFFhZ7XkBLw19Gs4BeQK+xmdm7hl5A5Eos0L6IXkB0/aIiMI1eQLKlgNs4kF5AGZHz6F6SXkB6kPY6tJReQHLrDgVUl15ALHPhIgiaXkBOkGw2p5teQCwGKbhKnl5AVEmfslmkXkAA8esg9KdeQKFtljCrql5A+YbAWBCuXkB1ruEorbdeQGKau0PDvV5AYlX0/+jAXkB7AT2xDsVeQIU2hRDUxl5Aqx6A45DJXkCDNGC5yMpeQDpC5Hpwzl5AJToWaiXYXkAAgd5vIN1eQN/V6wVv715AKZ79IM34XkByJwUvBwFfQODKNX4OBV9AqPnY4rwIX0DA44x2xihfQAWdBbMmMF9ANdNOCfk/X0Amf+kgqBBgQBpCV5t5G2BAFy/PW9oGYUCqmalSZmBhQFArLWhDfmFAKfn5W5eAYUDfHuPgyIJhQLrTzWrioGFAC2sUxpE4YkDiOIu/7ZliQPdxSuR6wGJARx9cNkzIYkCS5jIUiuBiQCCqZrt24WJAYH4ppuuFZEAJOuqwC7NmQF7G6Hd6T2tA+MCEs2FAcEBLed8tQOdwQC5+foUW/XJACUu0A7n1c0B8ypF7zB15QFMQJUfOm3lA4a/KN1PrekAlRWwhNk97QFTZTw3xeX1AXSBboquxg0A4LQDYBaaEQIa7LQCo2YRAsa1+Rs0IhkD04dVdgJ+HQHQ8t/0Qp4hAwdax27nniEBr3XIvNQeKQL1uTTX/G4tA//YVGzLli0Dp1hz1bTCNQPb6GlkXMI5AHXXWJSNcjkB0AcVBApOOQOYoXSkemZBAoukZg7cykUCJAXKfQsqTQOpZfGWS1pNA2VVPcz5elED8EJIj0YeUQFzUy5utpJZASDso9301l0BihMBme56YQOd7xZ2PzJlAwkFWwl42mkBv6erGz4CaQG5N6hkxZ5tAu67uVNaUm0DhLSemdUOcQI1u243FIp1AAwq1oH0Bn0Aly3JzsYefQO7G9O0J2J9ArW/47XgroUDbM3ZKMDWjQNBxzAu4UaNAD46V7uJ+o0CMnePJ1mmkQLmGbDG0l6RAv8qcfFjlpEC8vo8lgOekQFPGNxvD56RAadaamzIepkDtMnUNTMemQMpJCtDD+6ZAwxMPclpep0A=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="115">JUmyQXTRgEG66KpBXkPUQTmO9UEAALBBXbSNQg8PFEJJkrpBAACsQTqmeUYTw45DzQy0QmbmtEIHNalCSRJwQnTRGELNTGZCpHApQhERgEEAgBFCSZKLQRzHqkGKndhBchy4QbETsEFDeYhBUsz2RN0ThkIAQHdCeHgVQnIciEEAAIlBOyhdQjcYNUIvushBREQgQqsqNEMREbBBAACgQQCAhEEXXZdBjC6IQQAAmUF4eJFBJUnKQQAAGUI5joNB75CIQwBAhkGux31CPDxFQjuxsEGRRYNDAACAQQAAlEIAAOFBF12fQZqZsUEREQFCmNM8QgBA4EFH2BhCSZIOQpqZg0FVVZBBkqQIQnyaY0J2YulBkiTxQTMzgEFmZpVBLWSYQQAAqUGxE5BBmpmBQbEToEEcx5pB7MSTQZqZgUGSJIFBkiSwQQ9qSkIAEDNCAADRQXIcYEIlSahBkiS5QRXXsUIlSaJBAAC8QUmSlEE7sZhBchyoQV104kE7saBBiIegQXkN8EFJkqRBAIAEQrETgEEeHtdB4uFGQmZmhkGSJIFBVVWgQQAAk0EAALhBxMPsQY7j4kE5jptBVVWFQSKiHUJVVaFBRhfYQQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="29">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="69147" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="112.003112064627" mzRangeStop="2244.03539809159">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.152" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="42">3PLx/DIAXECQb0QlUQJdQLi6FX/MQV5AtkPVEqeAXkDSfGexooZeQDoHLIzdwF5AP2zrolCBX0BFwRkVWsFgQACZjTaxgGFABCO5KrSAYkDzFW1xG6FiQAjIAHuGwGJAgyyENNvDYkDxw2SHneBiQBMvCJisAGNAujQp/HsgY0BiltvIO2FkQLUjnT5W4mVADilYBycQfEDUwpbEMSB8QGlSlKIuMHxAUgnzSS9AfECQj091EWCHQNCeLRMZaIdATdAImBdwh0CErPtKFHiHQO1nqj8MXJBAXDaATA5gkEALb+7aCmSQQOH5q9kQaJBA23ct1g4IlUCXvWY4FwyVQAQCQJsZEJVA9V1SnRwUlUAG0tOmHbSZQJpJz2QauJlAO9ktPB+8mUD18KvxGWCeQFSjxmkPZJ5AfXJYHgxonkDJKXf7DIahQG7bsh8SiKFA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="42">gTxdQ8siUETslJpDOBwKR+22Q0QiIhRFF52EQz+e2kM2U/1E4BFxQ5aB6kNv2hNHK0NQRM0/NEXx145DvY9lQ45jgkRlTQFFSAUZRx5K2kVAYkZFeAgARGA0EkZ8zS5FXPaMRLQyrEM6Ro1FFNDaRII7jkTRRAdE50LkRNgDh0QZJkFE8LJ9Q9LzT0SBMgBEYD2ZQ/tu4kMzE4lDCdJ4Q3SRX0McV15D</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="30">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="72207" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="105.078975930216" mzRangeStop="2986.90670535711">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.203" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="117">0lwP8Q1FWkAm/zqnsztbQPZAmXR1dV5A4TG2YsN3XkCJx6hnBn1eQLzsg+SqgF5AH7Sr0a6GXkAYjF7Pn4heQBdka04yjF5AwOT04pqOXkCEeXz7m5FeQOUK3R9mlF5AaNGbqAGYXkAMcgLfpZ1eQIFwuN3boF5AVZnTseukXkAuyks0+6ZeQHcZK25yq15AAPluoe+sXkAZh8vZHbheQN4nWYTewF5AC8WeuBvFXkC2mfUO+cZeQAdyGBW2yF5AJMOOinDQXkCrt7ES+tJeQP4GW/nl1F5AOEl9i07YXkBc7P0HqtxeQKYYeKMB4F5AOGYQEizjXkB4jxFOHQFfQBbwNVJFDF9A3Iq7pzkRX0Ae4HD6USVfQLIUNzb0LV9AP9knT5A3X0CdPnVi3HpfQO86Hd7e7GBAwT0xwcKAYUDgwsuAVDJiQMWuEO5nwGJAof00nZvDYkCp2QtSnOBiQCLX5me9ymNA1lNVZDRhZEBbyd4mdSBoQPitq7hUNWpA5dynAxP6akA4vzQSD1dsQHib4A8/N25AY+zraCqCb0CB721QIcFvQI8BjKYcSHNA2iAOM1cUdEBShDoKod10QEB/ULglX3pA4gmdRvqZe0BOVpdi39F8QCwyw9ju8nxAHBiz2g+Bf0C+Lv+f9rp/QJqGlxsV6n9AcbaqOrbxf0BRZQe5O8iAQF3ss1SM/YFAyeSEZnhogkBXiKRHf4SEQJsN/8YSModAmHSrgTJwiEDj/dk3rgCJQI89ky6HcYpACz7UtVmtjUCvfsb+gQSOQMUxC3XdlI9AOZj7Xdg4kECqmkoN/SKRQGYkaSjSgJFAOeyzjTPvkUCMPP7XuNqSQHtM0JEC4JNAWXcPeBgplEAVNKGZ1LqUQG8dFpQq2JRAvw63U6I4lkDIAbk8kMuWQIf7sGtTCpdAD6BrKroCmEBArSuOHOaYQAOtiBRqcJlAGbzXN1JOmkAo+r128oiaQA4qEO6W85pAH3SBPXIum0BrEOznr3SbQAbcsKuW45xApXZftpAnnUA6N1EE5v+dQCCmKRe6E55AA7KHc254n0B4V1okfxigQOxRchf0UqBASiSUbbqvoED4C07+X4ChQDsmBn0KX6JAvaqtwclwokBCFXXY332iQILV6/X23KJAuHTWx13vokBftVYSVHSjQIuyRHq/HKRAq5pIfntspEDpISbkLG+lQK7YQ5biq6VAb+4NGUaDpkAooVPAauqmQMA/rzvQVadA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="117">AACAQeQ48EGrqohBAACPQQAAz0HIeXhGVdXVQy0k1UKMrh9CojxgQuH6ZEIAAP5BAIBOQgAAiEEpJVRCZma4QXIcgEEAAKhBq6qSQauqCELS6eVEOyhVQlFeRkJERBBCAACgQQAA9EEAQJpBq6oiQkmSkkElSZpBDw+QQca4MEMzM/dBT+yxQSlcsEGrKuRBAEDeQQAAn0EzM+BBn029Q1VVrUGKHfVD0UWaQauqyUGamYtB4uGqQUmS1EFiJ4hBIYsAQqsqsEFDFoFBkqQUQmIngEEAQMBBq6qxQQAAp0Ecx4pBzcygQUREi0GamaFBMzOAQXkN2EEePhJDFDueQQAAkkEAANhBACAUQjMzkEGRBThCO7GAQQBAikElSZBBDMPtQZqZmUHFTrpCRESrQXkNqEE2lMpBt+0NQsdxMULsxJtBeQ3AQQAAo0EAANFBZmYAQiVJmUFTyghCxMPcQQAAGkIAAIhB7MSjQQAAj0EAAN9BHMfSQQ8P2EHNzMFBip2AQV10hEEUO8ZBR9gIQkmStEEpXNhBeHiZQUYXuEFVVY1BMzPQQbET2EFJkrNBJ/YAQk/smUEAAJJBeHiBQcTDvEGrqqBBkiSJQW7b60HNzIBB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="31">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="73786" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="107.019457687587" mzRangeStop="2843.02664228688">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.230" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="55">zfV0yz7BWkAN8zP/Dr9bQJcqJzQ1AFxAqaIni2wCXUBrlVbMlEFeQBVVq7a5gF5AvpdqtO7AXkBtlBQr/wBfQI1Gz16HwWBA1KbZ57CAYUDTrHRvuqBhQDD7oC3ZgGJAA7JycRuhYkDnNKHOkMBiQGXvmXKh4GJATLZ72MoAY0DCaiuuNmFkQFVsb/48gWRAZaH5qVjiZUA23WDGcwJmQHVlvdnYoWdAyTlg+W1AekBODg96NxB8QAW+TktDIHxA+21d2jEwfECCMTZUP0B8QFJ0BT4fYIdA2pFlbCNoh0CBkyRDFXCHQLvymk8ieIdA4j77ShZckECeeqG+FWCQQEKCdfUVZJBAy8Q8yR5okEBzYWrqFWyQQITdBW0VCJVAZe207h8MlUCU1bGXHxCVQKJ/skkiFJVAZw6p9Bi0mUAza0M1I7iZQGKaY0U1vJlAof1TbzLAmUDXb3XTG8SZQEc5Jyw4YJ5AF9BhvDNknkAKsqnsNWieQIWE8y8NhqFAyik0FiGIoUDIvpkfAIqhQJaRw7Ed3KNAbXXhUBXeo0Av0o1uIeCjQDzGqlEW4qNAqc0OpA02pkA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="55">COF5Q7V0YkOiHHRDyoTlRGmLwUM+RoRHS/d+Ra9dD0RwIxtE7CdTRVO0nUMZAMxDfqqNRAGkjkdfOqpFDBOjQyUm40TC02NDQ5pnRfI5c0NF2lJDvgJhQ/sIkkcr/U1GftyvRQCYNUS9f5NGdfyaRXjVIkXyfj1Ew+YbRm/ebEVkIAZFzq4sRGh9XEOgiVVFOoPYRE8km0S2gAREx1HWRF5SkESrolNE2emwQ+zkTEPTSVREnQf1QzuAz0MI7P9DmjmMQxHRU0MlqFpDLTSDQzxGSkNmDltDXthRQw==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="32">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="76845" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="105.018707668011" mzRangeStop="2907.83611831161">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.281" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="81">mpKlgTJBWkBS6H5eKnVeQPlSkhxse15AOfutVLeAXkASjU81vIZeQPDKOjl7iF5A71bEn+OKXkA/KkpLK41eQFzFZ8vmjl5AQLy4yZiRXkDVbcw/zZReQBcMeSZgmF5AMZOKiLidXkAt43SgwJ9eQFykeOI6ol5ANqMMCzSkXkCO6NQJ3KVeQPOnddmpqF5ANbbatMeyXkD3sHJ5zLReQM7kkZ/RvF5ABRbkGf7AXkD2euA9LMVeQMenHckbx15AK88RYm7JXkDngx2JNsteQOaVr5HU1V5AtzS+kjLlXkBXiZYiIgFfQOxYaP3JCV9A1F5Ly4q4X0DIZcg0mPRfQLGwhCGcgGFA5pfXVh+TYUCM4ro5iMBiQMaqtELPw2JANEIPoQLaYkB+maaN0eBiQLm49fzT02NAKIl/CWkgZECUaw5eS2dmQJ5RBuA6rmdAyrwra486aEANsBljM7BrQDqjHr2nuHNAU4LEOl0qdkBoRbIJAF12QEl6DZxYGYBAJGVi4suEgUCFA1TpOLqEQAcVcAFqhoVA1Jp0iFRkh0D24pcII5SHQNI3fzecjIlA0qFVCCYkikBo9WyrN1WKQDPZA6RJwpBAYaf+z8lSk0D3mafMNgiUQGDLqGVQmZRAMrj1KDzhlEAV0eGjo02YQAhLeJOULZpAL7KABiTimkDl2PBg/6GdQJfihFSlNp5A4zPb4sb0oEASUoUAVSyhQIxx1ZVxNKFA1+mermrVoUBDEdcYijiiQNI+mrEsSKJAMsgc+D3QokA0EFkJalmjQPiHTUAD7qNA86cYrs6OpEB2cCiX/LekQHsdBw3i26RACJPd2AP6pUDm6JpHNqqmQPAHsxest6ZA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="81">ZmYIQkREPELs0QRCz8yURrc9uUNGF9NCryGeQqsKlkLO+YBCKC9rQjMzP0KamS9CmpnIQU/ssUEeHsdBERHQQeLh6kFVVahB0qBcQpqZmUFVVaBBGLriRMTDS0LmnoBCzczoQWIn8EGrqqlBSZKcQdS5gUMAALNBLWS4QRrhE0IYrtVDAAAgQjufMkQlSalBXXTMQSHtJ0MAAMNBAADIQauqoUHIwg1CO7GgQQBA5kF7CcBBmpmpQY7jmEFSOCdCCtfkQQAAuUGIh7hBmpmbQc1MEELkOL5BVVWgQQAAoUFVFQxCAACcQQCA/UGrqsJBjuO6QR4et0EzM+BBAACvQURE00HNzKBBSZK6QZqZuEE7sbBBFDu2QRQ7nkGKHTBCAACZQVVVpUEUOw1CjuPCQQ3l8EEAQMpBT+yZQRddv0GMLvJB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="33">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="78424" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="112.001734355381" mzRangeStop="2842.07046279487">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.307" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="51">B+lpahwAXEAk8oqKRAJdQNpjXJGFQl1Ann6i35ZBXkBPhLM2qoBeQCSIHdPZwF5AWew2ChcBX0DA5I3CfMFgQEPg2s2ogGFAXhlpC8agYUCvGJAa1YBiQIj6bHEboWJA2FkUdojAYkCzZd74meBiQEO+t+xuIGNAb//QhTJhZEB7iqwQXeJlQIZme3Gh8HBAhjl14CwQfECwqnOcNiB8QHh8/dYUI3xAVQ6vICcwfEAum64eRUB8QFCv68QUYIdA8E/OyPBhh0AcsVAMG2iHQDZi+Q8LcIdAdNhB5Bx4h0BwXkV9D1yQQLtLUMQNYJBAO9llMQ5kkEBcCuk6CWiQQKwQFJMXCJVAA7po7hYMlUCwuoV+FRCVQJtqD3sNFJVAvwI/SRW0mUDBgpfYILiZQL0kx20gvJlANCHvhh/AmUAqs9FtFGCeQEbIHfojZJ5A7tCaTBJonkBx8iCnN2yeQOrY/DgQhqFAhlG1nQSIoUDoTKsEB4qhQCTNGsHmB6NAAoVvuRPeo0AVz6+VDOCjQCUPsxMkNKZA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="51">96itQyxQjERmjnhDl3aVQ3LnWEedKHZFlDcQRK9CGERuXUlFCH6HQ2JSOURspzxE/oloR8XJlUXOuYNDEduHRFS8PEUpNetD/vV5R05VKUbdC4xDiAZ+RQMLEkTd0n5GMYyWQ1X6cUVatRJFNbr+Q5v/9EVZ4BpFNEPdRNqHNUSC0FJFGnKsRPJ2gESQl75Dr8GWRCvsH0RrfTlEypWQQ7GLMURB8Q5EqOOLQ65nakOOlttDm5dqQwWxmkOHyotDsRxLQ5Gai0MUzl1D</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="34">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="81483" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="121.628276837173" mzRangeStop="2898.13952368487">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.358" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="89">dR8NsDVoXkAB/wzM23FeQMtCfN85fl5Aya7296aAXkDl8bcOpYZeQOVR1ABGiF5AlVe5zZyKXkB+jfQUe45eQH18QwLXkF5A6yvBrFmTXkD43+q/65deQKqDmwRimV5AhZeUCGOeXkBL3aJsnKFeQEm6MVWVpl5AHeNOF+auXkBRfUpP5LpeQLXh20flwF5AmcpCm+7GXkCAP+JjucheQB1oA+Gp115AFWi3YwjbXkARS1iNm99eQM48Ynlu615AwZFPQYH+XkAR712S9ABfQFtIszG7D19AXo5i75mUX0Cwk++6/YRgQArNwSeZgGFADfwVD1+CYUAEkEsM/6BhQGPoZ8fM0GFAn2uyq5jAYkBQw80XyMJiQIKVk7YDxGJAtHfit4zMYkCgFK2PhuBiQBU681cVYWRAW7J4b3CWZkCyeL/tXk9sQAM+a7oHBG5AAsmp+y+fcECGkIGf+T51QF/Z4XOZkXdAwcszU0ydekC1V/UIJDl8QFAyh2OjMX1AIwMVUA5ZfkBIazUS6Z9+QJUs1FwsyH5Aclf8HCBWgEDjPUyOw1iAQKHr8ar6ToNAYkheGiCNhUDyJjBHiw+GQExXKKKi/oZA2goQX4+KiEBrj/cVGG2LQN50JxvTv5FAfyfafX+AkkAKT1QHZn2TQCd1gS1er5NA/JTd87NXlEDa89t9C2yUQG+B8Ffml5RAssZGl2hZlUByW996+5aXQJ8xQqpumZhAa6tyMHNBmUArtd/HXdmZQNMI+KE7AppA3+Ww7xgEm0DakdafxUWbQEeBiRlGxptAWsoF3ps+nEAgfyux9MueQFd1MTbF8J5AhRbROrFOoUBLRCpac16hQE3R9L3suqFA5kaTA0+eokC2voX1dK+iQLQBXDVY2KNAOWpQM7bYo0DgnP5q3dOkQBMEVugFgqVAjt7agTSCpUAa/6VvR6SmQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="89">LWTwQVVVmEGaGQxC7HR/RqUyukMqAdBCAABMQlXVMEKrqiZCAAAiQkRE20EWsv9BVdUIQpqZsEFVVehBDw+4QbdtmEGybdJEzQxKQsVODEIAgBxCeQ2YQQCAmEEAgMhBJUnpQWYOOEMAQA5CfVYcQj0KkEFJUnpDpZTBQTOzGkI7sZBBV9D9Q1VVhUGamZhBmpmYQVAQ3UIAgDBCmpngQSGLHEK3bfBBAACSQQAAvEEAALBBVVWQQV10PUK3bdBBMzPAQXTRiEEAAJpB2zYoQtmJ7UGamalB2FDhQSVJ4kF7CZBBzcypQQAAuEEjzSJDDw+YQZqZkEGSJLFBzcy5QR4en0FmZo1BSZIfQiVJqUGxE5BBeQ2gQVVVxUEAAAtCT+yhQcdxnUFyHKhBRETTQQCAjEEULhhCAECIQXZioUGamaFBSZKiQUmSlEHx8NlBAACwQQAA0EGamaBBmpmQQV10rEE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="35">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="83063" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="107.021471915502" mzRangeStop="2692.07454722728">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.384" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="53">Tbe9y1/BWkDn9FPxFABcQG+nhU9EAl1AnlcWbqhCXUDhPP/S0EFeQPfk6c2ugF5ArkVVkunAXkBXP2RsCQFfQO1PDUU7gV9Ar5jM13rBYEB09hyUroBhQOb9I1DOoGFAaunwV8+AYkBFkmxxG6FiQOzoQtSLwGJADbzce5/gYkDg2qbbtgBjQCwt4kCAIGNA5s/WUjJhZED/T0NMZeJlQAc/tD+KAmZAvsCj/bihZ0CLfWiCrSFpQM3mWiA0EHxA7wMuCzggfECKoZwCEyN8QGVOpzorMHxAhM40FDFAfEA520/KGWCHQOxODrMkaIdAQXPLyRpwh0BlTcJSIHiHQCiMI1gPXJBAeOWGrBFgkEBCr10bEWSQQHd5s8kXaJBAR8ZOdhkIlUAvyciPFwyVQAgUB7MaEJVAhk4u9AYUlUAWFFh6GbSZQP8CX5IhuJlAZAIDVRi8mUBPuVugJMCZQP6UcCIqYJ5AsDtK4yhknkAZ0DwFB2ieQBfi63EXbJ5AbF08qwSGoUCfeezaCIqhQGx96roj3KNAfuBYoQveo0Bf3g0rJgilQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="53">QiuKQ3hKa0NdHEFEfy4URACQjkPo/WxHdGJxRXiLg0OiHJVDmjmbQ8k0OEVZU3dDKrH4Q0sybUTlUmFH8biCRcng7EN2YoRDqL+PRPnXNUVboe1DCASDQwXklUM/mHlHkIEjRgCBSkM2zYxF4hMRRCzsd0bcrIlF5JwHRfD+EUSB5PFFX285RVjV5ERV7U1Ebl1CRaz8oUSwJ5JEDVLCQ3hcn0QUOwxEw+Q6RNlxtkNVTSBER2bpQ8fWDUSEL1RDhhyAQx2UbEOtiYJDXkNVQ/EQU0M=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="36">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="86121" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="105.003609077055" mzRangeStop="2827.87907802555">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.435" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="89">AfuQITtAWkBYLc1hGQJbQDsBCbasPF5AsUTDwM5wXkAaYistoXReQIPQYDa5gF5AojJfc8SGXkAjFvu3pYxeQD2kDwKSjl5AC2WCGtuQXkBouR6fCZNeQGOVxrA4l15ARfmccKibXkAFVD5Fo6JeQD9xLTPtp15AMkbvcFmpXkA1sFFo261eQC6viY2+sF5AbSRCsAO0XkAouQ2C3MBeQET/zLJxxl5ADg5qr/fJXkCdSqLxOM1eQAUFncq20F5A3IiihPXRXkBJvMdAnuNeQMQlhjAXAV9Am6uKligWX0Cqk+I9djJfQIp1bwAvdV9A809Wd+WOX0AD64Tskk1gQKwsue0R32BAQOQN8LqAYUD0+uMJfKBhQE4u8spyxGFA/5zW04PAYkAxq9ZuB+FiQBPLOl7Y4mJARu73I70AY0ChoepSWktkQOD2EzDKfmRAXG0nAyx8ZkAVpQCzLIpoQD+4mNs0uHFAGAJiGu8PdECnKO1K4Fp4QB/KugbnQ3lAZVDeLAv0fUCSQhKPkvR9QCw0Og/9XoFAienVYaZugkD04i+W+ISCQGUVXdNLeoNAIiK4MEQBiUA4oLtH7r+JQF2R3tn5wolAcQlbVO4mjUCYmiPq2a6NQAU8MBsmvo1AXviCCx4skECeT+52TPuQQGeGeAZCP5JAlrHH0laakkBPWE4WkViTQGl6VD4HDJRAohNSLsCylEDjP16bAQCVQEmaBusPaZhA4LvQ89yEmEAx8B2SiXiaQG7HkCavyZtAyAeXdFhOnUBuXLharJ+dQEQcbmGbLqBAKQkRuhyaoEANxK+OXp+gQMASSm9QEqFAPtZ2F3V5oUCtxtul+VeiQH0iJuFhWKJAj9TF2LtbokA06+/teq6iQB2IiTs9cqNAd4qGfRA5pEAHCQ+9vFSkQNX0vDeLs6RABvF2CgL9pEDG1IMWwhemQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="89">F13PQQAA0EGSJLFBSZLMQTMz30GYYqZGaj7vQ8VOXEJVVWRCJUkqQiVJtkKrCqBCMQy4QUmS1EEkrodCAADbQdZYx0KrquFBjuOwQUHMEEVPrIBCAADQQQAAsEHK6ylCSZLDQVVVuEEi+FBDOY69QSVJ8UElSbJBmpnIQVVVLkJm5hhCPMz9QwAAyUEAgKxBMsMRRIgHEUPNzLhB85oXQhQ7HkK7AYZCX0LeQdhQsUGrqrFBFjJIQgBA2kFmZq1BqyoQQpIkx0EpXNhB0UXaQWZmFkIAQEVCO7ELQhiGjUJVVb1Bo4usQQAA0EEAAMhBSRIAQgmrAkMXXRtCVVUgQvFwBUJ5DcBBZKFCQgAAgEJJkgNCxMP8QQAA60FOQXRCJUkYQhQ7/kEAAOBBJUm5QWZmrUHkOPhBOY67Qasq2EEAALJBO7HwQTw8LUIAgGlCwzD5QQAAskFP7DhCMzPjQauq+0E=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="37">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="87702" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="102.752583845177" mzRangeStop="1946.02852671472">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.462" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="41">/KFuVSqwWUDSNv2KVwJdQMj7N0yhgF5AjSh+uZ2GXkDa0OEO6MBeQBjO1TIEAV9Aec2tIHzBYEAEyGyXroBhQDN+KwH1gGJAoW9tcRuhYkDzUpFKgsBiQIiZ2Gfaw2JAsx22F6DgYkCHCCssmQBjQHU0Mx2HIGNA4DcfIihhZEDWJJ7zVuJlQGn8QZOFAmZA96rdDSMQfEABePlyKCB8QLiJIo4fMHxACkh7Eh9AfECY3ccpEGCHQJXESOIQaIdA0P/nFQxwh0C6872rC3iHQEI8sHlG7I1APFMKPAZckEDTIcVlB2CQQHPies8GZJBAquPJQRFokEBBlRtoCAiVQKinTPUKDJVA9UQ7/QIQlUDVHkMADBSVQO1Se6YStJlATx111ii4mUDVjfAWGbyZQED5sxwbYJ5AxEWpRRhknkAlaxs2HWieQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="41">lXePQwf6DETjUxBHyn1fRN3jG0Uol5xDfuLOQzlT3UQCH5hDFSnoQwRMEUehBGdE52s7Rcp2sUPDkZZD1uyHRL668URddHJDOv0YR3ic4UWl+RJFLRz/Q+mhDUZD1z5FeOC2REwIA0RVhYNDXySRRQCAx0TuSYlEjLu8Qwuk4URbRWVEmqkERAAAaEM7+TVEgxT/Q9s2pEMkOMJD1g2aQwAAWEM=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="38">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="90760" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="105.003789763147" mzRangeStop="2994.36253146248">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.513" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="164">tzFrFz5AWkDi8grJ/blbQB2jdyaYQF5AIzxorLhZXkArx94ALlteQDycCLm/eF5A7OZaRNB8XkBsAtxunoBeQGJfEdyphl5AfB2Q1UuIXkDtr7n7ioxeQHEQptOIjl5AyLxgrICTXkAP027NBJheQCRAGIJOml5ATV8dWDedXkAj0ILYgZ9eQGhr0Qh8oV5ATEi4eAqjXkD/OEmWDaleQJmSYLhrq15Ae2T7KVu0XkCtzCzrhrheQJugX4PjwF5AxpFCjN/HXkC+ndKlW8xeQGdc+cNy0l5AEpos0SDWXkBc2CZ3ltdeQKL6lphW215AVyMK1gjlXkATJHVaSO1eQOojpI/sAF9AF6WQ3ekDX0DSTL6klxdfQL+b6w9RIF9A0gY/huhcX0Dhrlw9La5fQE+BwIMJ419AceG/hlIIYECoy1syUzZgQEeHvQwmTmBANgUmmsKAYEBoklnFyI1gQCkLR3mkd2FAgA1en5mAYUCMzdmdl6ZiQOTbQy98wGJAjyfvGxjDYkCZHsT03sNiQMY7pbMMy2JAFs2uDRDQYkDoBCwfpuBiQHsnOoDHYmZA9PjTRJEjaED0PLqIAvFrQGwCQgxHJW5AZPRH5h1cb0CiXaaC68pwQFd4GHtfJXFAh16iwSQzcUCJ7xkisjZxQFxg5kLOQXFAkhod1OawcUDBnYfqlypyQKryxaS5LXNACFjXvTRRc0A1WtEfq7xzQKbLCt8P9nRACP8yi3gHdUDb+NwXchN1QETAI7NF0HZAE8rirxI8eECoDRmHP3l5QBw9TYCyuXlACSYPJWg/ekDZuhePlpR7QLARzA4n2HxAzfx1yQTrfEBXQ2KYgFV9QE6gB5iS831AtqXuU+L/fUBiF5AvHBN+QPaWjZXOOn9A74k/waBegUDxfF1rm2+BQIrOpPQPd4JAO5yxe3Jgg0AwY6pOrUiEQDBFOlYHoIZAsRozz7Ich0Dthxgf9QiIQJr6wP0BxIhA429mThmXiUBGd+RAxueLQNq4ygTw7YtA8TqaFB5pjkBasOx6gP6PQGhhI0FIGJFA+tb5elVOkUALNlUoxyaSQMjHu9Ez0JJAWj0wYjD8kkDj/Amfr4OTQPwLyea7ppNAJ/RQTVw6lEBf6RoXjMaUQDjDGw9W5ZRAA3pJHFNrlUCUBNd/iKCVQJ4XHEBes5VAbmIyp67qlUDfQZjElSGWQJkQgZpCP5ZAqx5DrIkwl0CSaxRNgpKXQKOJfjf+nJdAKidTaoG4l0DfTwswSfCXQE/Iczj5gJhAJ0/MW9ilmEAZmekX5umYQEUYTOPfpJtAeiUG6VPqnUDxsTC62QCeQLZcqE35655ACCVq5+/7n0AXh8dm3QSgQH8TtCspMqBAlo6PD+lcoECj2X2ySpSgQMGh+ImOpaBAgZhPqOIfoUDkQAnix06hQGj+Np8tVqFAlQ7pXLV9oUDRU+OIgpqhQEDqChPAoqFAEXIRm5+uoUC/42dmlbGhQBMNn+dB0KFAuw5SiL40okDOkWy1lb2iQJ5vgDjc8KJAb/lsX7R7o0D6dh3JkN+jQCiQRp5T5KNA/tORT0wOpEDWerdnyB+kQLt/O6J1PqRAVVz7QcNzpEDaSu67raWkQNusU5I46KRACtfp7YghpUAi7BSj/SSlQON0IWo3lqVASBF4PbWZpUDcLEZ/3LmlQBWlfVqCVqZA+yvT+pHPpkBaCjB3thqnQPfFUneCIKdA95kmlNQyp0A4TrmduWSnQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="164">0UUiQgCAhEEAAKBBmpmTQZqZiUHpooFBAABEQjwLVEa+6n5DFTnEQkmSHEIAICtCvQYQQgDAgkJJknJBPQqoQVVViEEAAINBOY5lQaOLZEGO44hBAADYQc3MXEGUC55EAEDoQUN58EGamYBBQnvkQcVOqUFVFQRCVVVlQZqZgUFaF0tDVVXAQQAAZEE5jjNCHMeaQaOLvkExDIBBIQv4QSELmEEpJShCxMNlQauqWkHx8MlBqVsRQwAA2kGDUfZDAABgQRzHgkEAgIxB0UWaQU/soEJmZoBBYhhwQSVJckEAAHBBaSmCQs3MkUFDeaBBAABpQRddYEEAAGBBAACBQVVVYUGH8mBBx3GVQa+hYkHNzFxBMQywQXC+WkIzM2FBAADoQS1kyEEAAKBB5DiYQcTDnEGH8mBB0UWiQW7bcEElSWJBWUgGQkmSYkE7sZBBAABgQUmS20GSJPlBjuPSQezEk0EAAIhBAECeQQAAjEHHcWBBjC5wQYiHeUEzM6tBNpQ6QpwPQkK66IpBiIdpQU/soUEiInBBJUmQQeQ4YEGe2GNB7MSLQTEMuEEAAGBBlvssQgAAdEFVVRFCHh5wQQAAoUGMLvhBAABhQTMzd0Fu26tBxU65QWZmYEG66KpB7MSjQQCArEF00YBBAACsQS+6wEEndlxBeQ2oQWInYEFVVXFB4mESQtmJd0F7CZhB5DhgQcdxYEGrqsFB6aLJQQAApUEeHmBBWchgQbftLEJmZmBBiYhmQR6eCkIAAGBBMzOwQXh4sUGG4TZCMzPYQc3MgEElSXBBq6pwQaOL3EFimABCSZL4QRzHYUEAALBBAABoQZqZkEEzM5NBZCHKQfHwYkEWMgBCHMeCQc3MXEE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="39">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="92340" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="107.020686068551" mzRangeStop="2843.08839735685">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.539" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="60">T/qo61LBWkAfjLNIVABbQInE7FGfgVtAy204dP/BW0BsjKiXIABcQNYPnsttAl1AfH0pirZCXUCNbYgBzkFeQMvPZBCwgF5A2XGOIvDAXkBF/6HSBAFfQKqNY1N3wWBA2YsuCd9fYUCtZmb6sYBhQHt47yDMoGFAMcHYVeaAYkDIgWxxG6FiQHkcQDGMwGJA5kBeSaLgYkBbOWK2uwBjQDxfsxOuIGNA8QdsyC5hZECVtP6LWYFkQOslaJdn4mVAiEpjqYECZkBUsYYEsKFnQJ1cb6ScIWlAB+Iq1qTwcECUlPULMRB8QGNztGg0IHxA+2/2mw8jfEAZkhlTMzB8QGpd8gQjQHxAxD5XHxpgh0CpCDBvH2iHQPTBB5QacIdAyjNDqxd4h0CLwuDHD1yQQP/a6XMSXZBAVCd0YxJgkEDYgxIAFGSQQMkOzNsYaJBAwSao6B9skEBv9BjWGgiVQG/B0S4cDJVAmW1LxBwQlUDYz3RBKhSVQPP5kYEatJlAd60BciG4mUAxv+BHELyZQAcZitkRwJlAmHg/FxlgnkDvywQ1GWSeQAVQpxMlaJ5A+Y1ZsReGoUA4xH4gIYqhQGEnvDoh3KNAFsF6cCreo0BvkH5DLeKjQHgZa0ItNqZA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="60">Itq/Q2TlYEOc84JDhC97Qy97o0N0QZJEFADDQwCAdUMC3ntHQY2eRcAE0ENmTvFDcY97Q8qDUkVmkJBDguETRETTbkSZkIRHWb+ERZfG9EO9T2JDIPW8RNqreEOq/FNFABJIQ+xRcEMAeUpDEphwQyF1iUcKfD5GPkllQ0yak0VMFeNDCwWBRohGj0Woef9E3aE6RH/UD0YF6YFDBZY2RUlL6EQ7gM9DIQCMQ+RbPkUx8rFEL+uMROE+wEMBl7JEG8JERABQRUQAAGRDfIryQ34M5UNDBrNDwpeZQ6sKj0OocGZD6Id/QwB4b0MhgIJD</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="40">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="95398" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="104.001669364199" mzRangeStop="2779.41535910471">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.590" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="94">ESnSWRsAWkAimumugkpdQMb6zxMBSF5A8PHIJA9fXkDHQuoksW1eQJBXKM34c15ASQc+3PF5XkDFlF45IXxeQFG9NHqxgF5A5Nfd9bqGXkAdhgoCtoheQNvQ3u6eil5AyUt/RvqMXkB3wSjY15BeQHoLpFdGlV5Aprsf7w6aXkA9eCMz4ZxeQMfhHqrZnl5AX6njJFmgXkBs5azNlqReQEebYaB5ql5AMNFJPVitXkC1qpOTjrNeQLpThQ+iuV5AG5tXVe26XkDRTCI82sBeQEqu/AgIxV5Af8OYIenGXkCgF1CZocteQKMPC8970F5A0mJ76OHmXkA7oRuoJ/VeQAKeu9QnAV9AcaDqy1ANX0DTYt/YRSFfQF4+PZQuJl9AAzsY/nQmYUDPBEFxp2JhQOCBy7GdgGFAthHYS+eBYUASAuzg84NhQJwpl8lKJ2JAT3sOuoqlYkC/AjtngcBiQGnirDZ992VAb2IxZojSZkAlqho2LIBoQEfb76TP7m1Ao+JYKgvzbUBhbi4/MDVuQHmMJRw4x3BAk82gaiBZcUCQmg+ctnFyQFV579HbnXJAOGn1JZnRckAtVrctH5FzQJ3tMN/hiHdAwwlbTu53eUDTsO8PKQl/QLMO4wQ7ZIJAHBChKR6Yg0D2RlIFzQ+EQHgxa5p7LIVA8dqtlxCZhUBERpPY+x+HQJg0rfDwqYhA1jofHnBuiUDtGoV8lnCJQHf17ft/AIpAUsl02Or4jECEhqHdThePQJW7kAHzUI9Amp613xoRkEBgXG3OioqTQJK7Hw6IjZNAMYGrrf9ClECmJpWFcLqVQGd9SYP/AJZAXLSKBPLYlkBPID6WHQGXQBPDrO8moJhAHQvoS9bNnUD66nKUMTKeQAMQvWBn355ACVCjkdksn0CgPOGH08GgQOKNilxr/6FArFNp2LCwokD7cgT5RMqjQPbNxtN20qRAbpg4r+nxpEAj9yJwPUWlQGnPFYF9caVApdXyqdS2pUA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="94">eQqWQnTRBUJVVdBBXXSUQQAAl0GxE6BBAIAjQgAA4UEqIItGkb2wQ1UVokLZCYxCbpuHQtFFakJ4eCVCVVWQQQAA4EEvuvBBYqcIQgAA8EEAAMFBchwDQgAAokEUO55BSZLIQbSzq0TNzCxCSRJQQququUFTSrhBdmLpQS+6sEHydGxDAACRQQAAKEINUhxCuuiiQbETA0LEJiJEOY49QgAAoEEzM/dBkiSQQXDfH0Q5jrVBAACpQTkOGEIAEIRDAIhCQoodE0J4eNFBDeXwQYVrGkIAwARCdNGwQSVJqUEAgJhBVVXIQdhQoUEzM/hBDMPVQcTDrEFmZhVCNpQaQobhLkIAANBBt22gQVVV+EFJkrJBFDvWQQAAu0FERKtBo4vUQemi2UFGF5hBAACoQQAAuEGrqqBBq6qQQYiH0EFVVeBBmpmzQQ8PoEHRRZJBzcy5QTEMmEGrqphBT+yxQUREw0FRXrZBdNEYQgAAt0HsxMtBDw+QQQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="41">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="96978" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="108.011099956043" mzRangeStop="2243.04256475992">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.616" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="47">LAyX3LUAW0CnrZFhGgBcQPYejMtPAl1AySwA6NlCXUAgJDQtjUFeQPexMlepgF5AdlhSQqeGXkAzHieD1cBeQOWOwGnxAF9APbLwjYrBYECFHnpnqIBhQBG42KfYgGJAHe1scRuhYkAuz9dnh8BiQCBMO2zSw2JABgaLkZrgYkBx4zg+rgBjQMrVll80YWRAugJislDiZUDKqG2BbgJmQOyhABwVSHVAKv7w8ykQfEAGQrZA+BJ8QCpnk3cxIHxAqJYTQCwwfEDBurvaJEB8QKLCr9QRYIdAYnqXdBpoh0D+B2uODHCHQLW7sbIbeIdAeGmLWw5ckEAMmebkD2CQQH1nXKEKZJBACdUrYRJokEDlRxcVBmyQQHBfnJQUCJVAq6ME3SMMlUBEV+4sGxCVQACV9H8SGJVAtFNNTA+0mUAEjKNdLLiZQPuNbr8qvJlAnXDEjB/AmUBIoMH8JmCeQKKMF0okZJ5AdUldXi5onkCdVwzLFYahQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="47">tKKQQ/t5WkOUjCFEIF/FQ17zgkOZKwlHwQE2RNCEMkXFTlZDAMBcQ02AskT8mM5Dgl0TRF6/Bkcf9DtEUpMVRQ/esEPlZVZE8kz2RKmNkUMCgYBD4TYUR+VdRURXRbZFbt8aRbPe4EM/WBlGzr4QRdIFjESKPWRDRy6LRTTe1UTzqmJEWG8WRK+3fkP8kNdEh8JPRABIEEQHmmJD3ZhDRHIs5UPY+slDH7xdQ9MBqUPBGYxDC96aQ9giZkM=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="42">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="100036" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="105.28289568638" mzRangeStop="2986.38521370756">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.667" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="117">hUuC9hpSWkDmGI65jFJdQLfttHo0U15Ace8vfmpiXkBO4O2QnHleQO5NGlZHfF5Apn++sqqAXkA1XKV3qoZeQNHMxdnMiF5A5ZTY3TmMXkA62CuHR45eQHSgdqv6j15Aw+eyCA2SXkCOiId4S5ReQJBDFcp5l15AQBFbD0GdXkA7Rz2zT6FeQI6DTrZYo15AoNS3rkCqXkD1jb6JC65eQDwH6tV7tl5AK5Rq5NnAXkBdUHnCtMZeQByTrsItzF5Arf8Ih4bRXkDil0CMRNNeQHvFrhLV515AgHmXOB0BX0DIjvndirNfQJFRS7mjDmFAytPw0NExYUAC8rPcd4BhQI3egQqXgWFAAFoBtM6CYUA59jO+66xhQNlmwWK2c2JAj02L2H/AYkAO8wTnnsJiQC5bbgpr4GJAh7dsGaqqY0CGuh5ATGFkQKTcjM/H8mRAXf8XdyVnakDMAXmn+7VrQK6YAJVuOm5AyHSegIutbkDdBArFBi1vQCUgg3uT83ZAgP/oCejrfECb5V27Xzh9QPTc5LXiaX1AOjkRfkL7fUAXfPDrFlh+QI3hTsDlLYBA4jiWFEYMgUB+2AvRv5aBQGhLfDda/YFAQddkpqNLgkBe4IBvWeKCQM3GxyoTAYNAz81vYFk9g0BV+xi1lJqDQLp+ADAjxYNAoiPBu11ohUA1QlLuhH2FQJcPr+RYToZA29dtbsOahkCWvGCWQhqIQCiLjuBvj4pAycTgaz9Ki0BHdT8ZBG6MQLU2FYWhpY1AyvPgH7xwkEBlJpWCD0qRQL2pI8/dSpJADUiVQriDkkD9agywlQSTQJ/ycbpcEJNAI5Em0RRNk0AtXNmwmnaTQOEHI3BRo5NAq3AzfhUnlEAWE14+zeqUQPX2PT2HK5VAU3T7dmk0lUBlySAhjQaXQP+ZV8FgDZdAZIDmUlPRl0BCc/AsGH6ZQOHPfIp+XJpAFEIPXwTbmkCn3r8TLUubQNzsRZ6PqZtA31fV3Re5nEDSAulTxb6cQB+yp90DK55AiM8VhRq/nkCuITJeHSefQHeCPa9/HKBAzrtIWydLoECFsc2LAsegQI6/yUeAS6FA27e/oOh9okC8PcvEYIuiQJ3WJPVqP6NAZbiQbItao0Cu4xXQZ6SjQAHWEpWiBKRAloKnLYBSpEAlWomWImGkQItPnjEQsKRAoFd3zbABpUCiDgtaF0qlQBHbUYds4KVA6PaEarXNpkBOH7M5KQOnQOAnuzrFVKdA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="117">oT0WQgCAqUGxE5hBXXScQeogAEJm5iBC+lWBRkRItEOr6upC8AGEQpqZKULRRSdCLzoSQgBA4kEAAMlBAACoQUN5mEEPD8hBERHYQWZmjkEAgJhB8xaCRHh4HUIAAKdBzcywQZqZkUHFTqlBpVivQ+Q4wEGO4xhCDw+wQWmAkkOHcoJCsROIQTOzBkIAAMJB9oe+Q1VVkUFdtKVCJUmQQZDGgkLHcZVBERGoQTMzs0HEw6xBAAAJQjOzAkKSJOlBJUngQZqZqEFERLNBREQIQuzEk0EPD5BB7ukGQpIkz0EAAIlBAACjQQCAAUJmZpBBq6rRQXkNiEHRRZJBkqQcQlVVjUEAQLJBmhk8QiVJ0EF4eJlBAEDAQUREs0FVVZBBVVWNQbKQ3EFmZqVBACBNQlVV0UE7sZBB5DjeQbdtkEEAgAFCzcyZQZIksUGU16NBAAC4QQAA00FmZgpCQ3mIQQAA+UEAAJtB5DiQQTEM2EEAAKFBx3GFQQAA20EAAA1CAADoQTaUmkFVVchBAACsQc3MoUFJkrRBchwDQpqZoEHsxOtBdNEEQgAA40HD9elBXXSEQauq+EE7sZhBERGgQXkNiEFJkuJBn8YmQjMzkEGrqpBB</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="43">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="101617" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="116.035489266725" mzRangeStop="2843.0280724898">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.693" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="44">XfzFdEUCXUA5KKJbnoBeQIoi1Oikhl5AmM7AmM/AXkBSJa23Y8FgQPL0ZB6ngGFAhy5SIsGgYUBWwtFjzIBiQMN0bXEboWJA5yixTYLAYkCY31cXy8NiQNIC/9WU4GJAyQh+hKIAY0BzksrbLGFkQMnlUvFM4mVAu8SxxKqhZ0DpkOT3nSFpQFj45BQiEHxAp9i8ri8gfEAFYEvBHTB8QH/nQGogQHxAEayUEwxgh0BvHeh5EGiHQKNHA2sRcIdA2zt9CxF4h0BpralxBlyQQElS390FYJBAUeNjxwpkkEDWNTbAAWiQQASZQGcICJVAaR2mFgoMlUDvA3F9DBCVQCMzrFjzE5VAOhmq+QO0mUANJru/FbiZQGLuJ8sMvJlAV/bUCwzAmUAYSJJgHWCeQEsoyY8kZJ5ARuzbfwVonkBbXAEpEIahQAu5ePAFiqFAgo4lQhHeo0A0c4RfDjamQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="44">tKydRPQlNEe/MIBEGAwvRRF1tkNGljlFpEFSQ9ZUf0NAWEdEC1wvR43YfERl0j9FPkAYRLBPa0SspiRFCGSAQwYckkONsENHAcb4RauMXUVKRRJEcrA9RgAMYUUXItFESAOoQ0JqxEXh1xNFHWDWRMf65EOW9hFFMsuDROm6NkTgkoVD56iERAMnK0TKfQVEEQGLQwCABkS3vbNDRQ6RQ1UFg0NwfntD4zJpQ7JwSUM=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="44">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="104675" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="102.93771402202" mzRangeStop="2981.54557857434">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.744" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="271">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</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="271">AABAQQAAQkHzGlBB7MSLQQAAAEJiJ0BBHh5gQR2SnEIAAGBBAABJQZqZCUKrqlJBkZA4Rp3TZkPbNidCOyhVQmKYcELDMNFBQ3mgQVXVAEIAAHFBq6pAQVVVQUFDeahBSZJAQQ8PmEEzM0NB5DhgQWgXPkRVVclBdNGQQWIncEEAAEJBZmZwQauqTkKMLkBBAAByQemiQUEAAI9BnthDQWIy8UIAAEJBAABAQTEMgEFmZoZBL7o+QauqUkGrqkpBjuOYQQAAQEGMLlBBq6qAQc3MQEEAAFBBeQ2oQauqSkGY0PlBAABCQQAgI0NJkkBBAABAQWIYUEEXXc1DmpmAQXZicUGrquhBt22YQQCAmEGrqlJBJclJQjuxoEFJkgNCjuNKQauqQEFRXpZBx3FAQcjCBUIAQJxBHMdRQSVJfkEAAGlBiYj+QQ8PQUE5jlVBSZJAQXIcyEF4eJlBHh5wQcdxQEEAgENCAIBEQQCAQEF5DbhBIiJAQQAAQEFu2+tBHh5AQSIiQEGxE6hBMzNzQRzHYUHNzFBBAABGQQAAnEGe2ENBeHiJQTMzR0F2YlFB8xpAQUmS00GSJGVBAACaQauqUEHEw2VBVRUIQnZiQUEAAFJBXXSUQW7bYEFiJ1BBHMdRQZ7YY0EAAJJBHh5AQTMzQUFZyGBBIiJAQQAAQEGH8kBBYhhgQQCAUEEiIkBBjuNaQQAggkIiImBBDw/AQWZmcEEzM1FBVVWwQR8FEEKrqkBBDw9BQemiQUFDeYBBJUlCQQAAZEF5DdBBVVVjQZqZiUGV0h1CT+zJQWZmUEEAAEBBq6pCQWZmUEEiIkBBIiJAQZIkiEFJkkBBDw9hQQAAQkFmZlBBVVWaQZIkR0ElSVJBt22gQZ7YU0Evuj5Bq6pwQYwuQEFyHGdB8xpAQQAAQkF2YmFBAACaQQCAREFVVUVBNpTSQQAAiUHx8EJBAABiQR4eQEGji1RBmpmoQZIkRUFJkkBBAABWQQCAQEGamVFBq6qQQQAAUkEpXIhBdmJRQTMzQUEAgFRB6aJRQemiUUGH8lBBJ3ZMQauqQEEeHlBBzcxgQcdxQEFsKGVBOY5FQW5bCUIlSYFBbttQQTMzU0HNzEBBAABwQTmOdUEAgEBB2YlHQUmSQEEAgEBBHh5gQQCAQEE8PCRCAIBEQQAAQEHzGkBBYidgQc3MkUG66FhBIiJAQSXJSUKO49pBYidAQYfyQEFmZlBBYhhQQSVJUEEAAExBERHoQZ7YQ0HNzFBBIiJAQYiHeUEAAK1BL7o+QQAAykFERJNBL7o+QezEk0EAAEBBx3FAQfHwYkFJkkBBt22wQRgGNEJVVY1BkiRXQVVVQUEAAEBBAABSQYwuUEEiIkBBAABQQXZiQUEzM2dBU8oUQp7YQ0EAAJxBVVVzQR4eQEEAAEBBAACYQWInQEG66GhBAIBgQQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="45">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="106255" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="108.008518695421" mzRangeStop="2544.0517741864">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.771" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="50">Go//kYsAW0AcjFtfKMJbQCjHwWhKAl1AO7Hznd5BXkDx15oGqoBeQN5lug3UwF5A41eOMfcAX0B24frRhsFgQAmtV/qpgGFA8i5Xsr2AYkDgKnpxG6FiQHhclPOIwGJA4fcvXZ/gYkD1Zf4+qABjQMISsYkyYWRAvirHQ2ihZEDNJu7qXuJlQD97owFrAmZAqo0QLb2hZ0CzfEN5nPBwQPzseGArEHxAQA1/2DEgfEAVC1+EFiN8QAuvsqEoMHxADL3aYytAfEDQ06piF2CHQAgaYKwEYodAmMd38Bxoh0B6JObvInCHQDHGbnwHeIdAdm0RiRBckEC09Z7/EGCQQATeYXUKZJBA7CnM1QRokEALjxIwEwiVQBKIFo4WDJVAZhdFGAwQlUAA5W1nBBSVQFFvLHwZtJlAbhLfAyC4mUCC3ovyFryZQISBiTYVwJlAxEowoBlgnkDI5HydHGSeQLwdlvMXaJ5A0UcXXBqGoUAt9r0rDYihQB7gogMHiqFAX/43bireo0DBaiWCGuCjQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="50">5ClrQycWZEMT7cNEegOIQwEXU0eJ8nJFvXQyRF5zxkMAkBdFeqAhRBYgr0QrFlhHpoODRXB+jUNAP4ZEyMJUQ3YrUkUalIVDymu6Q0GCeEO2mFdH3mMIRlZyaUPpO5JFMqkERMtRXkYGB5tDLSRVRej450S7QfxDyAbSReSEHEUWqcZEABAVRLQOK0X0aqNEqBVzRABknUNV9ZxEAPAURHABEUQInntDpIgLRCUo7UPXVetDLbSfQwARmEMREW1DJclQQ4wudkM=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="46">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="109313" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="121.155219418438" mzRangeStop="2982.47888773547">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.822" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="75">XXltHe9JXkCS2mTYWF1eQCnoBCAUfl5AH6YOLqqAXkDZ+8PBr4ZeQBOTlHHYiF5ADf0MrR6LXkC0GcZEo41eQIjgllyzkF5AGSDAw/SSXkAUabGojJVeQNZtYQEtl15AWjkWvnmcXkBWYVuEDqVeQNU01m7Cp15A7bdLZaisXkCgL49JTLReQNDKeh3Vtl5AQZRuPk27XkA7gJxB4sBeQABX8ikax15Aa+4gdFPIXkBI1ciTpQBfQPabLBz5El9AHd1FW6EpX0A5gexGvStfQHjKZaxuMl9A27pKk3pAX0D89/N/ipdfQDZgShsfHWBACh2HR/0uYECqO8RlooBhQDgnoPaghWFAUgH34oygYUB3J/szhcBiQN1qiJu2wmJAcjtK45zgYkAJQ+ogPZ9kQFHoTYiEG2hA5dq0hc/LcUCi9KODxZ5zQJ+UPUrFpnRA5OYuvV4IeEAkKOq7CpV5QGkid9dYSXtAvCgMSItxhEAMPMcYV6WEQB+UzwPnf4VAxaLESAOzhUC6CyeQKVWHQHnNHAmHh4dAy+wgOdvRh0Ajac2AWZ2IQDvCGxdWeopAk5YlX1SSjUCNuWeOqbmQQK4aW4PZ55BAa9wW3cGok0B3uCjA7P+TQEV4lYnkbJRAYUrVq2oVlUBhP5M/ZymXQKNKbyYlNpdAIlB9ixzRmEBFbL32NUmfQGLHxHmoOqBA5LBXmaZUoUBUHOvFPa2iQDvBkw+pfKNAHbRNXQ3Fo0C/d20W+U6kQLPt51yJsKRA5q+vv90YpkAVStv/V/ymQJL0xTD1TKdA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="75">eHipQZ5YCEJ4eMFBx0ikRsRTvkMpZe5CXbShQmSwyEJERMZCFC5gQsP16UGO4+hBVdUMQlXVYUIzM7BBCtfkQauq0UEPD7hBAAC4QRMJ/0SjC1RCAADMQY4cTUM7sbhBAAC8QQAArEEAABxCT+wgQkIIjUJ2YvFBhWuYQvzSrkMzM7BBjuNoQsgxQkQcx6pBaI8pQwAAvUEAAMBBVVXFQQAA+EEpXOhBVVXIQQCALELNDCRCjuPaQQ3lqEGhPQpCKO+vQgAgJkIAALFBspDcQcdx/UE7sQBCryESQnTRBUKFaxJCVVW9QQCA5EFqBBhCJ3b0QQAA1EHNzMlBVVXCQXIc2EE5jt1BRETDQQBAzEEAgKxBZuYIQhgGKEIREbhBAIARQjMz0EFP7BhC</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="47">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="110893" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="107.028240404939" mzRangeStop="2543.08006536122">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.848" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="57">2ujXsM7BWkCpXpT0tIFbQINpUApUAFxA6yE/eGMCXUDQDvoWrkJdQPl+GPqWQV5ATgy0q7SAXkDvChCJ8sBeQNbl0wMgAV9AUzPsyIvBYEAYKaNPt4BhQFoMy/O6oGFA2Sfgnu+AYkDKQGxxG6FiQIXdVRKQwGJAcddj0qjgYkBLux8VtQBjQKwQNFOmIGNAS4ydeEZhZECqQpp4Y4FkQHrqgvxm4mVAIxSrCnoCZkA35V2NraFnQDsPgXy18HBAQ6vrHGlAekBgtYxrNxB8QBRk70A/IHxAAEHxzjAwfEA6jm3HOUB8QEUmHOtjUHxAl25Tax9gh0CNnhx/I2iHQG3dxdkmcIdAiOuK+R94h0CcACaPFlyQQNSSVzYWYJBA1cU2IhtkkECuFPzqE2iQQBzRT9ESbJBA/mN/WhcIlUDBEdM2HwyVQIhjk4YkEJVAP5jMFQ0UlUAZ33h3PxiVQJWAa0YqtJlAkKEf+Ry4mUAg9KIjKLyZQI9tdoUywJlAfDze1jJgnkA3KGFRHWSeQO772Y0uaJ5A7NrnzxlsnkA7ew0MGoahQICkKq8RiKFApKzQVxGKoUAXGcgXJNyjQPq3U/4o3qNA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="57">i89oQzMzS0PkOK9DF43JRJI9vUO5satDxM17R/Q+b0XmxkdEAU38Q6zWPUUAQW1DR88JRGCBV0S0iHdHHsqeRZ5370MA5HhDrrq9RGYmcEMxO2pFM7MJRKhYakOCdahDwlJbQ9CKgUecBSlGreOeRfIPE0RrKlBDITJrRpGVikUp8xxF0HHsQ3ZQ9UXVAVFFzXfzRADg5UNZiHtDVCQ+RcILqERRTltEAOGqQxQ7VUMQusNEx3F7RA/XZkQAYG1DLoBHRACoDkQWJrdDPitqQ66e3UNofYBDM8ebQ0KKhUOPIl1D</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="48">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="113952" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="105.012243149312" mzRangeStop="2884.54925834291">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.899" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="83">X3l9l8hAWkB7OSUZqYBaQKT4rq2SGVtAKjjvyJUVXkDd8gxUnF9eQJc4c12xgF5A6VL7DsqGXkDSpg9EfoheQBlz3IdPi15AWLu5i3eQXkBdWbftPpNeQAJQ0GeDlF5A2+r4zWiWXkAPVPuFVJteQBZoiknwnF5AfGCFT1KjXkAD/6CS9qReQGXcFPayql5AxNMu+2uuXkDa3P9pO7VeQEMaNeshuF5AX7UBfu7AXkBG9NQzdcReQO1lJgkcx15ABicdWqrIXkBmN0xlLcpeQAFug62zzF5ALkiH/VbbXkDklU2X5d9eQESWQBQr6F5AoYoMQAYBX0AxV9W+GwRfQHu2vI0RF19AiudIMDVhX0Ds+kNpH5lfQOYWVwaYnGBAE6Z8l7iAYUCqfd9CF4ZhQB6pjQ2roGFAEizgDyNzYkD5038MkMBiQB71oNvNw2JAsxQLbofgYkCzjtlE+jJjQIfUtm8ATWRAJ2Sw4gxhZECtXJHqu6ZkQPLfMoZGKnFAu5F8tOzrcUA/T89/Fyd7QIVkf2j8kIBAZ6u+w9/qgEDtWiQChMKBQOwPiOcki4JAFKy8L5HKg0A69VDxnAaEQIPcxXNXmYRAn3Y+u+uZhECtHZvfq/qFQL3J0lnpTYZAXQ520mqtiED5V4hTSGeJQIInOh3sspBAt1MfUsMakkBlBgB0gHKSQPU/9t8rKZNAFl8U77qjlUACeKoNL0iWQIFsb4HKeJZA637Cde5Cl0CBd4aZHHaXQAeEGDbp5JxAo/WfkTm5n0DupveDvgKgQDHrsynzEqBAONGQtnYboEB5ZfXcA16hQIrGWtzbdqFAvPTsZXixoUCumaGeWZejQAZIoc8qzKNAg2OJ2YuPpUC1t2M4GYmmQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="83">vgQUQmivOkIAAPNBAECgQQAA5kE36ZZGBHfaQ5UyAUPshIxC93SvQrieOUIAgCpCmpnIQXTRdEIzM7BBJUmoQZTXaELYULFBAIAYQgAAsUFmZgRCjqAcRQAAxkL0MahCzcyxQQAAqEFVVbFBlNf7Qc3MoUGSJLBBAAB0QzMz+0EAAKlBJUmwQauqyUF24kVCB+yeQwAAyEFmZl5CjK5fQgeHS0SSJAhCRET7QdhQ8UGuxxlCAACxQV10AELkOOhBZmY+QgAA4kFERLNBt23IQY2w6UFmZqZBAIApQrromkF2YrlBZmYAQi+67kElSdhB7MQDQgCAAEIJy/JBoSBiQoiH0EEt5AhCAADMQTw8rUEREaBBh3IIQiVJqEEAgMRBAECeQQBAhUIAgJxB/JFgQ83M5EEcx5pBAAChQVFe/kEAABxCyEJJQgAAyEE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="49">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="115532" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="108.007611705599" mzRangeStop="1946.03689456771">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.925" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="40">WKfOtXwAW0ADb9L3WAJdQBMORqevgF5AUn7yv6+GXkDgchc0zcBeQOYF7onvAF9AxBOwcIjBYED8VQe+soBhQA6DtNb8oGFA+DFshcuAYkChvGxxG6FiQF/MHV+KwGJAw+EKluXDYkB00tOqouBiQCP/SfGmAGNAtUeuLT5hZEC26DlybeJlQCxWvwgsEHxAWNRVEjsgfECH5JXENjB8QLuKy/ovQHxA+nd3thdgh0Do6dXvIWiHQDwKLG8McIdAeSZ5oSR4h0A27FedFh6JQC6KkcgNXJBA04a7iBhgkECZ29tWB2SQQDBDY60IaJBAUb8C0Q4IlUAJaUXIGAyVQEfFbncIEJVAJOl0fRYUlUBci62hHbSZQOEeqXAQuJlA/lBOEiC8mUD2eu+2JWCeQBbTdOcYZJ5A24awxyVonkA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="40">vCdyQwkUgEQdYxVHJqJWRHHnI0VgIVtDXnEJRBx3/ET4fmpDAFDqQ9e6MkRqUx1H7MRcRKLsN0UJAZ1DMycvRILsEUWBgyZHAJDiRW83LkVwYPdDCSgVRulKGkWkbeREAACuQ20wjENQhJ9F70PdRGskTkQqIddDfHYJRaGVPEQgeEVE8MFZQ/2ghUSBeRREwazWQ10EmUMAIKNDVRVUQw==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="50">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="118591" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="106.010677902658" mzRangeStop="2604.25592918234">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="1.976" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="82">EK1e8q6AWkDkJcqlFyxeQApROmY9X15AeW8XF6qAXkDnXIvQs4ZeQI/qGS9xiF5AAoHVzTyMXkAB9a0AUI9eQJcKzt17kV5AECpfMlKVXkAzhhTOnJdeQLUh4IrLm15AKHw5jaydXkBvyumz/aFeQLUUQL6bo15AEyNP9xi2XkCTZ/KQ1bteQF9wBDrowF5AS7WKd8DFXkArHtoqjs1eQGOcuyV/0l5AU+/6hZrUXkA2y495U9deQKJypqXv5F5A1gT4wvAAX0BqZrVDgQdfQNsVuP02Sl9AwVnebz6PX0CppqEVZVJgQCKYiQW7d2BAgQLIzKSAYUBY9Iy9bYVhQJkyfxCjwGJA0zMB0fLCYkBDS4CtEcRiQCQPhvaby2NAWXuq79opZkAX9oZ3QH9pQJORIcsJW3BAQqVdJg7vcECdbI1mAXhxQFmwU8UAOnNAmMUpQYs6c0ArquYn5BJ2QLR9HOA9w3lAtoHuqOHae0ANkWut5Yd8QJUzB20kE31Ad/4VdC0CgEBPpkk5EyuCQPqJJ+QEzoJAemQDLcHrgkAvS2zWoquDQEBnuJ28uoVATGhCXojNkUADedVAU0SSQFkqZxCfi5JAshPQzp68kkC1u0ESNFeTQAiNZkwpC5VAm3BIjL94l0B2wlqjU/CXQFS2g5plIJhAjxA6KHDTmkDXCxDqUPqaQAqWuWWbYJtAM1q/3OWunkA+JbJ8ch+gQCX0aFOLQKBAPFxpS6lPoEDQJlteLnagQDHEHRWidqBAW8in4ep4oEDwlsvH4sKgQNVOc2RhvaFAZYby4wbnokAt6NSNSw6jQOaampz2PaNAxG3fsP1qo0CUW8JyBqKjQI6LXRY23KNAe1gmCYNYpEA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="82">AIAnQoqd0EHRRZJBHQuNRhNUxEPHcaFCZLCaQl10TEIAgBBC5LgGQkYX4EHK6xlCAECaQQCAnEFmZgZCwzC5QR4e90FzMNNE7uluQjmOvUG3bfBBACABQjmO80HNTDZCtbRTQ9hQkUEPD+lBzrkCQjuxwEG3bdhBiE+VQ83M0EGFbAVEAAC7QdFFmkFDebhBo4uuQeLh2kFRXp5B4uHKQfHw6UGG4QJCF12nQauq8kFVVfFBzczZQQ8PqEGamaFBAADhQXh4uUEAALBBMQyoQSVJkkHd4DxCAAChQUmSnEF00aBB6aK5QeLhkkHuSIRCVVUIQg8PmEERESxCAACqQS+6uEEAAOJBAAC5QTuxmEGamZlBAAC9QY7jyEGamahBAAC5QcTDHEIAAKBBeQ3IQQAAmkEhiwBCjK5LQmZmmEE8PKVBJUnSQQ==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="51">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="120170" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="108.010217480471" mzRangeStop="2843.0350232156">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="2.003" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="55">Hh44Z6cAW0BrwYfUYoFbQD79NtPqwVtAT9OtRR8AXECGZSoVUQJdQEz4FhbmQl1AzM0ovqGAXkAsqH+AysBeQExYfHLIAF9Axepdq+GAX0D8mBONbcFgQIm/St+ngGFAt0cRjueAYkDNRW1xG6FiQE3ELdmBwGJAz8khuJzgYkCuFon+qwBjQAOilWEcYWRAONJbvlTiZUDBqe1adgJmQO65OHiooWdAWDP4aYkhaUDp4eKuWEB6QBe/JqAiEHxA38dw9TEgfEAZRvbKHTB8QA9ZRjEkQHxA2BkqRQ9gh0CTEJ1RuWGHQEHF1SEYaIdAIJ2nvQ5wh0BkSEPGHHiHQPB5sMwhgIdAUXPm5gZckECcuIQDDWCQQEmEJI8LZJBA8QX6mwdokECPajWnAmyQQNF3rF4MCJVAyE03JAsMlUBOqP3+BRCVQNeOPVL+E5VAoE9lXgu0mUBHyba9E7iZQFBAkOIJvJlAT8V5OBrAmUBvU0GJEGCeQJb5XZQXZJ5A5bJsQBNonkCsNNzu+YWhQMLVXZARiKFA1usIGAaKoUArGjiPDd6jQOjLMuwU4KNAOhuQ7hE2pkA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="55">zyBZQxioy0MNJ2BDkezMQ3jtekRoF6VDcgpdR+DhXkVVFXRDT3uQQzGM10OqqzpFV8QSRKQkaUSlt15HjYibRWPHB0RJQqJEl3U5RcK+WkMoKIxDVeW0Q3IsTkMEVnFHkawQRuIGfEUtpEVEIZFcRmZtwkPFYoFFKTgPRUJE9ENXEFtDcHb6RTJ6MEUUT9dE94A5RG12dkMgQTVF3TumRPJUX0TIFbdD+06bRHLuXUQIRhNEIoKvQ4ZJSkRqM+NDjjOuQyoNqkMgGK5D2CJSQ4acgEPpwoNDhsxNQw==</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="52">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="123229" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="109.246909399548" mzRangeStop="2962.292539324">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="2.054" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="62">lAgVXc1PW0An1VjB7oNcQGgG3dtWcF5AaG0V5aR8XkDEABW6pIBeQOlqvpqfhl5AksAmeXaJXkC6tZrbe4teQD0Rg8czjl5A8w9bsFeQXkDwfWVozpReQH63UYY+ml5AAqLqiq2cXkBtR9J+4J5eQGS/2neDoF5ABgaQxSCkXkCU/hMEWqleQIyP/9HdwF5AhasHcszGXkAvXVMuMOxeQHOVp+4CAV9AIY4TtVYFX0BPMEqYEgdfQGkxwLYPP19AzodiqP5MX0DSyrXRfmZfQOZ40P+kgGFApp3MGe2gYUDsD5utKQxiQFFORN6hY2JAFVlgB3zAYkAV9hItaeBiQAgofLzbW2NAtrQI6nN+Z0DuOU9KBGNvQCzk5TfZ23RAtaXg84OTdUBJ5DP5l2R3QM30xg7V2HdAGyrposSoeEDK2GZ3uUp5QLZEX7nm4XpAyAN1ehnee0DTtwFqOX6CQAuBOfRnRoZAwNwYcpELiUB0ktC6uJCLQMbiyoA+GpFAQIvKgWBkkkADovgL9/iTQGxVzk7+rpZAK3EAcVQEmEAHPexF5xyZQJPwsZ1FlZ1AzTrKuX56n0Cy1qA7ZCegQDgYFUQXKKBAiBWLdRp7oUDZU6iMHtukQIdzIyNS+6RAHKI1Eb5tpUDI2rbHlSSnQA==</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="62">qJFYQgCAEEKyED1Chqx7QocesEYwrtxD93TTQm5beULnXJFCVVV9QnOPhkJyHD9CZuZAQkYX+EFVVVBCjC74QQCAfEKJFAJFHp46QgCAUkIWb4VDmpnBQUYXuEHi4bpBbKgIQkkSBEIEGv5DZmZxQuU1x0EAAAZCyvJXRHbiCUIlSdhBjuO6QTMz8EEAQBJCFDu2QXUQjkKjCwxCjC64QeU1REJVFQhCAAC6QRQ7/kEAAOVBmpnoQauq+kFVFR5CRhcQQhddGEKrqsBBAAAwQpqZ+EFmZh5CxMMvQpIkLEIAAMRBAEDiQQihD0J00QVCAAD7QVVVAUI=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="53">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="124808" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="107.020498170584" mzRangeStop="2844.09477018622">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="2.080" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="60">NBKP10/BWkAvpYc5mIFbQKmyR5q4wVtASrTAtyMAXEDbu6MIYQJdQL+OjP6xQl1A2n3clbRBXkC1Hwx+tIBeQMydUOjhwF5AZmDe+zMBX0BPW/bF8oBfQLwYkN+BwWBAxlEdq6yAYUDLp7BByqBhQPw3YsjfgGJAmXlscRuhYkCquBdvjcBiQCo+sveo4GJAdKDiUbsAY0Cjb/W9jiBjQJgJPoc4YWRA/NZr02HiZUChUEOTVAJmQFDKVx2/oWdAu5hxM7whaUBVlai3nPBwQCIpPhYPDnxAYREoYzMQfECnfl42QCB8QJLt8NsLI3xAdqqOyjEwfEDv/xdoP0B8QAmJRJkbYIdAkLXnXBxoh0DxjoEKG3CHQDHb9CIseIdAMk1nNSeAh0De/96uFFyQQGX+vTIcXZBArQ6MnhFgkEB6EN1tFGSQQP0Ui1QaaJBAnqGBThMIlUB4RbJJIgyVQFhJnysfEJVA3Z4W9CMUlUC8pJy3IrSZQMTMKwEquJlA09TGVBm8mUBjTY3rHsCZQOY8+1csYJ5AmpvRFSRknkDoHxazFmieQJ2h7nwUhqFA70Ucvx+IoUCkL/0JEoqhQJsR5IUb3KNAFA0mXx7eo0CmdqL/KeCjQOzEt4UwOKZA</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="60">BfFgQ9GFpEMPWHVDGG+iQ7W3zURykeVDfHHbQw9nlUd3CbNFOB0mRE8Oq0OsCRFEbgB+RYJdTkNFEItDkZKNRHW4kUc8C6JFL/z1Q0MZykOT/v9EMQJlRXNHuUPO+VFDBW5/Q1mBikNksE9DuVqgRxFSUUYB5aJDoaGrRVhnfUQEzZVGJg6pRVgDLUXmwORDAGB0QyIZHEax3E5D3IeCRSN6IEVRHjdEfvh9Re6s80QHxZpEAID6Qx8Rx0S43oJEmNxJRHIsrkN4+mdEpnX0Qx3Ju0NKGY9DyWe1QzmOjUNm5qRDu7WwQ4pNgEOOa2VD</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="54">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="127867" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="2" mzRangeStart="100.024810748763" mzRangeStop="2991.18392506365">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="ProductIon" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="2.131" />
+          </spectrumInstrument>
+        </spectrumSettings>
+        <precursorList count="1">
+          <precursor msLevel="2" spectrumRef="-1">
+            <ionSelection>
+              <cvParam cvLabel="psi" accession="PSI:1000040" name="MassToChargeRatio" value="449.0127" />
+              <cvParam cvLabel="psi" accession="PSI:1000041" name="ChargeState" value="1" />
+            </ionSelection>
+            <activation>
+              <cvParam cvLabel="psi" accession="PSI:1000044" name="FragmentationMode" value="CID" />
+              <cvParam cvLabel="psi" accession="PSI:1000045" name="CollisionEnergy" value="25" />
+              <cvParam cvLabel="psi" accession="PSI:1000046" name="EnergyUnits" value="V" />
+              <userParam name="Fragmentor" value="150" />
+            </activation>
+          </precursor>
+        </precursorList>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="2510">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</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="2510">JUkyQauqIEElSSBBOY4lQc3MIEEiIjBB6aIhQYwuIEGrqkJBMzMnQemiIUEREaBBo4skQUmSIkEzMyNBOY41QeQ4IEGrqiBByMIdQgAAIEElSRhCOY41QcdxMEEREYhBYicwQQAAIUElSSBBAAAgQVVVJUHNzCBBAAAiQQAAYkGjiyRBAAAwQQAAIUGMLkBBYicgQQAAIkGMLiBB6aIxQauqMEEAADBBMzMjQTmOdUFiJzBBq6owQSIiQEEAAABCSZIiQSIiQEEAACFBHMfiQZIkNUEAACBBzcwwQemiIUEiIjBB8fAyQQAAIEEiIjBBMzMnQWInUEHpoiFBMzMzQWZmIEEAAEJBAACEQQKgk0VQx5lCXHLHQquqCUIAIA5CdNHQQVPKKEJGF5hBACBXQgAAMkGamXFBjC5gQauqakEAAGZBAIi9Q1VVnUEAAGBBbCh1QTMzkEEAAFBBAAAyQWZmIEEAACBBt628Qi+6TkFJkpRBAAAgQc3MyEEeHh5CAAA5QSIiIEGMLkBBAABpQZIkN0EAACFB8xpQQQAARkFJklBBMzNBQQAAKUGMLjBBq6ogQbroKEHkOCBBiYh2QeQ4IEEAACBBAAAgQZIkJ0EAADBBAAAgQZ7YQ0HkOCBBzcwwQQAAMUGMLiBBOY4nQumiIUFiJyBBMzMjQWZmMEGMrmdCOY5VQeQ4IEF2YjFB5DggQSVJQkEAAEZBAIBQQc3MMEHkODBBmpkjQeQ4QEEAACBBVVUhQfwA/kJu2+tBAAAoQc3MMEGrqiBBJUkwQUmSIkHNzDBBq6oiQc3MIEGMLjBBq6ogQZIkJ0FJkiJB5DggQQAAIEGMLjBBAAAgQQAAIUGMLjBBdmKxQWInUEEAgEBBAAAyQTmOJUEiIkBBMzMzQQAAQEEAADJB5DgwQQAAIEHpoiFBUrjsQlVViUHpoiFBMzMzQemiMUElSURCAAAgQemiUUEAACJBAAAkQQAAMkGMLjBBAAAiQWInQEEAACBBAAAiQZ7YM0GrqiJB5DggQZIkJ0EAgEBBMzMjQYwuQEEPD0FBMzMxQeQ4IEFVVSFBOY4lQemiIUFJkiJBAAAsQSIiQEGe2FNBAAAgQYwuIEEAACFBSZIgQSVJQkGrqiJB6aIxQTMzM0FiJzBBx3EwQSIiQEEzMyNBAAAgQemiIUElSUJB6aIxQc3MIEFVVTFBdmIxQTMzJ0HkOCBB6aIhQXZiMUFJkiJBVVUhQTmONUFVVTFBVVUlQYwuIEHkODBBJUkyQR4eMEGO4ypBAABgQSIiMEFJkjBBjC4gQVVVIUHNzCBBAICAQQAAQEEAAFBBAAAgQTMzI0GSJCdBAABRQVVVQ0FVVSFBAAAgQQAAIkFiJzBBdmIhQWZmMEGH8lBBdmIxQQAAIUGrqiBBq6ogQWInIEEAAF5BAAAwQauqIEHkOCBBOY41QTMzI0EAACBBAABQQauqIEEeHjBBYicgQVVVQUHNzCBBMzMzQZ7YI0EiIkBBAAAyQQAAMEFiJyBBJUkiQc3MIEHNzCBBq6ogQQAAIEEeHkBBntgjQQAAIkEAAEBBIiIgQQCAQEGO41pBmpkzQauqIEGO4ypBjC4gQSVJIkFVVSVB2YlHQQAAIEFiJ1BB5DggQQAAQEEAADlBntgjQbroOEHpokFBOY4lQauqYEEAADZBMzMnQQAANkFVVSFBzcwwQQBAkEEzMyNBAAAhQeQ4IEHkOCBBq6ogQfMaUEFJkkBBAAAhQSIiMEEAACRBAAAiQQAAgEFmZiBBAAAwQZIkJ0HNzEBBSZIwQeQ4IEEAAEBBAAAwQSVJIEFJkiBB8xowQQAAIEFVVTFBzcwwQWInMEHkOCBBHh4wQXTRDUIAACBBJUkgQUmSMEEAACRBAAA0QeQ4IEGMLjBBq6ogQauqMkGamctBewmYQauqIEFJkkBBAIBQQR4eUEFJklBB6aJBQVVVM0GMLiBBAAAgQauqIEGrqiJBq6ogQTmOJUFiGHBBMzNBQTMzJ0GOY2FCntgzQeQ4IEFVVTFBkiRFQQAAIkEAAEBBzcxAQfHwiUFVVSNBAAAgQa+hQkFiJyBBdmJBQQCAMEElSUJBMzMhQauqIkGrqiBBAAAwQQAAJEEAgDBBMzMxQQAAQUFiJ0BBntgzQTMzJ0EAACBBAAAxQQAAMEEeHkBB6aJRQQAAIEEAACBBAABQQUmSMkGe2ENBAAAgQQAAIEEAACZBq6ogQQAAIkEAAEBBIiJQQemiIUGe2DNB6aIhQYwuIEGSJCdBAAAiQXZiIUGjiyRBo4skQcTDVUEAADlBYicwQc3MIEEAADBBAAAgQWInIEEiIjBBJUkyQYwuIEEAACBBq6ogQeQ4IEGMLiBBMzMnQWZmMEGMLiBBYidAQXh4gUGMLiBBAAAgQUmSIkE8POVBAAAkQQAAKUEAACBBVVVBQQCAQEHpoiFBq6ogQZ7YM0EzMydBMzNBQXZiMUE5jiVBjC4gQUmSMEGO4zpB6aIxQauqMkFVVSFBRET7QYwuIEEAADBBq6ogQc3MMEHFTolBAAAhQQAAMUEiIiBBkiRJQemiIUEAACBBAAAgQVVVJUFVVSFBAAAkQTMzMUEAADBBq6oyQQAAIUGMLjBBAAAsQemiMUEzMzdBJUkwQc3MLEFVVUNBjC4gQQAANkEAACFBSZIwQTMzJ0FVVSFBdmIxQVVVQ0EAADlBJUkiQaOLNEGrqiJBAAAwQWInIEGrqjBBjC5AQTMzJ0HNzCBBAAAkQYwuIEFJkjBBAAAgQQCAMEHHcUBBYidQQQAAQkEAACBBAAA2QaOLNEFVVUNB5DggQV10nEGMLiBBAAA0QWInIEEzMyFB8fBCQWInIEEAACRB5DgwQSVJIEHkOCBBMzMjQQAAIUHNzCBBOY41Qc3MIEGrqjJBYicgQc3MIEGrqjJBAAAkQeQ4IEEAACBBjC4gQR4eMEEiIjBBq6pAQbroOEEeHlBBSZIwQRzH6UFJknBBAAAgQVVVIUGrqiBBAAAwQQAAIEFVVSFBAAAgQauqIEEAACJBAAAwQQCAMEFmZiBBJUkgQTMzN0FJklJBYicgQZ7YQ0EzMzFBmpkjQaOLVEEzM1dBYicgQQAANkEAACBBjC4gQaOLJEElSSBBjC4gQUmSQEFiJzBBOY41QauqIEFVVSFBq6owQQAAIEEzMyNBAABAQSIiMEEAgDBBdmIhQauqIEHNzDBBHh5AQauqQEGrqiBBAAAiQUREm0FJkjBBAAAwQQAAIUGMLiBBAAAwQQAAMkEiIkBBSZIiQQAAIEEAADZBjC4gQWZmIEHNzCBBAAA0QUmSIEEiIjBBYicwQTMzI0EAACBBSZIyQQAAIkF2YiFB5DggQemiIUGMLjBBAAAgQXZiIUEAAChBjC5AQQAAMEGMLiBBSZIiQR4eMEEAAFBBAAAgQemiIUEAACJBAIAgQWZmMEEzMzNB6aJBQemiIUEzMydBJUkyQXZiMUGamTNBAAAhQWInMEFJkiJBAAAgQQAANEFiJyBBq6ogQQAAMEEAACBBjC4gQZ7YM0FVVSVBzcwgQQAAMEEAADBBAAAgQeQ4IEHK641CSZIwQTMzM0GO4zpBAAAhQVVVIUEzMyNBzcwgQUmSIEGe2DNBJUkgQQAAIEG66DhB5DggQVnIcEHpojFB5DggQeQ4MEEAAChBSZIiQQAAIEHNzEBBq6ogQTMzI0GvoWJBAAA8QQAAIEFiJzBBOY4lQYwuIEFJkjJBAAAkQQAAIUEAACBBAABRQUmSIEEAACBBSZIiQauqMEGSJCdBYidAQQAAIEGrqjJBAAAgQZqZM0FVVSFBAAAgQSVJYEEcx0FBAAAiQRERmEEiIkBBJUkwQemiIUF00YhBAAAkQbroKEEAADBBAAAgQQAAKUGamSNBVVVTQauqIEFJkiBBdmJBQR4eUEEeHjBBAAAgQWInQEEzMzFBYicgQSVJgUFVVYpBAABwQSVJMEHNzCBBzcwgQTuxgEGamYNB5DggQQAAIEEAACZBmpkjQTMzI0FJkjJBMzMjQQAAJEEAACRBchxnQTMzQUEAADlBAABgQQAAIkGMLiBBo4tEQQAAQEGrqkBBSZJkQQAAcEFiJyBBAAAwQQCAMEHHcVBBMzMjQemiIUGe2FNBdmIhQTMzN0ElSTJBAAAxQYwuMEGrqiJBMzMxQTMzI0EAACBBq6ogQQAAIUGrqiBBAAAiQXZiIUHNzCBBzcwwQQAAJEEzMyNBzcwgQfMaYEHkOCBBAAAgQVVVJUEAACBBAAAgQauqIkEAADBBq6ogQUmSQEHNzCBBq6owQSIiUEGrqjJB5DggQQAAMEHNzCBBMzMjQauqIkGrqiBBkiQ1QeQ4IEF2YjFBOY4lQauqIEFVVSFBMzMnQQCAsEGSJFdBzcwgQauqMkGjiyRBJUkgQauqIEGrqkJBjC4wQSIiMEEcx0FBHh5QQQAAIEHpoiFBAAAiQauqMEEAADJBq6oiQemiIUFiJzBBkiQnQQCAQEEAACFBYicwQWInMEEAACBBq6oyQauqIEFiJzBBMzM3QemiIUEAAEBB8fAyQauqMEF2YiFBHh4wQTMzJ0FiJyBBzcxAQR4eQEHpoiFBAAAiQauqMkEAAEBBAAAgQSIicEGrqjJBMzMzQTMzI0EiIiBBAAAgQWInIEEeHkBBAAAgQTMzI0HpoiFBJUkgQQAAIUFiJ0BBMzMxQSVJQkFVVTFBAAAiQZ7YU0EAAEJBOY4lQQAANkFiJzBBAAAgQQAAMkFJkjBBSZIiQVVV4EEiIjBBntgjQVVVM0EAADBBzcwgQUmSIEHNzCBBuuhIQVVVIUEzMydBo4tkQWInIEHkODBBSZIgQemiIUE5jjVBAAAxQQAAYkHkOCBBSZIwQS+6PkHzGmBBzcxAQUmSIkFJkiJBdmIxQYwuQEEAACBBHMcxQYwuIEGrqjBBzcw8Qc3MMEFiJzBBOY4lQc3MIEG66DhBAAAqQQAAMEEPDzFBVVUhQWInMEF2YkFBAAAwQWInQEFP7IlBmplBQQAAIkG66ChBAAAgQQAAMEEAACpBMzMjQQAALEEAACJB2YlHQUmSMEFiJyBBjC4wQWInIEF2YiFBAAAgQWInIEFiJyBBJUkgQYwuIEGSJDVBMzMnQQAAJEGrqiJB5DggQauqIEF2YmFBo4skQUmScEEzMyNBYicwQaOLJEGrqiBBSZIgQc3MIEGMLkBBAAAgQaOLJEFJkmBBJUkgQQAAIEHkODBBAAAqQcdxYEEAACJBdmJRQSIiIEGSJDdBAAAgQemiIUEzMzFBAAAiQXZiIUGrqiJB5DggQSVJIkGMLjBBIiIgQSVJIEEAACJBOY4lQQAAUEEeHmBBq6oiQcVOmUEzMyNBzcwgQauqIkEAACBBHh5AQWInMEEAACBBJUkgQauqIEGji0RBAABQQYwuIEEiIjBBYicgQQAAJEHkOCBBVVUlQQAAqkEcx1FBq6owQQAAJEFiJzBBAAApQQAAKkHpojFBAAAgQQAAIkFJkmJBAABBQQAAUEHHcWBBjC4wQQAAMkGMLjBBkiQ1QQAAIUHkOCBBjC4gQSVJQkEAAEBBAIAgQTmOJUElSSBBAAAgQWZmMEFVVSFBIiJAQc3MIEFiJzBB5DgwQSVJMEHNzCBBAAAgQUmSIEEAAGBBAADbQc3MMEHpoiFBDw8xQVVVIUEAADRBAAAwQWInQEEeHjBBAAAiQcdxQEFiJ0BBAAAwQQAAIEEAADFBq6ogQQAAMEGMLiBBYidQQZ7YQ0F2YjFBAAAgQauqQkGH8mBB6aKJQTmOJUE5jiVBAIAgQQAAIEHkOCBBOY4lQVVVIUFiJzBBntgjQc3MIEEeHlBBAIAgQZ7YI0FVVUNBOY4lQauqMEEzMyNBIiJgQR4eMEEAACBBSZIyQVVVMUGamSNBAAAhQSIiQEGjiyRBAAAhQQAALkEzM0FBzcwwQWInIEEAAEZBAAAgQUmSIkEAACBB6aIhQQAAIEElSSBBzcwgQauqMEEAADBBMQygQSIiIEGMLiBBAAAwQY7jSkGrqjBBMzMxQSVJIkFmZiBBVVVzQUmSMEEAADBBAAAyQQAAIEEAACJBVVUhQYwuIEHNzCBBzcwgQQAAKUGrqiBBAAAhQSVJIEFJkjBBAACRQQ8PUUEAAFBB8xpAQWInQEEAACxBOY41QeQ4IEE5jjVBjC4gQSd2bEGrqiBBdmJRQQAAIEE5jjVBOY4lQSIiIEGSJDdBAAAgQTMzQUEAADBBAAAyQQAAIEGMLiBBAAAiQXZiQUHpoiFBMzNBQZqZI0EAAEJB8xpQQemiMUFJkiBBAABAQbroOEEAAEBBIiJAQaOLNEEAACBBMzMjQQAAIEFJkiJBSZIiQYwuIEFJkkBB6aIhQTMz8EEAACRBAAAgQauqIEEzMyNBAABAQauqMkElSSBBAABWQYwuMEHNzCBBdmIxQQAAIEGrqjBBYicwQVVVIUEAgDRB6aJRQeQ4IEGMLiBBAIA0QQAAIkGMLiBBSZIwQTmONUE5jiVBntgzQUmSIkEzMzdBAAAiQSIiIEElSTJBq6qYQTMzMUGrqjBBdmIxQQCAkEE5jiVBOY4lQUmSIkEAgCBBMzNBQQAAIUEzMyNBzcwwQQAAIUElSUJBAAAgQQAAIkFJkiBBjC4wQSIiMEGMLiBBdmIhQSIiIEEAAGBBAIAwQWInIEEtZJhBdmIhQVVVJUGrqiBBAABAQZIkJUHNzCBBzcwgQeQ4IEFiJyBBnthDQRddr0EAACBBVVUhQemiIUEzMyFBAABkQQAAIUFiJ0BBJUkyQR4eQEHpoiFBq6owQauqIEEAACBBZmYwQTmONUEAACFBq6ogQQAAIUEAADlBXXSEQc3MMEEAAGBBq6pAQQCAIEFmZiBB5DggQc3MIEGMLjBBdmJBQauqMEEAACFBJUkgQVVVIUEAACBBjC4gQQAAJEHkOCBBjuMqQQAAYkE5jjVBHh4wQQAAIEEAADFB6aIhQYwuMEElSSBBJUkiQZIkJ0HkOCBBAAAsQZ7YU0EAACBB5DggQQAAMEElSSBBzcwgQTmOJUEAADBBq6owQZqZu0E5jiVBAICBQQ8PMUFJkjBBAAAhQauqIkEAAEZBVVUlQTmOJUHkOCBBAABAQQAAMEHNzCBBJUkgQYwuIEEAACJBdmIhQauqIkElSSBBYicgQSIiQEFmZkBBAIAwQcdxUEElSSJBq6owQVVVRUHkODBBJUkyQSVJIEFJkjBBAABAQcTDZUElSSBBHMdBQYwuIEHpoiFBVVUlQQAAIkElSTJBAAAyQc3MIEHpoiFBjC4gQY7jOkFVVSFB5DggQQAAJEEAACBBAAAxQQAAMEGrqiBBAAAgQSVJMkFJkiBBdmJBQTMzM0EAACZBAAAyQQAAMEGSJCdBHh5wQWInMEEiIjBBq6oiQSVJQkHHcUBBHh5AQc3MMEEAACBBIiIgQSIiQEHpoiFBJUkiQQ8PQUEAgDBBzcxQQZqZc0EAACBBMzMxQVVVQ0GrqjBBJUkiQauqMEEzM0FBAAAhQQAAMkEAACJB6aIhQXZiIUEAADBB5DggQQAAIEFiJzBBSZIgQQAAMEHZiUdBIiJgQVVVIUFiJyBBVVUhQbroOEFVVUNB5DggQQAALEGMLiBB6aIhQZIkJ0GSJCdBdmIhQR4eUEEzM1NBzcwwQSVJIEGMLqhBMzMxQauqIEEAgCBBjC4gQWInIEGjiyRBAABSQQAAbkEAACBB6aIhQVVVIUEAACFBDw8hQSVJIEGSJCdBIiJAQauqIEEAACFBYicgQTMzMUEAACFBVVUlQSIiUEHkOCBBjC4gQauqIEHNzCBBx3FAQWInIEGMLjBBAAAwQTMzI0HkOCBBYicgQSVJIEEAACBBAAAgQRddcEEAACJBZmYwQemiIUEzMzFBOY41QemiMUFVVTNBSZIgQeQ4IEGMLkBBAAAgQauqIEFVVTNBjuMqQUmSMEEzMyNBMzNHQYfyUEHNzCBBSZIgQUmSMEFJkiJB6aJBQQAAMUEAACJBq6oyQQCAQEHNzDBBq6pAQQAAMEEAACBBq6ogQQAAIEEAAClBkiQnQYmIRkEAACBBzcwgQSVJIkElSSBB6aIhQSVJMEGSJDlBMzMzQauqMkGMLjBBAAAwQauqIEFiJ1BBAAAwQTMzJ0EAACBBq6pAQQAAIEEAADRBh/JgQQAAIkGSJDlBAABQQYwuIEGrqiBBq6owQeQ4IEHkOCBBMzMjQQAAIkEzMyNBzcwgQTMzQUEiImBBAAAwQUmSQEEAADBBHh5AQSIiMEHkOCBBAABAQQAAIEEAACRBjC4gQc3MIEEAADFBAAAgQRQ7xkF2YiFBjC4gQQ8PMUEAADBBAABAQQAAIkFJkkBBUV62QZ7YI0HZiTdBYicgQTMzJ0GrqiJBMzMzQYwuQEHkODBBAABAQQAAIEGO4ypBjC4gQQAAIEEAACBBAAAgQTMzQUFJkkBBZmZgQWInUEGMLiBBOY4lQR4eQEGMLiBBntgjQQAALkE5jiVBAAAgQWInIEFJkjJBjC4gQQAAJEHkODBBHh4wQQAAQEEAACFBJUkwQcTDVUF2YiFBAAAiQVVVRUHNzCBBJUkyQUmSIkGjiyRBjC5AQQAAMUGrqkBBAAAgQUmSIEEAACBBAAAhQSIiIEE5jiVBMzMjQQAAIUEAACFBVVUlQXZiYUEAAKRBSZIiQXZiMUEAACBBSZIwQauqMEGMLjBBzcyRQQAAUEHkOCBBMzNBQQAAIEGSJCdB8fAyQXZiIUGMLiBBzcwgQYfyUEEPDyFBdmJBQUmSIEEAACBBAABkQYwuQEFVVSNBzcxAQUmSIEEAAEZBIiIwQXZiMUGrqjBBntgjQSVJIkGMLiBBSZIiQYwuIEFJkjBBAAAmQXZiIUGji0RBzcwgQQAAJEGMLiBBAAAiQWInQEEzMzNBAAAwQQCAVEElSUJBdmIhQfMaQEFVVVVBkiSBQUmSIkFVVSVBAAAwQYwuIEGrqiBBAABgQYfyQEEzMzdBSZIwQVVVIUEAACFBIiIgQUmSMEEAACBBOY4lQauqMEGrqjJBSZIgQY7jekGMLjBBAAAhQSVJIEFiJyBBSZIgQYwuIEEAADBBkiRFQauqMEFVVSFBSZIwQQAAMEGvoWJBzcxKQZqZI0EAADBBAEApQjMzMUEzMydBAAAyQQAAIUEAADBB5DggQQAAQEFJkiBBSZIiQQAAMkF2YiFBHh4wQTMzUUFVVTFBuugoQQAAMkFVVTNBYicwQaOLJEGrqiBBIiJAQc3MIEEiIiBBSZIgQauqIEEAAClBq6oiQQAALEFJkiBBq6pAQQAAIEFiJyBBq6oyQc3MIEEAACRBAAAgQQAAUkEAACBBYicgQQAAIEEAAEBBDw9RQZ7YM0ElSSJBzcwgQWInIEGjiyRBJUkgQSIiIEGH8jBBq6oiQUmSIkGMLiBBjC4gQQAAQEGMLiBBAABBQeQ4IEEAgCBBHh5AQauqIEHpoiFBYicgQWInMEE2lIpBMzMnQauqIEHNzCBBYhhwQc65GkKMLiBBjC4wQVVVM0GO4ypBkiQnQSIiIEFJkiJBq6ogQWInMEF2YiFBAAAwQQAANkFJkkBBAAAgQZqZI0GrqlBBo4skQemiIUHNzCBBAAAgQcdxUEEAACBBAABEQc3MIEEAAEBBq6oiQSVJQkGrqiJBMzNxQYwuIEGrqiBBIiJAQaOLREEAACRBMzMjQYwuIEElSTBBo4skQQAAIEGrqjBBAAAhQUmSMEEiIjBBuug4QQAAIEFVVTVB5DggQRzHQUEPDyFB5DggQWZmIEEAAMJBAAAiQQAAIEGSJCVB6aIhQUmSIEHkOCBB8xpQQc3MMEEAACxBdmIhQUmSQEEAACFBYicgQQAAJkEAACBBAAAwQZqZM0EAACBBAAAgQZqZI0EAAClBSZIgQSd2TEEAACBBAAAhQWZmMEGrqiBBq6pAQauqIkFVVTNBdmIhQauqQEEAACBBzcwgQTmOJUEzMyFB5DggQcdxtUGMLiBBq6ogQRzHUUE5jiVBzcwgQYwuMEE5jiVBMzNTQQAAIEEAACBBL7peQemiMUF2YiFBdmIhQUmSUEE5jjVBx3EwQTmONUFiJyBBAAAgQWInIEEeHlBBjC4gQauqMEEzMydBq6ogQQAAIEEzMyNBAAAyQTmOJUFiJyBBAAAgQauqQEGe2CNBjC4gQUmSIkFVVcVBMzMnQQAAIkEAADBBMzMzQauqIEF2YjFBAAAgQQAAJEFiJyBBAAAgQQCAMEEAACBBMzM3QQAAUEEzMzNB6aIhQTmOJUHNzCBBzcwgQQAAYEEAACZBAAAyQWInIEFVVSVBYicgQTmOJUGrqiJB8xpQQYwuIEEAACFB5DggQSVJMkHkOCBBAAAhQTMzMUEPD1FBMzMzQauqIEGjiyRBVVUhQauqIEElSSBBAABAQfHwYkEAAChBnthzQY7jSkFVVSNBq6ogQQAAIkGjizRBq6oiQVVVQUHZiTdBMzMjQauqMEHNzExBAABCQauqIkF2YiFBAAAhQXZiMUFJkjJBAAAgQQCAUEHkOCBBAAAgQauqIkEzMydBZmZgQWZmMEGrqlJBMzMzQemiQUEAADJBAAAgQSVJIEHpoiFBAAA0QQAAQEGrqiJBAAAgQWZmIEEAAEBBAAAgQQAAQkEAACBBHh4wQeQ4MEFiJyBB5DhAQWInIEHkOCBBIiIgQQAAIEFmZjBBq6ogQVVVJUHkOCBBIiIwQWInMEGrqjJBjC5AQZIkJ0EAADBBJUmYQQAAMEEiIkBBAAAgQSVJIEEAACBBT+zZQWInMEGrqlBBJUkiQcdxjUEAACBBAAAwQXZiMUEAACBBVVVTQSIiMEGrqkJBAABAQQAAMEEzMyNBVVUxQWZmIEGSJEVBJUlCQauqIEElSYhBYicwQQAAIEEAACJBq6ogQemiIUEAgEBBSZIgQQAAIUEAADBB6aIxQSIiIEEAACRBkiQ3QQAAIUEeHlBBzcwwQemiIUGamWFBjC4gQSIiMEFP7JlBmplDQQAAJEEAACBBAAAqQQAAMEFJkiJBAAAhQUmSMEEAAINBYidAQYwuMEGrqkpBAAAhQauqMEEAADlBMzMxQemiMUFJklBBjC4wQfMaYEEAADBBAAAgQQAAJEEPD1FBjC4gQQAAIUFVVSVBjC4gQQAAQkEAACRBAAAgQQAAIkHpokFBAAA2QQAAUEElSSJBSZIwQYwuIEEAADBBVVUxQemiMUFiJzBBMzMnQSIiIEEjHyRCjC4gQY7jOkGamSNBAAAgQR4eMEEAACBBVVUhQQAAIkGrqjJBq6pCQQAAIEEeHjBBYicgQRzHUUHkOCBBAABSQQAAIEEAALJBJUkgQQAANEEiIlBBAAAgQZIkJ0FiJyBBVVUlQXZiIUEeHlBBx3EwQYwuMEEiIkBBAABCQSVJMkElSUJBJUkgQaOLJEFiJyBBAAAgQTMzN0GO4/JBIiIgQYwuMEHpoiFBMQyYQemiMUEAACJBOY4lQXZiIUElSSJBq6pSQZIkNUFiJyBBq6ogQYwuIEEzMzNBo4s0QQAAQkGrqiJB6aIhQQAAMEEAADRBJUkyQeQ4IEGMLiBBYidAQZqZqEEAACJB6aIhQeQ4IEHNzCBBq6ogQcdxMEEAADBBAAA0QQAAJkEAACBBAAAuQTMzIUHNzCBB6aIxQQAAIkEXXVBBAAAgQcMwkUElSSBBAAAmQUmSMEEAACFBJUlyQQAAJkEAACJBq6oiQQAAIEHqIFRCAAAsQQAAIkEAgEBBq6ogQQCAMEFJkjJBzcxAQQAAIEGMLiBBzcwwQZIkZUGamUNBAAAgQfMacEFVVSFBYhhAQTMzIUEAACRBAAAgQRzHwkGrqiBBOY4lQZqZI0FiJzBBHh5QQYZhUkE5jiVBjC4gQQAAMEG3bYhBSZJCQYwuIEEiIjBBq6oiQTMzM0EAACBBAAAgQemiIUEAADBBAAAgQZ7YY0GrqiBBkiQnQSIiIEGMLiBB5DggQTmOJUFVVSFBJUkwQb2GgEIlSSJBAAAhQQAAIEF2YlFBAAAiQauqIEEAACBBq6ogQQAAIkFiJyBBAAAyQZIkRUFJkiBBq6owQWInQEFVVTNBSZIwQYwuIEEeHjBBSZIgQXZiMUHkOCBB6aIhQSIiMEFiJ0BBAAAsQYwuIEFiJyBBAAAhQaOLNEGrqjBBSZIiQauqIEFiJ0BBkiQnQauqcEE5jiVBzcwgQWInIEGSJEVBAAAkQTMzMUHNzCBBIiIwQQAAIkEeHjBB6aIhQaOLNEF2YiFBAAAiQUmSIEEzMyNBAAAgQSIiUEEAACFBx3FAQQAALEEAACBBo4s0QauqMEE5jiVB6aIhQYwuIEGrqjBBmpkjQauqIkFJkkBBJUkgQemiIUGe2CNB2YlXQQAAIEEAAEBBHMdRQZ7YQ0GMLjBBHh4gQc3MIEEeHkBBzcwgQc3MIEEAADFBAAAgQTMzN0ElSSBBJUkiQeQ4IEHx8FJBdmIhQUmSQEEAADFBYicwQVVVIUGSJCdBIiIgQa+hUkGjiyRBq6oyQQAAQEEiIjBBAAAgQTMzMUEAAFBBq6ogQQAAJkHpokFBAAAwQSIiMEHHcTBBx3FQQQCAMEFiJyBBJUlCQQAAMEEAACBBAABAQTMzIUEAACRBAAAgQQAAJkFJkjBBJUkyQauqIkEeHiBBAAAgQQAAMkFJkjBBZmYgQWInMEEAAERB0UXyQVVVJUEAADBBAAAhQc3MIEE5jiVBYicgQQAAIEGji0RBjC4gQTMzI0GH8jBBzcwgQauqQEHHcUBBAAAyQQAAIEFiJzBBjC4gQWInQEEAAEBBAAAgQWZmIEF2YkFBAIAwQUmSIkEAAEBB6aIhQTMzIUElSSBBq6oiQc3MPEEAADBBAAAgQSVJIkEAACBBAAAwQQAAMEEAgDBBq6oyQQAAOEEAAERBuugoQZIkNUEAAFJBIiIwQTMzN0EAACFBAAAkQauqIkEAAHBBAAAgQauqIkEAACBBSZIwQc3MQEFmZiBBMzNBQemiIUGMLiBBAAAyQYwuMEEAACBBMzNDQXZiIUEAADRBq6oyQQAAMEElSSBBjC4gQauqQEEAACZBzcwgQSVJIEGrqiBBdmIhQQ8PQUEAACBBAAAgQcdxYEEAADlB6aIhQWInIEEAAFJBzcwgQWZmYEGamSNBdmIxQemiIUGrqjJBAABCQaOLREF2YjFBzcwgQauqIEEAAI9BJUkgQWZmUEGMLjBBAABgQQAAIkGH8lBBq6pCQc3MMEGrqiBBMzNhQQAANEGMLiBBq6pAQUmSMkEAADFBzcwgQWZmIEFiJyBBZmYgQauqMEGMLiBBq6ogQQAAIEEzMydBIiJAQQAAIEE=</data>
+      </intenArrayBinary>
+    </spectrum>
+    <spectrum id="55">
+      <spectrumDesc>
+        <spectrumSettings>
+          <acqSpecification spectrumType="discrete" methodOfCombination="average" count="1">
+            <acquisition acqNumber="129446" />
+          </acqSpecification>
+          <spectrumInstrument msLevel="1" mzRangeStart="122.00202351479" mzRangeStop="2351.69632226521">
+            <cvParam cvLabel="psi" accession="PSI:1000036" name="ScanMode" value="Scan" />
+            <cvParam cvLabel="psi" accession="PSI:1000037" name="Polarity" value="Positive" />
+            <cvParam cvLabel="psi" accession="PSI:1000038" name="TimeInMinutes" value="2.157" />
+          </spectrumInstrument>
+        </spectrumSettings>
+      </spectrumDesc>
+      <mzArrayBinary>
+        <data precision="64" endian="little" length="4">JHY8JyGAXkCkhUfOIMBiQHyg+BaSD3xAERlahGRfokA=</data>
+      </mzArrayBinary>
+      <intenArrayBinary>
+        <data precision="32" endian="little" length="4">254DRKDvN0TPhPpDq6qCQw==</data>
+      </intenArrayBinary>
+    </spectrum>
+  </spectrumList>
+</mzData>
